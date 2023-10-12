@@ -1,9 +1,15 @@
 # data
 Store data
 
-# Development
+# Why do I need the data?
 
-Use Case
+To test methods to extract open data information.
+
+# What information do I want to extract?
+
+Information about black history.
+
+# Application
 
 Search Wikipedia page based on user input save the raw text in the `wikipedia/pages/` folder.
     - Threat Wikipedia search desambiguate problem
