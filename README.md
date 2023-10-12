@@ -1,9 +1,8 @@
 # data
-Store data
 
-# Why do I need the data?
+This project is used to store the data to be used to test open information extraction methods.
 
-To test methods to extract open data information.
+The data source is initially Wikipedia.
 
 # What information do I want to extract?
 
