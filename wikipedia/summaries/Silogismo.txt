@@ -1,0 +1,9 @@
+Um silogismo (do grego antigo συλλογισμός, transl. syllogismós, 'conexão de ideias', 'raciocínio', composto pelos termos σύν, transl.  syn, 'com', e λογισμός, 'cálculo' e, por extensão, 'raciocínio', pelo latim syllogismus,i ) é um termo filosófico com o qual Aristóteles designou a conclusão deduzida de premissas, a argumentação lógica perfeita.
+Na forma clássica é um argumento dedutivo constituído de três proposições declarativas (duas premissas e uma conclusão) que se conectam de tal modo que, a partir das duas primeiras (as premissas), é possível deduzir uma conclusão. A teoria do silogismo foi exposta por Aristóteles nos Analíticos anteriores.
+
+Num exemplo dado pelo próprio Aristóteles: Sabendo que todos os homens são mortais (premissa maior) e que Sócrates é um homem (premissa menor), nós podemos concluir que Sócrates é mortal. Argumentos silogísticos geralmente são representados em um texto de três linhas:Todos os homens são mortais.
+Sócrates é um homem.
+
+Logo, Sócrates é mortal.Na antiguidade, duas teorias silogísticas rivais existiram: silogismo Aristotélico e Estoico. Da Idade Média em diante, silogismo categórico e silogismo eram geralmente usados de forma intercambiável. Este artigo foca mais no uso histórico. O silogismo esteve no centro do raciocínio dedutivo, onde fatos são determinados ao combinar declarações existentes, em contraste ao raciocínio indutivo em que fatos são determinados através de repetidas observações.
+No contexto acadêmico, o silogismo foi suplantado pela lógica de primeira ordem seguindo o trabalho de Gottlob Frege, particularmente seu Begriffsschrift. Porém, silogismos ainda são úteis em algumas circunstâncias, e para introduzir o público geral à lógica.
+
