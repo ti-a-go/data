@@ -16,3 +16,11 @@ Search Wikipedia page based on user input save the raw text in the `wikipedia/pa
 Process the raw text using a Spacy model
 
 Save the main data in a folder named after the current date in csv files
+
+# Install and Run
+
+Download Spacy models
+
+´´´
+python -m spacy download pt_core_news_lg
+´´´
