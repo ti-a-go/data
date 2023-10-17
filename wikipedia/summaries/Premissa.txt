@@ -1,3 +1,0 @@
-Em Lógica, uma premissa é uma fórmula considerada hipoteticamente verdadeira, dentro de uma dada inferência. Esta constitui-se de duas partes: uma coleção de premissas, e uma conclusão.
-Premissa significa a proposição, o conteúdo, as informações essenciais que servem de base para um raciocínio, para um estudo que levará a uma conclusão.
-Uma dada fórmula pode ou não ser conclusão de uma dada coleção de premissas. Isto depende da Lógica ou do sistema lógico considerado.
