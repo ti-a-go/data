@@ -1,14 +1,50 @@
-# Plataforma de PLN
+# Processamento de Língua Natural
 
-Esse projeto é utilizado para testar hipoteses e fazer __provas de conceito__ relacionadas a Processamento de Língua Natural.
+Esse projeto é utilizado para armazenar dados textuais (strings) de diversas fontes e que serão utilizados em outros projetos para testar hipoteses e fazer __provas de conceito__ relacionadas a Processamento de Língua Natural.
 
 
-## Projetos
+# Dados
+
+A pasta dados está organizada da seguinta maneira:
+
+## Wikipedia
+
+A pasta `wikipedia` centraliza os dados extraídos da Wikipedia.
+
+Para mais informações: [Extraindo dados da Wikipedia](./Extraindo%20dados%20da%20Wikipedia.md)
+
+
+## Datasets (Conjuntos de dados)
+
+Os datasets são a unidade básica de organização dos dados.
+
+[Constituição Federal](./data/Constituição%20Federal/Constituição%20Federal.txt)
+[Fonte: Site do Planalto Federal](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)
+
+
+
+
+# Organização de pastas
+
+a pasta
+
+# Fontes de dados
+
+Wikipedia
+
+# Projetos
 
 [Extração de Informações de Textos Jurídicos](Textos%20Jurídicos.md)
 
+Testa métodos de extração de informações de textos jurídicos, começando pela Constituição Federal.
 
-[Web Site - MyWiki](Web%20Site.md)
+[Afropedia](Afropedia.md)
+
+Uma interface Web para páginas da Wikipedia relacionada à África e aos povos africanos e em diáspora.
+
+[Linha do Tempo - História](LinhaDoTempo.md)
+
+Uma interface que mostre uma linha do tempo de acontecimentos históricos importantes na história do Universo desde o a grande explosão até o presente momento.
 
 
 # Open Information Extraction
