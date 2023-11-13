@@ -1,5 +1,5 @@
-from os.path import join, exists
-from os import makedirs
+from os.path import join, exists, getsize
+from os import makedirs, listdir
 from wikipedia import WikipediaPage
 
 
@@ -27,9 +27,34 @@ class Data:
             self.save_wiki_page(page)
 
     def is_page_saved(self, title):
-        file = join(self.ROOT_DIR, self.WIKI_DIR, title, f"{title}.txt")
-        if exists(file):
+        file_path = self.get_file_path(title)
+        if exists(file_path):
             return True
         else:
             return False
 
+    def generate_wiki_page_metadata(self):
+        first_title = listdir(join(self.ROOT_DIR, self.WIKI_DIR))[0]
+        return first_title
+
+    def load_wiki_page_content(self, title):
+        file_path = self.get_file_path(title)
+        content = None
+        if not exists(file_path):
+            return content
+        with open(file_path, "r", encoding="UTF-8") as f:
+            content = f.read()
+        return content
+
+    def get_file_path(self, title: str):
+        return join(self.ROOT_DIR, self.WIKI_DIR, title, f"{title}.txt")
+
+    def list_saved_wiki_pages(self):
+        return listdir(join(self.ROOT_DIR, self.WIKI_DIR))
+
+    def page_content_size(self, title):
+        file_path = self.get_file_path(title)
+        return getsize(file_path)
+
+    def wikipedia_data_size(self):
+        return getsize(join(self.ROOT_DIR, self.WIKI_DIR))
