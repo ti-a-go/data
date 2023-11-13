@@ -1,0 +1,22 @@
+Helimodelismo - é a construção em escala reduzida de helicópteros (civis e militares), mantendo suas mesmas características para voo, normalmente, com controlo remoto, utilizando motores a explosão (combustão interna) e/ou elétricos. Normalmente praticado como passatempo (hobby), atualmente tem sido muito utilizado profissionalmente para filmagens, no cinema e televisão, para cenas que seriam impossíveis de serem captadas com helicópteros em tamanho real ou outro tipo de aeronave. Não se deve confundir helimodelismo com aeromodelismo.
+
+
+== Visão geral ==
+Um helicóptero controlado por rádio (também helicóptero RC - helimodelo) é um modelo de aeronave diferente de um avião RC devido às diferenças de construção, aerodinâmica e treinamento de voo. Existem vários projetos básicos de helicópteros RC, dos quais alguns (como aqueles com controle de passo coletivo) são mais manobráveis ​​do que outros. Os projetos mais manobráveis ​​costumam ser mais difíceis de voar, mas se beneficiam de maiores capacidades acrobáticas.Os controles de vôo permitem que os pilotos controlem o coletivo (ou acelerador, em helicópteros de passo fixo), os controles cíclicos (pitch and roll) e o rotor de cauda (yaw). Controlá-los em uníssono permite que o helicóptero execute as mesmas manobras que os helicópteros de tamanho normal, como pairar e voar para trás, e muitas outras manobras que os helicópteros de tamanho normal não podem, como o voo invertido (onde o controle de passo coletivo fornece passo negativo da lâmina para mantenha o helicóptero invertido e os controles de inclinação/guinada devem ser invertidos pelo piloto).Os diversos controles do helicóptero são efetuados por meio de pequenos servomotores, comumente conhecidos como servos. Um sensor de giroscópio de estado sólido é normalmente usado no controle do rotor de cauda (guinada) para combater o movimento da cauda induzido pela reação do vento e do torque. A maioria dos helicópteros mais novos também tem giro-estabilização nos outros 2 eixos de rotação (pitch and roll). Esse giroscópio de 3 eixos é normalmente chamado de controlador flybarless, assim chamado porque elimina a necessidade de um flybar mecânico.Os motores costumavam ser motores de dois tempos movidos a metanol, mas os motores elétricos sem escovas combinados com uma bateria de polímero de lítio de alto desempenho (LiPo) agora são mais comuns e fornecem eficiência, desempenho e vida útil aprimorados em comparação com motores escovados, enquanto diminuem os preços os colocam ao alcance dos amadores. Motores a gasolina e turbina a jato também são usados.Assim como os helicópteros de tamanho normal, os rotores de helicópteros modelo giram em alta velocidade e podem causar ferimentos graves. Várias mortes ocorreram recentemente, em 2013.
+
+
+== Ver também ==
+Aeromodelismo
+Aeromodelo
+Automodelismo
+Ferromodelismo
+Miniaturismo
+Missilismo amador
+Missilmodelismo
+Modelismo
+Nautimodelismo
+Nitro Modelismo
+Plastimodelismo
+
+
+== Referências ==

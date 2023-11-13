@@ -1,0 +1,85 @@
+Um quadricóptero, também chamado de helicóptero quadrotor, é uma aeronave que decola e é impulsionada por quatro motores. Quadricóptero são classificados como aeronaves que se sustentam através do empuxo gerado pelas hélices, suas decolagens são derivadas de quatro motores. Eles também podem ser classificados como helicópteros, ainda que diferente de um helicóptero padrão. São capazes de utilizar hélices de elevação fixa, as quais o ângulo de ataque não varia como as hélices de rotação. O controle de movimento da aeronave pode ser realizado variando-se a velocidade relativa de cada rotor para alterar o empuxo e o torque produzido por cada um.
+Logo no início da história do voo, as configurações do quadricóptero eram vistas como possíveis soluções para alguns dos problemas persistentes em voos verticais; problemas de controle de torque induzido (bem como as questões de eficiência provenientes do motor de cauda, o que gera uma elevação inútil) pode ser eliminado, por contra-rotação e as lâminas relativamente curtas são muito mais fáceis de construir. Uma série de projetos tripulados apareceu na década de 1920 e 1930. Estes veículos estão entre os primeiros heavier-than-air (mais pesados que o ar) de subida e descida vertical, ou seja, a descolagem e a aterrissagem são feitas na vertical. No entanto, os protótipos iniciais sofriam de mau desempenho, e os protótipos finais necessitavam de muito trabalho do piloto, devido à má estabilidade e o controle limitado.
+Mais recentemente projetos tornaram-se populares em VANTs - UAVs (veículos aéreos não tripulados). Esses veículos utilizam um sistema eletrônico de controle e sensores para estabilizar a aeronave. Com seu pequeno tamanho e capacidade de manobra ágil, esses quadricópteros podem ser pilotados tanto dentro de casa quanto ao ar livre. Existem várias vantagens nos quadricópteros, comparando com os helicópteros: em primeiro lugar, um quadricóptero não exige ligações mecânicas para variar o ângulo das pás do rotor enquanto giram, isto simplifica a criação e manutenção do veículo; em segundo, o uso de quatro rotores permite que cada rotor individual tenha um diâmetro menor ou igual ao rotor do helicóptero, o que lhes permite ter menos energia cinética durante o voo. Isto reduz o dano causado quando os rotores batem no nada. Os VANTs em pequena escala possibilitam uma interação próxima e segura. Alguns quadricópteros em pequena escala têm quadros que encerram os rotores, permitindo voos entre ambientes mais desafiadores, e com menor risco de danificar o veículo ou seus arredores. Devido à sua facilidade de construção e controle, os quadricópteros são frequentemente usados como projetos de aeronaves amadoras.
+
+
+== História ==
+
+
+=== Primeiras Tentativas ===
+
+
+==== Oehmichen No. 2 (1920) ====
+Étienne Oehmichen fez experiências com projetos de helicópteros em 1920. Entre os seis projetos que ele tentou seu helicóptero No. 2, tinha quatro rotores e oito hélices, todos impulsionado por um único motor. O Oehmichen No. 2 utiliza um quadro de tubos de aço, com rotores de duas lâminas com as extremidades dos quatro braços. O ângulo destas lâminas pode ser variado por deformação. Cinco das hélices giram no plano horizontal, estabilizando a máquina lateralmente. Outra hélice foi montada no nariz para a direção. O par restante de hélices foi para propulsão para frente. A aeronave apresentou um considerável grau de estabilidade e controlabilidade para o seu tempo, e fez mais de um milhar de voos de teste durante a década de 1920. Em 1923 ele foi capaz de permanecer no ar por alguns minutos, e em 14 de abril de 1924 estabeleceu o primeiro recorde de distância (FAI) para helicópteros de 360 m (390 m). Ele demonstrou a capacidade de concluir um curso circular e, mais tarde, completou o primeiro 1 km (0,62 milhas) de circuito fechado de voo por um helicóptero.
+
+
+==== Bothezat (1922) ====
+Dr. George de Bothezat e Ivan Jerome desenvolveram esta aeronave, com seis pás rotores na extremidade de uma estrutura em forma de X. Duas pequenas hélices com passo variável foram utilizadas para controle de pressão e de guinada. O veículo utilizou controle de pitch coletivo. Construído pelo Serviço Aéreo dos EUA, ele fez seu primeiro voo em outubro de 1922. Cerca de 100 voos foram realizados até ao final de 1923. A maior altura atingida foi de cerca de 5 m (16 ft). Apesar de demonstrar viabilidade, era de baixa potencia, sem resposta, mecanicamente complexo e suscetíveis a problemas de confiabilidade. O trabalho do piloto era muito durante a tentativa de movimento lateral.
+
+
+==== Convertawings (1956) Um modelo de quadricóptero ====
+Este helicóptero único foi concebido para ser o protótipo de uma linha de quadricópteros civis e militares. O projeto contou com dois motores de condução, quatro rotores através de um sistema de correias em v. Não foi necessário cauda e o controle foi obtido através da variação da pressão entre os rotores. Voou muitas vezes com sucesso, em meados da década de 1950, este helicóptero provou o projeto quadricóptero e foi também o primeiro helicóptero de quatro rotores, para demonstrar o voo bem sucedido para a frente. No entanto devido à falta de encomendas de versões comerciais ou militares , o projeto foi encerrado. Convertawings propôs um modelo que teria um peso máximo de 19 toneladas (42.000 libras) com uma carga de 4,9 toneladas (10.900 libras) a mais de 300 milhas e de até 278 km/h (173 mph).
+
+
+==== Curtiss-Wright VZ-7 (1958) ====
+O Curtiss-Wright VZ-7 era um avião VTOL (de decolagem e aterrissagem vertical) projetado pela empresa Curtiss-Wright para o Exército dos EUA. O VZ-7 é controlado alterando a pressão de cada uma das quatro hélices.
+
+
+=== Desenvolvimentos Recentes ===
+Nas últimas décadas, em pequena escala os VANTs (Veículos Aéreos Não Tripulados) tornaram-se mais comuns e são usados para muitas aplicações. A necessidade de aeronaves com maior capacidade de manobra e capacidade pairando levou ao aumento atual na pesquisa de quadricópteros. O design de quatro rotores permite quadricóptero ser relativamente simples na sua concepção, mas altamente confiável e manobrável. Investigação de ponta, continua a aumentar a viabilidade dos quadricópteros, fazendo avanços na comunicação multi-ofício, exploração do ambiente, e manobrabilidade. Se todas essas qualidades em desenvolvimento podem ser combinados entre si, o quadricóptero seria capaz de missões autónomas avançadas que não são atualmente possívis com qualquer outro veículo. Alguns programas atuais incluem :
+
+O Bell Boeing Quad Tiltrotor leva o conceito quadricóptero adiante, combinando-a com o conceito de rotor de inclinação para uma proposta de C-130 de transporte militar médio.
+Aermatica Spa's Anteos é a primeira aeronave de asa rotativa RPA (aeronaves remotamente pilotadas) a ter obtido permissão oficial para voar no espaço aéreo civil pela ENAC (Autoridade de Aviação Civil italiana), e será o primeiro capaz de trabalhar em espaço aéreo não segregado.
+AeroQuad e ArduCopter são projetos de hardware e software de código aberto baseado em Arduino para a construção de quadricópteros DIY (faça você mesmo).
+Parrot AR.Drone é um pequeno quadricóptero controlado via rádio com câmeras ligadas a ele, construído por Parrot SA, destinado a ser controlado por smartphones ou tablets. Em junho de 2013, No Show Aéreo de Paris, Parrot anunciou que já venderam mais de 500.000 quadricópteros AR.Drone.
+
+
+== Usos ==
+
+
+=== Comercial ===
+O maior uso de quadricópteros tem sido na área de imagens aéreas, embora, nos EUA, atualmente ser ilegal o uso de veículos de controle remoto para fins comerciais. Os quadricópteros VANTs são adequados para este tipo de trabalho devido à sua natureza autônoma e enorme redução de custos.
+
+
+=== Militar e Policial ===
+Veículos aéreos não tripulados são usados para vigilância e reconhecimento aéreo por agências militares e policiais, bem como missões de busca e salvamento em ambientes urbanos. Um exemplo é o Aeryon Scout, criado pela empresa canadense Aeryon Labs, que é um pequeno VANT que pode tranquilamente passar no lugar e usar uma câmera para observar pessoas e objetos no chão. A empresa alega que a máquina teve um papel fundamental em uma apreensão de drogas na América Central, fornecendo imagens da vigilância de um traficante de drogas no meio da selva. Aeryon não revelou outros detalhes.
+
+
+=== Plataforma de Pesquisa ===
+Quadricópteros são uma ferramenta útil para os pesquisadores da universidade, para testar e avaliar novas ideias em um número de diferentes áreas, incluindo a teoria de controle de voo, navegação, sistemas em tempo real e robótica. Nos últimos anos, muitas universidades têm mostrado quadricópteros realizando manobras aéreas cada vez mais complexas. Enxames de quadricópteros podem pairar no ar, em formação, de forma autônoma, executando rotinas de voo complexas, como flips, correndo através de hula-hoops e organizar-se para voar como um grupo. Existem numerosas vantagens para a utilização dos quadricópteros como plataformas de teste versáteis. Eles são relativamente baratos, disponíveis numa variedade de tamanhos e sua concepção mecânica simples significa que eles podem ser criados e mantidos por amadores. Devido à natureza multi-disciplinar de operar um quadricóptero, acadêmicos de diversas áreas precisam trabalhar em conjunto, a fim de fazer melhorias significativas no controle dos quadricópteros. Os projetos de quadricópteros normalmente são colaborações entre ciência da computação, engenharia elétrica e especialistas de engenharia mecânica. Eles são tão manobráveis que podem ser úteis em todos os tipos de situações e ambientes. Os quadricópteros capazes de voo autónomo poderão ajudar a eliminar a necessidade de as pessoas colocarem-se em posições perigosas. Esta é a principal razão que o interesse a investigação tem vindo a aumentar ao longo dos anos. Existem alguns laboratórios de pesquisa de engenharia de classe mundial atualmente desenvolvendo técnicas de controle mais avançados e aplicações para quadricópteros. Estas incluem principalmente MIT's Aerospace Controls Lab, ETH's Flying Machine Arena e da Universidade da Pennsylvania Robótica Geral, Automoção, Sensoriamento e Percepção (GRASP).
+
+
+== Controle de voo ==
+Cada motor produz um empuxo e o torque sobre seu centro de rotação, bem como uma força de arrasto oposta à direção do veículo de fuga. Se todos os motores giram na mesma velocidade angular, com os motores um e três girando no sentido horário e os motores dois e quatro anti-horário, haverá torque líquido aerodinâmico e, consequentemente, a aceleração angular sobre o eixo de rotação é exatamente zero, o que implica que a guinada do rotor de estabilização de helicópteros convencionais não é necessária. É induzida por descasamento o equilíbrio em torques aerodinâmicos (e, através de compensação os comandos de impulso acumulados entre os pares de lâminas contra-rotação).
+
+
+=== Mecânica ===
+Os principais componentes mecânicos necessários para a construção são as quatro, hélices (de passo fixo ou passo variável) e os motores elétricos. Para um melhor desempenho e algoritmos de controle mais simples, os motores e hélices devem ser colocadas equidistantes. Recentemente, a fibra de carbono tornou-se popular devido à sua leveza e rigidez estrutural. Os componentes elétricos necessários para construir um quadricóptero são semelhantes às que são necessárias para um moderno helicóptero RC. Eles são: o módulo de controle eletrônico de velocidade, placa controladora (ou computador OnBoard), e bateria. Normalmente, um transmissor também é usado para permitir o controle a humanos.
+
+
+=== Voo autónomo ===
+Os quadricópteros e outros multicópteros muitas vezes podem voar autonomamente. Muitos controladores de voo modernos usam um software que permite ao usuário marcar "pontos de referência" em um mapa, ao qual o quadricóptero vai voar e executar tarefas, como pouso ou ganhar altitude.
+
+
+== Ver também ==
+AeroVelo Atlas (2013)
+Breguet-Richet Gyroplane (1907)
+Helimodelismo
+Multirotor
+UAV / VANT - (veículo aéreo não tripulado)
+
+
+== Ligações externas ==
+Quadricóptero Baseado em Arduino (em inglês)
+Aerospace Controls Lab at MIT (em inglês)
+The Flying Machine Arena (em inglês)
+Quadricópteros Militares (em inglês)
+Ardu-Copter - Quadricóptero Automático baseado em Arduino
+Kit Básico para fazer um quadricóptero (em inglês)
+Aspectos do Design Mecânico de um quadrióptero
+TED Raffaello D'Andrea: O impressionante poder atlético dos quadricópteros (Inglês - Vídeo Legendado)
+COBRA - Confederação Brasileira de Aeromodelismo (Português)
+Universal Aerial Video Project - Projeto de código aberto para quadrotores não tripuláveis
+
+
+== Referências ==

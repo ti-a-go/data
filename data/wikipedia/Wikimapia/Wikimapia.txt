@@ -1,0 +1,51 @@
+WikiMapia ou Wikimapia é um projeto de mapeamento criado pelos russos Alexandre Koriakine e Evgeniy Saveliev. O serviço foi lançado em 24 de maio de 2006 com o slogan Vamos descrever o mundo todo!.Em pouco menos de três meses, já havia alcançado o primeiro milhão de locais adicionados. Com o tempo novas funcionalidades foram sendo adicionadas ao programa, como por exemplo, polígonos - que permitem definir precisamente a área do local marcado - e ferramentas lineares, como estradas, ferrovias e rios. Em março de 2009, o WikiMapia já armazenava mais de 9,7 milhões de locais e cerca de 17 milhões de segmentos de ferramentas lineares.
+
+
+== História ==
+No início do projeto, o WikiMapia não tinha nenhum usuário registrado e nenhuma hierarquia administrativa. Todos os usuários editavam anonimamente e não havia nenhum mecanismo para monitorar ou disciplinar usuários problemáticos ou vândalos. Em outubro de 2006, criou-se o sistema de registro de usuários. Apesar disso, o registro não se tornou obrigatório e ainda hoje é permitida a colaboração como usuário não registrado. Posteriormente, adotaram-se diferentes níveis de usuários, permitindo que usuários mais experientes que sejam considerados confiáveis (chamados de usuários avançados) ganhassem maiores capacidades, como proteger um artigo ou banir usuários vândalos.
+Em agosto de 2008, havia cerca de 246 mil editores, enquanto em abril de 2009 o número já chegava a 346 mil (incluindo 475 usuários avançados). A comunidade de usuários tem um fórum de discussão, onde podem se conhecer melhor, discutir problemas, novas funcionalidades e políticas do projeto, além de tratar de casos de vandalismo ou mau comportamento.
+
+
+=== Crescimento ===
+
+
+=== Revolta de usuários ===
+Em julho de 2009, sem a consulta ou o consentimento da comunidade de usuários, foi lançada a nova versão da WikiMapia (até então opcional e em fase de testes). O fato gerou a criação de vários tópicos no fórum onde os usuários, principalmente alguns administradores, manifestaram descontentamento com a ausência de consideração para com a comunidade. Houve exaltação de ânimos e muitos usuários tiveram seu status removido, alguns foram banidos e tópicos chegaram a ser apagados.
+O episódio foi tomado como censura pela maior parte da comunidade, e grande parte dos usuários manifestou revolta abandonando o projeto WikiMapia; alguns criaram várias marcações de locais que não existem — triângulos em florestas, por exemplo — como uma forma de vandalismo.
+Também há muito questionamento em relação ao excesso de propagandas dentro do site, uma vez que o Wikimapia não é sustentada por doações (como faz a Wikipedia), tratando-se então se caracterizar o site como sendo de fins lucrativos.
+
+
+== Funcionalidades ==
+A marcação dos locais envolve basicamente a definição da área ocupada, título, descrição, endereço, categorias. Um link para o artigo da Wikipédia, quando existente, é também incentivado, havendo campo específico para ele. Os usuários podem ainda adicionar fotos dos locais. Na descrição é permitida a inserção de links para páginas da web e vídeos do Youtube, por exemplo. As categorias são usadas para que se possa filtrar a visualização, permitindo se ver apenas os locais marcados com certa categoria.
+Os locais marcados podem ser descritos em 101 idiomas diferentes, enquanto a interface do usuário já foi traduzida para 56 idiomas.
+
+
+=== Planos de fundo ===
+São as imagens sobre as quais o usuário desenha os objetos presentes na superfície da terra:
+
+OpenStreetMap - sigla OSM, conhecida como "A Wikipedia dos Mapas" e com funcionalidades semelhantes ao Wikimapia onde se pode desenhar sobre imagens de satélite. Com o OSM é possível fazer mapas profissionais, já no Wikimapia o que basicamente se faz é rabiscar sobre outros mapas ou imagens de satélites.
+Google Maps
+Bing Maps
+Yahoo Maps
+
+
+== WikiMapia Beta ==
+Em outubro de 2008 foi lançada para todos os usuários registrados a versão beta do WikiMapia. Meses depois, ela foi aberta também para usuários não registrados, embora limitasse o uso de algumas funções nesse caso. A principal diferença entre a versão beta e a clássica (como a versão anterior é chamada) é que os locais passaram a ser mostrados diretamente com seu formato real, e não apenas como retângulos. Ainda, na versão beta surgiram as ferramentas lineares como ferrovias, rios e rotas de balsas (as estradas já existiam na versão anterior). A versão anterior, chamada de clássica (ou antiga), continua sendo fornecida.A WikiMapia Beta conta com documentação também produzida no estilo wiki, pelos próprios usuários do WikiMapia. Os arquivos de ajuda, guia do usuário e algumas informações interessantes sobre o projeto são disponibilizadas na chamada Wiki do WikiMapia.
+
+
+== Ver também ==
+OpenStreetMap
+Google Maps
+Google Map Maker
+Bing Maps
+Opera
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Wikimapia
+Wikimapia Antiga
+A "Wiki" do Wikimapia
+Blog Oficial do Wikimapia

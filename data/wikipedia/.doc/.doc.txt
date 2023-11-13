@@ -1,0 +1,8 @@
+Em computação, DOC ou .doc ou .docx (uma abreviação de document - "documento" em inglês) é uma extensão para documentos de processamento de texto, mais comum no Microsoft Word Binary File Format. Historicamente, foi usado para documentação em texto simples (plain text), particularmente de programas ou hardware numa gama de sistemas operacionais. Nos anos 1980, o WordPerfect usava DOC como extensão do seu formato proprietário. Mais tarde, nos anos 1990, a Microsoft optou por utilizar essa extensão para o seu formato proprietário do Microsoft Word.
+
+
+== Alteração ==
+Recentemente, arquivos com extensão .doc foram substituídos por arquivos .docx, de formato aberto. Esses arquivos, quando não alterados, serão abertos automaticamente pelo Microsoft Word, se instalado na máquina. Se o Microsoft Word não estiver instalado no computador, será aberto pelo WordPad. 
+
+
+== Referências ==

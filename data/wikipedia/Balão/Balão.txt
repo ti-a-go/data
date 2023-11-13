@@ -1,0 +1,48 @@
+Balão é um tipo de aeróstato que permanece no ar, devido à sua flutuabilidade. Um balão viaja impulsionado pelo vento consoante a sua direção e intensidade. Distingue-se de um dirigível, que também é uma aeronave flutuante, por usar meios mecânicos de propulsão e direção.
+
+
+== Tipos de balões ==
+Há três tipos principais de balões:
+
+Balões de ar quente: obtêm seu poder de flutuação através do aquecimento do ar em temperatura ambiente. Eles são os tipos de balões mais comuns atualmente.
+Balão a gás: balões enchidos com um gás não aquecido tal como:-Hidrogênio - não usado em aeronaves desde o desastre de Hindenburg devido a sua  inflamabilidade, mas é ainda utilizado largamente no balonismo amador, alguns grandes balões científicos não tripulados e praticamente usado universalmente em balões meteorológicos.
+-Hélio - o gás utilizado para todos os dirigíveis e para a maioria dos balões dirigíveis nos Estados Unidos.
+-Amônia - infrequentemente usado devido suas características cáusticas e limite da altura atingida.
+-Gás de carvão - utilizado no princípio do balonismo, altamente inflamável.Balões de Rozier: utilizam ambos gases aquecidos e não aquecidos para subir. O mais comum uso moderno desse tipo de balão é em recordes de voos a longa distância tais como as recentes circunavegações em balões.[carece de fontes?]
+
+
+== História ==
+
+
+=== Lanternas de Kongming ===
+
+De acordo com o sinólogo e historiador Joseph Needham, os chineses criaram pequenos balões de ar quente para sinalização desde o Séc. III a.C., durante o período dos Três Reinos. Tradicionalmente, no entanto, sua invenção é atribuída ao sábio e estratega militar Zhuge Liang (181-234 dC), também conhecido por Kongming.
+Esta tradição está ligada a uma lenda onde Zhuge Liang teria usado uma lanterna para enviar uma mensagem escrita, numa ocasião em que estava cercado por tropas inimigas. Por esta razão, eles ainda são conhecidos na China como lanternas Kongming. Needham encontra registos etnológicos e históricos que apontavam para existência de balões de ar quente desde a Antiguidade e que teriam ainda sido usados pelos mongóis em batalha, como em 1241 na Batalha de Legnica.
+
+
+=== Passarola de Bartolomeu de Gusmão ===
+
+Bartolomeu de Gusmão se incorporou à série das figuras que pertencem à história da humanidade, no campo das ciências com sua invenção, integrando a galeria dos notórios do mundo, com o relevo que assumiu na prioridade da navegação aérea.Em 1709, anunciou à corte que apresentaria uma "Máquina de Voar". Em 19 de abril daquele ano, recebeu autorização do Rei D. João V para demonstrar seu invento perante a Casa Real.Em 3 de agosto de 1709 foi realizada a primeira tentativa na Sala de Audiências do Palácio. No entanto, o pequeno balão de papel aquecido por uma chama incendiou-se antes ainda de alcançar o voo. Dois dias mais tarde, uma nova tentativa deu resultado: o balão subiu cerca de 20 palmos, para verdadeiro espanto dos presentes. Assustados com a possibilidade de um incêndio, os criados do palácio se lançaram contra o engenho antes que este chegasse ao teto. Três dias mais tarde, exatamente no dia 8 de agosto de 1709, foi feita a terceira experiência, agora no Pátio da Casa da Índia perante D. João V, a rainha D. Maria Ana de Habsburgo, o Núncio Cardeal Conti, o Infante D. Francisco de Portugal, o Marquês de Fonte, fidalgos e damas da Corte e outros personagens. Desta vez, sucesso absoluto. O balão ergue-se lentamente, indo cair, uma vez esgotada sua chama, mas conseguiu voar cerca de um quilômetro (desde o Castelo de São Jorge até ao Terreiro do Paço, em Lisboa). Havia sido apresentado um engenho mais-leve-que-o-ar. O Rei ficou tão impressionado com o engenho que concedeu a Gusmão o direito sobre toda e qualquer nave voadora desde então. E para todos aqueles que ousassem interferir ou copiar-lhe as ideias, a pena seria a morte.Numa descrição apresentada já no século XIX por Frei Lucas de S. Joaquim (sob o pseudónimo de "Pinheiro"), é revelado que o segredo da Passarola seria um gás que estaria nas esferas ou no velame, e que assim sustentaria o balão pelo princípio do gás mais leve e não pelo princípio do ar quente, como fora dito na demonstração inicial à corte.
+A concepção e realização do aeróstato por Bartolomeu de Gusmão, mostrou o passo gigantesco que representou sua invenção, idealização e objetivação do flutuador aerostático, donde deveria sair a aeronave, sendo corretamente considerado o Pai da Aerostação, tendo precedido em 74 anos os irmãos Montgolfier.
+
+
+=== Os irmãos Montgolfier e Rozier ===
+
+Joseph-Michel Montgolfier, nascido no ano de 1740, e Jacques-Étienne Montgolfier, em 1745, ambos da cidade de Annonay, departamento de Ardèche, construíram utilizando o mesmo princípio de Bartolomeu de Gusmão, o primeiro balão tripulado com sucesso no ano de 1783.  No dia 5 de junho de 1783, o balão que possuía 32 metros de circunferência e era feito de linho foi cheio com fumaça de uma fogueira de palha seca, elevou-se do chão cerca de 300 m, durante cerca de 10 minutos voando uma distância de aproximadamente 3 quilômetros. No dia 19 de setembro de 1783, perante o Rei Luís XVI e a Rainha Maria Antonieta, Joseph Montgolfier repetiu sua experiência, o balão voou por 25 minutos com dois ocupantes (Pilâtre de Rozier e François Laurent) percorrendo mais ou menos 9 quilômetros. Com estas experiências realizadas, os irmãos Montgolfier descobriram os princípios básicos da navegação aérea, fato que foi fundamental para posteriores avanços na exploração da atmosfera, além disso, receberam as honras da Academia de Ciências.Após milénios agarrado ao chão, no dia 15 de Outubro de 1783, o Homem erguia-se no ar de duas formas distintas. Primeiro, Etienne de Montgolfier com um balão de ar quente, e depois Pilâtre de Rozier com um balão misto de gás e ar quente. No mesmo dia, no mesmo local, organizado por Revéillon.
+
+
+=== O Breitling Orbiter ===
+
+Mais recentemente uma grande proeza dos voos tripulados com balão, foi a volta ao mundo sem escalas, levada a cabo por Bertrand Piccard no grande balão Breitling Orbiter 3, que realizou mais de 40 mil quilómetros em menos de 20 dias.[carece de fontes?]
+
+
+== Ver também ==
+
+Aerostação
+Balonismo
+Bartolomeu de Gusmão
+Expedição polar de S. A. Andrée
+Balão meteorológico
+
+
+== Referências ==

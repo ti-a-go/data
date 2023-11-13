@@ -1,0 +1,771 @@
+Em estatística, um estimador é uma regra para calcular uma estimativa de uma determinada quantidade baseada em dados observados: assim a regra e seu resultado (a estimativa) são distinguidos.
+Existem os estimadores de ponto e estimadores de intervalo. Os estimadores de ponto produzem resultados de valor único, embora isso inclua a possibilidade de resultados de um vetor de valor único e resultados que podem ser expressos como uma única função. Isto está em contraste com um estimador de intervalo, onde o resultado seria uma gama de valores plausíveis (ou vetores ou funções).
+A teoria estatística está preocupada com as propriedades dos estimadores; isto é, com a definição de propriedades que podem ser utilizadas para comparar diferentes estimadores (regras diferentes para criar estimativas) para a mesma quantidade, baseada nos mesmos dados. Tais propriedades podem ser utilizadas para determinar as melhores regras de utilização em determinadas circunstâncias. No entanto, na estatística robusta, a teoria estatística passa a considerar o equilíbrio entre ter boas propriedades, se os pressupostos rigidamente definidos assegurarem, e ter menos boas propriedades que assegurem em condições mais amplas.
+
+
+== Prática ==
+Um "estimador " ou "ponto estimado" é uma estatística  (isto é, uma função dos dados) que é utilizado para inferir o valor de um parâmetro desconhecido em um modelo estatístico. O parâmetro a ser estimado por vezes é chamado estimando.[carece de fontes?] Ele pode ser de dimensão finita (no paramétrico e modelo semi-paramétrico), ou de dimensão infinita (não semi-paramétrico e modelo não paramétrico).[carece de fontes?] Se o parâmetro é denotado θ então o estimador é normalmente escrito pela adição de um circunflexo  sobre o símbolo: 
+  
+    
+      
+        
+          
+            
+              
+                θ
+                ^
+              
+            
+          
+        
+      
+    
+    {\displaystyle \scriptstyle {\hat {\theta }}}
+  . Sendo uma função dos dados, o estimador é uma variável aleatória, uma realização particular desta variável aleatória é chamada "estimativa". Às vezes, as palavras "estimador" e "estimativa" são usados ​​alternadamente.
+A definição coloca, praticamente sem restrições, sobre quais funções dos dados podem ser chamadas de " estimadores ". A atratividade de diferentes estimadores pode ser julgada ao olhar para as suas propriedades, tais como viés, erro quadrático médio, consistência, distribuição assintótica, etc.. A construção e comparação de estimadores são os temas da teoria da estimação. No contexto da teoria da decisão, um estimador é um tipo de regra de decisão, e seu desempenho pode ser avaliado através do uso de funções de perda.
+Quando a palavra "estimador" é usada sem um qualificador, geralmente refere-se a apontar a estimação. A estimativa, neste caso, é um único ponto no espaço de parâmetros. Também existem outros tipos de estimadores: estimadores de intervalo, onde as estimativas são subconjuntos do espaço de parâmetros.
+O problema da estimação da densidade resulta em duas aplicações. Em primeiro lugar, ao estimar as funções de densidade de probabilidade de variáveis ​​aleatórias e em segundo lugar para estimar a função de densidade espectral de uma série temporal. Nestes problemas as estimativas são funções que podem ser consideradas como estimativas de ponto em um espaço de dimensão infinita, e há problemas correspondentes  à estimação de intervalo.
+
+
+== Definição ==
+Suponhamos que exista um parâmetro 
+  
+    
+      
+        θ
+         
+      
+    
+    {\displaystyle \theta \ }
+   fixo que tem de ser estimado. Em seguida, um "estimador" é uma função que mapeia o espaço amostral de um conjunto de estimativas de amostra. Um estimador de 
+  
+    
+      
+        θ
+         
+      
+    
+    {\displaystyle \theta \ }
+   geralmente é representado pelo símbolo 
+  
+    
+      
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\widehat {\theta }}}
+  . Muitas vezes, é conveniente expressar a teoria utilizando álgebra de variáveis ​​aleatórias: assim, se X é utilizado para denotar uma variável aleatória correspondente aos dados observados, o estimador (se tratado como uma variável aleatória) é simbolizado como uma função da variável aleatória, 
+  
+    
+      
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+        (
+        X
+        )
+      
+    
+    {\displaystyle {\widehat {\theta }}(X)}
+  . A estima para um conjunto de dados observados em particular (isto é, para X = x) é então 
+  
+    
+      
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle {\widehat {\theta }}(x)}
+  , que é um valor fixado. Muitas vezes, uma notação abreviada é usada no qual 
+  
+    
+      
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\widehat {\theta }}}
+   é interpretado diretamente como uma variável aleatória, mas isso pode causar confusão.
+
+
+== Propriedades quantificadas ==
+As seguintes definições e atributos aplicam-se:
+
+ErroPara uma amostra de dado 
+  
+    
+      
+        x
+         
+      
+    
+    {\displaystyle x\ }
+  , o "erro" do estimador 
+  
+    
+      
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\widehat {\theta }}}
+   é definido como
+
+  
+    
+      
+        e
+        (
+        x
+        )
+        =
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+        (
+        x
+        )
+        −
+        θ
+        ,
+      
+    
+    {\displaystyle e(x)={\widehat {\theta }}(x)-\theta ,}
+  onde 
+  
+    
+      
+        θ
+         
+      
+    
+    {\displaystyle \theta \ }
+   é o parâmetro que está sendo estimado. Note que o erro, e, depende não somente do estimador (a fórmula da estimação ou procedimento), mas também sobre a amostra.
+
+Erro quadrático médioO erro quadrático médio de 
+  
+    
+      
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\widehat {\theta }}}
+   é definido como o valor esperado (média ponderada de probabilidade, sobre todas as amostras) dos erros ao quadrado, isto é,
+
+  
+    
+      
+        EQM
+        ⁡
+        (
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+        )
+        =
+        E
+        ⁡
+        [
+        (
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+        (
+        X
+        )
+        −
+        θ
+        
+          )
+          
+            2
+          
+        
+        ]
+        .
+      
+    
+    {\displaystyle \operatorname {EQM} ({\widehat {\theta }})=\operatorname {E} [({\widehat {\theta }}(X)-\theta )^{2}].}
+  Ele é usado para indicar o quão distante, em média, o conjunto de estimativas está do único parâmetro a ser estimado. Considere a seguinte analogia. Suponha que o parâmetro é o centro de um alvo, o estimador é o processo de atirar flechas no alvo, e as flechas individuais são estimativas (amostras). Então, a alta EQM, significa que a distância média das flechas do centro do alvo é alta e baixo EQM significa que a distância média do centro do alvo é baixa. As flechas podem ou não ser agrupadas. Por exemplo, mesmo se todas as flechas baterem no mesmo ponto, mesmo errando grosseiramente o alvo, o EQM ainda é relativamente grande. Observe, contudo, que se o EQM é relativamente baixo, então as flechas estão provavelmente mais altamente agrupadas (do que altamente dispersas).
+
+Desvio de amostragemPara uma amostra de dado 
+  
+    
+      
+        x
+         
+      
+    
+    {\displaystyle x\ }
+  , o desvio de amostragem do estimador 
+  
+    
+      
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\widehat {\theta }}}
+   é definido como
+
+  
+    
+      
+        d
+        (
+        x
+        )
+        =
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+        (
+        x
+        )
+        −
+        E
+        ⁡
+        (
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+        (
+        X
+        )
+        )
+        =
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+        (
+        x
+        )
+        −
+        E
+        ⁡
+        (
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle d(x)={\widehat {\theta }}(x)-\operatorname {E} ({\widehat {\theta }}(X))={\widehat {\theta }}(x)-\operatorname {E} ({\widehat {\theta }}),}
+  onde 
+  
+    
+      
+        E
+        ⁡
+        (
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+        (
+        X
+        )
+        )
+      
+    
+    {\displaystyle \operatorname {E} ({\widehat {\theta }}(X))}
+   é o valor esperado do estimador. Perceba que o desvio de amostragem, d, depende não somente no estimador, mas na amostra.
+
+VariânciaA variância de 
+  
+    
+      
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\widehat {\theta }}}
+   é simplesmente o valor esperado dos desvios quadrados de amostragem, ou seja, 
+  
+    
+      
+        var
+        ⁡
+        (
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+        )
+        =
+        E
+        ⁡
+        [
+        (
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+        −
+        E
+        ⁡
+        (
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+        )
+        
+          )
+          
+            2
+          
+        
+        ]
+      
+    
+    {\displaystyle \operatorname {var} ({\widehat {\theta }})=\operatorname {E} [({\widehat {\theta }}-\operatorname {E} ({\widehat {\theta }}))^{2}]}
+  . Ele é usado para indicar quão distante, em média, o conjunto de estimativas está do valor esperado das estimativas. Observe a diferença entre EQM e variância. Se o parâmetro for o centro de um alvo, e as flechas são estimativas, então, uma variação relativamente alta significa que as flechas estão dispersas, e uma variância relativamente baixa significa que as flechas estão agrupadas. Algumas coisas a observar: mesmo que a variância for baixa, o conjunto de flechas pode ainda estar longe do alvo, e mesmo se a variância for alta, o conjunto difuso de flechas ainda pode ser não-viesado. Finalmente, note que, mesmo se todas as flechas errarem grosseiramente o alvo, se, no entanto, todas bateram no mesmo ponto, a variância é zero.
+
+ViésO viés de 
+  
+    
+      
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\widehat {\theta }}}
+   é definido como 
+  
+    
+      
+        B
+        (
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+        )
+        =
+        E
+        ⁡
+        (
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+        )
+        −
+        θ
+      
+    
+    {\displaystyle B({\widehat {\theta }})=\operatorname {E} ({\widehat {\theta }})-\theta }
+  . Ele é a distância entre a média do conjunto de estimativas, e o único parâmetro a ser estimado. Ele também é o valor esperado do erro, uma vez que 
+  
+    
+      
+        E
+        ⁡
+        (
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+        )
+        −
+        θ
+        =
+        E
+        ⁡
+        (
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+        −
+        θ
+        )
+      
+    
+    {\displaystyle \operatorname {E} ({\widehat {\theta }})-\theta =\operatorname {E} ({\widehat {\theta }}-\theta )}
+  . Se o parâmetro for o centro do alvo, e as flechas forem as estimativas, em seguida, um valor absoluto relativamente alto para o viés significa que a posição média das flechas está fora da alvo, e um viés absoluto relativamente baixo significa que a posição média das flechas está no alvo. Elas podem estar dispersas, ou podem estar agrupadas. A relação entre a variação de polarização é análoga à relação entre a exatidão e precisão.
+
+Não-enviesadoO estimador 
+  
+    
+      
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\widehat {\theta }}}
+   é um estimador não-enviesado de 
+  
+    
+      
+        θ
+         
+      
+    
+    {\displaystyle \theta \ }
+   se e somente se 
+  
+    
+      
+        B
+        (
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+        )
+        =
+        0
+      
+    
+    {\displaystyle B({\widehat {\theta }})=0}
+  . Note que o viés é uma propriedade do estimador, não da estimativa. Muitas vezes, as pessoas se referem a uma "estimativa enviesada" ou uma "estimativa não-enviesada", mas elas realmente estão falando sobre uma "estimativa de um estimador enviesado", ou uma "estimativa de um estimador não-enviesado". Além disso, muitas vezes as pessoas confundem o "erro" de uma única estimativa com o "viés" de um estimador. Apenas porque o erro para uma estimativa é grande, não significa que o estimador é enviesado. De fato, mesmo se todas as estimativas tiverem valores absolutos astronômicos para os seus erros, se o valor esperado do erro é zero, o estimador é não-enviesado. Além disso, só porque um estimador é enviesado, não impede que o erro de estimativa seja zero (nós podemos ter sido sortudos). A situação ideal, é claro, é ter um estimador não-enviesado com baixa variância, e também tentar limitar o número de amostras em que o erro é extremo (isto é, têm poucos valores atípicos). No entanto, não é essencial enviesamento. Muitas vezes, se apenas um pequeno viés é permitido, então um estimador pode ser encontrado com o EQM baixo e / ou poucas estimativas da amostra discrepantes.
+Uma alternativa para a versão "não-enviesada" acima, é a "mediana - não-enviesada", onde a mediana da distribuição de estimativas concorda com o valor real, assim, no longo prazo, a metade das estimativas será muito baixa e metade muito alta. Enquanto isso se aplica de imediato apenas para estimadores de valor escalar, isso pode ser estendido para qualquer medida de tendência central de uma distribuição: veja estimadores de mediana não-enviesados.
+
+RelacionamentosO EQM, variância, e viés, estão relacionados: 
+  
+    
+      
+        EQM
+        ⁡
+        (
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+        )
+        =
+        var
+        ⁡
+        (
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+        )
+        +
+        (
+        B
+        (
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+        )
+        
+          )
+          
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle \operatorname {EQM} ({\widehat {\theta }})=\operatorname {var} ({\widehat {\theta }})+(B({\widehat {\theta }}))^{2},}
+   ou seja, o erro médio quadrado = variância + quadrado do viés. Em particular, para um estimador não-enviesado, a variância é igual ao EQM.
+O desvio padrão de um estimador de θ (a raiz quadrada da variância), ou uma estimativa do desvio padrão de um estimador de θ, é chamado o erro padrão de θ.
+
+
+== Propriedades comportamentais ==
+Consistência
+Uma sequência consistente de estimadores é uma sequência de estimadores que convergem em probabilidade para a quantidade que está sendo estimada como o índice (normalmente o tamanho da amostra) cresce sem limites. Em outras palavras, aumentar o tamanho da amostra aumenta a probabilidade do estimador de estar próximo do parâmetro de população. Matematicamente, uma sequência de estimadores { tn , n ≥ 0} é um estimador consistente para o parâmetro θ se e somente se , para todo ϵ > 0, não importa quão pequena, temos
+
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        Pr
+        
+          {
+          
+            
+              |
+              
+                
+                  t
+                  
+                    n
+                  
+                
+                −
+                θ
+              
+              |
+            
+            <
+            ϵ
+          
+          }
+        
+        =
+        1.
+      
+    
+    {\displaystyle \lim _{n\to \infty }\Pr \left\{\left|t_{n}-\theta \right|<\epsilon \right\}=1.}
+  A consistência definida acima pode ser chamada de consistência fraca. A sequência é fortemente consistente, se converge quase certamente para o valor verdadeiro.
+Um estimador que converge para um múltiplo de um parâmetro pode ser feito dentro de estimador consistente através da multiplicação do estimador de fator de escala, isto é, o valor verdadeiro, dividido pelo valor assintótico do estimador. Isso ocorre com frequência na estimativa de parâmetros de escala de medidas de dispersão estatística.
+
+Normalidade assintótica
+Um estimador assintoticamente normal é um estimador consistente cuja distribuição em torno do parâmetro verdadeiro θ se aproxima de uma distribuição normal com desvio padrão encolhendo na proporção de 
+  
+    
+      
+        1
+        
+          /
+        
+        
+          
+            n
+          
+        
+      
+    
+    {\displaystyle 1/{\sqrt {n}}}
+  , como o tamanho da amostra n cresce. Usando 
+  
+    
+      
+        
+          
+            →
+            
+              D
+            
+          
+        
+      
+    
+    {\displaystyle {\xrightarrow {D}}}
+   para denotar convergência na distribuição, tn é assintoticamente normal se
+
+  
+    
+      
+        
+          
+            n
+          
+        
+        (
+        
+          t
+          
+            n
+          
+        
+        −
+        θ
+        )
+        
+          
+            →
+            
+              D
+            
+          
+        
+        N
+        (
+        0
+        ,
+        V
+        )
+        ,
+      
+    
+    {\displaystyle {\sqrt {n}}(t_{n}-\theta ){\xrightarrow {D}}N(0,V),}
+  para algum V. Quando V / N é chamada de variância assintótica do estimador.
+O teorema do limite central implica normalidade assintótica da média da amostra 
+  
+    
+      
+        
+          
+            
+              x
+              ¯
+            
+          
+        
+      
+    
+    {\displaystyle {\bar {x}}}
+   como um estimador da média verdadeira. Mais geralmente, estimadores de máxima verossimilhança são assintoticamente normais sob condições de regularidade bastante fracos — consulte a seção de assintóticos do artigo de máxima verossimilhança. No entanto, nem todos os estimadores são assintoticamente normal, os exemplos mais simples sendo o caso onde o verdadeiro valor de um parâmetro situa-se no limite da região de parâmetro admissíveis.
+
+Eficiência
+Duas propriedades naturalmente desejáveis ​​dos estimadores são eles serem não-enviesados e ter o mínimo erro quadrático médio (EQM). Estes não podem, em geral, tanto ser satisfeitas simultaneamente: um estimador enviesado pode ter menor erro quadrático médio (EQM) do que qualquer estimador não-enviesado; ver viés do estimador.
+Entre estimadores não-enviesados, muitas vezes existe um com a menor variância, chamada de variância mínima do estimador não-enviesado (ENE). Em alguns casos, existe um estimador eficiente não-enviesado, o que, além de ter a menor variância entre os estimadores não-enviesados, satisfaz o limite de Cramér-Rao, que é um limite inferior absoluto na variância para as estatísticas de uma variável.
+Quanto a tais "melhores estimadores não-enviesados", ver também limite de Cramér-Rao, teorema de Gauss-Markov, teorema Lehmann-Scheffé, teorema Rao-Blackwell.
+
+RobustezVer: Estimador robusto, Estatística robusta
+
+
+== Ver também ==
+
+
+== Referências ==
+Lehmann, E. L.; Casella, G. (1998). Theory of Point Estimation 2nd ed. [S.l.]: Springer. ISBN 0-387-98502-6  
+Shao, Jun (1998), Mathematical Statistics, ISBN 0-387-98674-X, New York: Springer 
+Bol'shev, L.N. (2001), «Statistical Estimator», in:  Hazewinkel, Michiel, Enciclopédia de Matemática, ISBN 978-1-55608-010-4 (em inglês), Springer 
+
+
+== Ligações externas ==
+Fundamentals of Estimation Theory
+India-Institute of Quantity Surveyors (IQSS)

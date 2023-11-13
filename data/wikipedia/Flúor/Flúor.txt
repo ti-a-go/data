@@ -1,0 +1,77 @@
+Flúor é um elemento químico, símbolo F, de número atômico 9 (9 prótons e 9 elétrons) de massa atómica 19 u, situado no grupo dos halogênios (grupo 17; anteriormente denominado VIIA) da tabela periódica.
+Em sua forma biatômica (F2) e em CNTP, é um gás de coloração amarelo-pálido. É o mais eletronegativo e reativo de todos os elementos. Em sua forma ionizada (F–) é extremamente perigoso, podendo ocasionar graves queimaduras químicas se em contato com tecidos vivos.
+
+
+== Características principais ==
+Em CNTP, o flúor é um gás corrosivo de coloração amarelo-pálido, fortemente oxidante. É o elemento mais eletronegativo, e o mais reativo dos não metais e forma compostos com praticamente todos os demais elementos, incluindo os gases nobres xenônio e radônio. Inclusive em ausência de luz e baixas temperaturas reage explosivamente com o hidrogênio. Jatos de flúor no estado gasoso atacam o vidro, metais, água e outras substâncias, que reagem formando uma chama brilhante. O flúor sempre se encontra combinado na natureza e tem afinidade por muitos elementos, especialmente o silício, não podendo ser guardado em recipientes de vidro.
+Em solução aquosa de seus sais, o flúor apresenta-se normalmente na forma de íons fluoretos, F–. Outras formas são complexos de flúor como o [FeF4]–, ou o H2F+.
+Os fluoretos são compostos nas quais os íons fluoretos estão ligados a algum resto químico de carga positiva.
+O flúor não é considerado um elemento mineral essencial para o ser humano. Pequenas quantidades de flúor podem beneficiar o fortalecimento ósseo, mas sua falta é um problema apenas na formulação de dietas artificiais.
+
+
+== História ==
+O flúor (do latim fluere = "fluir") formando parte do mineral fluorita, CaF2, foi descrito em 1529 por Georgius Agricola por seu uso como fundente, empregado para reduzir os pontos de fusão de metais ou minerais. Em 1670 Heinrich Schwanhard observou que era possível gravar o vidro quando exposto a fluorita que havia sido tratada com ácido. Posteriormente, Carl Wilhelm Scheele, Humphry Davy, Gay-Lussac, Antoine Lavoisier e Louis Thenard, realizaram experimentos com o ácido fluorídrico. Alguns destes experimentos acabaram em tragédia.
+O flúor foi descoberto em 1771 por Carl Wilhelm Scheele; entretanto, devido à sua elevada reatividade, não se conseguiu isolá-lo porque, quando separado de algum composto, imediatamente reagia com outras substâncias. Finalmente, em 1886, foi isolado pelo químico francês Henri Moissan.
+A primeira produção comercial do flúor foi para a bomba atômica do Projeto Manhattan, para a obtenção do hexafluoreto de urânio, UF6, usado para a separação de isótopos de urânio.
+O flúor já foi usando também como raticida.
+
+
+== Abundância e obtenção ==
+O flúor é o halogênio mais abundante da crosta terrestre, com uma concentração de 950 ppm. Na água do mar se encontra numa proporção de aproximadamente 1,3 ppm. Os minerais mais importantes no qual está presente são a fluorita, CaF2, a fluorapatita, Ca5(PO4)3F e a criolita, Na3AlF6.
+Obtém-se pela eletrólise de uma mistura de HF e KF. No processo ocorre a oxidação dos fluoretos, no anodo:
+
+2F- - 2e- → F2No catodo descarrega-se o hidrogênio, sendo necessário evitar que os dois gases obtidos entrem em contato para que não haja o risco de explosão.
+O flúor também é um subproduto efluente da produção do alumínio.
+
+
+== Compostos ==
+Utilizam-se numerosos compostos orgânicos nos quais foram substituídos formalmente átomos de hidrogênio por átomos de flúor. Existem distintas formas de obtê-los, uma das mais importantes é através de reações de substituição de outros halogênios:CHCl3 + 2HF → CHClF2 + 2HClOs CFCs foram empregados numa ampla variedade de aplicações, por exemplo, como refrigerantes, propelentes, agentes espumantes, isolantes, etc., porém, como contribuiam para a destruição da camada de ozônio foram sendo substituídos por outros compostos químicos, como os HCFs. Os HCFCs também são empregados como substitutos dos CFCs, porém também destroem a camada de ozônio a longo prazo e também são acusados de piorar o aquecimento global.
+O politetrafluoroetileno (PTFE) é um polímero denominado teflon, de grande resistência química e baixo coeficiente de atrito.
+O ácido fluorídrico é uma solução aquosa de fluoreto de hidrogênio. É um ácido fraco, porém muito mais perigoso que ácidos fortes como o clorídrico. O ácido HF é utilizado para gravar vidros e para retirar sílica (areia) de aços especiais.
+O hexafluoreto de urânio, UF6, é um gás a temperatura ambiente que se emprega para a separação dos isótopos de urânio.
+O flúor forma compostos com outros halogênios apresentando, nestes casos, estado de oxidação -1, por exemplo, IF7, BrF5, BrF3, e ClF.
+A criolita natural, Na3AlF6, é um mineral que contém fluoretos. Se extraía na Groenlândia, porém atualmente está praticamente esgotada. Pode-se obtê-la sinteticamente para ser empregada na obtenção de alumínio por eletrólise.
+O gás sarin é produzido a partir de compostos de flúor.
+
+
+== Odontologia ==
+
+Normalmente são acrescentados fluoretos nos cremes dentais em torno de 1 000 ppm a 1 500 ppm, que não devem ser engolidos.
+Também é adicionada à água em baixa quantidade (0,6 ppm – 1,0 ppm) por ser muito tóxico. A Organização Mundial da Saúde (OMS) considera o Flúor como um medicamento.
+No período do governo do então presidente Ernesto Geisel, no Brasil, foi implantado a fluoretação. Contudo as leis de fluoretação de águas públicas foram recentemente contestadas por políticos, e outros profissionais contrários ao tratamento em massa da população, no senado e câmara, considerado antiético, segundo seus valores, ao tempo em que foram festejadas por organizações médicas e comunidades científicas.
+É sabido que a fluoretação tem eficácia menor de 5% nas redução das cáries.A OMS também recomenda que seja feita a pesquisa das fontes de flúor extra-água, para saber se as pessoas já são expostas aos níveis desnecessários do elemento no ar e comida. Infelizmente essa atitude é pouco praticada no Brasil. É tarefa de odontólogos, autoridades públicas e cientistas garantir que o uso excessivo da substância valha punição severa para seus praticantes (indústria, técnicos das estações de tratamento da água, etc.), e que as margens corretas sejam usadas, a fim de se reduzir a doença cárie com o mínimo de efeitos colaterais bem como garantir tratamento para vítimas de fluorose com aspecto antiestético (relativamente rara[Carece de fontes]).
+Vale lembrar que algumas águas são naturalmente fluoretadas. Já as garrafas de águas minerais seguem as leis de fluoretação. Assim, a fluoretação não se mostra tão eficiente e necessária quanto se propagandeia.
+O Flúor, advindo da fluoretação artificial, é absorvido em quantidades excessivas pelo organismo humano, e dificilmente excretadas. A maior parte dele se deposita nas partes sólidas do organismo mamífero, o tecido ósseo, enquanto uma pequena porção singra para os dentes. Fluoretos orgânicos talvez sejam nutrientes essenciais, mas essa possibilidade ainda não foi provada, embora um ser humano normal tenha em média 500 ppm/F nos ossos do corpo.
+Uma intoxicação por flúor é conhecida como fluorose dentária, e se manifesta com um aspecto quebradiço e cromaticamente disforme dos dentes. Geralmente acontece quando do consumo de grandes quantidades de águas fluoretadas, tanto não natural e naturalmente adicionados, em boa parte das crianças (por estarem em processo de crescimento e formação óssea), e em alimentos processados com estas águas, por isso é importante que sejam suplementada de cálcio e iodo para que a criança não sofra de má mineralização com cristais defeituosos de Fluorita (CaF2) e problemas da tireoide. A lista dos efeitos pode ser resumida assim, para o consumo de compostos do flúor.
+
+6,0 mg/dia — Efeitos nocivos, presença de problemas ósseos e neurológicos em algumas crianças e fluorose leve, moderada e severa com sério comprometimento da estética. Muita gente resiste bem a essa porção.
+10,0 mg/dia a 20 mg/dia — Quantidade tóxica. Algumas pessoas poderão ter problemas gástricos devido a formação do HF no estômago. Essa porção pode levar a moléstias ósseas como fluorose esquelética, artrite e fraturas de stress, associadas a distúrbios de aprendizagem em infantes. Corresponde a problemas reportados pelo UNICEF em comunidades indianas e chinesas. Está ligada a problemas relatados por pessoas vivendo próximo a fábricas de cerâmica e fertilizantes e consumidores de águas insalubres no Nordeste brasileiro. A água com mais de 1,5 ppm deve ser tratada com adsorção, floculação, destilação ou osmose reversa.
+200 mg — Já foi relatado, nessa dosagem, morte por intoxicação de crianças. Causa grande mal-estar gástrico devido a formação do ácido fluorídrico(HF) no estômago e consequente ferida na mucosa gástrica.
+500 mg–2g — Com 500 mg, em um consumo único, causa parada cardíaca e morte em crianças e com doses a partir de 2 g, de fluoreto de sódio, pode matar um adulto. Lavagem gástrica e consumo de água de cal (Ca(OH)2), hidróxido de magnésio, ou leite, podem diminuir a absorção da substância por parte do organismo. É fundamental que o paciente seja levado a um hospital para tratamento.
+
+
+== Precauções ==
+O flúor e o HF devem ser manuseados com grande cuidado, devendo-se evitar totalmente qualquer contato com a pele ou com os olhos. Também não podem ser armazenados em recipientes de vidro pois corroem.
+Tanto o flúor como os íons fluoretos são altamente tóxicos. O flúor apresenta um odor acre característico, sendo detectável em concentrações tão baixas como 0,02 ppm, abaixo dos limites de exposição recomendados.
+O flúor é mais tóxico que o chumbo, cuja quantidade na água potável não deve superar 0,4 partes por milhão (ppm). O nível do flúor na água potável costuma ser de 1,5 ppm.
+Na Sicília foi achada uma relação entre as regiões de alta concentração de flúor na água com a ocorrência graves doenças dentárias.
+A FDA considera que o flúor é um medicamento não aprovado, para o qual não existem provas de inocuidade e de efetividade.
+
+
+== Métodos analíticos ==
+Segundo o Standard Methods for the Examination of Water and Wastewater, 22º edição, as maneiras mais usadas para se determinar flúor são por colorimetria, via SPADNS, e por íon seletivo. Como explicado acima é muito importante controlar os níveis de flúor, tanto na água potável quanto nos efluentes. Segundo a portaria 2914 de 12 de dezembro de 2011 do MS o nível máximo permitido para o flúor na água potável é 1,5 mg/L, por seu excesso fazer mal.
+
+
+== Ver também ==
+Iodo
+Carcinógeno
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+«WebElements.com - Fluorine» (em inglês) 
+«EnvironmentalChemistry.com - Fluorine» (em inglês) 
+«It's Elemental - Fluorine» (em inglês)

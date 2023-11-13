@@ -1,0 +1,19 @@
+Turboélice ou turbopropulsor é um motor à reação equipado com transmissão que faz girar as hélices de um avião. As aeronaves movidas com essa tecnologia também são chamadas de turboélices.
+Trata-se de um motor de reação mista, pois é basicamente um motor a jato acionando uma hélice. Entre o eixo da turbina e a hélice há um redutor de velocidade. A força propulsiva deste motor é produzida 90% pela hélice e 10% pelos gases de escapamento. 
+Normalmente é menor e mais leve que um motor a jato de tração equivalente, mais simples e possui menos partes móvei, fornece maior tração que o jato puro em baixas velocidades, com menor consumo decombustível.Nas decolagens acentua sua eficiência em virtude da hélice movimentar uma grande massa de ar e nos pousos propicia maior força de frenagem, pelo maior arrasto oferecido pelo disco da hélice em passo mínimo ou reversso.Como desvantagem são mais lentos e voam mais baixo, o que pode tornar o voo turbulento se as condições meteorológicas não colaborarem. Tendem a ser, para o passageiro, mais barulhentos, devido aos ruídos provocados pelas pás das hélices.
+
+Alguns tipos são de turbina livre, com uma turbina para acionar a hélice e outra, independente, para acionar o compressor. Um exemplo é o turboélice de fluxo reverso, um motor compacto que tem seu funcionamento diferente. O ar é captado pela parte traseira do motor e a saída dos gases de escapamento é feita na parte dianteira. Essa tecnologia é encontrada no PT6, que equipa o Bandeirante.
+Os turboélices são mais utilizados em aeronaves de pequeno e médio porte, geralmente mais eficientes em velocidades inferiores a 750 km/h (390 nós), como também em aeronaves para pistas curtas (STOL) e em rotas regionais de pequenas distâncias, onde a diferença do tempo de voo comparado a um avião a jato se torna baixa, consumindo aproximadamente 2/3 do combustível de avião a jato.
+
+
+== Ver também ==
+Avião elétrico
+Hélice
+Motor a jato
+Motor elétrico
+Pós-combustão
+Termojato
+Turbofan
+
+
+== Referências ==

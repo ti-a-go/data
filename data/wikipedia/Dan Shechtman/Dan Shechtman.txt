@@ -1,0 +1,23 @@
+Dan Shechtman  (em hebraico:  דן שכטמן; Tel Aviv, 24 de janeiro de 1941) é um físico israelense e professor de ciência dos materiais no Instituto de Tecnologia de Israel.
+Foi laureado com o Prêmio Wolf de Física de 1999 e com o Nobel de Química de 2011, ambos pela descoberta dos quase-cristais.
+
+
+== Cristal quasiperiódico ==
+Um cristal quasiperiódico, ou, em suma, quasicristal, é uma estrutura ordenada, mas não periódica. Um padrão quase cristalino pode preencher continuamente todo o espaço disponível, mas carece de simetria translacional. "Mosaicos aperiódicos, como os encontrados nos mosaicos medievais islâmicos do palácio de Alhambra na Espanha e no santuário Darb-i Imam no Irã, ajudaram os cientistas a entender como os quasicristais se parecem no nível atômico. Nesses mosaicos, como nos quasicristais, os padrões são regulares – seguem regras matemáticas – mas nunca se repetem."  A constante conhecida como a letra grega tau, ou a "proporção áurea", ocorre repetidamente. Subjacente está uma sequência elaborada por Fibonacci no século XII, onde cada número é a soma dos dois anteriores".Materiais quasicristalinos podem ser usados ​​em um grande número de aplicações, incluindo a formação de aço durável usado para instrumentação fina e isolamento antiaderente para fios elétricos e equipamentos de cozinha, mas atualmente não têm aplicações tecnológicas industriais práticas.
+
+
+== Trabalhos publicados ==
+Shechtman, D.; Blech, I.; Gratias, D.; Cahn, J.W. (1984). «Metallic Phase with Long-Range Orientational Order and No Translational Symmetry». Physical Review Letters. 53 (20): 1951. Bibcode:1984PhRvL..53.1951S. doi:10.1103/PhysRevLett.53.1951 
+Swartzendruber, L.; Shechtman, D.; Bendersky, L.; Cahn, J.W. (1985). «Nuclear γ-ray resonance observations in an aluminum-based icosahedral quasicrystal». Physical Review B. 32 (2): 1383–1385. Bibcode:1985PhRvB..32.1383S. PMID 9937171. doi:10.1103/PhysRevB.32.1383 
+Cahn, John W.; Gratias, Denis; Shechtman, Dan (1986). «Pauling's model not universally accepted». Nature. 319 (6049): 102. Bibcode:1986Natur.319..102C. doi:10.1038/319102a0 
+Shechtman, Dan (1988). «The Icosahedral Quasiperiodic Phase». Physica Scripta. T23: 49. Bibcode:1988PhST...23...49S. doi:10.1088/0031-8949/1988/T23/008 
+Cahn, John W.; Shechtman, Dan; Gratias, Denis (1986). «Indexing of icosahedral quasiperiodic crystals». Journal of Materials Research. 1 (1): 13. Bibcode:1986JMatR...1...13C. doi:10.1557/JMR.1986.0013 
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+Biography/CV Page
+«Perfil no sítio oficial do Nobel de Química 2011» (em inglês)

@@ -1,0 +1,26 @@
+Aeronavegabilidade (em inglês: "airworthiness") é a propriedade ou capacidade de uma aeronave de realizar um voo seguro ou navegar com segurança no espaço aéreo, para o transporte de pessoas, bagagens ou cargas, ou para a realização de serviços aéreos especializados, policiais ou outros. Essa propriedade ou capacidade é reconhecida pelo órgão governamental responsável através da concessão de um certificado de aeronavegabilidade. Esse certificado é, junto com o certificado de marcas de nacionalidade e matrícula, uma condição necessária para que uma aeronave civil possa voar na maioria dos países, particularmente os que integram a Organização da Aviação Civil Internacional.   
+
+
+== Certificado de Aeronavegabilidade ==
+De acordo com os regulamentos brasileiros da aviação civil (RBAC 21, seção 21.175) , assim como os regulamentos federais da aviação norte-americana (CFR 14 - Part 21, § 21.175) , existem basicamente dois tipos de certificados de aeronavegabilidade:
+
+certificado de aeronavegabilidade padrão (ou simplesmente certificado de aeronavegabilidade), que é aquele emitido para aeronaves de projeto certificado. Esse certificado segue as normas da Organização da Aviação Civil Internacional e dá direito à primeira e a segunda liberdades do ar (sobrevoo e pouso técnico) previstas na Convenção de Chicago; ecertificado de aeronavegabilidade especial, que inclui propósitos tais como voos experimentais e voos de translado para retorno à base de manutenção.
+Quando se trata de certificado de aeronavegabilidade padrão, três componentes são básicos:
+
+a certificação do projeto da aeronave, que engloba atividades de avaliação de engenharia, simulações, testes de laboratórios e em protótipos, e voos experimentais;a certificação de fabricação, onde se procura assegurar que cada unidade que sai da linha de montagem é idêntica ao projeto certificado;a manutenção da aeronave, que deve ser continuamente mantida através de um programa de manutenção/inspeções, geralmente conduzido por uma equipe de mecânicos de manutenção aeronáutica habilitados, podendo contar com o auxílio de um sistema de análise, diagnóstico e gerenciamento da "saúde" ("health") e da confiabilidade da aeronave.
+
+
+== Ver também ==
+Agência Nacional de Aviação Civil
+Aviação
+Aviação civil
+Segurança aérea
+Sistemas de Gerenciamento da Segurança
+Navegabilidade
+Spaceworthiness ("espaçonavegabilidade")
+Roadworthiness ("rodonavegabilidade")
+Railworthiness ("ferronavegabilidade")
+Crashworthiness ("proteção à colisão")
+
+
+== Referências ==

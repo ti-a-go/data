@@ -1,0 +1,23 @@
+A renda per capita ou rendimento per capita é um indicador que ajuda a medir o grau de desenvolvimento econômico de um país ou região. A renda per capita é obtida mediante a divisão da Renda Nacional (isto é, Produto Nacional Bruto menos os gastos de depreciação do capital e os impostos diretos) pelo número de habitantes do país. Por vezes o Produto Interno Bruto (PIB) é usado.
+Renda per capita tem o mesmo significado de renda pessoal, que, em macroeconomia, corresponde à renda total de todos os indivíduos  na forma de salários, transferências (a saber: subsídios, aposentadorias, pensões e outros benefícios previdenciários) honorários, alugueis, juros ou lucros, antes do pagamento do imposto de renda e demais tributos pessoais. A renda pessoal equivale à Renda Nacional menos as contribuições para a previdência social, os impostos sobre os lucros das empresas (tais como o imposto de renda), os lucros retidos pelas empresas mais as transferências do governo ou do setor privado.  Renda mundial disponível  é o que sobra para os indivíduos, depois do pagamento dos impostos.
+
+
+== Cálculo ==
+A renda é calculada para cada ano. Isto ocorre porque a apuração consolidada do PIB é realizada somente ao final do ano. Com relação as diferenças encontradas, devem-se basicamente a forma de contabilização, ou seja, preços correntes, ou série histórica normalizada. Para o Brasil, a fonte mais adequada para obter dados do PIB é o IBGE.
+Embora seja um índice muito útil, por se tratar de uma média esconde várias disparidades na distribuição de renda. Por exemplo, um país pode ter uma boa renda per capita, mas um alto índice de concentração de renda e grande desigualdade social. Também é possível que um país tenha uma baixa renda per capita mas não haja muita concentração de renda, não existindo assim grande desigualdade entre ricos e pobres. Os atuais países com a mais alta renda per capita são o Luxemburgo, a Suíça, a Noruega e a Suécia. (em PPC).
+Também é importante notar que é impossível comparar as rendas per capita dos vários países com precisão, porque os preços dos mesmos produtos não são iguais e as diferenças entre os preços dos produtos são desproporcionais entre si, o que torna impossível saber com certeza se um país X tem uma renda per capita maior que um país Y, mesmo usando corretores de PPC. As estatísticas de renda per capita, são usadas para se ter uma ideia grosseira do nível de vida dos habitantes de vários países e da produtividade industrial desses mesmos países.
+A quantidade total de bens e serviços produzidos dentro de um país, por agentes nacionais ou estrangeiros, durante um ano constitui o Produto Interno Bruto (PIB). O PIB refere-se apenas à produção interna, isto é, realizada no país, dentro do seu território, por agentes de qualquer município dentro do território do país, produzidos por agentes nacionais e estrangeiros.
+PNB = é igual à produção interna somada aos recursos vindos do exterior e subtraída pelos que saem do país.
+
+
+== A renda per capita no mundo ==
+A renda per capita (expressão latina que significa "por cabeça" ou "por pessoa") mostra a renda média de uma população. Normalmente, os países desenvolvidos têm PIB e renda per capita maiores que os dos países subdesenvolvidos. As exceções são países com pequena população, mas que possuem alguns bilionários deixando um enorme desvio-padrão de renda e aparentando possuir elevada renda média como é o caso dos Emirados Árabes Unidos com um PIB per capita de US$ 55 028 (em 2009), o 14° maior do mundo e outros pequenos países árabes.
+Os Estados Unidos possuem uma economia gigantesca, a maior do mundo, com um PIB superior a 14 trilhões de dólares, ao passo que alguns países pobres, como a República Democrática do Congo, têm um PIB de apenas 8,5 bilhões de dólares.
+Entretanto, nem sempre um grande PIB corresponde a uma elevada renda per capita, pois ela não depende apenas das riquezas produzidas, mas também do tamanho da população do país. A China, por exemplo, tem um PIB PPC de mais de onze trilhões de dólares - segundo maior do mundo, segundo o FMI, em 2011. Porém, devido à sua imensa população (1,3 bilhões), a divisão dessa riqueza pelo número de habitantes resulta numa renda per capita relativamente modesta: nove mil dólares. A Noruega e a Suíça, embora possuam PIBs pequenos, têm as mais elevadas rendas per capita do mundo, em virtude de suas pequenas populações.
+
+
+== Brasil ==
+Esta é uma lista das unidades federativas brasileiras classificados por renda média domiciliar per capita em 2022 segundo o IBGE.
+
+
+== Referências ==

@@ -1,0 +1,56 @@
+Avião furtivo, ou stealth, são aqueles que possuem um RCS (Radar Cross Section) baixíssimo. Tal aeronave é capaz de fazer essa proeza refletindo Ondas eletromagnéticas ou as absorvendo. O Stealth não quer dizer necessariamente que a aeronave não será mais detectada pelo radar. As aeronaves continuam sendo detectadas, mas agora com o RCS muito baixo. Dependendo do poder do radar as aeronaves stealth seriam detectadas, mas seriam confundidas com pequenos animais voadores que apresentam um RCS de uma águia, por exemplo. Em conjunto de táticas de voo, com a capacidade furtiva das aeronaves, um piloto de um avião Stealth é virtualmente invisivel (ao radar).
+
+
+== Tecnologia Stealth ==
+Aviões como o F-117 Nighthawk, um avião militar norte americano de pequenas dimensões e que possui uma tecnologia stealth, apresenta uma baixa assinatura radar ou um baixíssimo RCS (equivalente ao de um pardal).
+
+
+== Surgimento ==
+Para fazer do RCS um avião baixo, na década de 1970 a agência de espionagem CIA encomendou uma aeronave que pudesse voar nas grandes altitudes a altíssimas velocidades. Seu projeto se desenvolveu no SR-71 Blackbird.
+
+
+== Como eles se ocultam ==
+O SR-71 Blackbird conseguia diminuir o seu RCS pelo fato de possuir muitos ângulos curvos. Ângulos curvos conseguem dispersar as Ondas eletromagnéticas, assim diminuindo seu RCS. Logo se descobriram novas tecnologias para incrementar, como a invenção do RAM.
+Entretanto as aeronaves B-2 Spirit e F-117 Nighthawk possuem muitos ângulos curvos, o que prejudica em muito a sua estabilidade em voo. A solução encontrada foi desenvolver softwares (e usar o Fly-by-wire), para o computador de bordo do avião conseguir se estabilizar durante o voo.
+
+
+== RAM ==
+Radar Absorbent Material (material de absorção de radar), ou RAM, é uma espécie de tinta, que ao se passar sobre o avião, reagiria absorvendo algumas Ondas eletromagnéticas e impedindo sua defleção. As ondas de radar seriam induzidas pelo campo magnético desse material para a conversão de energia em calor.O RAM também é formado por microesferas, as quais desviam o fluxo da onda de radar para outra direção, que não aquela da qual foi sua
+origem. Desta forma, o radar (fonte de origem do sinal) não terá o retorno do seu eco.
+Essa tecnologia norte-americana é muito cara, mas sua capacidade já foi testada no Afeganistão e no Iraque, demonstrando ter desempenho relativamente considerável.
+
+
+== Sinais de Radar - ecos ==
+Os aviões grandes produzem, por princípio, os ecos de radar mais importantes. Mas a forma é igualmente determinante. O Lockheed F-117 é constituído de uma série de pequenas superfícies facetadas. O radar funciona emitindo Ondas eletromagnéticas o que "ecoa" nos aviões e retorna com dados sobre o tamanho, distância e a velocidade, permitindo-se saber de qual aeronave se trata (semelhante ao sonar dos submarinos) graças ao seu design.
+
+
+== Utilização dos furtivos ==
+Durante a guerra do Golfo em 1991, existiam muitas operações de bombardeio, arriscadas para aviões como o gigante B-52 ou o eficiente bombardeiro estratégico F-111, utilizados desde os anos 60 no Vietnã. Apesar de terem um excelente curriculum, a USAF não queria se dar ao luxo de haver a possibilidade de perda de aeronaves.
+A situação pedia eficiência e furtividade. A solução: o F-117. Invisível ao radar, o F-117 é o mais indicado para cumprir missões de bombardeios estratégicos. Suas bombas guiadas a laser acertam alvos com uma precisão de erros de apenas poucos centímetros.
+Após o início dos desenvolvimentos furtivos, a necessidade da USAF de substituir seus F-15 em serviço, culminou no desenvolvimento do avião caça mais caro e poderoso do planeta, o F-22 Raptor.Outra necessidade norte-americana foi o programa desenvolvimento para um bombardeiro nuclear estratégico. No final, a Boeing apresentou o B-2 Spirit. Custando a bagatela de US$ 2 bilhões, podemos dizer que o B-2 é o mais caro e eficiente bombardeiro do mundo. Enquanto os F-117 podiam destruir apenas 2 alvos por missão, o B-2 é capaz de destruir 17 deles, segundo alguns simultâneos.
+
+
+== Antigas especulações ==
+
+
+=== Abordagem empregada pela Rússia ===
+As aeronaves furtivas dos EUA são projetadas para serem invulneráveis aos radares que usam a banda X do espectro eletromagnético. Por sua vez, os radares mais antigos usavam a frequência de rádio de banda L. Agora, na Rússia, há também radares que usam ambas as bandas e, portanto, alguns radares registrariam facilmente aeronaves "invisíveis". Além disso, os radares russos são equipados com sistemas optoeletrônicos. Portanto, eles ainda podem detectar alvos quer na faixa ótica visível, quer no espectro infravermelho e ultravioleta.Porém, o interesse russo mais recente em aeronaves stealth com o desenvolvimento da nova aeronave russa o Pak-fa T-50 demonstrou que, as especulações sobre o possível radar que identifica aeronaves furtivas são falsas, devido à própria Rússia já desenvolver esse tipo de tecnologia admitindo que, o futuro da aviação se encontra em aeronaves stealth. Neste sentido, este projeto, encontra-se em fase inicial e, se comparada ao projeto do F-22, pode demorar décadas até se tornar operacional.[carece de fontes?]
+
+
+=== Baixas Frequências de radar ===
+Recentemente um artigo da revista Aviation Week & Space Technology revelou que na Operação Tempestade no Deserto, os americanos haviam montado um centro de pesquisa e desenvolvimento para detecção de aeronaves. Esse grupo estaria utilizando baixas frequências de radar, e que afirmaram ter detectado com dificuldades aeronaves Stealth, mesmo que de forma bastante limitada. "Nada é invisível ao radar de frequência abaixo de 2GHz", afirma o diretor-executivo da revista. Apesar da possível detecção, o tamanho das ondas detectadas se comparam com a de um pardal, sendo impossível afirmar que realmente o objeto detectado seria um avião militar.
+
+
+== Referências ==
+
+
+== Ver também ==
+Tecnologia stealth
+Força Aérea dos Estados Unidos
+Força Aérea Russa
+
+
+== Ligações externas ==
+«Tecnologia furtiva na página da UOL». (em português) 
+«Rússia mostra o PAK-FA» 
+«Superioridade do F-22 comprovada no exercício Red Flag 2008»

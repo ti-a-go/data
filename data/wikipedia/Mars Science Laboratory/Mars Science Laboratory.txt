@@ -1,0 +1,63 @@
+Mars Science Laboratory (MSL) é a designação de uma sonda espacial da NASA, lançada em 26 de novembro de 2011, levando em seu interior um rover batizado como Curiosity (em português, Curiosidade), um jipe robô semelhante aos veículos  Spirit e Opportunity, utilizados na missão espacial Mars Exploration Rover para a exploração do planeta. O pouso na superfície de Marte, mais precisamente na cratera Gale, ocorreu em 6 de agosto de 2012. Os principais objetivos do Curiosity incluem investigar a possibilidade da existência de vida em Marte (isto é, sua habitabilidade planetária), estudar o clima, a areologia e coletar dados para o envio de uma futura missão tripulada a Marte.
+O Curiosity transporta os mais avançados instrumentos científicos já utilizados em Marte, possibilitando a esta missão realizar análises do solo marciano nunca antes registradas. A comunidade internacional foi a responsável pelo fornecimento da maioria dos seus instrumentos, não tendo sido portanto um projeto exclusivo dos Estados Unidos.
+
+
+== História ==
+Em abril de 2004, a NASA solicitou à comunidade científica propostas de idéias de instrumentos científicos que pudessem ser instalados no Mars Science Laboratory. Oito propostas foram selecionadas em 14 de dezembro daquele ano. Os projetos e testes dos componentes também começaram a ser realizados ao final de 2004, incluindo um motor de propulsão de foguete desenhado pela empresa norte-americana Aerojet, originalmente construído e testado em 1973 para o programa Viking. O motor havia sido colocado em armazenamento após a aterrissagem bem sucedida das sondas Viking 1 e Viking 2 em Marte, em 1976.
+Inicialmente, o lançamento estava previsto para 2009, porém a NASA decidiu adiar para 2011 sob a alegação de que faltavam alguns ajustes finais que dariam mais segurança à missão. Havia ainda uma discussão sobre a possibilidade de serem lançados dois ou três veículos idênticos para Marte. Estima-se que o Mars Science Laboratory venha a ter uma massa de 600 kg (1.320 lb), incluindo 65 kg (143 lb) de instrumentos científicos; comparado com os veículos anteriores em Marte (Spirit e Oportunity), que têm uma massa de 187 kg (403 lb), incluindo 5 kg (11 lb) de instrumentos científicos.
+Adicionalmente, o veículo é capaz de vencer obstáculos com a altura de 76,0 cm (30 in) e tem a capacidade de vencer uma distância de 91,54 m (300 ft) em uma hora. Mas apenas é esperado que vença a distância de 30,5 m (100 ft) por hora, baseado-se em variáveis que incluem a energia disponível, a dificuldade em vencer o terreno, o escorregamento do solo e a visibilidade.
+Uma vez no solo de Marte, o veículo iniciou a análise de dezenas de amostras de solo e do núcleo das rochas em uma maior escala que os veículos anteriores, tendo como objetivo investigar o passado do planeta e consequentemente a possibilidade de que tenha suportado formas de vida. O veículo MSL foi lançado por meio de um foguete espacial Atlas V. O rover Curiosity tocou a superfície de Marte em 6 de agosto de 2012, as 05h31 min GMT, começando imediatamente a enviar imagens para a Terra e iniciando uma missão prevista para dois anos no planeta vermelho.
+
+
+== Primeira descoberta - um riacho ==
+A sonda descobriu um leito antigo de rio no seu local de pouso, entre o norte da cratera Gale e a base do monte Sharp, uma montanha dentro da cratera. Trata-se de um conglomerado de cascalho transportado por um fluxo de água no passado. A NASA calcula que o rio teria profundidade para que a água ficasse entre o tornozelo e o quadril de um adulto.A forma redonda das pedras indica que elas foram transportadas por longas distâncias e a quantidade de canais entre a margem e o depósito indica que o rio existiu por muito tempo. As observações começaram logo no início da missão, antes mesmo do pouso da Curiosity. Os cientistas descartam o transporte das pedras pelo vento:
+
+
+== Especificações ==
+
+
+=== Nave espacial ===
+O sistema da nave espacial tinha a massa de 3893 kg no lançamento, consistindo de um estágio de cruzeiro carregado de combustível com 539 kg, o sistema entrada-descida-pouso (EDL, entry-descent-landing) (2401 kg incluindo 390 kg de propelente de pouso), e um módulo rover de 899 kg com um conjunto de instrumentos integrados.A nave MSL inclui instrumentos específicos para o vôo espacial, em adição a utilizar-se dos instrumentos de detecção e avaliação de radiação do rover (RAD - Radiation Assessment Detector) durante o trajeto do voo espacial até Marte.
+
+MSL EDL Instrument (MEDLI): O principal objetivo do projeto do MEDLI é realizar medições ambientais aerotermais, resposta do material do escudo de proteção contra o calor abaixo da superfície, a orientação do veículo, a densidade atmosférica para a entrada em atmosfera sensível até a separação na entrada do escudo térmico do veículo Mars Science Laboratory. O conjunto de instrumento MEDLI foi instalado no escudo de proteção térmica do veículo de entrada MSL. Os dados obtidos apoiarão futuras missões a Marte, fornecendo dados atmosféricos medidos para validar modelos da atmosfera de Marte e esclarecer os parâmetros dos equipamentos para futuras missões a Marte.  A instrumentação MEDLI consiste de três subsistemas principais: Conectores de Sensores Integrados (MISP, MEDLI Integrated Sensor Plugs), Sistema de Dados Atmosféricos de Entrada em Marte, (MEADS, Mars Entry Atmospheric Data System) e o Eletrônica de Suporte de Sensor (SSE, Sensor Support Electronics).
+
+
+=== Rover ===
+
+O rover Curiosity tem uma massa de 899 kg, pode deslocar-se a até 90 m por hora sobre suas seis rodas de suspensão móvel, tem o fornecimento de energia proporcionado por um gerador termoelétrico de radioisótopos (RTG, radioisotope thermoelectric generator), e comunica-se tanto nas frequências de banda X como UHF.
+
+
+==== Computadores ====
+Os dois computadores idênticos a bordo do rover (on-board), chamados Rover Compute Element (RCE, "Elemento de Computação do Rover"), contém memória blindada contra radiação para tolerar a extrema radiação do espaço e salvaguardar-se contra ciclos de perda de potência. Cada memória de computador inclui 256 MB de EEPROM, 256 MB de DRAM e 2 GB de memória flash. Isso comparado aos 3 MB de EEPROM, 128 MB de DRAM, e 256 MB de memória flash usada nos Mars Exploration Rovers.Os computadores RCE usam a CPU RAD750 (um sucessor da CPU RAD6000 usada nos Mars Exploration Rovers) operando a 200 MHz. A CPU RAD750 CPU é capaz até 400 MIPS, enquanto a CPU RAD6000 é capaz até 35 MIPS. Dos dois computadores de bordo, um é configurado como backup, e vai assumir em caso de problemas com o computador principal.O rover tem uma unidade de medição inercial (IMU - Inertial Measurement Unit), que fornece informação nos três eixos no espaço de sua posição, a qual é usada na navegação do rover. Os computadores do rover estão constantemente se automonitorando para manter o rover operacional, como por meio da regulação de sua temperatura. Atividades tais como capturar imagens, navegação e operar os instrumentos são realizadas em uma sequência de comando que é enviada da equipe de voo para o rover.Os computadores do rover operam em VxWorks, um sistema operacional de tempo-real desenvolvido pela companhia Wind River Systems, com sede em Alameda, EUA. Durante a viagem até Marte, o VxWorks rodou aplicações dedicadas à fase de navegação e orientação da missão, e também tinha uma sequência de software pré-programada para lidar com a complexidade da entrada-descida-pouso. Após o pouso, as aplicações foram substituídos por um software para a condução na superfície e realização de atividades científicas.
+
+
+==== Comunicações ====
+O Curiosity está equipado com várias modalidades de comunicação, para que haja redundância. Um sistema na faixa de frequência Banda X (small deep space transponder) para comunicações diretamente para a Terra utilizando a rede Deep Space Network da NASA e um sistema UHF de rádio definido por software para comunicação na órbita de Marte.pg.46 O sistema Banda X tem um equipamento de radiofrequência com um amplificador com potência de 15 W e duas antenas: uma omnidirecional de baixo ganho que é capaz de se comunicar com a Terra em taxas bastante baixas (15 bit/s no máximo), independentemente da orientação do rover, e uma antena de alto ganho que pode se comunicar com velocidades de até 32 kbit/s, mas que precisa ser direcionada. O sistema UHF tem dois equipamentos de rádio com aproximadamente 9 W de potência, compartilhando a antena omnidirecional.pg.81Isso permite comunicar-se com o Mars Reconnaissance Orbiter (MRO) e o orbitador Odyssey (ODY) a velocidades de até 2 Mbit/s e 256 kbit/s, respectivamente, mas cada orbitador pode comunicar-se com o Curiosity por aproximadamente 8 minutos por dia. Os orbitadores têm grandes antenas e rádios mais potentes e podem transmitir dados para a Terra mais rápidamente do que o rover poderia fazer diretamente. Portanto, a maior parte dos dados devolvidos pela Curiosity (MSL) é via ligações de transmissão UHF com a MRO e a ODY. O retorno dos dados através da infraestrutura de comunicação, tal como aplicado ao MSL, foi observado durante os primeiros 10 dias e foram de aproximadamente 31 megabytes por dia.
+Normalmente são transmitidos 225 kbit por dia de comandos para o rover diretamente da Terra, com uma taxa de transferência de dados de 1 a 2 kbit/s. O intervalo de transmissão dos dados é de 15 minutos (900 segundos). Os volumes maiores de dados coletados pelo rover são devolvidos via satélite de retransmissão. O atraso de comunicação unidirecional com a Terra varia de 4 a 22 minutos, dependendo da posição relativa entre os planetas, com 12,5 minutos de média.Durante o pouso, o monitoramento da telemetria é feito pelos satélites Mars Odyssey, Mars Reconnaissance Orbiter e Mars Express. O Odyssey consegue retransmitir os sinais para a Terra em tempo real, com variações que dependem da distância entre os dois planetas. O pouso tem um tempo de duração de 13 minutos e 46 segundos.
+
+
+==== Sistemas de mobilidade ====
+O Curiosity é equipado com seis rodas montadas em uma suspensão oscilante, que também servem como trem de pouso, o que não aconteceu nos seus antecessores. As rodas têm um diâmetro de 50 in (1,27 m), bem maiores do que as dos rovers anteriores. Cada roda tem sapatas que atuam e são orientadas de forma independente, para uma escalada tanto em areia macia quanto em terreno pedregoso. Cada uma das quatro rodas dos cantos do rover possui direção independente, permitindo que o veículo faça as curvas normalmente ou gire em seu próprio eixo. Cada roda tem um padrão que ajuda a manter a tração e deixa trilhas modeladas na superfície de areia de Marte. Esse padrão é usado por câmeras para calcular a distância percorrida e é a codificação das iniciais JPL em código Morse. Em relação ao centro de massa, o veículo permite uma inclinação de pelo menos 50 graus em qualquer direção, sem perder sua estabilidade, contudo existem sensores que limitam essa inclinação a 30 graus.
+
+
+== Vídeos ==
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Site do Jet Propulsion Laboratory (JPL) sobre a missão
+Descrição sobre a fonte de energia nuclear do veículo

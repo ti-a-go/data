@@ -1,0 +1,102 @@
+Aeronave híbrida elétrica, é um veículo híbrido elétrico onde um motor de combustão interna aciona um conjunto gerador/motor elétrico para aumentar a eficiência geral ou o alcance. Devido aos ganhos de eficiência como economia de combustível, os custos de consumo poderiam ser potencialmente reduzidos, o que poderia ajudar esta tecnologia a avançar no mercado.
+Como a densidade de energia das baterias de íons de lítio é muito menor do que o combustível de aviação, um sistema de propulsão híbrido elétrico pode efetivamente aumentar o alcance de voo em comparação com aeronaves elétricas puras. Em Maio de 2018, havia mais de 30 projetos de aeronaves elétricas híbridas, e aviões híbridos-elétricos de curta distância estavam previstos a partir de 2032.
+
+
+== História ==
+O conceito subsônico Boeing Truss-Braced Wing foi planejado com propulsão elétrica híbrida. O Diamond HK36 Super Dimona voou pela primeira vez em 8 de junho de 2011, o primeiro voo de um trem de força híbrido em série, reduzindo o consumo de combustível e as emissões em até 25%, uma tecnologia escalável para um avião de 100 lugares. Um pequeno motor Austro Engine e 100 kg (220 lb) mais leve que o motor Wankel de 40 HP (30 kW) gera a eletricidade, complementada por baterias EADS para decolagem silenciosa, alimentando um motor elétrico Siemens de 70 kW (94 HP) girando a hélice. O AgustaWestland Projeto Zero foi concebido para ser híbrido-elétrico.
+
+
+=== 2011 ===
+A Nasa patrocinou o Centennial Challenges para incentivar o desenvolvimento do avião mais eficiente em termos de combustível do mundo. O concurso foi co-patrocinado pelo Google e foi realizado nos céus da Califórnia. Entre os participantes estava a primeira aeronave híbrida paralela gás-elétrica do mundo chamada EcoEagle, construída por estudantes da Embry–Riddle Aeronautical University, dois aviões elétricos - o Pipistrel Taurus G4 e o eGenius.
+
+
+=== 2014 ===
+A Faradair Aerospace lançou um conceito de aeronave elétrica híbrida triplana chamada BEHA (Bio Electric Hybrid Aircraft) como uma das primeiras aeronaves regionais do mundo especificamente projetadas para voos regionais híbridos elétricos. A startup do Reino Unido continuou o desenvolvimento desde o conceito inicial até a mais recente variante BEHA M1H, com oportunidade futura para variantes não tripuladas (VANT) e todas as elétricas. O E-STOL BEHA ganhou apoio de membros-chave do governo do Reino Unido e o desenvolvimento da fuselagem foi conduzido na Universidade de Swansea.
+
+
+=== 2017 ===
+A Zunum Aero, apoiada pela Boeing e pela JetBlue Airways, está trabalhando desde 2014 em uma família de aeronaves regionais elétricas híbridas de 10 a 50 assentos. Em 5 de outubro de 2017, a Zunum lançou o desenvolvimento de uma aeronave de seis a 12 assentos. Com o objetivo de voar em 2020 e ser entregue em 2022, ele deve reduzir os custos operacionais em 40% a 80% para atingir os custos de milhas de assento disponíveis (ASM) de um De Havilland Canada Dash 8 de 78 assentos.Em 28 de novembro de 2017, a Airbus anunciou uma parceria com a Rolls-Royce Holdings e a Siemens para desenvolver o demonstrador de avião híbrido-elétrico Airbus E-Fan X, para voar em 2020.
+
+
+=== 2018 ===
+O General Electric Catalyst de 1.300 shp poderia ser usado em propulsão híbrida-elétrica: no final de 2016, a General Electric modificou um turbofan de caça GE F110 para extrair 250 kW de sua turbina HP e 750 kW de sua turbina LP, apoiada pelo Air Force Research Laboratory e pela NASA, desenvolveu e testou um motor/gerador elétrico de 1 megawatt com a GE Research, e testou um inversor refrigerado a líquido convertendo 2.400 volts CC em CA trifásico com interruptores baseados em carboneto de silício e módulos de potência MOSFET de 1,7 kW.Especialistas do setor esperam que um avião híbrido-elétrico de 50+ assentos estreie em operação comercial até 2032 para rotas como Londres-Paris.Em novembro de 2018, os escritórios da Zunum Aero foram fechados e todos os 70 funcionários foram demitidos quando o programa chegou ao fim.
+A UE financiou o programa Hypstair com 6,55 milhões de euros ao longo de três anos, até 2016, para um TRL (technology readiness level - nível de maturidade tecnológica) uma maquete de 4: do Pipistrel Panthera recebeu um trem de força híbrido-elétrico em série, testando em solo um motor de 200 kW movido apenas por baterias, por um gerador de 100 kW e por ambos combinados. Segue-se o projeto Mahepa de 2017, financiado pela UE ao longo de quatro anos com 9 milhões de euros ao abrigo do programa de investigação Horizon 2020 para reduzir as emissões de carbono da aviação em 70% em 2050, até ao TRL 6 antes de entrar no desenvolvimento de produtos.O trem de força Panthera será dividido em módulos: gerador de empuxo de motor elétrico e gerador de energia de combustão interna no nariz, interface homem-máquina e computação, combustível e baterias na asa. Os testes em solo estão planejados para 2019 antes dos testes de voo em 2020.
+O Pipistrel Taurus G4 de fuselagem dupla, quatro lugares e movido a bateria recebeu um trem de força de célula de combustível de hidrogênio do Centro Aeroespacial Alemão para voar como o HY4 em setembro de 2016, com tanques de hidrogênio e baterias nas fuselagens, células de combustível e motor na nacela central. Os parceiros são a desenvolvedora alemã de motores e inversores Compact Dynamics, a Universidade de Ulm, a TU Delft, o Politecnico di Milano e a Universidade de Maribor.Os testes de solo e voo devem seguir os do Panthera alguns meses depois.Ao longo de sua assistência em solo, o dimensionamento para aviões de 19 e 70 assentos será estudado em duas configurações: mais módulos do mesmo tamanho para propulsão elétrica distribuída, ou módulos de tamanho maior extrapolando os resultados do teste de voo, alimentando hélices duplas. Os voos testarão o comportamento do sistema, medirão o desempenho e a fiabilidade e avaliarão os modos de falha. Uma taxa de falha de uma por 10 milhões de horas é visada, tão baixa quanto em aviões, com componentes muito confiáveis ou com redundância.A empresa austríaca ScaleWings, desenvolvedora de uma réplica em escala do P-51 Mustang, desenvolveu um motor híbrido e redundante a pistão/elétrico, baseado em módulos independentes: um motor em V de quatro tempos de 1,15 L (70 pol.) produzindo 80 e 120 cv (60 e 89 kW) quando turboalimentado, e motores elétricos, produzindo 170 a 350 cv (130 a 260 kW) combinados.A VoltAero é uma startup formada em setembro de 2017 pelo diretor técnico e piloto de testes do Airbus E-Fan 1.0 2014, localizado em Royan e estabelecido com o apoio da região francesa da Nova Aquitânia. A empresa está desenvolvendo um banco de teste híbrido baseado no Cessna 337 Skymaster, que pretende voar no final de fevereiro de 2019. O protótipo VoltAero Cassio totalmente composto deve seguir em 2020, antes das entregas no final de 2021 ou início de 2022. Ele será alimentado por dois motores elétricos de 60 kW (80 hp) acionando hélices tratoras na asa e um motor de pistão de 170 kW (230 hp) e motor de 150 kW (200 hp) acionando uma hélice propulsora na fuselagem traseira. A combinação de combustível e baterias lhe dará uma autonomia de 1.200 km (650 nmi) com nove pessoas a bordo.Em 31 de outubro de 2018, a Diamond Aircraft Industries voou o HEMEP, financiado pelo Ministério Federal para Assuntos Econômicos e Proteção Climática da Alemanha e pela Austrian Research Promotion Agency, atingiu 130 kn (240 km/h) e 3.000 ft (910 m) em 20 minutos. É um Diamond DA40 modificado com o seu motor de pistão único substituído por dois motores elétricos Siemens de 75 kW (101 cv) no nariz alimentados por um motor Austro Engine E4 diesel de 110 kW (150 cv) ou duas baterias de 12 kWh (43 MJ), para uma resistência de 5 h ou 30 minutos apenas com baterias.
+
+
+=== 2019 ===
+Em janeiro de 2019, a startup estadounidense Ampaire estava substituindo o motor de pistão traseiro Cessna 337 Skymaster, uma aeronave push-pull ("empurra-puxa") por um motor elétrico, para pilotar o protótipo nas rotas de passageiros da havaiana Mokulele Airlines operadas com Cessna Caravans. Sete outras companhias aéreas estão interessadas nas conversões Caravan ou De Havilland Canada DHC-6 Twin Otter: Kenmore Air de Seattle, Tropic Air de Belize, Vieques Air Link com sede em Porto Rico, Southern Airways Express de Memphis, Tennessee, Aurigny de Guernsey e Star Marianas Air, com sede nas Ilhas Marianas do Norte, bem como a Noruega. Os voos de teste terão lugar numa rota de 28 mi (45 km) ao longo de 15 minutos entre o aeroporto de Kahului, no centro de Maui, e o aeroporto de Hana, no lado leste. O protótipo híbrido realizou seu primeiro voo de teste público em 6 de junho de 2019, antes do serviço programado planejado para 2021. A Personal Airline Exchange (PAX) tornou-se o cliente de lançamento do Skymaster modificado de seis lugares Ampaire Electric EEL, a ser certificado em 2021, com um pedido de 50 mais 50 opções.Em março de 2019, a UTC estava convertendo um Bombardier Dash 8 Q100 de 39 assentos em um híbrido-elétrico para voos de demonstração a partir de 2022 dentro de seu Projeto 804. O projeto de 2 MW (2.700 hp) é semelhante ao programa Airbus E-Fan X, mas visa a certificação e produção para uma oferta comercial subsequente. Um turboélice PW121 de 2.150 cv (1.600 kW) será substituído por uma turbina a gás de 1 MW (1.300 cv) unida a um motor elétrico da mesma classificação, alimentado por baterias de íons de lítio prontas para decolagem e subida. A turbina é usada sozinha em cruzeiro e aciona o motor-gerador para recarregar as baterias em descida. O motor de dimensões reduzidas funciona no seu nível ideal para uma poupança de combustível de 300–250 nmi (370–460 km). O alcance é reduzido de 1.000 para 600 nmi (1.900 para 1.100 km) devido ao maior peso vazio e capacidade de combustível 50% menor.Em Março, a Faradair Aerospace lançou seu BEHA M1H de 18 assentos durante Revolution.aero. em Londres, com propulsão híbrida turboélice e capacidade de passageiro/carga de "troca rápida", visando os regulamentos da categoria de passageiros CS23/Part23. A aeronave E-STOL é capaz de operar em pistas de pouso e decolagem de menos de 300m com carga útil de 5 toneladas a partir de sua exclusiva configuração de triplana por impulsão com hélice silenciosa alojada num duto.No Show Aéreo de Paris de junho de 2019, Daher, Airbus e Safran se uniram para desenvolver o demonstrador EcoPulse baseado no SOCATA TBM, com metade da demonstração de € 22 milhões (US$ 25 milhões) financiada pela DGAC (Direction générale de l'Aviation civile). O voo inaugural está programado para o verão de 2022 antes de uma hipotética certificação 2025-30. O motor existente da aeronave será complementado por seis motores elétricos de 45 kW (60 hp) na asa alimentados por uma APU de 100 kW (130 cv) ou baterias. Semelhante ao NASA X-57 Maxwell, a propulsão distribuída reduz os vórtices da ponta da asa e adiciona sustentação de baixa velocidade soprando a asa, permitindo uma asa menor e menor arrasto.Uma pesquisa de meados de maio de 2019 para o UBS AG mostra que 38% dos estadounidenses e alemães disseram que provavelmente voariam em um avião híbrido-elétrico, aumentando para mais de 50% para jovens de 18 a 44 anos. O UBS AG acredita que aeronaves híbridas para até nove passageiros em rotas curtas abaixo de 250 nmi (460 km) podem estar disponíveis a partir de 2022, e 2028 para aviões regionais de até 1 h de rota. O UBS previu um mercado para 16.000 aviões híbridos-elétricos e US$ 178-192 bilhões ao longo de 2028-40, principalmente na aviação geral, jatos executivos leves e aeronaves regionais com custos operacionais 20% menores do que os atuais 50-70 assentos.Liderado pela Cranfield Aerospace Solutions (CAeS), o Projeto Fresson começou em 1º de outubro de 2019, para voar um Britten-Norman BN-2 Islander elétrico dentro de 30 meses antes de uma certificação da AESA dentro de mais 6-12 meses. Ele visa uma resistência de 60 minutos mais reservas de 30 minutos e com energia cinco vezes mais barata do que Avgas e manutenção reduzida, o custo de conversão poderia ser recuperado em três anos e teria um motor de combustão extensor de autonomia. Metade do financiamento de £ 18 milhões (US$ 22 milhões) vem dos parceiros e a outra metade do governo do Reino Unido. Dos 800 Islanders em serviço, cerca de 600 são usados para voos curtos. Loganair deve usá-lo para conexões curtas ao largo do norte da Escócia.O desenvolvedor do Ampaire Electric EEL e a especializada em modificação de aeronaves Ikhana Aircraft Services, estudam um híbrido diesel-elétrico de 19 assentos De Havilland Canada DHC-6 Twin Otter. Poderia usar certificação da Ikhana para um aumento do MTOW (peso máximo de decolagem) de 5.443 para 6.350 kg (12.000 para 14.000 lb), espera-se que o estudo seja concluído até o final de 2019.
+
+
+=== 2020 ===
+Apoiado por financiamento bávaro, o Centro Aeroespacial Alemão está modificando um de seus dois Do 228 em um demonstrador híbrido-elétrico. O primeiro voo totalmente elétrico está planejado para 2020 e o primeiro voo híbrido-elétrico para 2021, aparentemente do Aeroporto de Magdeburg–Cochstedt. Os parceiros incluem a MTU Aero Engines e a Siemens, das quais a Rolls-Royce plc está adquirindo a unidade de propulsão elétrica.Em Abril, o programa E-FanX apoiado pela Rolls-Royce plc, Airbus e Siemens foi cancelado.Em Julho, a Faradair Aerospace anuncia a mudança para o Duxford Airfield, Cambridgeshire, Reino Unido, em parceria com o Museu Imperial da Guerra de Duxford e o Gonville and Caius College (Cambridge), para desenvolver o protótipo de aeronave regional elétrica híbrida BEHA M1H a partir de uma nova instalação de prototipagem sob medida como parte do novo campus de pesquisa e desenvolvimento aeroespacial Duxford Avtech. O primeiro voo está previsto para o final de 2023/início de 2024.Em Novembro, a Embraer apresentou o projeto do TPNG (TurboProp Next Generation - Turboélice de Nova Geração), um avião regional que dispensou um sistema de propulsão híbrido-elétrico, já que os custos operacionais aumentariam de 15% para 5% da potência necessária em comparação com o turboélice convencional.
+
+
+=== 2021 ===
+A Aliança Aeroespacial Berlim-Brandemburgo é um cluster industrial que inclui a Rolls-Royce Deutschland, a MTU Aero Engines, a especialista em engenharia aeronáutica APUS e a Stemme. Ele planeja o projeto IBEFA-i6, um demonstrador de propulsão elétrica distribuída de 19 assentos para voar em 2021 com turbodiesel, turbina a gás e geradores de célula de combustível.Separado deste i-6, o APUS i-5 será um banco de testes de cauda dupla com assentos em tandem para um peso bruto de 4 t (8.800 lb). Um turboeixo Rolls-Royce 250 acionará quatro hélices elétricas através de uma bateria, geradores, conversores e controles de energia. Com o apoio do estado alemão de Brandemburgo e da Universidade de Tecnologia de Brandemburgo, os voos devem começar após 2021.
+
+
+=== 2022 ===
+
+Em 2019, o Conselho Nacional de Pesquisa do Canadá começou a converter um Cessna Skymaster, uma configuração push-pull, o Hybrid Electric Aircraft Testbed. Voou pela primeira vez em 7 de fevereiro de 2022.
+
+
+=== 2023 ===
+Em 19 de janeiro de 2023, a ZeroAvia voou seu banco de testes Dornier Do 228 com o turboélice substituído por um protótipo de trem de força elétrico a hidrogênio na cabine, composto por duas células de combustível e uma bateria de íon de lítio para potência de pico. O objetivo é ter um sistema certificável até 2025 para alimentar aeronaves que transportem até 19 passageiros a mais de 300 nmi (560 km).
+
+
+== Exemplos ==
+Os melhores sucessos comerciais até o momento são de aeronaves pequenas, esportivas ou de passageiros:
+
+e-Genius.
+Pipistrel Panthera.
+Variante do C42 CS.
+Ampaire Electric EEL.
+Airbus E-Fan X.
+Zunum Aero.
+
+
+== Tecnologia ==
+Enquanto a densidade de energia dos acumuladores ainda não for suficiente para voos mais longos e aeronaves elétricas maiores, as aeronaves híbridas são uma espécie de tecnologia de transição. Para aumentar a eficiência, a alta densidade energética dos combustíveis líquidos é vantajosamente combinada com a alta eficiência dos acionamentos elétricos.
+
+Vantagens
+No geral, um consumo de energia significativamente menor é possível em comparação com aeronaves com motores de combustão pura.
+Menor poluição sonora possível devido ao acionamento elétrico mais silencioso.Desvantagens
+Tanto os componentes elétricos quanto os convencionais precisam ser duplicados até certo ponto, o que aumenta o peso, por exemplo.Em consequência, apenas intervalos limitados fazem sentido, de curtas a médias distâncias.
+
+
+=== Propulsão ===
+
+
+==== Propulsão híbrida serial ====
+Um conceito adequado resulta da combinação de uma turbina a gás movida a querosene que aciona um gerador elétrico com o qual motores elétricos poderiam então ser usados para acionar hélices. As turbinas a gás têm uma alta densidade de potência com baixo peso e podem ser operadas por longas distâncias em uma faixa de eficiência favorável. A energia elétrica é armazenada temporariamente em um acumulador. Na maioria dos casos, a fim de alcançar a taxa de subida necessária, a bateria é ligada para o arranque. Uma vez que a aeronave tenha atingido sua altitude de cruzeiro, tudo o que resta é acionar a combinação motor a combustão/gerador. O motor de combustão, portanto, só teria que fornecer a potência necessária em voos de cruzeiro. Durante a descida ou quando a aeronave atingiu a altitude de cruzeiro, alguns modelos permitem que a energia seja realimentada nas baterias.
+Além do motor de combustão interna, este método de acionamento requer dois motores elétricos, incluindo um motor elétrico relativamente grande e pesado. No entanto, o maior potencial de desenvolvimento é visto para a aplicação do trem de força serial no futuro.
+
+
+==== Propulsão híbrida paralela ====
+
+Na propulsão híbrida paralela, a propulsão da aeronave é fornecida por um motor de combustão interna ou um motor elétrico movido a bateria, ou ambos simultaneamente. A bateria pode ser recarregada durante o voo. Nesse processo, é necessário apenas um motor elétrico, que também pode ser selecionado menor que o motor elétrico no acionamento serial. A propulsão de aeronaves multimotores, em que motores individuais foram substituídos por motores elétricos, também é referida como híbrida paralela.
+
+
+== Ver também ==
+Aviação experimental
+Engenharia aeronáutica
+Impactos ambientais da aviação
+História da aviação
+Veículo elétrico
+
+
+== Bibliografia ==
+Schulte. Klaus L. (2014). Elektroflug Technologie, Geschichte, Zukunft. [S.l.]: K.L.S. Publ. (em alemão). 352 páginas. ISBN 9783942095440   27 de agosto de 2023.
+Thalin, Pascal (2018). Fundamentals of Electric Aircraft. [S.l.]: SAE International (em inglês). 258 páginas. ISBN 9780768093223   27 de agosto de 2023.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Cambridge University (23 de dezembro de 2015). «Planes go hybrid-electric». YouTube (em inglês). Consultado em 27 de agosto de 2023 
+«Airbus will bis 2035 erstes Hybrid-Flugzeug am Himmel haben». Manager Magazin (em alemão). 29 de novembro de 2019. Consultado em 27 de agosto de 2023 
+Schwarz, Karl (13 de julho de 2019). «Pläne für hybrid-elektrische Flugzeuge». Flug Revue (em alemão). Consultado em 27 de agosto de 2023 
+Ribeiro, Felipe (28 de maio de 2021). «O que é um avião híbrido-elétrico?». Canaltech. Consultado em 27 de agosto de 2023 
+Giron, Lorena Scavone (6 de dezembro de 2022). «Conheça os aviões híbridos-elétricos e a hidrogênio do Brasil». moneyreport.com. Consultado em 27 de agosto de 2023

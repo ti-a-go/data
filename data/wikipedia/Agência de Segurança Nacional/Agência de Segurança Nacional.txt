@@ -1,0 +1,188 @@
+Agência de Segurança Nacional (em inglês:  National Security Agency - NSA) é a agência de segurança dos Estados Unidos, criada em 4 de novembro de 1952 com funções relacionadas com a Inteligência de sinais (SIGINT), incluindo interceptação e criptoanálise. Também é um dos órgãos estadunidense dedicados a proteger as comunicações americanas. A NSA é parte do Departamento de Defesa dos Estados Unidos.
+A NSA durante algum tempo após sua criação era tão secreta que o governo americano negava sua existência. Por isso, recebeu alguns "apelidos": No Such Agency (algo como não há tal agência), Never Say Anything (nunca diga nada, ou nunca diga alguma coisa) ou em português "Ninguém Sabe dessa Agência".Em 1982, apos vários anos de pesquisas e coleta de informações, o jornalista James Bamford, especialista na história da NSA e no sistema de vigilância americana, publicou o livro The Puzzle Palace no qual revelou ao público e documentou pela primeira vez a existência da Agência de Segurança Nacional (NSA). Até então, as atividades da agência e mesmo a existência da agência eram negadas pelo governo americano.
+
+
+== Escândalo dos programas de vigilância da NSA em 2013 ==
+
+Em 5 de junho de 2013, o jornalista americano Glenn Greenwald, através do The Guardian e juntamente com vários outros jornais incluindo o The New York Times, The Washington Post, Der Spiegel, iniciou a publicação das revelações da vigilância global americana que inclui inúmeros programas de vigilância eletrônica ao redor do mundo, executados pela Agência de Segurança Nacional (NSA). Um dos primeiros programas revelados foi o chamado PRISM. Os programas de vigilância que vieram as claras através dos documentos fornecidos por Edward Joseph Snowden, técnico em redes de computação que nos últimos quatro anos trabalhou em programas da NSA entre cerca de 54 mil funcionários de empresas privadas subcontratadas - como a Booz Allen Hamilton e a Dell Corporation. Os documentos revelados por Snowden mostram a existência de os inúmeros programas visando a captação de dados, e-mails, ligações telefônicas e qualquer tipo de comunicação entre cidadãos a nível mundial.
+Através da publicação desses documentos foi trazida ao conhecimento público a vasta dimensão do sistema de Vigilância global americano. A coleta de dados, descrita por Snowden, começou em 1992, durante a administração do presidente George H. W. Bush; embora, a CIA já fizesse espionagem industrial desde os anos 80, a NSA massificou a espionagem industrial e financeira com o avanço da tecnologia.Em 2015, novos documentos divulgados citam que a NSA planejava usar lojas de aplicativos (como a Play Store, do sistema Android) para injetar malwares, rastreando os dados trocados entre os servidores e os usuários.
+
+
+=== Espionagem do Brasil ===
+No Brasil, o programa de TV Fantástico, exibido pela Rede Globo de Televisão, no dia 8 de Setembro de 2013, baseado em documentos fornecidos por Snowden a Greenwald, revelou que a NSA vem espionando a Petrobrás com fins de beneficiar os americanos nas transações com o Brasil.Ainda em 2013, em reportagem com a jornalista Sônia Bridi, Greenwald revelou que, além de grandes empresas como a Petrobrás, a presidente do Brasil, Dilma Rousseff, foi espionada pelo governo americano.A partir de então, as revelações têm se tornado mais alarmantes a cada dia e têm provocado reação em todos os países do mundo e na comunidade de especialistas em proteção da Internet.Elas vão desde a participação nos programas de vigilância de empresas, como Google, Facebook, Microsoft, à contaminação de computadores no mundo todo e à quebra dos códigos de criptografia da internet, fazendo toda a internet vulnerável a ataques tanto da NSA como de predadores e criminosos.
+
+
+== Espionagem Industrial ==
+As operações da NSA para estabelecer parcerias com empresas que contribuam para facilitar as interceptações de dados, como parte da execução dos seus programas de Vigilância Global são feitas pelo departamento da NSA chamado Operações de Fonte Especial (SSO). Através destas parcerias, vários países são alvo para a espionagem pela NSA. Em 29 de março de 2014, o jornal Der Spiegel publicou documentos que mostram que como parte do programa de Vigilância Global da NSA, mesmo os sistemas de satélite da Alemanha se tornaram alvo de espionagem feita pelo CGHQ, membro do conhecido grupo chamado Five Eyes, Cinco Olhos, em português.
+
+
+== Empresas Associadas e atividades de sabotagem dos sistemas de encriptação ==
+A partir de junho de 2013, quando tiveram início as revelações do programa de vigilância global da NSA, feitas com base nos documentos fornecidos por Edward Snowden, várias atividades da agência veem causando protestos e alarme à nível mundial.
+Entre as revelações de 2013, veio  à conhecimento público o fato de que a NSA, com GCHQ britânico, está trabalhando, com sucesso, não apenas para decodificar sistemas de encriptação nos quais se baseia a segurança em redes de informática mas também para sabotá-los.
+A NSA vem executando atividades que vão desde conluio com o NIST para enfraquecer os padrões de criptografia usados globalmente, colaborando na sabotagem de vários sistemas e padrões de criptologia e proteção da Internet à interceptação de compras feitas online, abrindo pacotes e implantando malwares em produtos antes de serem entregues aos compradores. A divisão da NSA chamada TAO está a cargo de inúmeras atividades de sabotagem à nível mundial.Na sabotagem dos padrões de sistemas de encriptação adotados mundialmente, a NSA contou também com a colaboração do serviço canadense CSEC, uma vez que o mesmo faz parte do grupo que opera em conjunto, sob o comando da NSA, conhecido como Cinco Olhos, (The Five Eyes, em inglês), do qual fazem parte Austrália, Canadá, Nova Zelândia, Reino Unido e os Estados Unidos.Também foi revelada a associação da NSA com várias companhias americanas de fornecimento ou fabricação de equipamentos já com backdoors que facilitem a vigilância mundial e a implantação de spywares em computadores ao redor do mundo. Entre elas está a Verizon bem como a Qualcomm que fabrica e vende no mercado mundial equipamentos com backdoors para os malwares que facilitam a espionagem. Outras empresas reveladas como parceiras da NSA são: Cisco, Oracle, Intel, Qwest, EDS, AT&T, Verizon, Microsoft, IBM.
+
+No caso da Qualcomm ela é uma das empresas principais no fornecimento de chipsets e outras tecnologias incluindo processadores para dispositivos móveis como, por exemplo, telefones celulares, bem como de hardware e software distribuídos ao redor do mundo e em parceria direta com a NSA, fabricando e vendendo no mercado mundial equipamentos com backdoors para os malwares que facilitam a espionagem da NSA; seus equipamentos tem papel fundamental no espionagem americana em vários países, incluindo mas não se limitando a: Brasil, Japão, Coreia do Sul, França, Alemanha. A presidência da empresa não quis comentar o assunto ainda em janeiro de 2014 quando surgiram as primeiras informações sobre a parceria da Qualcomm com a NSA, documentadas em maio de 2014.
+
+
+== Echelon ==
+Echelon é um dos sistemas de vigilância e espionagem da NSA e conta com a participação dos chamados Cinco Olhos: os cinco países participantes do Tratado de Segurança UK-USA
+
+
+=== Organizações Participantes ===
+As organizações participantes, sob o comando da NSA são agências dos serviços de informação dos estados membros do Acordo, a saber:
+
+National Security Agency (NSA) dos Estados Unidos
+Government Communications Headquarters (GCHQ) do Reino Unido;
+Serviço de Segurança de Comunicações Canadense (CSEC) do Canadá;
+Australian Signals Directorate (ASD) da Austrália;
+Government Communications Security Bureau (GCSB) da Nova Zelândia.
+
+
+== Programas de Vigilância Global e atentados terroristas ==
+Em 12 de junho de 2013, imediatamente após as revelações de Edward Snowden serem publicadas, o Senado americano fez uma audiência pública, gravada pela C-SPAN, onde vários membros do governo de Obama testemunharam sobre a importância fundamental dos programas de vigilância da NSA para defender os Estados Unidos. Várias emissoras de televisão americanas se alinham na defesa dos programas de vigilância em massa, entre elas CNN, FOX e CBS.A administração Obama defendeu as atividades afirmando serem:
+ Alegou também que a coleta se refere exclusivamente a metadados dos telefonemas e não ao conteúdo das próprias chamadas. Metadados se assemelham ao "envelope" de uma ligação telefônica ou de um e-mail mas contendo informações mais detalhadas do que apenas destinatário e remetente com respectivos endereços. Metadados contêm as informações detalhadas sobre a comunicação, seja e-mail, ligação telefônica, mensagem de texto etc...metadados informam em detalhes, por exemplo, destino, a duração de uma chamada, data,localização da origem de onde foi iniciada a comunicação, localização do usuário que iniciou e do recipiente , tipo de computador ou telefone usado etc. A coleta de metadados, foi no passado, parte fundamental do sistema de vigilância da Alemanha Oriental. Documentos históricos, obtidos apenas após a queda do regime, mostram que coleta de metadados um dos instrumentos utilizados pela Stasi, a polícia secreta da Alemanha Oriental, para determinar as conexões sociais de indivíduos considerados perigosos para o regime da RDA.Após as primeiras publicações na imprensa, especialistas em tecnologia e defensores de direitos civis imediatamente apontaram para o fato da Casa Branca minimizar a importância de metadados que, na verdade, fornecem informações mais detalhadas sobre a vida de indivíduos do que o próprio conteúdo uma vez que podem ser usados para traçar o perfil das relações e atividades pessoais com maior abrangência. Jameel Jaffer, diretor jurídico da União Americana pelas Liberdades Civis, disse:
+"Do ponto de vista das liberdades civis, o programa não poderia ser mais alarmante. É um programa em que um número incontável de pessoas inocentes foram colocados sob a vigilância constante de agentes do governo americano. É além de orwelliano, e fornece uma evidência adicional da dimensão em que direitos democráticos básicos estão sendo destruídos em segredo para atender as demandas dos órgãos de inteligência irresponsáveis".
+Dois senadores americanos, Ron Wyden e Mark Udall, membros do Comitê de Inteligência do Senado, refutaram as alegações de que a vigilância em massa tenha impedido qualquer ataque contra os Estados Unidos.
+A senadora democrata Dianne Feinstein, presidente da Comissão de Inteligência do Senado americano e a favor da expansão das atividades de vigilância da NSA, afirmou que ainda em junho de 2013, o diretor da NSA, o general Keith Alexander, iria fornecer informações sobre "os mais de 50 casos em que os programas da NSA preveniram ataques terroristas, tanto nos Estados Unidos como no exterior", segundo palavras da senadora.
+O general Keith Alexander defendeu vigorosamente os programas de vigilância em massa, apesar de evidências factuais que confirmem suas afirmativas não serem apresentadas, conforme noticiaram alguns órgãos da imprensa. Em 18 de junho de 2013, 12 dias após as primeiras publicações sobre os programas de vigilância global, em audiência ao Comissão de Inteligência do Senado, Alexander afirmou que 54 atentados terroristas em 20 países, haviam sido desvendados graças aos programas de vigilância da NSA e condenou veementemente a revelação dos programas de vigilância global.Em 31 de julho de 2013 Alexander fez uma apresentação em Las Vegas, reafirmando que 54 atentados terroristas haviam sido prevenidos ao redor do mundo através de informações obtidas pelos programas de vigilância em massa da NSA. As imagens da tela da apresentação de Alexander foram publicadas pela redatora independente ProPublica. Na imagens da tela ele apresentou o mapa mundial onde tais atentados terroristas estavam marcados nos locais onde teriam sido identificados.A falta de consistência das afirmativas de Keith Alexander e o histórico de abusos cometidos e de escândalos acobertados pelas agências de inteligência americana, fez com que algumas organizações iniciassem pesquisas para buscar evidências de casos em que os programas da NSA teriam levado à investigações bem sucedidas de casos ligados ao terrorismo, conforme Alexander e aliados da NSA na Câmara e do Senado afirmavam haver ocorrido.
+Em 18 de dezembro de 2013, a imprensa americana publicou o relatório do Grupo Presidencial para Revisão em Inteligência e Tecnologia de Comunicações, um grupo criado por Obama, logo após as revelações dos programas, para rever as atividades de vigilância do governo, composto por membros indicados pela presidência. O painel, que teve um limitado escopo e cujos membros eram diretamente ligados à administração de Obama, concluiu que o sistema de vigilância da NSA "não é essencial para a prevenção de ataques terroristas". O título do relatório é: Liberdade e Segurança em um mundo em mudança. Concluiu ainda que as informações obtidas em casos envolvendo terrorismo,
+
+Em 12 de janeiro de 2014, o Washington Post e outros jornais, publicaram relatório de investigação feita pelo New America Foundation, um instituto sem fins lucrativos, apartidário e especializado em pesquisas em políticas públicas americanas. Os resultados da investigação contradizem as afirmações de Keith Alexander.Após o exame de 225 casos de investigações terroristas nos Estados Unidos feitas a partir de 11 de setembro de 2001, a conclusão final foi de que não havia evidência de que os programas de vigilância global da NSA tivessem gerado resultado significativo na prevenção ou resolução de qualquer atentado terrorista, e que a coleta a granel de registros telefônicos por parte da Agência Nacional de Segurança "não teve qualquer impacto discernível sobre prevenção de atos de terrorismo.".
+Concluiu também que em um único caso, a coletada em massa de dados feita pela NSA contribuiu parcialmente para iniciar uma investigação terrorista: o caso de um taxista de San Diego chamado Basaaly Moalin, que foi condenado por enviar $1,650 (dólares americanos) para um grupo na Somália considerado terrorista pelo governo americano. Peter Bergen, diretor do instituto e especialista em terrorismo, afirmou no relatório que:
+
+
+== Apresentações da NSA reveladas em 2013 ==
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Ver Também ==
+Revelações da Vigilância global (2013-Presente)
+Centro de Processamento de Dados Utah
+Operações de acesso adaptado (TAO) NSA
+Serviço de Coleta Especial (SCS)
+Vigilância de Computadores e Redes
+Operações de Fonte Especial(SSO)
+CIA
+Glenn Greenwald
+Citizenfour
+
+
+== Notas ==
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+«Website oficial da NSA.» (em inglês) 
+Assista a primeira entrevista de Edward Snowden quando revelou sua identidade e explicou seus motivos para revela o sistema de vigilância global.NSA whistleblower Edward Snowden: 'I don't want to live in a society that does these sort of things' – video no The Gardian
+FAIRVIEW: Programa amplia a capacidade da coleta de dados - Mapa mostra volume de rastreamento do governo americano Brasil é o país mais monitorado da América Latina, O Globo, 11 de junho de 2013; Arquivado em 9 de julho de 2013
+[1] por Flávia Barbosa, entrevista James Bamford que afirma que "A NSA hoje pode entrar na mente das pessoas", O Globo, 13 de julho de 2013

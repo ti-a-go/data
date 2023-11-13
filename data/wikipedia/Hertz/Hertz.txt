@@ -1,0 +1,92 @@
+O hertz (símbolo Hz) é a unidade de medida de frequência derivada do Sistema Internacional (SI), a qual expressa, em termos de ciclos por segundo, que descreve qualquer evento periódico, oscilações (vibrações) ou rotações por segundo (
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+  −1 ou 
+  
+    
+      
+        1
+        
+          /
+        
+        s
+      
+    
+    {\displaystyle 1/s}
+  ). Um dos seus principais usos é descrever ondas senoidais, como as de rádio ou sonoras. O seu nome foi em homenagem ao físico alemão Heinrich Rudolf Hertz (1857-1894). 
+
+
+== Definição ==
+1 Hz significa 1 ciclo (oscilação) por segundo, 100 Hz significa 100 ciclos por segundo, e assim por diante; a frequência de uma onda só muda se houver alterações na fonte. Conforme o Comitê Internacional de Pesos e Medidas (do francês: Comité International des Poids et Mesures), o padrão empregado é a transição entre níveis hiperfinos F = 4, M =  0 e F = 3, M = 0 no estado fundamental 2S1/2 do átomo césio 133 sem perturbação de campos externos, a essa frequência de transição é atribuído o valor de  9 192 631 770 hertz", assim definindo "hertz" e "segundo" simultaneamente.
+O hertz aplica-se à descrição de qualquer evento periódico. Por exemplo, o coração de um humano saudável em repouso bate a aproximadamente 1,2 Hz (1,2 batidas por segundo). A "frequência" de eventos estocásticos aperiódicos, como decaimento radioativo, é expressa em Becquerel.
+Mesmo que velocidade angular e hertz tenham dimensão de 1/segundo, velocidade angular não é medida em hertz, mas em uma unidade apropriada para velocidade angular de radianos por segundo. Um disco que tenha uma frequência de rotação medida em 60 RPM (Rotações por minuto), pode ter sua frequência de rotação expressa por 1 Hz ou 2π rad/s, onde rads/segundo expressa a velocidade angular e Hz o número de voltas completas em 1 segundo. A conversão entre frequência f em hertz e velocidade angular ω em radianos por segundo é:
+
+  
+    
+      
+        ω
+        =
+        2
+        π
+        f
+      
+    
+    {\displaystyle \omega =2\pi f}
+    
+
+  
+    
+      
+        f
+        =
+        ω
+        
+          /
+        
+        (
+        2
+        π
+        )
+        
+      
+    
+    {\displaystyle f=\omega /(2\pi )\,}
+  .
+
+
+=== Escrita ===
+Em português a forma "hertz" é aplicável tanto no singular como no plural. Como em todas as unidades do SI, cujo nome é derivado de um nome próprio de uma pessoa, a primeira letra do símbolo é maiúscula (Hz). Quando escrito por extenso, a primeira letra é minúscula a não ser em início de frase ou por outro motivo,[carece de fontes?] como fazer parte do título, por exemplo. Note que "graus Celsius" está em conformidade com a regra, pois o g de grau está em minúsculo.
+O Acordo Ortográfico de 1990, em concreto a parte relativa à utilização do hífen, parece indicar que os múltiplos e submúltiplos de "hertz" passaram a ser hifenizados. Por exemplo, "mega-hertz", e não "megahertz".
+
+
+== História ==
+O hertz é nomeado em homenagem ao físico alemão Heinrich Rudolf Hertz, que fez grandes contribuições científicas na área do eletromagnetismo. O nome da unidade foi estabelecido na Comissão Eletrotécnica Internacional (International Electrotechnical Commission) em 1930 e foi adotado na Conferência Geral de Pesos e Medidas (Conférence générale des poids et mesures) em 1960 substituindo, assim, o nome 'ciclos por segundo' (CPS), juntamente com seus múltiplos, quilociclos por segundo (kc/s), megaciclos por segundo (Mc/s) e assim por diante. O termo ciclos por segundo foi amplamente substituído por "hertz" apenas na década de 1970.
+
+
+== Principais aplicações ==
+
+
+=== Vibração ===
+O som viaja numa onda que nada mais é que oscilação de pressão. Os humanos percebem a frequência de vibração das ondas sonoras como um tom. Cada nota musical corresponde a uma frequência em particular, que pode ser medida em hertz. O ouvido de um bebê percebe frequências entre 20 Hz até 20 000 Hz; enquanto o ouvido de um humano adulto percebe entre 20 Hz e 16 000 Hz. O ultrassom, o infrassom e outras vibrações físicas como vibrações moleculares encontram-se fora deste intervalo.
+
+
+=== Radiação eletromagnética ===
+A radiação eletromagnética muitas vezes é descrita por sua frequência — número de oscilações elétricas e magnéticas perpendiculares por segundo — expressa em hertz.
+As frequências das ondas eletromagnéticas de rádio normalmente são medidas em quilo-hertz, mega-hertz ou giga-hertz; então as emissoras de rádio são normalmente rotuladas com kHz, MHz e GHz. A luz também é radiação eletromagnética, tendo frequências no campo das dezenas aos milhares de tera-hertz (infravermelha e ultravioleta nos respectivos extremos). Radiações eletromagnéticas com frequências de poucos tera-hertz (entre as frequências mais altas de rádio e as mais baixas de luz infravermelha) muitas vezes é chamada de radiação tera-hertz. Existem frequências ainda mais altas que a luz ultravioleta, como os raios gamma, que pode ser medido em exa-hertz.
+
+
+=== Computação ===
+Em computação, a maioria das unidades de processamento central (CPU) são classificadas em termos de número de clock, normalmente medida em mega-hertz ou giga-hertz.  Esse número refere a frequência do sinal temporizador mestre. Esse sinal é uma voltagem elétrica que muda de baixa pra alta e diminui de novo em intervalos regulares. O clock medido em hertz se tornou, para o senso comum, a principal unidade para medir desempenho de um processador, mas a maioria dos especialistas critica essa visão. Os processadores passaram de apenas 1 mega-hertz nos anos 70 para até 6 GHz no presente (processadores IBM POWER). Outros componentes de computador, como northbridge e memórias também operam em frequências que podem ser medidas em mega-hertz.
+Monitores CRT tem taxas de renovação de tela medidas em hertz, sendo o ideal 60 hertz ou mais.
+
+
+== Múltiplos ==
+Sendo uma unidade do SI pode receber prefixação:
+
+
+== Referências ==

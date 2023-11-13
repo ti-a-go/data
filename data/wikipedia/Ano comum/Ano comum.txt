@@ -1,0 +1,5 @@
+Um ano comum é um tipo comum de ano do calendário que tem exatamente 365 dias, diferentemente do ano bissexto, o qual tem 366 dias. De modo geral, pode ser definido como um ano sem intercalação. Este tem exatamente 52 semanas e um dia, consequentemente terminando no mesmo dia da semana em que se iniciou; ou seja, em 2015 tanto 1 de janeiro quanto 31 de dezembro caíram numa quinta-feira.
+No calendário gregoriano, 303 de cada 400 anos são anos comuns, e no calendário juliano, 300 de cada 400 eram anos comuns.
+
+
+== Referências ==

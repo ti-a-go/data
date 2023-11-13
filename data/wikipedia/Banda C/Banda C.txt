@@ -1,0 +1,10 @@
+A Banda C é uma faixa de frequência utilizada nas comunicações com satélites. É definido pelo Institute of Electrical and Electronics Engineers (IEEE) como o espectro que vai de 4,0 a 8,0 gigahertz (GHz). Já o órgão do governo americano "U.S. Federal Communications Commission" defini a banda C como indo de 3,7 a 4,2 GHz.
+
+
+== Referências ==
+
+
+== Ver também ==
+Antena parabólica
+Banda Ku
+Radar

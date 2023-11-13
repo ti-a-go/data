@@ -1,0 +1,53 @@
+O Proer, ou Programa de Estímulo à Reestruturação e ao Fortalecimento do Sistema Financeiro Nacional, foi um programa econômico brasileiro elaborado pelo governo Fernando Henrique Cardoso e implementado em novembro de 1995.
+Ele permitiu ao Banco Central a utilização de recursos públicos (como depósitos compulsórios) para organizar e garantir a aquisição ou fusão de bancos e outras instituições financeiras em dificuldades.O programa foi voltado para o setor privado. Os bancos públicos foram objeto do Proes (Programa de Incentivos à Redução do Setor Público Estadual na Atividade Bancária).
+
+
+== Contexto econômico ==
+Com a estabilização da moeda, com o Plano Real, muitas instituições que dependiam de ganhos inflacionários tiveram dificuldades em manter suas operações.
+A hiperinflação fizera com que os bancos se esticassem ao máximo (abrindo novas agências) para acumular depósitos e investir em títulos da dívida pública, captando o float (lucro inflacionário). 
+À época o Brasil tinha 265 bancos com mais de 16 mil agências.
+
+
+=== O fim do float ===
+A lucratividade do float (lucro inflacionário) chegou a representar 4.2 por cento do PIB nacional em 1993; no ano seguinte caiu para dois por cento e em 1995 quase zero.Relativo à totalidade dos lucros bancários, o float correspondia a 35 por cento do total em 1993. Caiu para 20 por cento em 1994 e por fim quase zero em 1995.Os bancos foram forçados a encolher, fechar agências, e redirecionar suas atividades.
+
+
+=== As fraudes e a crise mexicana ===
+A hiperinflação também facilitava fraudes contábeis. Instituições bancárias e financeiras podiam realizar desvios monetários, que eram "acobertados" pela inflação, impedindo que auditorias descobrissem facilmente tais acontecimentos.
+No segundo trimestre de 1995 houve uma desaceleração econômica causada em parte pela crise mexicana. Isso colocou mais pressão nos bancos.
+Entre primeiro de julho de 1994 (dia da implementação do plano Real) e 3 de novembro de 1995 (data da medida provisória que criou o Proer) houve vinte e duas intervenções pelo Banco Central entre as quais a maior foi do Banco Econômico.
+
+
+== Implementação do programa ==
+O programa teve início em 3 de novembro de 1995 com a medida provisória 1179 e a resolução 2208 do Conselho Monetário Nacional. 
+Duas semanas depois, em 17 de novembro de 1995, foi publicada a medida provisória 1182 que dava ao Banco Central a obrigação e o poder de escolher os bancos que teriam solidez. A medida provisória 1182 também fez responsável, pessoalmente, os controladores de instituições em regime de intervenção.O Banco Central emitiu circulares sobre a reestruturação da carteira de ativos e passivos: 2636/95, 2672/96, 2681/96, 2713/96. Também emitiu circulares sobre fusões, transferência de controle, e modificação de objeto social: 2636/95 e 2681/96. E também circulares sobre os créditos junto ao Fundo Garantidor de Crédito: 2369/97 e 2748/97.
+
+
+=== Modelo de aquisição good bank e bad bank ===
+O modelo do Proer consistia em identificar os ativos dos bancos sob intervenção e dividi-los em um pedaço bom (good bank) e um pedaço podre (bad bank). O comprador da instituição financeira sob intervenção tinha o direito de escolher os pedaços bons (good bank) mas se obrigava a absorver todos os depósitos bancários. O Proer se obrigava a fechar a diferença entre os depósitos bancários e os pedaços bons (good bank). Assim se criava uma nova instituição financeira. O pedaços podres (bad bank) ficavam com o Proer. 
+
+
+=== Intervenções ===
+Sete instituições foram objeto de fusão ou aquisição com coordenação e garantias do Proer:
+
+
+== Estimativa do custo do programa ==
+No período de 1995 a aproximadamente 2000, foram destinados em títulos de longo prazo mais de R$ 30 bilhões a bancos brasileiros, aproximadamente 2,5% do produto interno bruto. A preços de 2005, equivaleria a aproximadamente R$ 44,23 bilhões.
+
+Disse José Baía Sobrinho, presidente do Banco Pontual:No Brasil, entre 1995 e 1997, o preço do ajuste alcançou 2,5% do Produto Interno Bruto (PIB), isso já incluindo o caso recente do Bamerindus. É um valor bem abaixo do que se registrou em vizinhos nossos sul-americanos ou mesmo em países desenvolvidos. No Chile, por exemplo, o custo foi de 19,6% do PIB em 1985. Na Argentina, em 1982, de 13%. Para sairmos da América Latina, basta ver os números em países como a Noruega ou os Estados Unidos. No primeiro, entre 1988 e 1992, gastou-se 4,5% da riqueza nacional. Nos EUA, o buraco, em 1991, chegou a 5,3% do PIB. Essas nações não dispunham de instrumentos similares ao Proer, que é uma invenção nossa, muito bem elaborada, barata e que vem dando certo.
+
+
+== Controvérsias ==
+O Proer foi polêmico desde o início porque a ótica do uso de dinheiro público para socorrer bancos não era boa.
+Seus apoiadores defendiam o programa como "preventivo" e de baixo custo (frente o benefício). Seus detratores acusavam o programa e o governo de favoritismo e má gestão de recursos públicos.
+
+
+=== CPI do Proer em 2001 ===
+Em 27 de março de 1996 foi requerida uma comissão parlamentar de inquérito pelos deputados Milton Temer (PT-RJ), Ivan Valente e José Pimentel para averiguar as "múltiplas irregularidades amplamente divulgadas sobre aspectos complexos e obscuros no processo de intervenção do Banco Central do Brasil no Banco Econômico".Em 3 de setembro de 2001 o presidente da Câmara Aécio Neves aprovou a criação da comissão.Foram realizadas 23 audiências públicas para tomar depoimentos. Ofereceram depoimentos: Gustavo Loyola (ex presidente do Banco Central), Gustavo Franco (ex presidente do Banco Central), Maurício Schulman (ex presidente da Febraban), Ângelo Calmon de Sá (ex controlador do Banco Econômico), José Roberto Mendonça de Barros (economista), Pedro Malan (ministro da Fazenda), Pedro Moreira Salles (do Unibanco), Ezequiel Nasser (do banco Excel), Armínio Fraga Neto (presidente do Banco Central), José Eduardo de Andrade Vieira (ex controlador do Bamerindus) e outros.O relatório final, de abril de 2002, de autoria do deputado Alberto Goldman, foi aprovado pela comissão. Concluiu que o Proer "foi uma necessária intervenção do poder público para evitar um mal maior".
+
+
+=== Comentário de Lula em 2008 ===
+Em evento a empresários em Recife em março de 2008, o presidente Lula teceu comentários sobre a crise imobiliária americana que se tornaria a crise econômica mundial de 2008. Disse que telefonou para o presidente Bush e falou: "Bush, meu filho, resolva a sua crise. Passamos vinte seis anos sem crescer e agora você quer com a crise nos atrapalhar." Adicionou:O Brasil tem know-how para salvar banco. É só criar um Proer. Se ele [Bush] quiser, pode vir ao Brasil que tem gente aqui que pode ensinar. Eu não vou ensinar. Se eles precisarem, nós podemos mandar essa tecnologia para eles.Esse comentário foi interpretado por alguns como um elogio ao programa, dentre eles o ex-presidente do Banco Central Gustavo Loyola.
+
+
+== Referências ==

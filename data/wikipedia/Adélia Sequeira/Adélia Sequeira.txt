@@ -1,0 +1,27 @@
+Adélia Sequeira (Portugal), é uma matemática portuguesa, conhecida pelos seus modelos matemáticos do sistema circulatório e em particular do fluxo sanguíneo. É membro da Academia de Ciências de Lisboa.
+
+
+== Biografia ==
+Adélia Sequeira licenciou-se em matemática em 1973 na Faculdade de Ciências da Universidade de Lisboa (FCUL). Em 1981, completou, na Universidade de Paris, o Doctorat de 3ème Cycle em análise numérica.  Obteve um segundo doutoramento em matemática na FCUL em 1985.É professora catedrática no Instituto Superior Técnico, onde faz parte do CEMAT (Centro de Computação e Matemática Estocástica) e coordena o departamento de Análise numérica e análise aplicada.
+
+
+== Trabalho ==
+No seu trabalho de investigação debruça-se sobre a construção de modelos matemáticos e computacionais, através dos quais procura simular processos fisiológicos como o  sistema circulatório e em particular do fluxo sanguíneo com vista a melhorar a qualidade de vida dos pacientes através tratamentos médicos personalizados.
+
+
+== Obras Seleccionadas ==
+É co-autora de vários livros em matemática aplicada, entre eles:
+1995 - Navier—Stokes Equations and Related Nonlinear Problems, ISBN: 978-1-4899-1415-62017 - Hemomath: the Mathematics of Blood, co-autor Antonio Fasano,ISBN 9783319605128
+2020 - Mathematical Topics In Fluid Mechanics, co-autor Jose Francisco Rodrigues,ISBN 9781000158038É também autora de vários artigos cientificos e capítulos de livros.
+
+
+== Reconhecimento ==
+Desde 2018 é membro correspondente da Academia de Ciências de Lisboa.Em 2019 foi uma das cientistas homenageadas pelo Ciência Viva na edição do livro Mulheres na Ciência desse ano.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Learned Society of the Czech Republic | Adélia Sequeira: Cardiovascular mathematics with applications to some clinical studies (2021)
+Society for Mathematical Biology | Adélia Sequeira - Mathematical modelling of the early stages of atherosclerosis

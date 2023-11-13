@@ -1,0 +1,38 @@
+Erik Möller (born 1979) is a German freelance journalist, software developer, author, and former deputy director of the Wikimedia Foundation (WMF), based in San Francisco. Möller additionally works as a web designer and previously managed his own web hosting service, myoo.de. As of 2022, he was VP of Engineering at the Freedom of the Press Foundation.
+
+
+== Published work ==
+Möller is the author of the book Die heimliche Medienrevolution – Wie Weblogs, Wikis und freie Software die Welt verändern ("The secret media revolution: How weblogs, wikis and free software change the world"). In the book, Möller discusses the development of a journalistic equivalent to the open-source movement in citizen media and blogging, though pointing out that most blogs do not compete with mainstream media. The book was first published in 2005 by Heinz Heise and a second edition was published in 2006, with updated and revised chapters. A review in Berliner Literaturkritik's saw practical tips but claimed the book focused too much on technical details. Möller's book is cited in the 2006 book Wiki: Web collaboration, in a section discussing "Wikis as an Engine for Social Change", and his term "secret media revolution" is used. The authors comment: "Möller provides a comprehensive look at the problems and possible solutions in dealing with difficult controversies and vandalism in blog and wiki environments."In his earlier research on Wikipedia, Möller found in 2003 that Wikipedia's open-source nature garners interest from many individuals, but also leads to gaps in topics of interest to experts. Some of his research was published in Telepolis, where he compared Wikipedia to the digital multimedia encyclopedia Microsoft Encarta. In his 2003 article Das Wiki-Prinzip: Tanz der Gehirne ("The Wiki principle: Dance of the brain"), he gives some background of Wikipedia and wikis, as well as on what he sees as the benefits of the project, ways to prevent vandalism to articles, and the etiquette of Wikipedia users.
+
+
+== Web-based projects ==
+Möller, who holds a diploma degree in computer science (Dipl.-Inform. FH), is the owner and creator of the Infoanarchy website which has information on P2P and file-sharing technologies. He has also been involved in the development of the FreedomDefined website.At a 2005 blogger conference in Berlin, Möller gave a lecture on the Open Source Initiative, free knowledge and Wikinews, discussing the latter in the context of other models used by Slashdot, Kuro5hin, Daily Kos and others. At an Austrian conference on wikis in Vienna in 2005, Möller discussed the advantages of using wikis to compile statistical data, stating that wikis encourage internal transparency and greater participation among coworkers.
+
+
+== Wikimedia Foundation ==
+Möller has been involved with the Wikimedia Foundation projects including Wikipedia since 2001, both as an editor and as a developer of the MediaWiki software and Wikinews. He drafted the initial project proposal for Wikinews (using the username Eloquence), and also was instrumental in developing Wikimedia Commons. He first proposed the idea for Wikimedia Commons in March 2004. Möller described a difference between Wikipedia and Wikinews to The New York Times by saying: "Wikinews articles are short-lived, so there is a reduced feeling of contributing to a knowledge base that will last a lifetime." "We are the new media. We make our own rules," explained Möller at a 2005 Citizen Reporters' Forum in Seoul. He stated that Wikinews published a print edition every day and was working on other formats, including audio versions of articles. Möller was interviewed by Journalism.co.uk on the eightfold increase in traffic to Wikinews on the day of the 7 July 2005 London bombings, and on the effects of free news. "While Wikinews is still much, much smaller than Wikipedia, the potential for news coverage goes far beyond what Wikipedia is currently doing," said Möller. He gave periodic "State of the Wiki" reports at Wikinews, where he defended the project's use of both original material and information synthesized from other media sources.
+
+
+=== Deputy director ===
+Möller was appointed the chief research officer of the WMF in June 2005 but resigned in August that year, citing personal differences with members of the Board. He had been chief technology officer of Stichting Open Progress, the not-for-profit legal arm of OmegaWiki, based in the Netherlands. At Stichting Open Progress Möller was the manager of a group of developers who worked on the implementation of OmegaWiki. Möller also hosted other wiki communities such as WikiEducator.org.He was elected in September 2006 to replace Angela Beesley on the Board of the Wikimedia Foundation, and in October 2006 he became executive secretary. In December 2007 he resigned from the Board and was named deputy director, effective as of 10 January 2008. In this role Möller was involved with financing analysis for the Foundation, and with executive director Sue Gardner gave a presentation to Sun Microsystems in an attempt to gain funding from the company for WMF. This presentation was later leaked to Wikinews.As deputy director, Möller was responsible for managing and implementing the technical strategy of the organization. Möller explained to the Los Angeles Times that the foundation needed to be careful with the kinds of deals they wanted to make, and said: "We don't want to endanger the mission by entering into deals that would conflict with it." Möller was the Wikimedia Foundation's representative on the institutional council of the Encyclopedia of Life. Through this contact, Möller helped convince the Alfred P. Sloan Foundation (a backer of the Encyclopedia of Life) to donate $3 million to Wikimedia, the single largest donation Wikimedia has received to date.In 2014 Möller's account was blocked on the German Wikipedia because he created, implemented and used "superprotect" rights to overrule the German Wikipedia's decision to not enable a new mechanism to view images until legal and technical problems were fixed.Möller left the WMF on 30 April 2015.
+
+
+== See also ==
+List of Wikipedia people
+
+
+== References ==
+
+
+== Further reading ==
+Bachner, Harald (2007). Wiki-systeme als Wissensmanagementtools. GRIN Verlag. pp. 6, 8, 29. ISBN 978-3-638-67365-5.
+Gepp, Roman (2006). Bildung zwischen Luxus und Notwendigkeit (in German). LIT Verlag Berlin-Hamburg-Münster. pp. 128, 129, 135, 192. ISBN 3-8258-9360-X.
+Kühne, Stefan (September 2005). "Veni, vidi, Wiki! Rezension zu Erik Möller: Die heimliche Medienrevolution. Wie Weblogs, Wikis und freie Software die Welt verändern" (PDF). E-beratungsjournal (in German). e-beratungsjournal.net (1). ISSN 1816-7632.
+
+
+== External links ==
+
+Erik Möller's homepage
+Erik Möller in the German National Library catalogue
+"Erik Möller Deputy Director". Wikimedia Foundation. 9 January 2008. Archived from the original on 30 January 2012. Retrieved 27 August 2017.
+Infoanarchy.org

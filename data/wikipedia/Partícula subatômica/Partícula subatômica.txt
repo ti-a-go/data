@@ -1,0 +1,23 @@
+Na física, uma partícula subatômica é uma partícula menor que um átomo. De acordo com o Modelo Padrão da física de partículas, uma partícula subatômica pode ser uma partícula composta , que é composta de outras partículas (por exemplo, um próton, nêutron ou méson), ou uma partícula elementar , que não é composta de outras partículas (por exemplo, um elétron, fóton ou múon). Física de partículas e física nuclear estuda essas partículas e como elas interagem.Experimentos mostram que a luz pode se comportar como um fluxo de partículas (chamadas fótons), além de exibir propriedades semelhantes a ondas. Isso levou ao conceito de dualidade onda-partícula para refletir que as partículas em escala quântica se comportam como partículas e ondas; às vezes são chamados de ondulação para refletir isso.Outro conceito, o princípio da incerteza, afirma que algumas de suas propriedades tomadas em conjunto, como sua posição e momento simultâneos, não podem ser medidas com exatidão. Foi demonstrado que a dualidade onda-partícula se aplica não apenas a fótons, mas também a partículas mais massivas.
+As interações de partículas na estrutura da teoria quântica de campos são entendidas como criação e aniquilação de quanta de interações fundamentais correspondentes. Isso combina a física de partículas com a teoria de campo.Mesmo entre os físicos de partículas, a definição exata de uma partícula tem diversas descrições. Essas tentativas profissionais na definição de uma partícula incluem:
+Uma partícula é uma função de onda colapsada
+Uma partícula é uma excitação quântica de um campo
+Uma partícula é uma representação irredutível do grupo de Poincaré
+Uma partícula é uma coisa observada
+
+
+== História ==
+O termo ““partícula“ subatômica” é em grande parte um retrónimo da década de 60, usado para distinguir um grande número de bárions e mésons (que compreendem hádrons) de partículas que agora são consideradas verdadeiramente elementares. Antes disso, os hádrons eram geralmente classificados como “elementares” porque sua composição era desconhecida.[carece de fontes?]
+Segue uma lista de descobertas importantes:
+
+
+== Ver também ==
+Física de partículas
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+University of California: Particle Data Group.

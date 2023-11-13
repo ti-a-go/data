@@ -1,0 +1,13 @@
+O Sistema de luzes de aproximação - ALS (em inglês: Approach Lighting System - ALS) é um conjunto de luzes coloridas ou piscantes, que define claramente a pista e a zona de pouso, de forma a auxiliar a transição de voo por instrumentos para o voo com referências visuais no procedimento de aproximação para o pouso. Facilita também o voo noturno.O ALS faz parte de um sistema de luzes, que inclui o Indicador de rampa de aproximação (VASIS) e o Indicador de trajetória de aproximação de precisão (PAPI). 
+
+
+== Características ==
+O ALS é formado pelos subsistemas de potência, flashers sequenciais de descarga capacitativa, luzes de cabeceira de pista e marcadores luminosos de pista. 
+Uma variação do sistema é o ALSF, que dá a orientação por meio de luzes brilhantes de forma sequenciadas (flashers).A iluminação também deverá ser ligada durante o dia, quando solicitado por uma aeronave que se aproxima, ou quando estiver funcionando a iluminação de pista correspondente.
+
+
+== Ver também ==
+
+Pista de pouso e decolagem
+Precision Approach Path Indicator
+Sistema de pouso por instrumentos

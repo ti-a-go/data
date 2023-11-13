@@ -1,0 +1,31 @@
+Satélite de observação da Terra ou satélite de sensoriamento remoto é todo satélite em órbita da Terra especificamente projetado para observar a Terra por sensoriamento remoto, de forma similar aos satélites espiões, mas com finalidades não necessariamente militares, tais como: monitoração ambiental, meteorologia, cartografia, etc.
+
+
+== Tipos ==
+
+
+=== Meteorologia ===
+Um satélite meteorológico é um tipo de satélite usado primariamente para monitorar o tempo e o clima da Terra.
+
+
+=== Ambiente ===
+Satélites ambientais permitem monitoração ambiental, detectando alterações na vegetação, composição dos gases na atmosfera, estado dos mares, cores dos oceanos e estado das massas de gelo. 
+O monitoramento das alterações de vegetação ao longo do tempo é feito comparando o estado atual com as médias obtidas ao longo do tempo.
+
+
+=== Cartografia ===
+Mapas podem ser obtidos a partir do espaço com o uso de satélites como o RADARSAT-1 e o TerraSAR-X.
+
+
+== Ver também ==
+Observação da Terra
+Sistema de Observação da Terra - programa da NASA composto por uma série de missões com satélites
+Television Infrared Observation Satellite - (TIROS)
+
+
+== Referências ==
+
+
+== Ligações externas ==
+eoPortal directory - Portal Earth Observation da ESA
+As estações de terra TIROS I e TIROS II = rastrearam, monitoraram e receberam fotos do primeiro satélite de observação da Terra, o TIROS-1.

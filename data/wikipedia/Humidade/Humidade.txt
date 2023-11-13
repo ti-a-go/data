@@ -1,0 +1,588 @@
+A humidade (português europeu) ou umidade (português brasileiro) é a quantidade de vapor de água na atmosfera. Fisicamente, a humidade relativa é definida como a razão da quantidade de vapor de água presente numa porção da atmosfera (pressão parcial de vapor) com a quantidade máxima de vapor de água que a atmosfera pode suportar a uma determinada temperatura (pressão de vapor). A humidade relativa é uma importante variável (medida) usada na previsão do tempo, e indica a possibilidade de precipitação (chuva, neve, granizo, entre outros), orvalho ou nevoeiro.
+A alta humidade durante dias quentes faz a sensação térmica aumentar, ou seja, a pessoa tem a impressão de que está mais calor, devido à redução da eficácia da transpiração da pele, e assim reduzindo o resfriamento corporal. Por outro lado, a baixa humidade dos desertos causa uma grande diferença de temperatura entre o dia e a noite. Este efeito é calculado pela tabela de índice de calor.
+
+
+== Tipos de humidade ==
+
+
+=== Humidade absoluta (base volumétrica) ===
+A humidade absoluta em uma base volumétrica é a quantidade absoluta de água numa porção da atmosfera. A unidade de medida mais comum (utilizada no SI) é quilogramas por metro cúbico (kg/m³) embora várias outras unidades são usadas, como a libra por pé cúbico (lb/ft³) em países que usam o sistema imperial de medidas. Se toda a água de um metro cúbico de ar for condensada em um vasilhame, esse vasilhame conterá toda a humidade absoluta dessa porção de ar (um metro cúbico) e a quantidade de água condensada pode ser pesada para quantificar a humidade absoluta.
+Mais tecnicamente, a humidade absoluta em uma base volumétrica é a massa da água condensada (mágua) por metro cúbico do ar húmido total (V):
+
+  
+    
+      
+        H
+        A
+        =
+        
+          
+            
+              m
+              
+                agua
+              
+            
+            
+              V
+            
+          
+        
+        .
+      
+    
+    {\displaystyle HA={m_{\text{agua}} \over {V}}.}
+  A uma temperatura de 30°C, a humidade absoluta varia entre 0 (completa ausência de água) e 0,03 quilogramas por metro cúbico.A humidade absoluta varia com as mudanças de pressão atmosférica e de temperatura. Tais variações são inconvenientes para cálculos em engenharia química, por exemplo, para secadoras de roupa, onde a temperatura pode variar consideravelmente. Como resultado, a humidade absoluta é definida geralmente como a massa de vapor de água por unidade de ar seco, também conhecido como razão de mistura de massa, que é muito mais rigoroso para os cálculos de balanço de massa e calor. A massa de água por unidade de volume em forma de equação seria, então, definido como humidade volumétrica. 
+Por causa da confusão em potencial, a normativa BS 1339 (British Stardards) (revista em 2002) sugere evitar o uso do termo "humidade absoluta". As unidades de medida devem ser cuidadosamente verificados. A maior parte das tabelas de humidade é dada em g/kg, kg/kg, embora qualquer unidade de massa possa ser usada.
+A engenharia de propriedades físicas, mais especificamente propriedades termodinâmicas, das misturas de gás-vapor é chamada de psicrometria.
+
+
+=== Razão de mistura, razão de humidade ou humidade absoluta de base em massa ===
+A razão de mistura ou razão de humidade é expressa como a razão da massa de vapor de água (mágua) por quilograma de ar seco (mar seco) em qualquer porção da atmosfera separada para estudo. A razão de humidade é um eixo padrão em tabelas de psicrometria e é um parâmetro útil para os cálculos em psicrometria; a razão de humidade não varia com a temperatura, exceto se a temperatura estiver abaixo do ponto de orvalho, ou seja, quando o ar está completamente saturado de vapor de água. Nestas condições, a queda da temperatura irá ocasionar a condensação forçada da água.
+A razão pode ser dada como 
+
+  
+    
+      
+        ω
+        =
+        
+          
+            
+              m
+              
+                agua
+              
+            
+            
+              
+                m
+                
+                  ar seco
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \omega ={m_{\text{agua}} \over {m_{\text{ar seco}}}}}
+  A razão de mistura também pode ser expressa por meio da pressão parcial do vapor de água:
+
+  
+    
+      
+        ω
+        =
+        
+          
+            
+              
+                M
+                
+                  agua
+                
+              
+              
+                p
+                
+                  agua
+                
+              
+            
+            
+              
+                M
+                
+                  ar seco
+                
+              
+              (
+              
+                p
+                
+                  a
+                
+              
+              −
+              
+                p
+                
+                  agua
+                
+              
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \omega ={M_{\text{agua}}p_{\text{agua}} \over {M_{\text{ar seco}}(p_{a}-p_{\text{agua}})}}}
+  Ou em termos de fração molar do vapor de água no ar:
+
+  
+    
+      
+        ω
+        =
+        
+          
+            
+              
+                M
+                
+                  agua
+                
+              
+              
+                X
+                
+                  agua
+                
+              
+            
+            
+              
+                M
+                
+                  ar seco
+                
+              
+              (
+              1
+              −
+              
+                X
+                
+                  agua
+                
+              
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \omega ={M_{\text{agua}}X_{\text{agua}} \over {M_{\text{ar seco}}(1-X_{\text{agua}})}}}
+  Ou, para ir em outra direção e calcular a fração molar ou a pressão parcial:
+
+  
+    
+      
+        
+          X
+          
+            agua
+          
+        
+        =
+        
+          
+            
+              ω
+              
+                M
+                
+                  ar seco
+                
+              
+            
+            
+              ω
+              
+                M
+                
+                  ar seco
+                
+              
+              +
+              
+                M
+                
+                  agua
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle X_{\text{agua}}={{\omega M_{\text{ar seco}}} \over {\omega M_{\text{ar seco}}+M_{\text{agua}}}}}
+  
+
+  
+    
+      
+        
+          p
+          
+            agua
+          
+        
+        =
+        
+          
+            
+              
+                p
+                
+                  a
+                
+              
+              ω
+              
+                M
+                
+                  ar seco
+                
+              
+            
+            
+              ω
+              
+                M
+                
+                  ar seco
+                
+              
+              +
+              
+                M
+                
+                  agua
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle p_{\text{agua}}={{p_{\text{a}}\omega M_{\text{ar seco}}} \over {\omega M_{\text{ar seco}}+M_{\text{agua}}}}}
+  Onde:
+
+Magua = é a massa molar do vapor de água (18,02 kg/kmol);
+Mar seco = é a massa molar do ar seco (28,97 kg/kmol);
+Xagua =  é a fração molar do vapor de água no ar úmido;
+pagua = é a pressão parcial do vapor de água no ar úmido;
+pa = é a pressão atmosférica da atmosfera separada para estudo.Tecnicamente, é uma quantificação adimensional, já que é a massa de vapor de água sobre a massa de ar seco, e é expressa no SI por kg/kg. Entretanto, a massa de vapor de água é muito menor do que a massa de ar seco, e a unidade mais comummente usado é a grama por quilograma, que é igual a 10-3 kg/kg.
+A efetiva massa molar de uma porção da atmosfera separada para estudo pode ser calculada em termos da razão de mistura de massa ω e as massas molares, tanto do vapor de água quanto do ar seco:
+
+  
+    
+      
+        
+          M
+          
+            ar umido
+          
+        
+        =
+        
+          
+            
+              
+                M
+                
+                  agua
+                
+              
+              
+                M
+                
+                  ar seco
+                
+              
+              (
+              ω
+              +
+              1
+              )
+            
+            
+              
+                M
+                
+                  agua
+                
+              
+              +
+              ω
+              
+                M
+                
+                  ar seco
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle M_{\text{ar umido}}={{M_{\text{agua}}M_{\text{ar seco}}(\omega +1)} \over {M_{\text{agua}}+\omega M_{\text{ar seco}}}}}
+  
+
+
+=== Humidade relativa ===
+
+A humidade relativa é definida como a razão entre a quantidade de água presente em uma determinada porção da atmosfera (pressão parcial de vapor de água) com a quantidade total de vapor de água que a atmosfera pode suportar em uma determinada temperatura (pressão de vapor). A humidade relativa é expressa como fração (%) e é calculada da seguinte maneira:
+
+  
+    
+      
+        ϕ
+        =
+        
+          
+            
+              p
+              
+                (
+                
+                  
+                    
+                      H
+                      
+                        2
+                      
+                    
+                    O
+                  
+                
+                )
+              
+            
+            
+              p
+              
+                (
+                
+                  
+                    
+                      H
+                      
+                        2
+                      
+                    
+                    O
+                    )
+                  
+                
+              
+              
+                ∗
+              
+            
+          
+        
+        ×
+        100
+        %
+      
+    
+    {\displaystyle \phi ={p_{({\rm {H_{2}O}})} \over p_{({\rm {H_{2}O)}}}^{*}}\times 100\%}
+  Onde:
+
+  
+    
+      
+        
+          
+            p
+            
+              (
+              
+                
+                  
+                    H
+                    
+                      2
+                    
+                  
+                  O
+                  )
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {p_{({\rm {H_{2}O)}}}}}
+   é a pressão parcial de vapor de água em uma mistura de gases;
+
+  
+    
+      
+        
+          
+            p
+            
+              (
+              
+                
+                  
+                    H
+                    
+                      2
+                    
+                  
+                  O
+                  )
+                
+              
+            
+            
+              ∗
+            
+          
+        
+      
+    
+    {\displaystyle {p_{({\rm {H_{2}O)}}}^{*}}}
+   é a pressão de vapor de saturação da temperatura da mistura de gases;
+
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+   é a humidade relativa da mistura de gases sendo considerada.A humidade relativa é mencionada frequentemente em previsão do tempo, e é um indicador da possibilidade de precipitação (chuva, neve, entre outros), orvalho ou nevoeiro. A alta humidade durante dias quentes faz a sensação térmica aumentar, ou seja, a pessoa tem a impressão de que está fazendo mais calor, devido à redução da eficácia da transpiração da pele, e assim reduzindo o resfriamento corporal. Por outro lado, a baixa umidade dos desertos causa uma grande diferença de temperatura entre o dia e a noite.
+
+
+=== Humidade específica ===
+A humidade específica é a razão de vapor de água com o ar (incluindo o próprio vapor de água e o ar seco) em uma massa particular. A razão de humidade específica é expressa como uma razão de gramas (g) de vapor de água (mágua) por quilograma (kg) da massa de ar húmido total (mt)
+A razão pode ser mostrada como:
+
+  
+    
+      
+        H
+        E
+        =
+        
+          
+            
+              m
+              
+                agua
+              
+            
+            
+              m
+              
+                t
+              
+            
+          
+        
+      
+    
+    {\displaystyle HE={m_{\text{agua}} \over m_{t}}}
+  A humidade específica está relacionada à razão de mistura (e vice-versa) por:
+
+  
+    
+      
+        H
+        E
+        =
+        
+          
+            
+              ω
+            
+            
+              1
+              +
+              ω
+            
+          
+        
+      
+    
+    {\displaystyle HE={{\omega } \over {1+\omega }}}
+  
+  
+    
+      
+        ω
+        =
+        
+          
+            
+              H
+              E
+            
+            
+              1
+              −
+              H
+              E
+            
+          
+        
+      
+    
+    {\displaystyle \omega ={{HE} \over {1-HE}}}
+  
+
+
+=== Humidade durante a chuva ===
+A humidade é a medida da quantidade de vapor de água no ar, e não inclui água líquida ou solidificada. Para que as nuvens se formem, e para que a chuva comece a cair, a humidade relativa não precisa estar necessariamente a 100% na superfície, mas somente nos locais de formação das nuvens e da chuva. Isso normalmente ocorre quando o ar sobe e se resfria (convecção atmosférica). 
+Tipicamente, a chuva cai para regiões onde o ar não está totalmente saturado de vapor de água (a humidade relativa está inferior a 100%). Parte da água da chuva se evapora, aumentando assim a humidade, mas não necessariamente irá elevar a humidade relativa para 100%. Além disso, a chuva, ao atravessar uma região atmosférica quente e húmida, pode resfriar o ar até ao ponto de orvalho, assim alcançando a saturação máxima de vapor de água também na superfície. Embora a saturação de vapor de água signifique que a humidade relativa alcançou 100%, a quantidade absoluta de água na atmosfera pode ser menor do que o estágio anterior à chuva.
+
+
+=== Ponto de orvalho e ponto de congelamento ===
+
+Associado com a humidade relativa está o ponto de orvalho. Se o ponto de orvalho estiver menor do que 0°C, então é denominado ponto de congelamento. O ponto de orvalho é o ponto na qual a quantidade de vapor de água atinge o seu máximo a uma determinada temperatura. Nestas condições, a queda da temperatura provocará a formação de chuva, neve, orvalho, geada ou nevoeiro. O ponto de orvalho coincide com a temperatura quando a umidade relativa estiver em 100%.
+
+
+== Medição da humidade ==
+
+Há vários aparelhos usados para medir e regular a humidade. Entre os aparelhos usados para medir a humidade é o higrômetro; quando o higrômetro utiliza termômetros de bulbos molhados, recebe a denominação de psicrômetro. Para regular a humidade do ar, é utilizado o humidificador ou umidificador, especialmente em dias nas quais a umidade relativa cai para menos de 30%. Também há casos onde é necessário o uso de desumidificadores, para remover o excesso de humidade do ar.
+A humidade do ar também pode ser medida remotamente, em escala global, com a utilização de sensores especiais montados em satélites meteorológicos. Estes satélites são capazes de detetar a concentração de água na troposfera, a camada mais baixa da atmosfera terrestre, tipicamente a uma altura entre 4 e 12 km. Os sensores de humidade do ar montados nos satélites meteorológicos são capazes de medir as variações de radiação infravermelha recebidas da superfície terrestre ou refletidas pelo próprio vapor de água presente na atmosfera; a água absorve, reflete e irradia certos comprimentos de onda de radiações eletromagnéticas, especialmente na banda infravermelha.
+Os satélites meteorológicos são capazes de medir a humidade absoluta e relativa, e a presença de massas de ar húmidas é um importante fator para a ocorrência de precipitação, como a chuva, a neve, entre outros. Com isso, a deteção de tais massas de ar húmidas tem um papel fundamental para uma previsão do tempo mais precisa.
+
+
+== Humidade e a densidade do ar ==
+O ar húmido é menos denso do que o ar seco porque uma molécula de água (M ≈ 18 u) é menos massivo do que uma molécula de azoto (M ≈ 28 u) ou uma molécula de oxigênio (M ≈ 32 u). Cerca de 78% do ar seco são compostos de azoto (N2) e 21% são de oxigênio (O2). O 1% restante é a composição de gases nobres e outros gases traços. Para qualquer gás, a uma dada temperatura e pressão, o número de moléculas presente em um volume particular é constante (lei dos gases ideais). Então, quando moléculas de água (H2O) são introduzidas naquele respetivo volume de ar seco, o número de moléculas de ar no volume deve diminuir igualmente, se a temperatura e a pressão permanecer constante.
+Se ocorrer apenas a adição de moléculas de água no recipiente contendo o ar seco, a pressão, a temperatura e o número total de moléculas irão aumentar. Caso contrário, há a substituição de moléculas mais massivas (moléculas de ar) por outras menos massivas (moléculas de água) e, portanto, a densidade diminui. Esse fenômeno já havia sido descrito por Isaac Newton, relatado em seu livro Opticks.
+
+
+== Efeitos sobre o corpo humano ==
+O corpo humano troca calor através de uma combinação de evaporação do suor, convecção no ar em seu torno, e por meio da irradiação térmica. Em condições de alta humidade, a evaporação do suor diminui, e os esforços do organismo para manter uma temperatura corporal aceitável podem ser diminuídas  significativamente. Além disso, se o ambiente é tão ou mais quente do que  a pele durante os momentos de alta humidade, o sangue trazido para a superfície do corpo pode não desprender calor por meio da condução térmica para o ar, e resulta em uma condição conhecida como a hipertermia. Isso tem como consequência o redirecionamento do sangue para a pele, e a quantidade de sangue disponível para os músculos ativos, o cérebro e outros órgãos internos, diminui, e a fadiga ocorre pode ocorrer mais precocemente do que seria de outra forma. A prontidão e a capacidade mental também podem ser afetadas, resultando em "calorões" ou hipertermia.
+
+
+=== Recomendações para o conforto ===
+Os seres humanos controlam sua temperatura corporal, principalmente pela transpiração e secundariamente por calafrios. A Agência de Proteção Ambiental dos Estados Unidos cita o padrão 55-1992 da ASHRAE, referente Às condições térmicas ambientais para a ocupação humana, que recomenda a manutenção de umidade relativa entre 30% e 60%. Com a humidade elevada, a sudorese é menos eficaz, e sentimo-nos mais quentes. O ar condicionado funciona através da redução da humidade no verão. No inverno, o aquecimento do ar frio vindo de ambientes externos  pode diminuir os níveis de humidade relativa para abaixo de 30%, levando ao desconforto, tais como a pele seca e sede excessiva.
+
+
+== Efeitos sobre aparatos eletrônicos ==
+Muitos dispositivos eletrônicos têm especificações de humidade, por exemplo, de 5% a 95%. No topo da variação, a humidade pode aumentar a condutividade de isolantes elétricos permeáveis,  levando a uma possível avaria. Com a humidade muito baixa, os materiais podem se tornar quebradiços. Entre os perigos potenciais aos artigos eletrônicos, independentemente da faixa de humidade de operação mencionada acima, é a condensação. Quando um item eletrônico é movido de um local frio (por exemplo, garagem, carro, armazém/galpão ou um espaço climatizado) para um lugar quente e húmido, a condensação pode revestir as placas de circuito e outros isoladores, levando ao curto-circuito no interior do equipamento. Esses curtos-circuitos pode causar danos permanentes e substanciais se o equipamento é ligado antes de a condensação se evaporar. Um efeito semelhante envolvendo a condensação muitas vezes pode ser observado quando uma pessoa que usa óculos vem de locais frios para húmidos. É aconselhável que o equipamento eletrônico se aclimate por várias horas, depois de ter sido trazido do frio, antes de ligar. O inverso também é verdadeiro. Em situações onde o tempo é esguio, com o aumento do fluxo de ar através de passagens internas do dispositivo, pode-se reduzir drasticamente o tempo necessário para se aclimatar ao novo ambiente. Por exemplo, ao remover o painel lateral de um CPU e direcionando um ventilador interior do gabinete, a condensação de umidade pode ser evitada.
+A baixa humidade também favorece a acumulação de eletricidade estática, que pode resultar em desligamento espontâneo de computadores quando ocorrem as descargas. Além da função errática espúria, descargas eletrostáticas podem causar rutura dielétrica em dispositivos de estado sólido, resultando em danos irreversíveis. Centros de processamento de dados muitas vezes controlam os níveis de humidade relativa por estas razões.
+
+
+== Humidade na construção civil ==
+Os projetos de construção tradicional tipicamente tinham fraco isolamento de humidade e permitiam que a humidade do ar circulasse livremente entre o interior e o exterior. A eficiência energética e a arquitetura fortemente selada, introduzida no século XX, também isolaram a circulação de humidade, e isso resultou em um problema secundário de condensação, formada em torno das paredes, que incentiva o desenvolvimento de mofo e bolor. Além disso, os prédios com as fundações não devidamente seladas permitiram o fluxo de água através das paredes, devido à ação capilar, notoriamente cimento, que é um bom condutor de água. A soluções para os edifícios energeticamente eficientes, que evitem a condensação, é um tema atual da arquitetura.
+
+
+== Extremos de humidade ==
+As cidades mais húmidas do planeta estão localizadas geralmente perto da linha do Equador, perto de regiões costeiras. As cidades do sul e sudeste da Ásia estão entre as mais húmidas, como Calcutá e Kerala, na Índia, as cidades de Manila, nas Filipinas, e Bangkok, na Tailândia: estes lugares experimentam extrema humidade durante a estação das chuvas; combinada com o calor, a alta humidade provoca a sensação de sauna. Darwin, Austrália, enfrenta um período extremamente húmido de dezembro a abril. Xangai e Hong Kong, na República Popular da China, também têm um período de extrema humidade nos meses de verão. Kuala Lumpur, Malásia e Singapura também experimentam humidade muito alta durante todo o ano por causa de sua proximidade com o mar e com a linha do Equador.
+Por outro lado, entre os locais mais secos da Terra encontram-se o deserto do Atacama e praticamente todo o interior da Antártida.
+
+
+== Ver também ==
+Humidade do solo
+Ar
+Atmosfera
+Água
+Condensação
+Evaporação
+Higrômetro
+Humidificador
+Sensação de calor
+
+
+== Referências ==

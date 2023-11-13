@@ -1,0 +1,108 @@
+Engenharia aeroespacial é o ramo da engenharia que, com base em diversas áreas da física, como a termodinâmica, a mecânica dos fluidos, a eletrônica, a mecânica clássica e outras, lida com o projeto, construção e aplicação de aeronaves, espaçonaves e satélites. Este ramo é por vezes referido como engenharia astronáutica ou engenharia aeronáutica embora, tecnicamente, ambas sejam especializações da engenharia aeroespacial, sendo a primeira dedicada a veículos espaciais e a segunda a veículos de voo atmosférico.
+
+
+== Visão geral ==
+A Engenharia Aeroespacial é a área técnica que se incumbe do desenvolvimento de atividades de projeto, manufatura e manutenção de veículos aéreos e espaciais e de seus componentes, incluindo também a integração de sistemas, planejamento da produção e serviços comercialização de produtos e serviços aeroespaciais. O campo de aplicação inclui aeronaves (de asa fixa e rotativa) de passageiros e cargueiros, foguetes, mísseis, satélites e espaçonaves tripuladas.Os veículos aeroespaciais são sujeitos a condições severas de operação tais como diferenças de pressão e de temperatura acentuadas e elevadas cargas aplicadas a pontos estruturais críticos. Desta forma, geralmente são um produto de uma complexa síntese de várias tecnologias e ciências, incluindo entre outras: a aerodinâmica, a ciência dos materiais, estruturas e aviónica. É ao conhecimento em si e ao processo que combina estes vários ramos da ciência que designamos de engenharia aeroespacial. Esta complexidade impede um único engenheiro de participar num projeto em todas as suas fases e em vez disso um projeto aeroespacial é levado a cabo por uma equipe de especialistas, cada qual com a sua especialização em determinado ramo da engenharia.É característico deste ramo da engenharia que os projetos envolvam custos elevados tanto na fase de projeto, produção, operação ou manutenção.
+
+É comum o emprego do termo Engenharia Aeronáutica para designar a área de atuação especializada exclusivamente em atividades relacionadas a veículos de voo atmosférico (aeronaves). A medida que a tecnologia avançou e passou a incluir veículos operando no espaço exterior, o termo mais abrangente, engenharia aeroespacial, passou a ser empregado mais comumente.
+
+
+== História ==
+A origem da atual engenharia aeroespacial remonta aos tempos dos pioneiros   da aviação no início do século XX. O conhecimento que havia inicialmente era prático e muitos conceitos eram "importados" de outros ramos da engenharia. Apesar disto, os pioneiros aeroespaciais tinham preparação teórica em dinâmica de fluidos um ramo essencial que já era conhecido no fim do século anterior. Uma década depois dos voos com sucesso do inventor brasileiro Santos Dumont e dos irmãos Wright (anos 20 do século XX), a engenharia aeronáutica teve um súbito crescimento devido ao desenvolvimento de aviões militares na Primeira Guerra Mundial. Mais tarde pesquisas que iriam constituir uma base científica fundamental continuaram, numa combinação de física teórica e experiências práticas. Vendo a possibilidade de usar foguetes de longo alcance como suporte de artilharia, a Wehrmacht alemã criou a ABMA, uma equipe de investigação científica com Hermann Oberth na liderança. Foram desenvolvidas armas de longo alcance usadas na Segunda Guerra Mundial pela Alemanha Nazista como a A-séries de foguetes e mais tarde a infame foguete V-2 (inicialmente designada de A4).
+Durante a Guerra Fria os EUA e a União Soviética competiram em quase todas as áreas da ciência e tecnologia, e como consequência uma das mais desenvolvidas foi a tecnologia aeronáutica e espacial. As chamadas corridas Corrida armamentista e Corrida espacial impulsionaram os dois países de forma sem precedentes a desenvolver veículos que pudessem realizar missões cada vez mais extremas, como: aviões supersônicos, lançamento de satélites em órbita, lançamento de astronautas ao espaço e mísseis balísticos intercontinentais.
+
+
+== Elementos ==
+As áreas do conhecimento mais relevantes na engenharia aeroespacial, são:
+
+Mecânica dos fluidos - a ciência que estuda o escoamento de fluidos sobre objetos. Dentro desta disciplina, geralmente, a área de maior interesse é a aerodinâmica;
+Astrodinâmica - a ciência que estuda a mecânica orbital, ou seja, a predição de trajetórias e órbitas;
+Mecânica estática e dinâmica - o estudo dos movimentos, forças e torques em sistemas mecânicos;
+Matemática - mais precisamente, cálculo diferencial e álgebra linear;
+Tecnologia eletrônica - estudo da eletrônica aplicada;
+Propulsão - a ciência que estuda o movimento de um veículo na atmosfera ou em ambiente espacial. Os principais ramos são, motores de combustão interna, motores a jato, motores turbo, motores-foguete e propulsão iônica;
+Controle - o estudo da modelagem matemática do comportamento dinâmico de sistemas e projeto de equipamentos de controle para que o comportamento seja o mais próximo do desejado;
+Estrutura de aeronaves e espaçonaves - projeto de uma configuração física da estrutura que suporte todos os esforços físicos necessários;
+Ciência dos materiais - estudo de materiais e suas aplicações na engenharia quanto às suas propriedades físicas;
+Mecânica dos sólidos - intimamente ligada à ciência dos materiais, e geralmente analisa deformações e tensões em todas as partes da espaçonave ou aeronave. Geralmente utiliza-se de métodos computacionais de elementos finitos para realizar estas análises;
+Aeroelasticidade - interação da aerodinâmica com a flexibilidade da estrutura;
+Aviónica - projeto de sistemas de eletrônicos a bordo de aeronaves e espaçonaves, assim como sua simulação;
+Software - projeto, desenvolvimento, teste e implementação de softwares para aplicações aeroespaciais , que incluem software de voo, controle de terra, simulações, e gerenciamento;
+Ruídos e Vibrações - estudo mecânico da transferência de sons e ruídos.A base da maioria destes assuntos esta na matemática teórica, como na mecânica dos fluidos ou na termodinâmica. Porém, também existe uma grande parte do estudo que é empírica, que historicamente advém de testes e experimentos em modelos de engenharia e outros protótipos. O advento da computação científica e da computação gráfica foi um grande passo para a engenharia aeroespacial, já que ambas se tornaram ferramentas de projeto e simulação altamente versáteis e eficientes.
+As principais ferramentas computacionais utilizadas são: o Desenho assistido por computador (DAC) (Para desenho), o Método dos elementos finitos (Método para simulação de Fluidodinâmica, Eletromagnetismo e Estruturas) e a Engenharia assistida por computador (CAE) (Ferramenta que une o projeto gráfico e simulações preliminares).
+
+
+== O profissional ==
+Engenheiros aeroespaciais projetam, desenvolvem, testam aeronaves e espaçonaves e supervisionam a produção destes. Aqueles que trabalham com aeronaves designam-se engenheiros aeronáuticos, enquanto que os que trabalham especificamente com espaçonaves ou com objetos relacionados com o espaço designam-se de engenheiros astronáuticos. Engenheiros aeroespaciais desenvolvem também novas tecnologias para uso na aviação, em sistemas defensivos e na exploração espacial, muitas vezes especializando-se em áreas como design estrutural, orientação (guidance), navegação e controle, instrumentação, métodos de produção e comunicação. Podem também especializar-se num tipo de produtos aeroespaciais específico, como aviões comerciais, caças militares, helicópteros, espaçonaves, satélites ou mísseis e foguetes.
+
+
+== Engenharia aeroespacial no Brasil ==
+
+
+=== Programa Espacial Brasileiro ===
+
+No Brasil, as atividades no campo espacial vem se desenvolvendo desde a década de 60 quando o então presidente da república Jânio Quadros criou a Comissão Nacional de Atividades Espaciais (Cnae). A partir daí as diversas atividades relacionadas foram desenvolvidas principalmente em órgãos governamentais e militares, como: a Agência Espacial Brasileira (AEB), o Instituto de Aeronáutica e Espaço (IAE), o Instituto Nacional de Pesquisas Espaciais (INPE), e o Instituto de Estudos Avançados (IEAv). Além disso, o Brasil possui dois grandes centros de lançamento: O Centro de Lançamento da Barreira do Inferno (CLBI) e o Centro de Lançamento de Alcântara (CLA).
+As atividades de Engenharia Aeroespacial em universidades brasileiras é uma iniciativa recente, e vem ganhando proporções significativas.
+No ano de 2003 em um acordo entre Brasil e Ucrânia, foi criada a empresa Binacional Alcântara Cyclone Space, que tem como principal objetivo a venda de lançamentos do foguete Cyclone-4, projetado pela renomada empresa estatal ucraniana Yuzhnoye, no Centro de Lançamento de Alcântara (CLA). O primeiro lançamento foi previsto para o ano de 2016.
+
+
+=== Educação ===
+O curso de Engenharia Aeroespacial é ofertado nas seguintes universidades brasileiras: UnB, UFSC-CTJ, UFSM, UFABC, ITA, UFMA, UFMA, UFMG, UFU e a UNIVAP. A UFABC com uma base de ensino interdisciplinar inovadora foi a primeira universidade a oferecer o curso no Brasil, tendo a formação de sua primeira turma para o ano de 2011. O ITA, em particular, distingue o curso de Engenharia Aeroespacial do de Engenharia Aeronáutica sendo o primeiro deles voltado somente ao projeto de artefatos espaciais; cogita-se a ideia de mudar o nome do curso de Engenharia Aeroespacial do ITA para Engenharia Astronáutica. A UnB possui um curso de graduação com um corpo docente composto em sua maioria por especialistas estrangeiros das áreas de tecnologia aeronáutica e espacial, e ainda possui associação com diversos programas de pós-graduação da instituição.  O Instituto Nacional de Pesquisas Espaciais INPE possui um programa de pós-graduação dedicado as Engenharias e Tecnologias Aeroespaciais.
+Já o curso de Engenharia Aeronáutica existe no ITA (Instituto Tecnológico de Aeronáutica) desde a década de 1950, na USP, através da Escola de Engenharia de São Carlos, desde 1973, na UFABC (Universidade Federal do ABC) com o nome de Engenharia Aeroespacial, na UFMG (Universidade Federal de Minas Gerais) através do CEA  (Centro de Estudos Aeronáuticos) desde 1975 e como curso de graduação desde 2009. Mais recentemente, o curso passou a ser oferecido pela UNITAU (Universidade de Taubaté), pela UNIVAP (Universidade do Vale do Paraíba), pela UFU (Universidade Federal de Uberlândia), pela UNIFEI (Universidade Federal de Itajubá), pela UFSC (Universidade Federal de Santa Catarina), pela UFSM (Universidade Federal de Santa Maria), pela UFMA (Universidade Federal do Maranhão), e na Universidade FUMEC, em Belo Horizonte.
+
+
+== Engenharia aerospacial em Portugal ==
+
+
+=== Indústria e tecnologia aeroespacial ===
+
+Portugal ficou para sempre ligado ao pioneirismo do desenvolvimento da tecnologia aeroespacial, quando, no início do século XVIII, Bartolomeu de Gusmão realizou em Lisboa diversas experiências com aeróstatos. Essas experiências culminaram na construção da Passarola, a primeira aeronave conhecida da história a realizar um voo tripulado, o qual ocorreu em 1709, entre o Castelo de São Jorge e o Terreiro do Paço.
+Em 1918, foi criado o Parque de Material Aeronáutico, o primeiro estabelecimento fabril aeroespacial em Portugal. Este estabelecimento existe ainda hoje sob a forma das OGMA.
+Sobretudo a partir da década de 1990, surgiram uma série de outras empresas portuguesas de desenvolvimento e produção de tecnologia aerospacial.
+
+
+=== Educação ===
+Em Portugal, o ensino superior da engenharia aeroespacial é ministrado no Instituto Superior Técnico e na Universidade Atlântica em Lisboa, na Universidade da Beira Interior na Covilhã e na Academia da Força Aérea em Sintra. Nestas últimas três instituições, o curso é designado "engenharia aeronáutica".
+O curso de engenharia aeroespacial é ministrado no Instituto Superior Técnico como mestrado integrado. O numerus clausus do Mestrado Integrado em Engenharia Aeroespacial (MEAer) foi incrementado de 35 para 80 ao longo dos últimos anos, mantendo uma elevada média de entrada, na ordem dos 85%, e garantindo emprego à totalidade dos recém licenciados, dado que a procura de engenheiros aeroespaciais excede a oferta.
+
+
+== Ver também ==
+
+Engenharia mecânica
+Universidade de Brasília (UnB)
+Instituto Tecnológico de Aeronáutica (ITA)
+AEB
+INPE
+ESA
+NASA
+Instituto Superior Técnico
+
+
+== Referências ==
+
+
+=== Fontes ===
+SCOTT, G.L.N. Engenharia Aeroespacial. Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE, 2015.
+Van Every, Kermit E. Encyclopedia Americana, Volume 1, Grolier Incorporated, 1986.
+Stanzione, Kaydon Al. Encyclopædia Britannica, Volume 18, 15ª Edição, Chicago, 1987.
+princetonreview.com
+open-site.org
+bls.gov
+
+
+== Ligações externas ==
+Iinstitutodeengenharia - Dez aeronaves militares que quase deram certo. (Brasil)
+Curso de Engenharia Aeronáutica da Academia da Força Aérea Portuguesa (Brasil)
+Engenharia Aeroespacial (Brasil)
+Página do Curso de Engenharia Aeronáutica da EESC-USP (Brasil)
+Página oficial do ITA (Brasil)
+Engenharia Aeroespacial é nova opção no vestibular do ITA (Brasil)
+Página do Centro de Estudos Aeronáuticos da UFMG (Brasil)
+Engenharia Aeroespacial (Brasil)
+Página da ênfase em engenharia aeronáutica da Unicamp (Brasil)
+Unitau - Engenharia Aeronáutica (Brasil)
+UNIVERSIDADE FEDERAL DE UBERLÂNDIA (UFU) (Brasil)
+UnB quer abrir curso de Engenharia Aeroespacial em 2012 (Brasil)
+[1] Site do curso de Engenharia Aeroespacial na Faculdade UnB Gama (FGA/UNB) - (Brasil)
+[2] Site do curso de Engenharia Aeroespacial do Instituto Tecnológico de Aeronáutica (AESP/ITA) - (Brasil)Departamento de Ciências Aerospaciais da Universidade da Beira Interior (Portugal)
+Licenciatura (5 anos) em Engenharia Aeroespacial (Portugal)

@@ -1,0 +1,21 @@
+ROSAT (forma reduzida de Röntgensatellit) foi um telescópio orbital de raios X alemão, cujo nome é uma homenagem a Wilhelm Röntgen. 
+
+
+== História ==
+Lançado por um foguete Delta II da Estação da Força Aérea de Cabo Canaveral em 1 de junho de 1990 operou até 12 de fevereiro de 1999. Em outubro de 2011, reentrou na atmosfera terrestre sobre o Golfo de Bengala.
+
+
+== Órbita ==
+O satélite orbitou a Terra a uma altitude de 580 km, com uma inclinação de 53o e um período de 96,2 minutos. A órbita era aproximadamente circular, com uma excentricidade menor do que 0,1%.
+
+
+== Instrumentos ==
+Havia três instrumentos científicos no plano focal do telescópio: dois contadores proporcionais de fabricação alemã e um imageador de alta resolução produzido nos Estados Unidos. O espelho do telescópio, que utilizava a técnica da incidência rasante para focalizar os raios X, tinha uma distância focal de 240 cm e uma abertura de 84 cm. A resolução angular era menor do que 5 segundos de arco.O instrumento detectava fótons de raios X com energia compreendida entre 0,1 e 2 keV. O telescópio trazia ainda uma câmera para a região do ultravioleta distante que cobria a faixa de energia compreendida entre 0,042 e 0,21 keV.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«UK ROSAT Guest Observer Centre» (em inglês) 
+«Satview - Rastreio de Satélites»

@@ -1,0 +1,16 @@
+Um corpo sustentante é uma aeronave na qual a configuração do próprio corpo produz sustentação. Em contraste com um asa voadora, que é uma asa sem fuselagem convencional, um corpo sustentante é uma fuselagem que gera sustentação sem a forma de uma estrutura fina e plana típica da asa. Considerando que uma asa voadora visa maximizar a eficiência de cruzeiro em velocidades subsônicas, eliminando superfícies não-sustentantes, os corpos sustentantes geralmente minimizam o arrasto e a estrutura de uma asa para voo subsônico, supersônico e hipersônico, ou, em veículo espacial, na reentrada. Todos estes regimes de voo colocam desafios para a estabilidade de voo adequado.
+
+
+== História ==
+Em 1921, o aviador pioneiro e projetista de aeronaves Vincent Justus Burnelli patenteou o conceito simples de uma estruturas em forma de aerofólio aumentando a capacidade de elevação e de carga da aeronave.
+Apesar de uma série de contratempos políticos e empresariais, Burnelli continuou a refinar e licenciar seus projetos fazendo uma série de aperfeiçoamentos com o conceito até à sua morte em 1964.Pesquisas aeroespaciais relacionadas com corpos sustentantes surgiram da ideia de reentrada de espaçonaves na atmosfera da Terra e aterrissagem muito parecidas com uma aeronave convencional. Após a reentrada na atmosfera, as espaçonaves do tipo cápsula tradicionais, como as da série Mercury, Gemini e Apollo tinham muito pouco controle sobre onde elas aterrissariam.
+
+Uma nave espacial orientável com asas poderia ampliar significativamente as suas possibilidades de pouso. No entanto, as asas do veículo teriam de ser concebidas para resistir às dinâmicas e térmicas tanto da reentrada e do voo hipersônico. A solução proposta eliminava asas completamente, com o projeto do corpo da fuselagem para produzir sustentação. O ônibus espacial (Space Shuttle) combina alguns dos princípios comprovados de corpo sustentante, mas acrescenta no projeto o conceito de asa em delta.
+Os refinamentos da NASA do conceito de corpo sustentante iniciaram em 1962 com Dale Reed, do Dryden Flight Research Center (Centro de Pesquisas de Voo Dryden) da NASA. O primeiro modelo de tamanho real a ser produzido pelo programa de Reed foi o NASA M2-F1, uma fuselagem não propelida feita de madeira. Testes iniciais foram realizados pelo reboque do M2-F1 ao longo de um leito seco de lago da Califórnia onde hoje é a Base da Força Aérea Edwards, atrás de um Pontiac Catalina modificado. Mais tarde, a fuselagem foi rebocada por trás de um C-47 e liberada. Dado que o M2-F1 foi um planador, um pequeno motor de foguete foi adicionado de maneira a estender o envelope de pouso. O M2-F1 foi então apelidado de "Flying Bathtub" ("banheira voadora").
+
+
+== Ver também ==
+Veículo de Evacuação de Tripulação
+
+
+== Referências ==

@@ -1,0 +1,61 @@
+Geomorfologia é um ramo da geografia que estuda as formas da superfície terrestre. Para isso, tende a identificar, descrever e analisar tais formas, entendidas aqui como relevos, assim como todos seus aspectos genéticos, cronológicos, morfológicos, morfométricos e dinâmicos, tanto pretéritos como atuais e naturais ou antropogênico. O termo vem do grego: Γηος, geos (Terra), μορφή, morfé (forma) e λόγος, logos (estudo, conhecimento).
+A geomorfologia centra-se no estudo das formas das paisagens, mas porque estes são o resultado da dinâmica da litosfera como um todo, integra o conhecimento, em primeiro lugar  de outros ramos da geografia como a Climatologia, Hidrografia, Pedologia, Glaciologia, Paleogeografia e, do outro lado, também integra contributos de outras ciências, para incluir o impacto dos fenómenos biológicos, geológicos e antrópicos no relevo.
+Este ramo da ciência integra-se tanto na geografia física, como na geografia humana, devido aos desastres naturais e às relações homem-ambiente, e também na geografia matemática, no que diz respeito à topografia). A geomorfologia toma forma no final do século XIX pelas mãos de William Morris Davis, que também é considerado o pai da geografia americana. Nesse tempo, a ideia prevalecente sobre a criação do relevo era do catastrofismo como causa principal. Davis e outros geógrafos começaram a demonstrar que outras causas foram responsáveis pela modelagem da superfície da Terra. Davis desenvolveu uma teoria da criação e destruição da paisagem, a que ele chamou de "ciclo geográfico".Obras como "The Rivers and Valleys of Pennsylvania", "The Geographical Cycle" e "Elementary Physical Geography", deram um forte impulso inicial, seguido por outros estudiosos, como Mark Jefferson, Isaiah Bowman, Curtis Marbut, que foram consolidando a disciplina.
+
+
+== Tipos de relevo ==
+O relevo de todas as partes do planeta apresenta saliências e depressões oriundas das eras geológicas passadas. Estas saliências e depressões incluem as montanhas, planaltos, planícies e depressões; além desses acidentes existem outros menores, como as chapadas, as cuestas e as depressões periféricas...
+Estes acidentes resultaram da ação de dois tipos de agentes ou fatores do relevo. De origem interna, que recebe o nome de endógenos (vulcanismo, tectonismo e outros) e de origem externa, com o nome de exógenos (água corrente, temperatura, chuva, vento, geleiras, seres vivos).
+Tradicionalmente, o relevo divide-se tomando como base três classificações: de Aroldo de Azevedo, Aziz Ab'Saber e Jurandyr Ross.
+Sendo a crosta terrestre a base da estrutura geológica da Terra, várias rochas passam a compor esta estrutura e distinguem-se conforme a origem:
+
+Rochas Magmáticas (Rochas ígneas ou cristalinas): Formadas pela solidificação do magma, material encontrado no interior do globo terrestre. Podem ser plutônicas (ou intrusivas, ou abissais), solidificadas no interior da crosta, e vulcânicas (ou extrusivas, ou efusivas), consolidadas na superfície.
+Rochas Sedimentares: Formadas pela deposição de detritos de outras rochas, pelo acúmulo de detritos orgânicos, ou pelo acúmulo de precipitados químicos.
+Rochas Metamórficas: Formadas em decorrência de transformações sofridas por outras rochas, devido às novas condições de temperatura e pressão.A disposição destas rochas determina três diferentes tipos de formações:
+
+Escudos antigos ou maciços cristalinos: São blocos imensos de rochas antigas. Estes escudos são constituídos por rochas cristalinas (magmático-plutônicas), formadas em eras pré-cambrianas, ou por rochas metamórficas (material sedimentar) do Paleozoico, são resistentes, estáveis, porém bastante desgastadas.
+Bacias Sedimentares: São depressões relativas, preenchidas por detritos ou sedimentos de áreas próximas. Este processo se deu nas eras Paleozoica, Mesozoica e Cenozoica, contudo ainda ocorrem nos dias atuais. Associam-se à presença de petróleo, carvão, xisto e gás natural.
+Dobramentos Modernos: São estruturas formadas por rochas magmáticas e sedimentares pouco resistentes; foram afetadas por forças tectônicas durante o Terciário provocando o enrugamento e originando quando as cadeias montanhosas ou cordilheiras.Em regiões como os Andes, as Montanhas Rochosas, os Alpes, o Atlas e o Himalaia, são frequentes os terremotos e a atividade vulcânica.
+Apresentam também as maiores elevações da superfície terrestre. Os dobramentos resultam de forças laterais ou horizontais ocorridas em uma estrutura sedimentar que forma as cordilheiras. As falhas resultam de forças, pressões verticais ou inclinadas, provocando o desnivelamento das rochas resistentes. A deformação das rochas, por dobramentos e falhamentos, pode ser fator importante na evolução geomorfológica de uma área, devendo-se sempre levar em consideração em estudos de análise geomorfológica.
+
+
+== Ramos da Geomorfologia ==
+De descritiva e classificatória na sua origem, a geomorfologia evoluiu, como qualquer outra ciência, para o estudo das causas e inter-relações entre processos e formas. Esta abordagem, conhecida como a "geomorfologia dinâmica", tem beneficiado muito dos avanços tecnológicos, da redução de custos em equipamento de medição e do aumento exponencial do poder de processamento dos computadores. A geomorfologia dinâmica é fundamental no estudo dos processos de erosão e transporte de sedimentos.
+A "geomorfologia climática" estuda a influência do clima sobre a evolução do relevo. O clima é responsável pelos ventos e precipitação, que agem na modelagem contínua da superfície da Terra. A diversidade climática implica velocidades diferentes na evolução do ciclo: em climas áridos, o ritmo evolutivo é mais lento, enquanto que climas muito úmidos apresentam maiores taxas de evolução. A modelagem climática depende ainda dos fatores predominantes em cada região: gelo, vento, rios ou outros. Este conhecimento é resumido no que se chama de "domínios morfoclimáticos".
+A "geomorfologia fluvial" é o ramo especializado da geomorfologia que lida com o estudo das formas e estruturas provocadas pela dinâmica dos rios. Este subcampo é muitas vezes confundido com o campo da hidrografia.
+A "geomorfologia de encostas" é a que estuda os fenômenos produzidos no sopé das montanhas, os movimentos de massa, estabilização de encostas e outros. Tem grande importância para o estudo dos riscos naturais.
+A "geomorfologia eólica" estuda os processos e formas provocados pelo vento, especialmente em domínios morfoclimáticos onde o vento é predominante, por exemplo, nas zonas costeiras, desertos quentes e frios e regiões polares.
+A "geomorfologia glacial" estuda as formações e os processos causados pelas geleiras e alívio periglacial. Este ramo é estreitamente ligado à Glaciologia.
+A "geomorfologia estrutural", coloca o ênfase na influência dos processos geológicos no desenvolvimento do relevo. Esta disciplina é importante em áreas com forte atividade geológica, onde falhas e dobras podem predeterminar a existência de picos ou vales, ou a existência de baías e promontórios, ou outros afloramentos rochosos mais ou menos resistentes à erosão.
+O sucesso da capacidade preditiva de alguns modelos e suas aplicações potenciais nas áreas de planejamento urbano, engenharia civil, estratégia militar, desenvolvimento costeiro, entre outros, forjou nas últimas décadas a "geomorfologia aplicada", mais proeminente na geografia francêsa graças ao Instituto do Geografia Aplicada, fundado por Jean Tricart. Esta aplicação concentra-se principalmente na interacção entre as atividades humanas e as formas de terra, com ênfase na gestão dos riscos causados pelas mudanças na superfície terrestre (natural ou induzida), conhecidos como "georriscos". Esses estudos  incluem movimentos de massa, erosão das praias, atenuação das inundações, maremotos e outros.
+
+
+== Estudos Geomorfológicos no Brasil ==
+A expansão dos estudos geomorfológicos no Brasil se deu nos últimos 50 anos, devido à valorização das questões ambientais e por aplicar-se diretamente à análise ambiental.
+No Brasil, as primeiras contribuições geomorfológicas, datam do século XIX, quando pesquisadores “naturalistas” buscavam de maneira diversificada compreender o meio ambiente e pesquisadores "especialistas", ou seja, botânicos, cartógrafos, geógrafos e geólogos, dedicavam-se a conteúdos específicos.
+Estudando vários temas e diversas regiões brasileiras, as primeiras gerações de geógrafos e geólogos brasileiros juntamente com alguns estrangeiros, desenvolveram a partir do início do século até a década de 40 o conhecimento geomorfológico no Brasil. Vários trabalhos de brasileiros marcaram este período como, por exemplo, o de Guimarães (1943) e Azevedo (1949), que reúne e sintetiza o relevo brasileiro; Reinhard Maack (1947) sobre a geologia do Paraná; King (1956) aborda a geomorfologia no Brasil oriental e Tricart (1959), que estabelece a divisão morfoclimática para o Brasil atlântico central.
+A geomorfologia brasileira conheceu novos cenários a partir do final dos anos 60 e início dos anos 70, incorporando conceitos da Teoria Geral de Sistemas e aplicando ideias relativas ao equilíbrio dinâmico.
+Um dos maiores projetos já realizados, buscando o levantamento de recursos naturais, incluindo geologia, geomorfologia, solos, vegetação e uso do solo foi o Projeto Radam Brasil. De 1973 em diante, publicaram-se os relatórios, os documentos cartográficos (mapas temáticos) que recobrem todo o País, formando um total de 40 volumes.
+Atualmente, a geomorfologia acompanha os rumos teóricos e os caminhos de aplicação; entretanto, a dificuldade de acesso rápido às novas tecnologias e a falta de infraestrutura prejudicam os avanços da ciência.
+É possível afirmar que o relevo brasileiro:
+
+Apresenta grande variedade de formas, como planícies, planaltos, depressões relativas, costas e montanhas muito antigas.
+Não apresenta dobramentos modernos, depressões absolutas nem  áreas formadas por vulcanismo recente.
+Apresenta modestas altitudes, já que a quase totalidade das terras possui menos de 1.000 metros de altitude e somente meio por cento do território encontra-se acima desse limite.
+É predominantemente constituído por planaltos (58,5%), seguidos das planícies ou terras baixas conhecidas como platôs (41%), embora as plataformas sedimentares a exemplo dos tabuleiros sejam divergentes das planícies costeiras vizinhas propriamente ditas geralmente constituídas de restingas e pântanos com forte componente silicatóide.O Brasil possui 6 430 000 km² de bacias sedimentares, dos quais 4 880 000 km² em terra e 1 550 000 km² na plataforma continental, o que corresponde a 64% do território, constituindo grandes bacias como a Amazônica, a do Parnaíba, a do Paraná, a São-franciscana e a do Pantanal Mato-grossense e outras pequenas bacias.
+Escudos Antigos correspondem a 36% da área territorial e dividem-se em duas grandes porções: o Escudo das Guianas (norte da Planície Amazônica) e o Escudo Brasileiro (porção centro oriental brasileira). O Escudo Brasileiro divide-se em Planalto Nordestino, Planalto Central, Serras e Montanhas de Leste e Sudeste e Planalto do Maranhão-Tocantins, segundo a classificação do Geógrafo Aziz Nacib Ab'Saber.
+
+
+== Ver também ==
+Orogénese
+Pedogénese
+Suzanne Daveau
+Topografia
+
+
+== Referências ==
+
+
+=== Referências bibliográficas ===
+GUERRA, Antônio Teixeira. Geomorfologia: uma atualização de bases e conceitos. São Paulo: Bertrand Brasil, 2003.
+ROSS, Jurandyr Luciano Sanches. Geografia do Brasil. São Paulo: EDUSP, 2001.

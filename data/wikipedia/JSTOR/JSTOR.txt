@@ -1,0 +1,23 @@
+JSTOR (acrônimo para Journal Storage) é um sistema online de arquivamento de revistas acadêmicas sediado nos Estados Unidos, fundada em 1995.
+A JSTOR foi originalmente fundada pela Fundação Andrew W. Mellon, mas é atualmente uma organização sem fins lucrativos independente e auto-sustentável, com escritórios em Nova Iorque e Ann Arbor (Michigan).
+
+
+== História ==
+O JSTOR foi concebido como uma solução para um dos problemas enfrentados pelas bibliotecas, especialmente bibliotecas universitárias e de pesquisa, devido ao crescente número de periódicos acadêmicos. O fundador, William G. Bowen, foi o presidente da Universidade de Princeton de 1972 a 1988. A maioria das bibliotecas defrontou-se com custos e espaço proibitivos para manter uma coleção dessas publicações. Digitalizando muitos títulos das publicações, a JSTOR permitiu a bibliotecas terceirizar o armazenamento desses periódicos, com a confiança de que permaneceriam disponíveis por um longo tempo.
+O JSTOR originalmente incluía dez periódicos de economia e história; e foi iniciado em 1995 em sete sítios de diferentes bibliotecas. Dez novos sítios foram adicionados na primavera de 1996. Posteriormente, o acesso ao JSTOR foi melhorado, permitindo pesquisa diretamente nos textos. Um software especial foi posto em prática para tornar as fotografias e gráficos claros e legíveis.Com o êxito deste projeto, mas ainda limitado, Bowen e Kevin Guthrie, então presidentes do JSTOR, se interessaram em expandir o número de periódicos participantes. Eles se reuniram com representantes do Royal Society de Londres; e foi realizado um acordo para digitalizar o Philosophical Transactions of the Royal Society desde suas primeiras edições em 1665. O trabalho de inclusão desses volumes ao JSTOR foi completado em 2000. Em junho de 2007, o banco de dados continha 729 títulos de periódicos e mais de 165.000 edições individuais, totalizando mais de 23 milhões de páginas de texto.
+
+
+== Caso Aaron Swartz ==
+No final de 2010 e início de 2011, o ativista da Internet Aaron Swartz, usando a rede de dados do MIT, fez download e upload posteriormente de uma parte substancial da coleção de artigos de periódicos acadêmicos do JSTOR. Quando isto foi descoberto, a JSTOR parou o download, e o identificou usando câmeras escondidas no local onde Swartz usou para fazer download e upload dos periódicos.
+No mês seguinte, as autoridades federais acusaram Swartz de "roubo de dados" relacionados com crimes, incluindo fraude eletrônica, fraude de computador, obter ilegalmente informações de um computador protegido, de forma imprudente e danos a um computador protegido. Swartz se entregou às autoridades, mas não se declarou culpado de todas as acusações; e foi estabelecida uma fiança de 100.000 dólares. Em setembro de 2012, o governo dos EUA aumentou o número de acusações contra Swartz de quatro para 13, com uma possível pena de 35 anos de prisão e um milhão de dólares em multas. O caso ainda estava pendente quando Swartz supostamente se suicidou em janeiro de 2013.
+
+
+== Uso e conteúdo ==
+O acesso ao JSTOR é licenciado principalmente a bibliotecas, universidades e editores de todo o mundo. Instituições licenciadas podem fazer o JSTOR disponível livremente para seus membros através da Internet. Subscrições individuais também estão disponíveis para determinados títulos das publicações através da editora do periódico.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Página da JSTOR

@@ -1,0 +1,22 @@
+Uma antena parabólica é uma antena refletora utilizada para a recepção de sinais de rádio e televisão. Ela reflete o sinal vindo do espaço para o centro da antena, onde está o captador (chamado LNB), e assim concentrando este sinal fraco num único ponto, para que se obtenha uma recepção aceitável. É necessário utilizar um circuito elétrico que codifique esses sinais e controle as faixas de frequências que serão utilizadas: para isto que serve o aparelho receptor de sinais (chamado também de decodificador de TV). Esses sinais são transmitidos por satélites que operam para esse tipo de antena.A forma geométrica da antena é um paraboloide de revolução, de forma que feixes paralelos de radiação eletromagnética se concentrem em seu foco.
+
+
+== Ver também ==
+Internet via satélite
+Satélite artificial
+Televisão por satélite
+Lista de canais de televisão via satélite do Brasil
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+Lista de canais por satélite da Europa
+Lista de canais por satélite da África
+Lista de canais por satélite da Ásia
+Lista de canais por satélite da América do Norte
+Lista de canais por satélite da América do Sul
+Lista de canais por satélite do Médio Oriente
+Lista de canais por satélite do Pacífico

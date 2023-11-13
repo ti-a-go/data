@@ -1,0 +1,99 @@
+O Instituto Brasileiro de Geografia e Estatística (IBGE) é um instituto público da administração federal brasileira criado em 1934 e instalado em 1936 com o nome de Instituto Nacional de Estatística; seu fundador e grande incentivador foi o estatístico Mário Augusto Teixeira de Freitas. O nome atual data de 1938. A sede do IBGE está localizada na cidade do Rio de Janeiro.
+O IBGE tem atribuições ligadas às geociências e estatísticas sociais, demográficas e econômicas, o que inclui realizar censos e organizar as informações obtidas nesses censos, para suprir órgãos das esferas governamentais federal, estadual e municipal, e para outras instituições e o público em geral.
+A legislação vigente, de acordo com o Decreto Federal nº 73.177 de 20 de novembro de 1973 e a Lei nº 5.534 de 14 de novembro de 1968, modificada pela Lei nº 5.878 de 11 de maio de 1978, dispõe sobre a obrigatoriedade e sigilo das informações coletadas pelo IBGE, as quais se destinam, exclusivamente, a fins estatísticos e não poderão ser objeto de certidão e nem terão eficácia jurídica como meio de prova. A não prestação de informações nos prazos fixados bem como a prestação de informações falsas constitui infração, sujeito à multa de até 10 vezes o maior salário mínimo vigente no país, quando primário, e de até o dobro desse limite quando reincidente.
+
+
+== Histórico ==
+
+
+=== Antecedentes ===
+Anteriormente ao IBGE, foi instituída em 1871 a Diretoria Geral de Estatística (DGE), subordinada ao Ministério de Negócios do Império Brasileiro, e que realizou o primeiro censo no ano seguinte. A DGE passou também a catalogar registros de nascimento, matrimônio e óbito quando da implantação da República, realizando mais três recenseamentos, em 1890, 1900 e 1920. Um ano após a Revolução de 1930, o DGE foi dissolvido, e suas competências divididas entre os Ministérios.
+
+
+=== Fundação ===
+A data oficial de criação do IBGE é 29 de maio de 1936, quando foi regulamentado o Instituto Nacional de Estatística (INE), embora o Decreto n. 24.609, que o institui, date de 6 de julho de 1934. O INE foi fundado por um conjunto de estudiosos liderado por Mário Augusto Teixeira de Freitas, que viu a necessidade de organizar os dados estatísticos em um órgão centralizado. Pelo Decreto n. 1.527 (1937), foi criado também o Conselho Brasileiro de Geografia (CBG), que foi integrado ao INE para catalogar os dados geográficos do país.O IBGE, em seu formato atual, foi criado mediante o Decreto-Lei n. 218 de 26 de janeiro de 1938, resultante da integração das competências do INE e do CBG em um único órgão.
+
+
+== Estrutura ==
+O IBGE é uma entidade da administração pública federal, constituído na forma de fundação pública pelo Decreto-lei nº 161, de 13 de fevereiro de 1967, vinculado ao Ministério do Planejamento e Orçamento. Possui na presidência, quatro diretorias e dois outros órgãos centrais.[carece de fontes?]O IBGE possui uma rede nacional de pesquisa e disseminação, composta por:[carece de fontes?]
+Vinte e sete (27) unidades estaduais (26 nas capitais dos estados e 1 no Distrito Federal);
+Vinte e sete supervisões de documentação e disseminação de informações (26 nas capitais e 1 no Distrito Federal);
+Vinte e sete supervisões de base territorial (26 nas capitais e 1 no Distrito Federal);
+Seis gerências de Geodésia e Cartografia (Bahia, Distrito Federal, Ceará, Goiânia, Pará e Santa Catarina);
+Cinco gerências de Recursos Naturais (Bahia, Distrito Federal, Goiânia, Pará e Santa Catarina);
+Quinhentas e setenta (570) agências de pesquisa e disseminação nos principais municípios;
+Sede na cidade do Rio de Janeiro, onde está instalada a presidência, as diretorias e órgãos centrais a saber:
+Diretoria Executiva (DE);
+Diretoria de Pesquisas (DPE), responsável pelo planejamento e coordenação e execução das pesquisas de cunho estatístico;
+Diretoria de Geociências (DGC), responsável pela cartografia básica, pelo sistema geodésico brasileiro, pela representação da estrutura territorial, pelo levantamento de recursos naturais e meio ambiente e pelos levantamento e estudos geográficos;
+Diretoria de Informática (DI);
+Centro de Documentação e Disseminação de Informações (CDDI), responsável pela documentação e pela disseminação das informações produzidas pelo instituto, bem como coordenar as 27 SDIs do país;
+Escola Nacional de Ciências Estatísticas (ENCE), responsável pelo treinamento dos servidores do instituto. A ENCE também é uma instituição federal de ensino superior que oferece os seguintes cursos:
+Bacharelado em Estatística;
+Especialização em Análise Ambiental e Gestão do Território;
+Mestrado em Estudos Populacionais e Pesquisas Sociais;
+Doutorado em População, Território e Estatísticas Públicas.O IBGE mantém, ainda, a Reserva Ecológica do Roncador, situada a 35 km ao sul de Brasília.
+
+
+== Pesquisas ==
+O IBGE mantém as seguintes pesquisas permanentes (lista não exaustiva):
+
+
+=== Sistema de contas nacionais ===
+O  Sistema de contas nacionais fornece uma visão de conjunto da economia e descreve os fenômenos da vida econômica: produção, consumo, acumulação e riqueza, fornecendo uma representação compreensível e simplificada destes dados. O Sistema de Contas Nacionais do IBGE segue as mais recentes recomendações das Nações Unidas expressas no Manual de Contas Nacionais (System of National Accounts 1993, SNA), incluindo o cálculo do Produto interno bruto (PIB) e a Matriz de insumo-produto.[carece de fontes?]Apresenta os valores correntes e os índices de volume (1991=100) trimestralmente para o Produto interno bruto a preços de mercado, impostos sobre produtos, valor adicionado a preços básicos, consumo pessoal, consumo do governo, formação bruta de capital fixo, variação de estoques, exportações e importações de bens e serviços. São calculadas duas séries de números-índices: a com base no ano anterior e a encadeada com referência em 1990 (1990 = 100). A série encadeada é ajustada sazonalmente pelo X12-ARIMA possibilitando o cálculo das taxas de variação em relação ao trimestre imediatamente anterior.[carece de fontes?]No IBGE a pesquisa foi iniciada em 1988 e reestruturada a partir de 1998, quando os seus resultados foram integrados ao atual Sistema de Contas Nacionais. As ponderações anuais são obtidas a partir deste novo sistema de contas. Periodicidade: trimestral. Abrangência geográfica: Brasil.[carece de fontes?]
+
+
+=== Índices econômicos ===
+
+Sistema Nacional de Índices de Preços ao Consumidor;
+Índice Nacional de Preços ao Consumidor (INPC);
+Índice Nacional de Preços ao Consumidor Amplo (IPCA);
+Índice Nacional da Construção Civil (INCC);
+Índice de Preços ao Produtor;
+Pesquisa Mensal de Emprego.
+
+
+=== Classes sociais ===
+
+Nos censos demográficos (ver seção abaixo), utiliza-se a seguinte classificação da sociedade em classes sociais. Essa classificação é a que é adotada pelo governo.O IBGE usa o Critério por Faixas de Salário-Mínimo. É um método que classifica as classes com base em faixas de renda; mais especificamente, por número de salários-mínimos. O salário-mínimo no Brasil em 2022 era de R$ 1 212. Uma fraqueza deste método é não considerar patrimônio ou  ganhos esporádicos.
+
+
+== Censos ==
+
+
+=== Censo demográfico ===
+O IBGE realiza vários tipos de censos, embora o mais conhecido seja o censo demográfico, que é o conjunto de dados estatísticos sobre a população de um país. No Brasil, os censos demográficos são realizados a cada dez anos.O censo demográfico é uma pesquisa sobre a população que possibilita a recolha de várias informações , tais como o número de habitantes, número de homens, mulheres, crianças e idosos, onde e como vivem as pessoas (se vivem de aluguel, se estão pagando o imóvel ou se é casa própria) e o trabalho que realizam (qual o salário, qual o trabalho, se é formado, no que trabalha, etc.), entre outras coisas.
+
+
+==== Contagem de população ====
+A contagem de população é realizada entre o intervalo de dois censos demográficos, geralmente cinco anos depois do último ou cinco antes do próximo. Objetiva atualizar os dados sobre o número de habitantes, e nem sempre é aplicada em todos os municípios.[carece de fontes?]
+
+
+=== Censo agropecuário ===
+O censo agropecuário é o levantamento de informações sobre estabelecimentos agropecuários, florestais e/ou aquícolas de todos os municípios de um país. O objetivo da pesquisa é atualizar dados de censos anteriores, fornecer informações sobre aspectos econômicos, sociais e ambientais da atividade agropecuária. Ocorre geralmente a cada 10 anos.[carece de fontes?]O último censo agropecuário realizado pelo IBGE no Brasil havia sido em 1996. Em 2006, foi realizado um novo censo agropecuário, referente às atividades desenvolvidas no ano anterior e em 1 de Outubro de 2017, deu-se início ao Censo Agropecuário do respectivo ano.
+
+
+== Publicações ==
+Ao longo dos anos a instituição tem publicado obras cuja linha editorial tem a ver com as competências do órgão, dentre as publicações, há a Enciclopédia dos Municípios Brasileiros inicialmente lançada em 1957.
+
+
+== Lista de presidentes ==
+As informações desta lista baseiam-se no website Memória IBGE e no livro "O Desafio de retratar o país: entrevistas com os presidentes do IBGE no período de 1985 a 2015" (IBGE, 2016)
+
+
+== Ver também ==
+Comissão Nacional de Classificação (CONCLA)
+Instituto Histórico e Geográfico Brasileiro
+Conselho Nacional de Geografia
+
+
+== Notas ==
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Sítio oficial
+«Memória IBGE» 
+«Galeria de Presidentes - Memória IBGE»

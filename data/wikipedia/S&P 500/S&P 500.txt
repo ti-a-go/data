@@ -1,0 +1,19 @@
+S&P 500,  abreviação de Standard & Poor's 500, ou simplesmente S&P, trata-se de um índice composto por quinhentos ativos (ações) cotados nas bolsas de NYSE ou NASDAQ, qualificados devido ao seu tamanho de mercado, sua liquidez e sua representação de grupo industrial. É (S&P 500) um índice ponderado de valor de mercado (valor do ativo multiplicado pelo número de ações em circulação) com o peso de cada ativo no índice proporcional ao seu preço de mercado. S&P faz referência a Standard & Poor's, uma empresa de consultoria financeira.
+O ticker do S&P 500 é ^GSPC.
+
+
+== Critério de seleção ==
+Os componentes do S&P 500 são selecionados por um comitê. Isso é semelhante ao Dow Jones Industrial Average, mas diferente de outros, como o Russell 1 000, que são estritamente baseados em regras. Ao considerar a elegibilidade de uma nova adição, o comitê avalia o mérito da empresa usando oito critérios principais: Capitalização de mercado, liquidez, domicílio, flutuação pública, classificação setorial, viabilidade financeira e período de tempo negociado publicamente e bolsa de valores. Cada um desses critérios principais possui requisitos específicos que devem ser atendidos.
+Propriamente dito, o S&P 500 não deve receber modificações, ou seja, deve-se manter a expressão original, pois trata-se das 500 ações mais importantes para o mercado, ações que medem mudanças, situações, cenários em que a economia está exposta.
+
+
+== História ==
+Em 1860, Henry Varnum Pobre formado Publishing Poor , que publicou um guia do investidor para o setor ferroviário.Em 1923, a Standard Statistics Company (fundada em 1906 como Standard Statistics Bureau) começou a avaliar títulos hipotecários e desenvolveu seu primeiro índice do mercado de ações consistindo em ações de 233 empresas americanas, calculado semanalmente.Em 1926, desenvolveu um índice de 90 ações, calculado diariamente. 
+Em 1941, a Poor's Publishing fundiu-se com a Standard Statistics Company para formar a Standard & Poor's.Em 4 de março de 1957, o índice foi expandido para suas atuais 500 empresas e foi renomeado para S&P 500 Stock Composite Index.Em 1962, a Ultronic Systems tornou-se o compilador dos índices S&P, incluindo o S&P 500 Stock Composite Index, o 425 Stock Industrial Index, o 50 Stock Utility Index e o 25 Stock Rail Index.Em 31 de agosto de 1976, o The Vanguard Group ofereceu o primeiro fundo mútuo para investidores de varejo que rastreavam o índice.Em 21 de abril de 1982, a Chicago Mercantile Exchange começou a negociar futuros com base no índice.Em 1o de julho de 1983, a Chicago Board Options Exchange começou a negociar opções com base no índice.Em 22 de janeiro de 1993, o fundo negociado em bolsa Standard & Poor's Depositary Receipts emitido pela State Street Corporation começou a ser negociado.Em 9 de setembro de 1997, o CME Group lançou o contrato futuro S&P E-mini.Em 2005, o índice fez a transição para uma ponderação de capitalização ajustada ao float público.
+
+
+== Ligações externas ==
+Sítio oficial
+
+
+== Referências ==

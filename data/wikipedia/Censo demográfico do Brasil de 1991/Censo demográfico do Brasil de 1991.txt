@@ -1,0 +1,42 @@
+O Censo demográfico de 1991, ou Recensamento Geral de 1991, foi a décima operação censitária nacional conduzida na história do Brasil, ficou a cargo do IBGE, o Instituto Brasileiro de Geografia e Estatística, órgão oficial de realização das estatísticas nacionais. A décima operação censitária nacional, determinou que a população residente do Brasil era de 146.825.475, um aumento de 21,3% em relação às 121.150.573 pessoas enumeradas durante o Censo de 1980. Foi o primeiro censo feito com o quadro atual de divisões de unidades federativas: 26 estados e o Distrito Federal.
+Ao contrário dos quatro censos anteriores, o de 1991 não ocorreu no intervalo de 10 anos, por causa da crise económica que o Brasil enfrentava na época e a necessidade em se reduzir o quadro de servidores públicos e por esse mesmo motivo, apenas o Censo Demográfico foi realizado. A amostragem utilizada no referido censo foi de 10% para os municípios com mais de 15 mil habitantes e 20% para os demais municípios.
+
+
+== Preparação ==
+
+
+=== Cooperação internacional ===
+O Censo de 1991 atendeu às solicitações de vários organismos internacionais, entre eles, a ONU (Organização das Nações Unidas), ao mesmo tempo que integrou-se no Censo das Américas, sob o patrocínio do Instituto Interamericano de Estatística, órgão da Organização dos Estados Americanos.A amostra do Censo, utilizou o método de estimação denominado Mínimos Quadrados Generalizados em Duas Etapas, desenvolvido pelos técnicos do Statistics Canada. Os técnicos do Statistics Canada desenvolveram também os programas em linguagem SAS para a aplicação dessa metodologia, sempre adaptados à realidade brasileira.
+
+
+=== Censo experimental ===
+Já no ano de 1987, o IBGE começou a planejar o censo que deveria ocorrer três anos mais tarde, em 1990, então foi realizado um Censo Experimental que ocorreu na cidade de Limeira, interior do estado de São Paulo, no ano de 1989.
+
+
+=== Atraso ===
+O censo deveria ter ocorrido no ano de 1990, porém, o IBGE precisava contratar mais de 180 mil pessoas em caráter temporário para realizar esta operação, entretanto, a autorização da contratação desse contingente foi sendo protelada, uma vez que o governo tentava reduzir o quadro de servidores públicos, a fim de reorganizar as finanças. A contratação de pessoal temporário só foi autorizada em julho de 1990 e já não havia mais tempo para se realizar o processo seletivo para a contratação de servidores temporários para a coleta de dados que estava programada para se iniciar no mês de setembro.
+
+
+== Realização ==
+
+
+=== Provimento legal ===
+A realização do Recenseamento de 1991 obedeceu às determinações da Lei nº 8.184 de 10 de maio de 1991, manteve também o caráter obrigatório e confidencial atribuído às informações censitárias.
+
+
+=== Inovações ===
+Vários aspectos foram inovados para a realização do Censo entre eles, destaca-se, a criação da Comissão Consultiva, composta por estudiosos e especialistas em diversos temas ligados à população, a introdução de novos quesitos no Questionário Básico, a descentralização da entrada de dados nas Unidades da Federação e a dimensão da amostra.
+
+
+=== Contexto ===
+No Censo Demográfico de 1991 foram investigadas as características das pessoas, das famílias e dos domicílios, recenseados todas as pessoas residentes no Brasil na data de referência, incluindo as que se encontravam temporariamente ausentes do país, também foi recenseada a população indígena que vivia em postos da FUNAI, em missões religiosas ou em outras áreas. Os únicos que não foram recenseados foram povos indígenas que viviam em tribos isoladas, conservando seus hábitos primitivos de existência.
+
+
+== População total ==
+A população por subdivisões, mostrou que o estado de São Paulo continuou sendo o mais populoso da nação, com 31 546 473 habitantes, enquanto que Roraima permaneceu como o menos populoso, embora tenha mais que dobrado sua população em relação a 1980, o estado conta com apenas 215 950 habitantes.
+
+
+== Por região ==
+
+
+== Referências ==

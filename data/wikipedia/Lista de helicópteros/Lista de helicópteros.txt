@@ -1,0 +1,404 @@
+
+== A ==
+
+
+=== A-B Helicopters ===
+A-B Helicopters A/W 95
+
+
+=== AAI ===
+(American Aircraft International)
+
+AAI Penetrator
+
+
+=== Aero Products ===
+(API/Aeronautical Products Inc)
+
+Aero Products A-1
+Aero Products A-3
+
+
+=== Aero ===
+Aero HC-2 Heli Baby-COMBAT
+Aero HC-3
+Aero HC-4
+Aero Z-35 Heli Trainer
+Aero F-10 Raptor
+
+
+=== Aero-Astra ===
+(Aviatsionnyy Nauchno-Yekhnicheskiy Tsentr Aero-Astra (Aero-Astra))
+
+Aero-Astra Okhotnik 1
+Aero-Astra Okhotnik 2
+Aero-Astra Okhotnik 2M
+Aero-Astra Okhotnik 3
+
+
+=== Aero-Sport International ===
+Aero-Sport Kahu
+
+
+=== AeroDreams ===
+AeroDreams Chi-7
+
+
+=== Aerokopter ===
+Aerokopter ZA-6 San'ka
+Aerokopter AK1
+Aerokopter AK1-3 San'ka
+Aerokopter AK1-3CX
+Aerokopter AK1-5 San'ka
+
+
+=== Aeronautical Products ===
+Model 3 A-1
+
+
+=== Aerospace General ===
+Aerospace General Mini-Copter
+
+
+=== Aérospatiale ===
+Aérospatiale Alouette
+Aérospatiale Alouette II
+Aérospatiale Alouette III
+Aérospatiale Lama
+Aérospatiale Gazelle
+Aérospatiale Puma
+Aérospatiale Super Frelon
+
+
+=== Aerotecnica ===
+Aerotecnica AC.12
+Aerotecnica AC.14
+
+
+=== Agusta ===
+Agusta A109
+Agusta A129 Mangusta
+Agusta-Bell AB212
+Agusta A119 Koala
+Agusta/Sikorsky AS-61
+Agusta/Westland EH101
+
+
+=== AISA ===
+AISA GN
+
+
+== B ==
+
+
+=== Bell ===
+Bell Model 47
+Bell Model 206 JetRanger
+Bell Model 206L-4 LongRanger
+Bell Model 430
+Bell UH-1 Iroquois (Huey)
+Bell UN-1N Iroquois (Twin Huey)
+Bell OH-58D Kiowa
+Bell AH-1 Cobra
+Bell AH-1 SuperCobra
+Bell/Boeing V-22 Osprey
+
+
+=== Boeing ===
+Boeing (McDonnell Douglas) AH-64 Apache
+Boeing CH-46 Sea Knight
+Boeing CH-47 Chinook
+Boeing (McDonnell Douglas) MD-500 Defender
+Boeing (McDonnell Douglas) Model 500E
+Boeing (McDonnell Douglas) Model 520
+Boeing (McDonnell Douglas) Explorer
+Boeing/Sikorsky RAH-66 Commanche
+
+
+=== Brantly ===
+Brantly B-1
+Brantly B-2
+Brantly-Hynes Model 305
+
+
+== C ==
+
+
+=== Cicaré Helicopteros S.A. ===
+Cicaré CH-1
+Cicaré CH-2
+Cicaré CK.1
+Cicaré CH-3
+Cicaré CH-4
+Cicaré CH-5
+Cicaré CH-6
+Cicaré CH-7
+Cicaré CH-8
+Cicaré CH-9
+Cicaré CH-10
+Cicaré CH-11
+Cicaré CH-12
+Cicaré CH-14
+Cicaré CH-16
+
+
+=== Chu ===
+Chu Humming Bird Model A
+Chu Humming Bird Model B
+Chu CJC-3
+
+
+== D ==
+
+
+=== Denel ===
+Denel (Atlas) Rooivalk
+Dornier Do-32
+
+
+== E ==
+
+
+=== EHI ===
+EHI EH-101 Merlin
+EHI EH-101 Merlin Utility
+
+
+=== Enstrom ===
+Enstrom F28
+
+
+=== Eurocopter ===
+Eurocopter (Aerospatiale) SA 330 Puma
+Eurocopter AS 332 Super Puma
+Eurocopter AS 350/550/555 Ecureuil
+Eurocopter AS 365 Dauphin 2
+Eurocopter EC 135
+Eurocopter (Aerospatiale) SA 315B Lama II
+Eurocopter (Aerospatiale) SA 316/319 Alouette III
+Eurocopter (Aerospatiale) SA 341 Gazelle
+Eurocopter (MBB) BO-105
+Eurocopter Tiger
+
+
+== F ==
+
+
+=== Fairchild Hiller ===
+FH-1100
+
+
+== G ==
+
+
+=== GKN ===
+GKN Westland Lynx
+GKN Westland Sea King
+GKN Westland Wasp
+GKN Westland Wessex
+
+
+== H ==
+
+
+=== HAL ===
+HAL Advanced Light Helicopter
+
+
+=== Hiller ===
+Hiller UH-12E
+
+
+=== Hynes ===
+Hynes H-5T
+
+
+=== Helibrás ===
+Helibrás AS-350B1Helibrás AS-350B2
+
+
+== K ==
+
+
+=== Kaman ===
+Kaman K-max
+Kaman SH-2 SeaSprite
+
+
+=== Kamov ===
+Kamov Ka-8
+Kamov Ka-10 Hat
+Kamov Ka-15 Hen
+Kamov Ka-18 Hog
+Kamov Ka-20 Harp
+Kamov Ka-22 Hoop
+Kamov Ka-25 Hormone
+Kamov Ka-26 Hoodlum
+Kamov Ka-27 Helix A
+Kamov Ka-28
+Kamov Ka-29 Helix B
+Kamov Ka-31
+Kamov Ka-32 Helix C
+Kamov Ka-41
+Kamov Ka-50
+Kamov Ka-52 Hokum
+Kamov Ka-60
+Kamov Ka-118
+Kamov Ka-126
+Kamov Ka-137
+Kamov Ka-226
+
+
+=== Kawasaki ===
+Kawasaki XOH-1
+
+
+== L ==
+
+
+=== Lockheed Martin ===
+Lockheed AH-56 Cheyenne
+
+
+== M ==
+
+
+=== Mil ===
+Mil Mi-2 Hoplite
+Mil Mi-6 Hook
+Mil Mi-8 Hip
+Mil Mi-14 Haze
+Mil Mi-17 Hip (Substituto oficial do Mi-8)
+Mil Mi-24 Hind
+Mil Mi-26 Halo
+Mil Mi-28 Havoc
+Mil Mi-34 Hermit
+
+
+=== MD Helicopters ===
+MD 520 Notar
+MD 900 Explorer
+
+
+== N ==
+
+
+=== NHi ===
+NHi NH-90
+
+
+== P ==
+
+
+=== PZL ===
+PZL Swidnik W-3 Sokol
+PZL SW-4
+
+
+== R ==
+
+
+=== Robinson ===
+Robinson R22
+Robinson R44
+Robinson R66
+
+
+== S ==
+
+
+=== Schweizer Aircraft Corporation ===
+Schweizer 300C
+Schweizer 330
+Schweizer 333
+
+
+=== Sikorsky ===
+Sikorsky EH-60A Quick Fix-2
+Sikorsky HR2S-1W
+Sikorsky R-4
+Sikorsky R-5 / HO2S
+Sikorsky R-6
+Sikorsky S-1
+Sikorsky S-2
+Sikorsky S-51 / H-5 / HO3S
+Sikorsky S-52-1 / H-18
+Sikorsky S-52-2 / YH-18
+Sikorsky S-53
+Sikorsky S-54
+Sikorsky S-55 Chickasaw / HO4S / HRS
+Sikorsky S-56 / CH-37 Mojave / HR2S
+Sikorsky S-58
+Sikorsky S-58 / HSS Seabat / HUS Seahorse / CH-34 Choctaw
+Sikorsky S-58T
+Sikorsky S-59 / YH-39
+Sikorsky S-60 (SH-60 Seahawk)
+Sikorsky S-61 / SH-3 Sea King
+Sikorsky S-61N
+Sikorsky S-61R / CH-3 / HH-3 (os chamados Jolly Green Giants)
+Sikorsky S-62 / HH-52
+Sikorsky S-64 Skycrane
+Sikorsky S-65A/CH-53 Sea Stallion
+Sikorsky S-67
+Sikorsky S-69 / XH-59
+Sikorsky S-70 / UH-60 Black Hawk
+Sikorsky MH-60 Pave Hawk (versão gunship: AH-60L)
+Sikorsky S-70A / SH-60B Sea Hawk
+Sikorsky S-70A / SH-60F Ocean Hawk
+Sikorsky S-72 RSRA
+Sikorsky S-75 ACAP
+Sikorsky S-76
+Sikorsky S-76 Eagle
+Sikorsky S-76 Shadow (versão de testes para o futuro RAH-66)
+Sikorsky S-80 / CH-53E Super Sea Stallion
+Sikorsky S-92
+Sikorsky VS-300
+
+
+== Y ==
+
+
+=== Yamaha Motor Company ===
+Helicópteros não-tripulados:
+
+RMAX Type II - industrial
+RMAX Type II G (RMAX Type II with GPS) - industrial
+RCASS ou Remote Control Automatic Spray System  - agrícola
+R50 (L09) - industrial
+R50 (L092) - industrial
+
+
+=== Yakovlev ===
+Yakovlev Yak-24 (Designação NATO: "Horse")
+
+
+== W ==
+
+
+=== Westland Aircraft ===
+Desde 2000, Augusta Westland
+
+Westland Dragonfly
+Westland Lynx
+Westland Sea King
+Westland Scout
+Westland Sioux
+Westland Wasp
+Westland Wessex
+Westland Whirlwind
+Westland WidgeonCom a Aérospatiale:
+
+Westland Puma
+Westland Gazelle
+
+
+== Z ==
+
+
+=== Zaschka ===
+Zaschka-Rotationsflugzeug 1927 (Rotary Wing Aircraft)
+
+
+== Notas ==
+A título de referência, todos os helicópteros que são passíveis de serem armados constam em itálico
+Designações para helicópteros do Exército dos Estados Unidos: "AH": "Attack Helicopter" (Helicóptero de Ataque), "RAH": "Reconnaissance and Attack Helicopter" (Helicóptero de Reconhecimento e Ataque), "CH": "Cargo Helicopter" (Helicóptero de Carga), "OH": "Observation Helicopter" (Helicóptero de Observação) e "UH": "Utility Helicopter" (Helicóptero Utilitário).

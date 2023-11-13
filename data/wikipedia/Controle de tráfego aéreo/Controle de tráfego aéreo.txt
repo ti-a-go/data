@@ -1,0 +1,36 @@
+O controle de tráfego aéreo (português brasileiro) ou controlo de tráfego aéreo (português europeu), (Air Traffic Control, ou ATCO, em inglês) é um serviço prestado por controladores, em terra, que acompanham, orientam e monitoram o percurso de aeronaves (geralmente, aviões e helicópteros) no ar e no solo, para garantir um fluxo de tráfego seguro, ordenado e expedito. Os controladores de tráfego aéreo fornecem indicações e autorizações de voo, de acordo com as características operacionais das aeronaves e as condições de tráfego em determinado momento. Essas autorizações podem incidir sobre a rota, altitude e/ou velocidade propostas pelo operador da aeronave, para determinado voo, devendo os pilotos avaliar e/ou cumprir as instruções/autorizações recebidas.
+
+
+== Espaço aéreo ==
+Em muitos países, os serviços ATC são prestados em toda a extensão do espaço aéreo e estes serviços são utilizados por todos os usuários (aeronaves privadas, militares e comerciais). O espaço aéreo onde o controlador emite autorizações para as aeronaves é chamado de espaço aéreo controlado em oposição ao espaço aéreo não controlado no qual os pilotos das aeronaves são responsáveis pela própria navegação e segurança em seu voo. Dependendo do tipo de voo e da classe do espaço aéreo, o controlador de tráfego aéreo pode emitir instruções que os pilotos devem seguir ou apenas informações de voo para ajudar os pilotos operando em determinado espaço aéreo. Em todos os casos, entretanto, o piloto tem a responsabilidade final pela segurança da aeronave, e pode não cumprir as instruções do ATC em caso de não ter condições de cumprir a instrução ou em casos de emergência.
+
+
+== Órgãos de controle ==
+Os serviços de controle de tráfego aéreo são prestados basicamente por três tipos de órgãos operacionais:
+Torre de Controle de Aeródromo, também denominada TWR (origem na palavra inglesa "tower"): controla os tráfegos (a movimentação de aeronaves) dos pousos e de decolagens que ocorrem dentro da ATZ (zona de tráfego de aeródromo) do aeródromo em que essa TWR está instalada. Também controla o tráfego das aeronaves no solo (função operacional denominada "GND CTL", "ground control" ou "controle solo"). Dentro da área de movimento do aeródromo, o GND CTL da TWR tem autoridade para controlar inclusive os deslocamentos de pedestres e de veículos terrestres.
+Controle de Aproximação, também denominado APP (origem na palavra inglesa "approach"): controla os tráfegos (a movimentação de aeronaves) que ocorrem dentro de uma CTR (zona de controle) e/ou dentro de uma TMA (área de controle terminal), o que inclui tanto as aeronaves que saíram do voo de cruzeiro (fase "em rota" ou en route) para descer, dentro da CTR ou TMA, em direção à ATZ do aeródromo de destino (pouso), quanto inclui também as aeronaves que saíram da ATZ do aeródromo de partida (decolagem) e que estão subindo dentro de uma CTR ou TMA para posteriormente ingressarem na fase en route (voo cruzeiro).
+Centro de Controle de Área, também denominado ACC (origem na denominação inglesa "Area Control Center"): controla os tráfegos (a movimentação de aeronaves) que ocorrem dentro das aerovias (AWY), das Áreas de Controle (CTA) e das Áreas de Controle do Espaço Aéreo Superior (UTA). Esses espaços aéreos interligam as TMA e as CTR umas com as outras e são usados pelas aeronaves durante o voo de cruzeiro (fase en route), ou seja, quando elas já estão no nível de voo mais alto, deslocando em voo "reto e nivelado". As AWY são como "estradas no céu", porém as normas de tráfego aéreo dos países permitem que, em determinadas circunstâncias, as aeronaves voem fora das aerovias, situação em que essas aeronaves estarão voando ou dentro de uma CTA, ou dentro de uma UTA, ou então dentro de uma FIR.Dentro da FIR (fora das ATZ, CTR, TMA, CTA e UTA) não ocorre controle de tráfego, porém o ACC presta ao menos dois serviços auxiliares de tráfego aéreo: o serviço de informação de voo (FIS) e o serviço de alerta (ALRS).
+
+
+== Controladores ==
+No seu trabalho, o controlador de tráfego aéreo utiliza-se de regras e padrões definidos e aprovados pelas entidades aeronáuticas nacionais e internacionais que regulamentam a circulação do tráfego aéreo. Internacionalmente, a regulamentação é definida por um organismo técnico-político da ONU denominado Organização da Aviação Civil Internacional (OACI), do qual Brasil e Portugal são países-membros (devido ao fato de serem signatários da Convenção de Chicago).
+
+
+== Aplicações Civis ==
+Com os recentes avanços em novas tecnologias computacionais e de Internet das Coisas, espera-se que o espaço aéreo destinado a civis tem potencial de crescimento nos próximos anos.  Tecnologias de comunicações mais avançadas que incluem utilização em massa do espectro disponível (Massive Machine Type Communications - mMTC) e confiabilidade e baixo tempo de resposta (Ultra Reliable Low Latency Communications - URLLC) são objetivos a serem alcançados com tecnologia 5G.  Em um cenário de Cidades Inteligente, Sistemas de Transportes Inteligente podem ter um papel decisivo rumo a uma sociedade que porporciona melhor qualidade de vida aos civis.  Outro ponto a ser destacado é a característica descentralizada das missões e, portanto, sistemas de informação especializados são requeridos.  Um exemplo é utilizar de blockchain para obter o consenso sobre quais aeronaves possuem concessão de utilização de um determinado espaço.
+
+
+== Notas ==
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Flight Radar 24, site com tráfego aéreo em tempo real
+
+
+== Ver também ==
+Região de informação de voo
+Plano de voo
+VATSIM

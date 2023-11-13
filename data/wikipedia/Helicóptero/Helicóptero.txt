@@ -1,0 +1,61 @@
+Helicóptero (do grego ἔλιξ hélix = espiral e πτέρυξ ptéryks = asa) é um tipo de aeronave de asas diagonais, mais pesada que o ar (aeródino), propulsada por um ou mais rotores horizontais maiores (propulsores) que, quando girados pelo motor, criam sustentação e propulsão necessárias para o voo. Devido ao fato de as pás do rotor girarem em torno de um mastro, são classificados como aeronave de asa rotativa, o que os distingue das aeronaves de asa fixa convencional (avião).
+Em contraste com aeronaves de asa fixa, isso permite que o helicóptero possa decolar e pousar verticalmente, pairar e ir para frente, para trás e lateralmente. Esses atributos permitem aos helicópteros serem utilizados em áreas congestionadas ou isoladas em que as aeronaves de asa fixa não seriam capaz de pousar ou decolar. A capacidade de pairar por longos períodos de tempo e de decolagem e aterragem vertical (VTOL) permite aos helicópteros realizar tarefas que as aeronaves de asa fixa não podem executar.
+Os helicópteros foram desenvolvidos e construídos durante a primeira metade de século XX, com alguma produção e alcance limitado, mas foi só em 1942 que o Sikorsky R-4, um helicóptero projetado pelo pioneiro russo Igor Sikorsky atingiu a produção em larga escala, com 131 aeronaves construídas.
+
+
+== Etimologia ==
+"Helicóptero" é uma adaptação da palavra francesa hélicoptère, cunhada pelo inventor francês Gustave d'Amécourt, do grego antigo helix (ἕλιξ - "hélice, espiral, turbilhão, convolução") e pteron (πτερόν) "asa". Este termo apareceu pela primeira vez em 3 de agosto de 1861 num pedido de patente no Reino Unido, depois em 16 de abril de 1862 em um certificado de adição à patente 49.077 inicialmente depositada em 3 de abril de 1861 na França  mencionando apenas o termo "aeronave". Este inventor construiu, com Gabriel de La Landelle, o Chère hélice, um pequeno protótipo de helicóptero com um motor a vapor de dois cilindros, com rotores contra-rotativos, cuja caldeira foi um dos primeiros usos do alumínio. (ver: Aeronave a vapor)
+
+
+== História ==
+A primeira ideia pouco prática de um helicóptero foi concebida por Leonardo da Vinci no século XV, mas esquecida até a invenção do avião no século XX.
+Desenvolvedores como Louis Breguet, Paul Cornu, Juan de La Cierva y Codorniu, Émile Berliner, e Igor Sikorsky abriram caminho para este tipo de aeronave. O primeiro voo bem-sucedido e registrado de um helicóptero ocorreu em 1907, realizado por Paul Cornu, na França. Entre 1920 e 1926 o Argentino Raul Panteras Pescaras fez vários testes aportando o desenvolvimento do ajuste angular das pás para melhor controle da futura aeronave. Porém, o primeiro voo de um helicóptero completamente controlável foi demonstrado por Hanna Reitsch em 1937 em Berlim, Alemanha conduzindo um Focke-Wulf Fw 61.
+No início da década de 1940 Igor Sikorsky esteve na base do aparecimento do Sikorsky R-4. E, em 1941 adaptou flutuadores num Vought-Sikorsky VS-300 tornando-o o primeiro helicóptero anfíbio prático do mundo. Em 1946, foi lançada a produção do Bell 47B, que atingia uma velocidade de 140km/h, com duas pessoas a bordo.
+Entretanto, no fim dos anos 50, os helicópteros começam a especializar-se e a desenvolver-se, atingindo velocidades de 260 km/h, com até 44 lugares a bordo.[carece de fontes?]Tornando-se um símbolo de poder, o helicóptero veio a ser também uma fonte de prestígio para determinados homens de negócios. Tudo começou quando a companhia norte-americana Bell não ganhou uma encomenda de helicópteros de observação, acabando, em 1965, por adaptar o projecto à área civil. Este helicóptero veio a ser um modelo popular entre os homens de negócios, apreciadores do conforto.[carece de fontes?]Nos anos 70, acabou por ser melhorado, readquirindo o seu interesse militar, pelo que foi vendido a forças armadas de todo o Mundo. Ainda no campo militar, surgiu o AH-64 Apache, que veio a constituir a base dos helicópteros modernos.[carece de fontes?]Na década de 1990, surge o AgustaWestland EH101, um helicóptero diversificado que suporta o transporte de passageiros, operações militares e de salvamento no mar. Com as melhorias da tecnologia, o consumo de combustível baixou. Os níveis de ruído foram reduzidos, o mesmo sucedendo com as vibrações. Desta forma, passa também a haver um menor desgaste da estrutura.[carece de fontes?]Em termos militares, a fuselagem é feita de forma a diminuir as possibilidades de os helicópteros serem detectados por radares, tendo esta sido uma das preocupações dos engenheiros aeronáuticos durante os anos 90. Uma das possibilidades é fazer com que o helicóptero não emita uma quantidade elevada de calor, para não ser detectado por infravermelhos.[carece de fontes?]Desta forma, o helicóptero é um meio de transporte que tem evoluído. Depois de ter sido usado ora em termos civis, ora para fins militares, adquiriu um estatuto especial entre outras formas de transporte. Acaba, assim, por se revelar fundamental para situações de salvamento, de guerra ou mesmo como meio de transporte de luxo.O helicóptero também é muito utilizado por emissoras de televisão de muitos países ao redor do planeta. No Brasil, o Comandante Hamilton Rocha (conhecido como Cmte Hamilton) foi o pioneiro nesta área. Além de pilotar a máquina, ainda atua como repórter (formado em jornalismo) fazendo a narrativa de ocorrências e monitoramento do trânsito na cidade de São Paulo.
+
+
+== Finalidades ==
+
+Os helicópteros têm utilizações militares e civis, como transporte de tropas, apoio de infantaria, apoio no combate a incêndios, resgate de acidentados nas metrópoles, operações entre navios, transporte de equipes para plataformas petrolíferas, transporte de empresários, evacuação sanitária, guindaste aéreo, polícia e vigilância de civis, transportes de bens (alguns helicópteros podem levar cargas que podem ser lançadas de paraquedas) etc.
+
+
+== Gerando sustentação ==
+Nas aeronaves convencionais, o perfil (formato da secção transversal) da asa (ou aerofólio) é projetado para defletir o ar para baixo com grande eficiência. Essa deflexão causa dois efeitos: uma reação contrária e uma diferença de pressão. A reação tem como princípio a terceira lei de Newton, e gera uma força contrária à deflexão, neste caso, para cima. A diferença de pressão, por sua vez, baseia-se no princípio de Bernoulli, onde o ar movimenta-se com maior velocidade na parte superior e menor na parte inferior do aerofólio. Isso causa respectivamente baixa e alta pressão. Essa diferença de pressão aliada com a reação à deflexão do ar causa a força de sustentação no aerofólio. No entanto, quanto maior a sustentação produzida, maior a força de arrasto gerado pelo aerofólio. O helicóptero faz uso do mesmo princípio, excetuando-se o fato de ao invés de mover a aeronave inteira, apenas as asas (pás, no caso de asas rotativas) é que se movimentam através do ar.
+
+
+== Estabilidade ==
+A estabilidade é inerente às aeronaves de asa fixa. No caso de uma rajada de vento, ou uma perturbação nos comandos de voo causar alguma variação na atitude da aeronave, seu desenho aerodinâmico tenderá a corrigir o movimento, voltando ao equilíbrio. Vários modelos de avião permitem ao piloto soltar os comandos em pleno voo, mantendo-se no curso sem a ajuda de piloto automático. Em contraste, os helicópteros são muito instáveis. Um simples voo pairado constantemente requer correções do piloto. Caso o helicóptero seja perturbado em alguma direção, ele tenderá a continuar aquele movimento até que o piloto o corrija na direção contrária. Pairar um helicóptero é semelhante a equilibrar um bastão na palma da mão.[carece de fontes?]
+Quase todos os ajustes que se faz em um dos comandos de voo produzem efeitos que requerem compensações nos outros comandos. Movendo o cíclico à frente resulta em aumento da velocidade, mas em contrapartida também causa uma redução na sustentação, que por sua vez irá requerer mais efeito do coletivo para compensar essa perda. Aumentar o coletivo reduz a RPM do rotor por causar mais arrasto sobre as pás, requerendo a abertura da manete de potência do motor para manter a rotação constante. Se o motor está transferindo mais potência ao rotor, isso causará mais torque e irá requerer mais ação do rotor de cauda, o que é resolvido ajustando os pedais.
+Helicópteros pequenos podem ser tão instáveis que pode ser impossível de o piloto soltar o manche cíclico durante o voo.[carece de fontes?] Enquanto nas aeronaves de asa fixa o piloto senta à esquerda, nos helicópteros ocorre o inverso. Isso ocorre para que os pilotos de avião possam ajustar os rádios, manetes e outros controles com a mão direita. Nos helicópteros o piloto senta à direita para manter a mão mais forte (geralmente a direita) no cíclico o tempo inteiro, deixando os rádios e outros comandos para a mão esquerda, que pode ser retirada do coletivo durante o voo.[carece de fontes?]
+
+
+== Vantagens e desvantagens ==
+Comparando com os aviões, os helicópteros são muito mais complexos, mais caros na compra e na manutenção e operam com reduzida velocidade, com pouca autonomia e com pouca capacidade de carga. A vantagem obtém-se na capacidade de manobra: helicópteros podem parar, inverter a trajetória e, acima de tudo, podem decolar e pousar com voo vertical. Dependendo do reabastecimento e da quantidade de carga, um helicóptero pode viajar para qualquer lugar desde que haja espaço no local de aterrissagem.
+
+
+== Tipos de rotores ==
+
+
+=== Notar ===
+
+É uma denominação comercial de um determinados helicópteros (como o MD 520 Notar, por exemplo) que não apresentam rotor traseiro para contrariar o torque produzido pelo rotor principal. Para realizar essa tarefa, usa uma conduta de ar, proveniente da turbina, expelindo gases controlados por lamelas ou persianas, que fazem o mesmo efeito de um rotor de cauda. São helicópteros de pequeno porte por essas razões, no entanto como não têm rotor de cauda, podem ser mais seguros no pouso para as pessoas no exterior, já que não existe um objecto rotativo potencialmente cortante, que na maioria das vezes está fora do alcance visual do piloto. Este helicóptero pode ser visto no filme Speed, de Sandra Bullock e Keanu Reeves.
+
+
+=== Tandem ===
+
+Tandem é um tipo de helicóptero dotado de dois rotores, um dianteiro e um traseiro. Eles giram em sentido contrário um do outro: o dianteiro gira em sentido anti-horário e o traseiro em sentido horário, sem que as pás colidam entre si. Assim cada um anula o efeito de torque produzido pelo outro. Para que possa virar à direita, o rotor dianteiro move-se para a direita e o traseiro à esquerda, para virar a esquerda o rotor dianteiro vira para a esquerda e o traseiro, à direita. Os helicópteros Tandem, além de alcançarem grande velocidade, carregam quantidades maiores de peso.
+
+
+=== Rotor coaxial ===
+
+É um tipo de helicóptero que possui dois rotores montados no mesmo eixo, rodando em sentidos contrários, para eliminar o efeito de torque. A fabricante Kamov tem como base esta técnica nos helicópteros que fabrica.
+
+Essa configuração de rotores, dispensa a utilização de um rotor de cauda na estabilização do voo. Essa disposição de rotores permite ainda que o helicóptero tenha uma maior capacidade de carga e um melhor aproveitamento do torque gerado pelo rotor principal melhorando o consumo de energia entre um 3-9%.
+
+
+=== Fenestron ===
+
+É uma denominação comercial de um determinado helicóptero, em que o seu rotor traseiro, encontra-se protegido por uma conduta. É um dos helicópteros usados pela Guarda Costeira dos Estados Unidos.
+
+
+== Ver também ==

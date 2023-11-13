@@ -1,0 +1,252 @@
+A Agência Nacional de Telecomunicações (Anatel) é a primeira agência reguladora a ser instalada no Brasil, criada pela Lei 9.472, de 16 de julho de 1997.
+A criação da Anatel fez parte do processo de reformulação das telecomunicações brasileiras iniciado com a promulgação da Emenda Constitucional 8/1995, que eliminou a exclusividade na exploração dos serviços públicos a empresas sob controle acionário estatal, permitindo a privatização e introduzindo o regime de competição. O Estado passava da função de provedor para a de regulador dos serviços.
+De acordo com o Planejamento Estratégico da Anatel para o período 2015 a 2024, sua missão é "regular o setor de telecomunicações para contribuir com o desenvolvimento do Brasil." Em 2022, a publicação do Planejamento Estratégico da Anatel para o período 2023 a 2027, atualizou sua missão para "Promover o desenvolvimento da conectividade e da digitalização do Brasil em benefício da sociedade."Segundo o artigo 8º da Lei nº 9.472/1997, a Agência Nacional de Telecomunicações é uma entidade integrante da Administração Pública Federal indireta, submetida a regime autárquico especial e vinculada ao Ministério das Comunicações. Sua função é de órgão regulador das telecomunicações. Com sede no Distrito Federal, pode estabelecer unidades regionais.
+Trata-se de autarquia administrativamente independente, financeiramente autônoma, dotada de independência hierárquica, o que não impede que as decisões da Anatel sejam contestadas judicialmente. As normas elaboradas pela Agência são antes submetidas a consulta pública, seus atos são acompanhados por exposição formal de motivos que os justifiquem. Em determinados casos são promovidas audiências públicas para a manifestação presencial da sociedade. As atas de reuniões e os documentos relativos às decisões do Conselho Diretor e à atuação da Anatel encontram-se disponíveis ao público na Biblioteca da Agência.
+
+
+== Características ==
+Por ser uma agência reguladora, é uma entidade de Estado que auxilia a administração pública descentralizada. É fiscalizada pela sociedade e por órgãos de controle como o Tribunal de Contas da União (TCU), entre outros.
+
+
+=== Conselho Diretor ===
+O órgão máximo da Anatel é o Conselho Diretor. Cada um dos cinco conselheiros vota com independência, fundamentando seu voto. As decisões são tomadas em reuniões, sessões ou circuitos deliberativos (procedimento de coleta de votos sem a necessidade de reunião), por maioria absoluta, ou seja, por no mínimo três votos favoráveis.
+Os conselheiros – brasileiros de reputação ilibada, formação universitária e elevado conceito no campo de sua especialidade, escolhidos pelo presidente da República e nomeados após aprovação pelo Senado Federal – têm mandato fixo, de cinco anos, e estabilidade. O presidente do Conselho exerce a função de presidente-executivo da Agência. Abaixo a atual composição do Conselho Diretor da Anatel:
+
+
+==== Carlos Baigorri ====
+Carlos Manuel Baigorri foi indicado para o Conselho Diretor da Anatel em outubro de 2019, pelo então presidente Jair Bolsonaro, para ocupar a vaga aberta devido ao fim do mandato de Aníbal Diniz. Em janeiro de 2020, como não houve sabatina pelo Senado, o então presidente Jair Bolsonaro, publicou um decreto com uma lista tríplice de substituição para o Conselho Diretor da Anatel na qual Baigorri era o primeiro, permitindo que ele assumisse como conselheiro substituto por até 180 dias. Em julho de 2020, ao término dos 180 dias, Baigorri foi substituído pelo segundo na lista tríplice, Raphael Garcia de Souza.Em 19 de outubro de 2020 a Comissão de Serviços de Infraestrutura do Senado aprovou, por 14 votos a 1, a indicação de Baigorri. No dia seguinte, a indicação de Baigorri foi aprovada pelo plenário do Senado com 37 votos favoráveis, 5 contrários e 2 abstenções. A nomeação de Baigorri foi publicada no Diário Oficial da União em 27 de outubro de 2020, e a posse ocorreu no dia seguinte na sede do Ministério das Comunicações. O mandato de Baigorri como conselheiro vai até 4 de novembro de 2024.
+
+
+==== Vicente Aquino ====
+Em 14 de dezembro de 2018, em virtude da renúncia do conselheiro Otavio Rodrigues, o presidente Michel Temer enviou para apreciação do Senado o nome do advogado Vicente Bandeira de Aquino Neto para o cargo de conselheiro da Anatel. Já em 18 de dezembro a indicação de Vicente Aquino foi aprovada por unanimidade pela Comissão de Infraestrutura do Senado. Durante a sabatina, Vicente Aquino foi questionado sobre sua atuação como diretor jurídico de uma emissora de TV pertencente ao cantor e político Netinho de Paula. Ainda no dia 18 de dezembro o plenário do Senado também aprovou a indicação de Vicente Aquino como conselheiro da Anatel.Em 27 de dezembro de 2018 foi publicada no Diário Oficial da União a nomeação de Vicente Aquino para o cargo de conselheiro da Anatel, com mandato até 4 de novembro de 2020, e no dia seguinte ocorreu a posse de Vicente Aquino em cerimônia na sede do Ministério da Ciência, Tecnologia, Inovações e Comunicações.
+
+
+==== Artur Coimbra ====
+Em 13 de abril de 2022 foi publicada no Diário Oficial da União a nomeação de Artur Coimbra para o cargo de conselheiro da Anatel, com mandato até 4 de novembro de 2024, e no dia seguinte ocorreu a posse em cerimônia na sede do Ministério das Comunicações (Brasil).
+
+
+==== Alexandre Freire ====
+Em 29 de novembro de 2022 foi publicada no Diário Oficial da União a nomeação de Alexandre Freire para o cargo de conselheiro da Anatel, com mandato até 4 de novembro de 2027, e no em 6 de dezembro seguinte ocorreu a posse em cerimônia na sede do Ministério das Comunicações (Brasil).
+
+
+==== Nilo Pasquali ====
+Nilo Pasquali foi convocado em novembro de 2023 para o encargo de conselheiro substituto, por até 180 dias, substituindo Moisés Moreira, conforme lista tríplice publicada em decreto presidencial de 28 de janeiro de 2020. 
+
+
+=== Perfil institucional ===
+Com sede em Brasília, a Anatel conta com representações em todas as capitais brasileiras. Por meio dos escritórios regionais e das unidades operacionais, a Agência realiza as atividades de fiscalização e mantém contato mais próximo com a sociedade nas Salas do Cidadão, espaço aberto para atendimento aos usuários.
+As atividades da Anatel são divididas nas seguintes superintendências:
+Superintendência de Outorga e Recursos à Prestação (SOR);
+Superintendência de Controle de Obrigações (SCO);
+Superintendência de Relações com os Consumidores (SRC);
+Superintendência de Administração e Finanças (SAF);
+Superintendência de Planejamento e Regulamentação (SPR);
+Superintendência de Fiscalização (SFI);
+Superintendência de Competição (SCP);
+Superintendência de Gestão Interna da Informação (SGI).Ao Superintendente-executivo (SUE) cabe orientar e coordenar o alinhamento das ações e das atividades das superintendências com os objetivos e a missão da Agência.
+
+
+==== Conselho Consultivo ====
+Órgão de participação institucionalizada da sociedade nas atividades e nas decisões da Agência, o Conselho Consultivo é integrado por 12 membros, designados por decreto do presidente da República. Anualmente, o Conselho é renovado em um terço.
+A esse colegiado, órgão de participação institucionalizada da sociedade na Agência, cabe:
+
+opinar, antes do encaminhamento ao Ministério das Comunicações, sobre o Planos Geral de Outorgas e o Plano Geral de Metas para Universalização de serviços prestados em regime público e demais políticas governamentais de telecomunicações;
+aconselhar quanto à instituição ou à eliminação da prestação de serviço no regime público;
+apreciar os relatórios anuais do Conselho Diretor; e
+requerer informação e fazer proposição a respeito das atribuições do Conselho Diretor.Os membros do Conselho Consultivo não são remunerados e têm mandato de três anos, vedada a recondução. Integram o Conselho Consultivo:
+
+dois representantes do Senado Federal;
+dois representantes da Câmara dos Deputados,
+dois representantes do Poder Executivo,
+dois representantes de entidades de classe das prestadoras de serviços de telecomunicações,
+dois representantes de entidades representativas dos usuários e
+dois representantes de entidades representativas da sociedade.
+
+
+==== Ouvidoria ====
+O ouvidor – nomeado pelo presidente da República para mandato de dois anos, admitida uma recondução – atua com independência, não tendo vinculação hierárquica com o Conselho Diretor ou seus integrantes. Ao ouvidor, é permitido o acesso a todos os assuntos da Agência e o direito de assistir a todas as sessões e reuniões do Conselho Diretor. A Ouvidoria tem como principal atribuição produzir, semestralmente ou quando julgar oportuno, apreciações críticas sobre a atuação da Agência – posteriormente encaminhadas ao Conselho Diretor, ao Conselho Consultivo, ao Ministério das Comunicações, a outros órgãos do Poder Executivo e ao Congresso Nacional.
+
+
+=== Relações com Consumidores ===
+A Central de Atendimento da Anatel é administrada pela Superintendência de Relações com Consumidores (SRC).
+Além da Central de Atendimento, que atende pelo telefone 1331 nos dias úteis, de segunda a sexta, das 8h às 20h (horário de Brasília), a Anatel disponibiliza os seguintes canais de relacionamento com usuários de serviços de telecomunicações para registro de solicitações, reclamações, denúncias, pesquisas e informações:
+
+Atendimento Eletrônico: pelo aplicativo "Anatel Consumidor", ou aplicativos para dispositivos com sistemas operacionais iOS e Android.Pessoalmente: A Anatel disponibiliza em seus Escritórios Regionais e na sede em Brasília a Sala do Cidadão que é um espaço de livre acesso aos usuários, para realização de pesquisas e consultas sobre telecomunicações, por meio dos mais modernos recursos da tecnologia da informação, bem como reclamar os seus direitos. Os endereços estão disponíveis no sítio da Agência na internet.
+
+
+=== Outorga, regulamentação e fiscalização ===
+À Anatel cabem os poderes de outorga, regulamentação e fiscalização sobre os serviços de telecomunicações, além de um grande acervo técnico e patrimonial. A outorga dos serviços de radiodifusão sonora (rádio) e radiodifusão de sons e imagens (televisão), entretanto, é de competência do Ministério das Comunicações.
+Quanto aos serviços de radiodifusão, cabe à Anatel elaborar, manter e atualizar os planos de canais a serem usados pelos radiodifusores, bem como dos serviços ancilares e correlatos a esta atividade (como é o caso das repetidoras de TV). Também fazem parte das atribuições da Agência, entre outras, as seguintes funções:
+
+regulamentação técnica: expedição de regulamentos com as características técnicas a serem seguidas pelos radiofusores;
+administração dos planos básicos: gerenciamento dos planos de canalização da radiodifusão, considerando as características técnicas dos diferentes prestadores, com o objetivo de permitir a prestação dos serviços com qualidade e sem interferências; e
+expedição de autorização para uso de radiofrequências para os prestadores do serviço de radiodifusão.Quanto aos serviços de telecomunicações, à Anatel compete, entre outros:
+
+expedir normas quanto à outorga, à prestação e à fruição dos serviços de telecomunicações nos regimes público e privado;
+administrar o espectro de radiofrequências e o uso de órbitas, expedindo as respectivas normas;
+expedir normas e padrões a serem cumpridos pelas prestadoras de serviços de telecomunicações quanto aos equipamentos que utilizarem;
+expedir ou reconhecer a certificação de produtos, observados os padrões e normas por ela estabelecidos;
+editar atos de outorga e extinção de direito de uso de radiofrequências e de órbita, fiscalizando e aplicando sanções;
+celebrar e gerenciar contratos de concessão;
+expedir e extinguir autorização para a prestação de serviços em regime privado;
+fiscalizar e aplicar sanções relativas as infrações a regulamentação setorial;
+reprimir infrações dos direitos dos usuários; e
+exercer, relativamente às telecomunicações, as competências legais em matéria de controle, prevenção e repressão das infrações da ordem econômica, ressalvadas as pertencentes ao Conselho Administrativo de Defesa Econômica (Cade).A Anatel tem, portanto, poder normativo infralegal sobre o setor de telecomunicações. Esta competência é exercida com o auxílio da sociedade, que é ouvida, necessariamente, através do mecanismo de consulta pública, na qual as críticas e sugestões recebidas são objeto de exame e permanecem à disposição do público na Biblioteca da Agência.
+
+
+== Recursos ==
+As fontes de financiamento da Anatel são os recursos orçamentários e os créditos suplementares consignados à Agência e os recursos do Fundo de Fiscalização das Telecomunicações (Fistel), depois de transferidos os valores que são devidos ao Fundo de Universalização dos Serviços de Telecomunicações (Fust) e ao Fundo para o Desenvolvimento Tecnológico das Telecomunicações (Funttel).
+A Anatel submete anualmente ao Ministério das Comunicações a proposta de orçamento da Agência, bem como a do Fistel, que são encaminhados posteriormente ao Ministério do Planejamento, Orçamento e Gestão para inclusão no projeto de Lei Orçamentária Anual (LOA) a ser aprovada pelo Congresso Nacional.
+
+
+== Quadro de servidores ==
+O quadro efetivo de servidores da Agência está estabelecido na Lei 10.871/2004. A força de trabalho aprovada é de 1.690 servidores – quantitativo que não inclui os nomeados sem vínculo. Ao final de 2009, portanto, com os 1.557 servidores dos quadros efetivo e específico, além dos servidores requisitados, incluindo os da Telebrás, a Anatel contava com 92% do quadro previsto. Em 2009, a Anatel realizou o seu terceiro concurso e seu quadro de servidores passou de 1.468, no final de 2008, para 1.625 em 2009 – crescimento de 10,7%.
+
+
+=== Concursos públicos ===
+Por ser parte da administração pública, na Anatel o provimento de cargos públicos em caráter efetivo depende de aprovação em concurso público de provas ou de provas e títulos.
+
+
+== Atribuições ==
+Segundo a LGT, são atribuições da Anatel:
+implementar, em sua esfera de atribuições, a política nacional de telecomunicações;
+representar o Brasil nos organismos internacionais de telecomunicações, sob a coordenação do Poder Executivo;
+expedir normas quanto à outorga, prestação e fruição dos serviços de telecomunicações no regime público;
+editar atos de outorga e extinção de direito de exploração do serviço no regime público;
+celebrar e gerenciar contratos de concessão e fiscalizar a prestação do serviço no regime público, aplicando sanções e realizando intervenções;
+controlar, acompanhar e proceder à revisão de tarifas dos serviços prestados no regime público, podendo fixá-las nas condições previstas nesta Lei, bem como homologar reajustes;
+administrar o espectro de radiofrequências e o uso de órbitas, expedindo as respectivas normas;
+editar atos de outorga e extinção do direito de uso de radiofrequência e de órbita, fiscalizando e aplicando sanções;
+expedir normas sobre prestação de serviços de telecomunicações no regime privado;
+expedir e extinguir autorização para prestação de serviço no regime privado, fiscalizando e aplicando sanções;
+expedir normas e padrões a serem cumpridos pelas prestadoras de serviços de telecomunicações quanto aos equipamentos que utilizarem;
+expedir ou reconhecer a certificação de produtos, observados os padrões e normas por ela estabelecidos;
+expedir normas e padrões que assegurem a compatibilidade, a operação integrada e a interconexão entre as redes, abrangendo inclusive os equipamentos terminais;
+realizar busca e apreensão de bens no âmbito de sua competência;
+deliberar na esfera administrativa quanto à interpretação da legislação de telecomunicações e sobre os casos omissos;
+compor administrativamente conflitos de interesses entre prestadoras de serviço de telecomunicações;
+reprimir infrações dos direitos dos usuários;
+exercer, relativamente às telecomunicações, as competências legais em matéria de controle, prevenção e repressão das infrações da ordem econômica, ressalvadas as pertencentes ao Conselho Administrativo de Defesa Econômica (CADE);
+propor ao Presidente da República, por intermédio do Ministério das Comunicações, a declaração de utilidade pública, para fins de desapropriação ou instituição de servidão administrativa, dos bens necessários à implantação ou manutenção de serviço no regime público;
+arrecadar e aplicar suas receitas;
+resolver quanto à celebração, alteração ou extinção de seus contratos, bem como quanto à nomeação, exoneração e demissão de servidores, realizando os procedimentos necessários, na forma em que dispuser o regulamento;
+contratar pessoal por prazo determinado, de acordo com o disposto na Lei nº 8.745, de 9 de dezembro de 1993;
+adquirir, administrar e alienar seus bens;
+decidir em último grau sobre as matérias de sua alçada, sempre admitido recurso ao Conselho Diretor;
+formular ao Ministério das Comunicações proposta de orçamento;
+aprovar o seu regimento interno;
+elaborar relatório anual de suas atividades, nele destacando o cumprimento da política do setor definida nos termos do artigo anterior;
+enviar o relatório anual de suas atividades ao Ministério das Comunicações e, por intermédio da Presidência da República, ao Congresso Nacional;
+promover interação com administrações de telecomunicações dos países do Mercado Comum do Sul (Mercosul), com vistas à consecução de objetivos de interesse comum.
+
+
+== Serviços regulados ==
+
+
+=== Telefonia fixa (STFC) ===
+
+
+==== Plano Geral de Metas de Universalização ====
+Conforme disposto no artigo 18 da Lei Geral de Telecomunicações (LGT), cabe ao Poder Executivo, por meio de decreto, a aprovação de um plano com metas para a universalização de serviço prestado no regime público, sendo o Serviço Telefônico Fixo Comutado (STFC) atualmente o único serviço nesse regime.
+
+PGMU I  : instituído pelo Decreto nº 2.592, de 15 de maio de 1998, assinado pelo então presidente Fernando Henrique Cardoso
+PGMU II : instituído pelo Decreto nº 4.769, de 27 de junho de 2003, assinado pelo então presidente Luiz Inácio Lula da Silva
+PGMU III: instituído pelo Decreto nº 7.512, de 30 de junho de 2011, assinado pela então presidente Dilma Rousseff
+PGMU IV : instituído pelo Decreto nº 9.619, de 20 de dezembro de 2018, assinado pelo então presidente Michel Temer
+PGMU V : instituído pelo Decreto nº 10.610, de 27 de janeiro de 2021, assinado pelo então presidente Jair Bolsonaro
+
+
+=== Comunicação móvel (Serviço Móvel Pessoal - SMP e Serviço Móvel Especializado - SME) ===
+
+
+==== Leilão de 4G em 2.500 MHz ====
+Em 12 de junho de 2012, a Anatel realizou o leilão para o uso de frequências na faixa de 2.500 MHz para provimento de serviço de telefonia móvel utilizando tecnologias 4G e uso da faixa de 450 MHz para operação de internet móvel em área rural. Como não houve oferta para a faixa de 450 MHz, as vencedoras dos quatro lotes nacionais também ficaram obrigadas a investir nesse tipo de serviço.
+
+
+==== Leilão de 4G em 700 MHz ====
+Em 30 de setembro de 2014, a Anatel realizou o leilão para utilização de frequências na faixa de 700 MHz para provimento de serviço de telefonia móvel utilizando tecnologias 4G. Os vencedores dos lotes terão que arcar com os custos para resolver problemas de interferências com o sistema de TV digital e sistemas de redistribuição de canais de TV.A autorização aos vencedores para uso de radiofrequências em caráter primário tem prazo de 15 anos, prorrogável uma única vez a título oneroso e por igual período.
+
+
+==== Leilão de 5G ====
+Em fevereiro de 2019, o presidente da Anatel Leonardo de Morais, durante participação na conferência Mobile World Congress, anunciou que a agência pretende realizar o leilão de frequências para a quinta geração de telecomunicação móvel (5G) em março de 2020. Segundo ele, nesse leilão devem ser ofertados 200 MHz na faixa de 3,5 GHz, 100 MHz na faixa de 2,3 GHz, e 10 MHz de sobras na faixa de 700 MHz.No início de fevereiro de 2020 o Ministério da Ciência, Tecnologia, Inovações e Comunicações publicou a Portaria nº 418, que estabeleceu diretrizes para a licitação de faixas de frequências em 700 MHz, 2,3 GHz, 3,5 GHz e 26 GHz, e também apresentou critérios para a proteção de usuários de TV aberta por meio de antenas parabólicas na Banda C satelital.Ainda em fevereiro de 2020 a Anatel colocou em consulta pública, por 45 dias, uma proposta de edital de licitação das faixas de frequência em 700 MHz, 2,3 GHz, 3,5 GHz e 26 GHz que serão utilizadas para o serviço 5G. E em março de 2020 a Anatel realizou uma audiência pública em Brasília para colher opiniões das empresas e da sociedade sobre a proposta de edital do 5G.Em 27 de março de 2020, o Gabinete de Segurança Institucional (GSI) publicou a Instrução Normativa nº 4, com requisitos mínimos de segurança cibernética para as redes móveis 5G. Entre os requisitos estão a auditabilidade dos equipamentos e softwares utilizados, uso da arquitetura Security Edge Protection Proxy, do conceito Network Functions Virtualization (NFV), e dos padrões SEC009 e SEC002x, definidos pelo European Telecommunications Standards Institute (ETSI). E no mesmo dia 27, a Anatel prorrogou por mais 15 dias a consulta pública com a proposta de edital de licitação das faixas de frequência.
+
+
+=== Outros serviços ===
+Comunicação multimídia
+Radiodifusão
+TV por assinatura
+Rádio do cidadão
+Radioamador
+Radiofrequência
+Satélite
+Serviço limitado
+Demais serviços de telecomunicações
+Streaming Web Rádio e Televisão
+
+
+=== Reajustes tarifários ===
+A Anatel é a responsável por definir os valores das tarifas cobradas por cada tipo de serviço.
+
+
+== Atuação ==
+A Anatel realiza um planejamento bianual de sua atuação regulatória em um instrumento chamado Agenda Regulatória. A partir da Agenda Regulatória para o biênio 2019-2020 houve a introdução da priorização dos itens constantes no documento.
+
+
+== Críticas ==
+
+
+=== Regulamentação ===
+Em 2000, a Anatel iniciou extensa revisão da regulamentação da telefonia móvel que, até então, era composta na maior parte de normativas do Ministério das Comunicações. A medida possibilitou a entrada posterior de novas empresas concorrentes neste mercado, o que favoreceu a uma rápida expansão do acesso às telecomunicações pela população brasileira. Em que pese o indiscutível avanço (no final de 2010, espera-se cerca de 190 milhões de celulares no país), ainda sobram críticas quanto ao alto preço pagos pelos consumidores. Parte do problema é comumente atribuído à alta carga tributária do setor de telecomunicações no Brasil, considerada uma das mais altas do mundo.
+Um relatório produzido pelo Ouvidor da Anatel diz, em 2008, que "a Anatel entrou em uma crise existencial", pois ela falha em defender os usuários, como por exemplo, a falta de concorrência e competitividade, sendo que o usuário não tem uma opção de escolha de operadora na assinatura da telefonia fixa, também a falta de planos para a telefonia rural, o alto preço da internet banda larga (o que dificulta o acesso do brasileiro a internet) e os altos reajustes na assinatura básica. O relatório também comentou o fracasso do Aice (telefone fixo pré-pago e com assinatura básica mais baixa), por causa das operadoras, temendo uma alta migração, estabeleceu com o consenso da Anatel, tarifas caras e inibidoras para o plano, o que gerou várias barreiras para o seu funcionamento. O relatório sugere também a criação de uma empresa nacional de telecomunicações e a "reestruturação" da Anatel. O relatório foi entregue ao presidente do Brasil dia 11 de janeiro de 2008.
+
+
+=== Aice ===
+Em 2010, a Anatel propôs, por meio de consulta pública à sociedade, uma revisão do referido Acesso Individual Classe Especial (Aice), desta vez amparado no Cadastro Único para Programas Sociais do Governo Federal, criado em 2007, que identifica as famílias de baixa renda (cerca de 13 milhões de famílias em 2010). A partir da delimitação objetiva desta população, a Anatel espera reduzir a tarifa do Aice, sem ocasionar risco ao investimento privado e ao próprio Estado.
+A reestruturação administrativa da Anatel, que promete conferir mais agilidade ao órgão mediante sua reorganização interna, ainda encontra-se pendente.
+
+
+=== PADOs ===
+Em 19 de Setembro de 2011, o juiz federal Francisco Donizete Gomes, titular da 2ª Vara Federal da Justiça do Rio Grande do Sul, deu parecer parcialmente favorável a uma ação civil pública movida pela Andicom (Associação Nacional de Defesa e Informação do Consumidor) que requeria acesso amplo e irrestrito aos Procedimentos de Apuração de Descumprimento de Obrigação (PADOs).A partir desta sentença, somente com decisão fundamentada a Anatel poderá tramitar tais procedimentos de forma sigilosa, a fim de preservar informações sigilosas pela lei ou pela Constituição, mas sem implicar sigilo em todo o processo.
+Em relatório a Ouvidoria da Anatel afirma que entre 2008 e 2011 foram prescritos 598 Pados. A morosidade da Anatel, decorrente do seu regimento interno e estrutura administrativa, diz o relatório, causou a prescrição de 598 Pados entre janeiro de 2008 e março de 2011, com prejuízos da ordem de R$ 33,3 milhões à agência. "Seja pela falta de movimentação dos processos, seja pela ausência de decisão, as prescrições processuais intercorrentes e quinquenais são decorrentes de inércia interna que necessita ser identificada e combatida", recomenda o ouvidor, Nilberto Miranda que sugeriu a adoção de um programa motivacional para os servidores da agência como forma de evitar essa inércia.
+
+
+=== Paralisação de concessões de TV a cabo ===
+A última licitação realizada pela Anatel para concessão de TV a Cabo foi realizada em 2000. Repleta de vícios, a legislação anterior precisava de uma séria revisão. Passaram-se 12 anos e a Anatel não concluiu essa tarefa. Nesse meio tempo, paralisou a concessão de novas licitações e outorgas, gerando, no final de 2011, um passivo e mais de 1100 pedidos sem resposta.
+
+
+=== Banda larga no Brasil entre as piores do mundo ===
+No Brasil, o contrato das operadoras com os clientes obriga a entrega de uma banda mínima de apenas 10% da velocidade vendida[carece de fontes?]. Se o consumidor comprou dez megabytes, vai receber apenas um megabyte. Com relação ao custo, segundo um estudo global da Conferência das Nações Unidas sobre Comércio e Desenvolvimento (UNCTAD), da Organização das Nações Unidas (ONU), que foi divulgado em 19 de outubro de 2011, o brasileiro pagava uma mensalidade de aproximadamente US$ 31 por um pacote ilimitado de banda larga fixa para ter acesso a um link de apenas 512 kbps a um custo médio de US$ 61 por Mbps, (sados de março de 2011). Esses valores colocam o acesso a Internet no Brasil como o mais caro do mundo. Para comparação,  analisando o custo de um plano de 1 GB no Brasil, em relação aos outros países: US$ 51 do Brasil contra US$ 4 no Quênia, US$ 7 em Marrocos, US$ 1 no Sri Lanka, US$ 3 na Turquia e US$ 2 no Vietnã. Forçada pela exposição dos fatos, ao invés mudar a regulamentação do setor para garantir uma qualidade e preços melhores para a população, a Anatel decidiu implantar uma auditoria para auferir a velocidade da banda larga no Brasil, mas, depois que as operadoras reclamaram contra a medida, a Agência resolveu terceirizar essa atividade que acabou sendo concedida ao Sindicado das Operadoras de Telecomunicações SindiTeleBrasil.
+
+
+=== Internet banda larga limitada ===
+Em 2016, a Agência iniciou discussões no Brasil após a Vivo impor planos de banda larga com limite de uso de dados de até 130GB para os assinantes. Esta decisão da Anatel fez Claudio Lamachia, da Ordem dos Advogados do Brasil (OAB) questionar se a Anatel defende as empresas ou os consumidores.Christian Gebara, o Chief Revenue Officer da Telefônica Vivo disse em 2016 que "essa é uma tendência mundial. Grandes operadoras no mundo, inclusive do Grupo Telefônica, já estão acabando com o tráfego ilimitado e adotando franquias. A ideia é que o consumo seja como uma conta de luz, onde o cliente pagará apenas o que precisar."Devido a falta de consulta pública, a Anatel determinou temporariamente que as empresas não colocassem limites de consumo de internet para banda larga fixa, exceto as empresas pequenas, as que detém até 5% do mercado (em média de 1,5 milhão de assinantes). Porém as grandes empresas ainda limitam o uso de dados, com exceção dos clientes antigos, desde que estes não solicitem aumento de velocidade em suas redes. As discussões sobre internet fixa franquiada vem sendo adiada desde então pela Anatel.
+
+
+== Ver também ==
+Código Brasileiro de Telecomunicações
+ANACOM em Portugal
+FCC nos Estados Unidos
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+Sítio oficial (em português)
+Agência Nacional de Telecomunicações no Twitter 
+Anatel no YouTubeAnatel no Facebook
+Anatel no Flickr
+«Lei 9.472, de 16 de julho de 1997 - Lei Geral de Telecomunicações (LGT)» 
+«Decreto 2.338, de 7 de outubro de 1997 - Regulamento da Agência Nacional de Telecomunicações» 
+«Lei nº 10.871, de 20 de maio de 2004.» 
+«Resolução nº 270 de 19 de julho de 2001, alterado pela Resolução nº 489 de 5 de dezembro de 2007 - Regimento Interno da Anatel» 
+«Decreto nº 2.592, de 15 de maio de 1998 (PGMU I)» 
+«Decreto nº 4.769, de 27 de junho de 2003 (PGMU II)» 
+«Decreto nº 7.512, de 30 de junho de 2011 (PGMU III)» 
+«Decreto nº 9.619, de 20 de dezembro de 2018 (PGMU IV)» 
+«Fim da caixa preta» 
+«Morosidade» 
+«Concessões te TV a Cabo» 
+«Internet no Brasíl entre as Piores do Mundo» 
+«Por que a nossa Internet é tão cara e ruim?»

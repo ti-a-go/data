@@ -1,0 +1,121 @@
+Instrumentos de cordas são instrumentos musicais cuja fonte primária de som é a vibração de uma corda tensionada quando beliscada, percutida ou friccionada. Na classificação Hornbostel-Sachs, bastante utilizada atualmente, estes instrumentos representam a classe dos cordofones (também grafados cordófonos) identificada pelos códigos iniciados pelo número 3.
+
+
+== História ==
+O primeiro instrumento de corda do qual se tem conhecimento é o Arco musical cuja origem é situada entre 35 e 15 mil anos a.C. Os instrumentos de corda tensionada mais antigos registados são nove liras e três harpas encontradas numa tumba em Ur na Mesopotâmia datando de 2 600 a.C.
+Pinturas em paredes e efígies em cerâmica, madeira ou metal indicam a presença de tais instrumentos em época próxima no Egipto Antigo e em ilhas do Mar Egeu. As representações dão a entender que as liras tinham funções musicais de caráter religioso ou poético, enquanto que as harpas visavam o entretenimento e o erotismo.
+Os instrumentos que deram origem aos modernos violino, violão, guitarra, violoncelo se originam do alaúde, utilizado inicialmente por pastores, que surgiu em época posterior. Os instrumentos da família do violino foram desenvolvidos na Itália durante os séculos 16 e 17 e alcançaram seu pico nas mãos de mestres como Antonio Stradivari e Giuseppe Guarneri “Del Gesù” de Cremona.Os instrumentos de cordas são importantes na história da música ocidental pois foi com um instrumento constituído de uma única corda, o monocórdio, que os filósofos e matemáticos da escola pitagórica descobriram todos os princípios matemáticos que regem os intervalos, escalas e a harmonia, dando origem ao estudo da teoria musical há mais de dois mil anos.
+
+
+== Princípio de funcionamento ==
+O estudo dos instrumentos de corda está baseado na teoria das ondas estacionárias, ou seja, na frequência das ondas sonoras que as cordas emitem. Essas frequências naturais dependem de três fatores: a densidade linear das cordas (a massa da corda dividida pelo seu comprimento), o módulo da tração a que elas estão submetidas (se a corda está mais apertada ou frouxa no braço do instrumento) e o comprimento linear da corda. Isso significa que podemos alterar a altura das notas e sua afinação ao variar qualquer uma dessas características: se duas cordas possuem a mesma densidade e comprimento, a que sofrer maior tensão produzirá notas mais agudas.
+Cordas mais longas produzem notas mais graves que as mais curtas. Cordas mais grossas (com maior densidade linear) produzem notas mais graves que as mais finas. Os instrumentos utilizam variações dessas características para definir a frequência fundamental de cada corda. Há instrumentos em que todas as cordas têm o mesmo comprimento, mas a tensão e espessura variam, como a guitarra. Em outros todas as cordas têm a mesma espessura e somente o comprimento e a tensão variam, como em algumas liras e cítaras. Há ainda aqueles em que as três características variam de corda a corda para obter toda a extensão do instrumento, como o piano.
+Há uma grande variedade de formatos, tamanhos, quantidades de cordas e maneiras de executar instrumentos de cordas, mas o que todos têm em comum é que as cordas são estendidas entre dois pontos de apoio (normalmente chamados de cavaletes) e tensionadas de modo que a maior parte do seu comprimento fique livre para vibrar. Em alguns casos a tensão é dada pelo próprio corpo do instrumento e não é possível controlá-la para alterar a afinação, como é o caso do Berimbau. A grande maioria possui, no entanto, algum mecanismo de controle da tensão das cordas, por parafusos, cravelhas ou alavancas.
+Devido ao pequeno volume sonoro que a vibração de uma corda produz, a maioria dos instrumentos de cordas têm uma caixa acústica que amplifica o som produzido, como o caso do violino, da viola, do violoncelo, do contrabaixo e do violão. Alguns instrumentos não possuem caixa de ressonância e necessitam de amplificação externa, como a Guitarra elétrica e o Baixo. A amplificação também pode ser obtida pela aproximação do instrumento de corpos ocos e, em alguns casos, o próprio corpo do executante, como a boca ou a caixa torácica. Outros ainda permitem a remoção da caixa de ressonância sem que isso prejudique substancialmente o som.
+Grande parte da qualidade sonora dos instrumentos de cordas depende da combinação entre as cordas e a caixa de ressonância. Por suas características ressonantes a caixa de ressonância é, na maior parte dos casos feita de madeira. A madeira e os espaços de ar no corpo de um violino, por exemplo, são essenciais na produção de um som com qualidade. Um bom violino tem a virtude especial de vibrar fielmente com cada corda e nas diversas alturas, mesmo nas mais agudas. Um violino deficiente altera as vibrações, aumentando algumas e omitindo outras. O formato e quantidade das aberturas da caixa de ressonância também contribuem para reforçar os harmônicos desejáveis e absorver os indesejáveis.
+
+
+== Execução ==
+Assim como há uma variedade de formas construtivas, também a execução dos instrumentos de cordas é bastante diversificada.
+
+
+=== Controle das alturas ===
+Muitos deles possuem cordas presas a um braço e os comprimentos relativos das cordas são variados pelos dedos de uma das mãos [em geral a mão esquerda (direita para os canhotos)]. Obtêm-se os diferentes tons variando tal comprimento. São assim a guitarra, o violão, a viola caipira, o violino, a viola, o violoncelo, os baixos e contrabaixos, o cavaquinho, o alaúde, o banjo, o bandolim e muitos outros. Alguns instrumentos tem cordas de tamanhos variados como no caso do banjo de cinco cordas. Alguns destes instrumentos possuem trastes que dividem o braço em partes de tamanho fixo, permitindo apenas a variação em intervalos de semitom (ou de quarto de tom em alguns instrumentos orientais). Nos instrumentos que não possuem trastes, cabe ao executante fazer o ajuste fino da afinação. Isso permite a execução de escalas microtonais e também a realização de correções de afinação em tempo real durante a execução.
+Em outros casos, os comprimentos das cordas não variam durante a execução. Na maioria destes, há uma corda para cada nota que se deseje produzir e se a nota não existe na configuração original do instrumento ela não pode ser obtida de outra forma. São assim: o piano, o cravo, o cembalo, a espineta, a cítara e todos os seus derivados como a kantele, a lira e o dulcimer. A harpa é uma exceção. Embora as cordas também tenham tamanho fixo, seus pedais variam a tensão aplicada em algumas cordas permitindo aumentar a extensão cromática do instrumento.
+
+
+=== Produção do som ===
+Para fazer a corda vibrar, três métodos principais são usados: as cordas podem ser beliscadas, friccionadas com um arco ou percutidas. Qualquer instrumento de cordas pode ser executado pelas três formas, mas alguns são mais freqüentemente usados de uma forma que das outras. Um violino, por exemplo é executado principalmente com a fricção do arco, mas suas cordas também podem ser beliscadas (pizzicato) ou percutidas com a parte posterior do arco (col legno). De forma semelhante, poderíamos tocar um violão com arco ou dedilhar as cordas de um piano, embora estas formas de execução sejam raras.
+
+
+==== Cordas dedilhadas ====
+Nestes instrumentos, a corda é colocada em vibração ao ser beliscada ou tangida com os dedos, unhas, plectros ou palhetas. Em outras palavras, a corda é levemente deslocada de sua posição de repouso e depois solta para que vibre livremente. Esta forma de execução faz com que o som se inicie bruscamente (ataque de curta duração). A corda mantém a vibração por um tempo longo e decai lentamente até o silêncio. Timbres ligeiramente diferentes podem ser obtidos caso as cordas sejam acionadas com a ponta dos dedos, com as unhas ou com o uso de palhetas, sendo que a última forma é preferida quando as cordas são de metal ou muito tensas.
+Nos instrumentos com braço, o músico pode esticar a corda para frente e soltá-la para que bata violentamente contra o braço, provocando um estalo (chamado de snap ou slap).
+Entre os instrumentos que são tocados frequentemente desta forma, estão todos os instrumentos de cordas com braço (como o violão, baixo e a guitarra) além das harpas e liras+e o clavicórdio).
+
+
+==== Cordas friccionadas ====
+Neste caso usa-se um arco feito de madeira, com um feixe de filamentos (geralmente crina de cavalo) que são fixados às suas extremidades e tensionados. A crina geralmente é revestida por um substância chamada breu, com o fim de aumentar o atrito, e então friccionada transversalmente sobre as cordas, produzindo uma vibração rica em parciais não harmônicos e, por essa razão, muito diferente do timbre da corda beliscada ou percutida. As notas podem ser tão longas quanto o músico deseje pois duram todo o tempo do movimento de fricção.
+A intensidade do som pode ser controlada tanto pela pressão do arco contra as cordas como pela velocidade na qual ele é friccionado. Efeitos de ligadura e portamento podem ser obtidos pela execução de várias notas com a mesma arcada, seja pela variação de comprimento em uma mesma corda, seja pelo movimento do arco de uma corda à adjacente. De modo diverso, quando o arco é afastado das cordas entre cada nota, é obtido o efeito de staccato ou marcato.
+Embora qualquer instrumento de cordas possa ser tocado assim, muitos deles são construídos especificamente com essa finalidade e possuem certas características que facilitam essa prática, tais como o formato do corpo do instrumento e disposição arredondada das cordas, que permite ao arco tocar uma corda de cada vez. Entre eles estão o violino, a viola, o violoncelo, o contrabaixo, a viola da gamba e a rabeca.
+
+
+==== Cordas percutidas ====
+As cordas podem ser percutidas com baquetas, martelos ou com o próprio arco. O som da corda percutida se inicia bruscamente e, quando a corda não é abafada, tem longa duração. Normalmente, esse método é usado em instrumentos que possuem uma corda (ou conjunto de cordas) para cada nota e permite a execução de passagens melódicas muito rápidas e acordes de forma mais fácil que nos outros instrumentos por não ser necessário usar uma das mãos para controlar o comprimento da corda e as duas mãos podem ser usadas para controlar as baquetas ou o teclado. Uma exceção é o berimbau que só possui uma corda e tem seu comprimento controlado por uma moeda ou anel metálico em uma das mãos, enquanto a outra percute a corda com uma baqueta.
+A intensidade das notas é controlada pela força da batida. Podem ser usadas pequenas baquetas que percutem uma corda de cada vez, como no dulcimer. Músicos habilidosos podem controlar diversas  baquetas em cada mão para produzir acordes.
+Se for usado um teclado, cada nota possui um martelo e é possível tocar qualquer combinação de notas desejável. O principal instrumento dessa categoria é o piano, que em sua forma moderna, possui 88 teclas que controlam um sofisticado sistema de martelos para percutir as cordas de cada nota de maneira independente, bem como abafar cada corda para terminar o som quando o pianista solta a tecla.
+
+
+==== Cordas sopradas ====
+As cordas são accionadas pelo movimento do ar. São raros, mas como exemplo pode-se citar a harpa eólica (ou harpa eólia). No Brasil, está se tornando popular o uso de harpas eólicas nos teatros musicais.
+
+
+=== Outras técnicas ===
+Várias outras técnicas são específicas dos instrumentos de cordas.
+
+Surdina - uma peça de madeira colocada sob as cordas, perto do cavalete para abafar a intensidade do som produzido. Usado no violino, viola, contrabaixo e cello.
+Vibrato - nos instrumentos com braço, a mão usada para controlar a altura faz a corda vibrar e altera ligeiramente a altura da nota.
+Harmônicos - a corda não é pressionada ao encontro do braço do instrumento. Ao invés disso, o músico coloca levemente o dedo sobre um dos nós harmônicos da corda. Isso anula a frequência fundamental e faz soar apenas os harmônicos superiores ao selecionado. Isso produz um timbre cristalino em instrumentos beliscados e notas mais suaves nos instrumentos de arco. Embora mais comum nos instrumentos com braço, pode ser executado em qualquer corda tensionada.
+Glissando' - termo italiano que significa "escorregando" ou "deslizando". O instrumentista escorrega os dedos ao longo da corda enquanto ela soa, produzindo um aumento ou diminuição da freqüência, que passa por todas as notas intermediárias. Executável em qualquer instrumento com braço, mas melhores resultados podem ser obtidos em instrumentos sem trastes.
+Fret noise - Ou "ruído do traste". Em instrumentos com traste, principalmente nas cordas mais grossas, o movimento do glissando produz um ruído de fricção, frequentemente ouvido em violões e baixos acústicos.
+Slide - termo inglês que significa "deslizar". Outra variação do glissando, mas ao invés do dedo descoberto é usado um tubo de metal ou vidro que envolve o dedo (alguns músicos usam um gargalo cortado de uma garrafa). Usado principalmente por guitarristas de blues.
+Tapping - termo inglês que significa "batendo". Ao invés de usar a mão esquerda para dividir a corda e dedilhar com a direita, os dedos, de qualquer das mãos, são batidos com força diretamente no braço, sobre os pontos de flexão ou sobre os trastes. Isso produz um efeito percussivo sem o uso de baquetas. O guitarrista de jazz Stanley Jordan é especializado nessa técnica, muito usada também entre diversos virtuoses, como Steve Vai e Eddie Van Halen.
+Bend - Literalmente, "dobrar" ou "afrouxar". Normalmente executado através do movimento do dedo do executante, que esteja dividindo a corda no braço do instrumento, no sentido perpendicular à corda. Algumas guitarras e baixos possuem uma alavanca que permite movimentar o cavalete e afrouxar levemente as cordas produzindo uma variação de altura na nota. Usado principalmente por guitarristas de rock.
+Tremolo - Uma corda pode ser beliscada ou percutida rápida e repetidamente produzindo um efeito de trêmolo. Em geral realizado com um rápido movimento de palheta, ou com um deslizamento do dedo entre os pontos do braço. Muito comum na técnica do Bandolim.Além disso, há uma enorme variedade de efeitos adicionados eletronicamente ao som das guitarras e baixos. Os músicos destes instrumentos, principalmente no rock, possuem módulos de efeitos que possibilitam alterar a altura, a duração, a sustentação e o timbre do instrumento, bem como produzir repetições, ecos e distorções. Entre os mais comuns estão, o phaser, o flanger, o superagudo, o sustain e o delay.
+
+
+== Classificação ==
+Geralmente, os instrumentos de cordas são divididos de acordo com dois critérios. O mais comum é a própria forma de produção sonora e neste caso são divididos em "cordas beliscadas", "cordas friccionadas" e "cordas percutidas".
+Na classificação Hornbostel-Sachs, estes não são os critérios principais porque nem sempre a forma principal é a única e há vários instrumentos que utilizam as três formas indiscriminadamente. Nesta classificação, o critério principal é construtivo e a primeira divisão indica apenas a existência ou não de caixa de ressonância:
+
+Subgrupo 31 - Cordofones simples - instrumentos que são, em essência, compostos de uma corda ou cordas esticadas em um suporte. Estes instrumentos podem ter uma caixa de ressonância, mas sua remoção não impede a execução do instrumento (embora possa alterar o timbre ou a intensidade do som produzido). Entre eles destacam-se, o berimbau, vários tipos de harpas, liras e cítaras.
+Subgrupo 32 - Cordofones compostos - instrumentos que têm uma caixa de ressonância como parte integral do instrumento. Isto inclui a maior parte dos instrumentos de cordas ocidentais, como os violinos, guitarras e a harpa orquestral.Nos níveis mais baixos dessa classificação, são critérios de diferenciação: a forma de execução, a possibilidade de variar o comprimento ou tensão das cordas, existência de trastes, teclados e mecanismos de abafamento das cordas.
+
+
+== Lista de instrumentos de corda ==
+Abaixo segue uma lista com os instrumentos de corda mais populares, utilizados no mundo todo, além de outros com valor histórico ou utilizados em músicas típicas de determinado região ou país:
+Instrumentos de corda, sem "braço":
+
+Berimbau (típico do Brasil, utilizado na capoeira)Monocordio (utilizado na Grécia Antiga)
+Dulcimer (difundido na Europa medieval)
+Lira
+Citara
+Harpa
+Clavicórdio
+Saltério
+Cravo
+PianoInstrumentos de corda, com "braço":
+
+Tocados com os dedos ou palhetas:
+Violão (português brasileiro) ou guitarra clássica (português europeu)
+Guitarra elétrica
+Baixo elétrico
+Cavaquinho (típico do Brasil e Portugal)
+Bandolim (tocado mundialmente em vários ritmos, no Brasil usado bastante no estilo musical Chorinho)
+Viola-caipira (típico da música folclórica do Brasil)
+Violas portuguesas
+Banjo (usado no samba e típico da música Folk norte-americana)
+Ukulele (típico da Havaí, atualmente difundido no mundo todo)
+Alaúde (típico do Oriente Médio)
+Oud (típico do Oriente Médio, difere do alaúde por não ter trastes)
+Charango (típico da América Latina andina)
+Cuatro (típico da América Latina, especialmente Venezuela e Costa Rica)
+Tres (típico de Cuba e Porto Rico)
+Jarana jarocha (típico do México, utilizada no estilo músical Son jarocho)
+Bouzouki (típico da Grécia)
+Balalaika (típico da Rússia)
+Pipa (típico da China)
+Sitar (típico da Índia)Tocados com arco:
+Violino
+Viola
+Violoncelo (utilizado bastante na música erudita, entre outros ritmos)
+Contra-baixo (utilizado bastante na música erudita e jazz, entre outros ritmos)
+Rabeca (típico da música popular, é uma espécie de violino ancestral, no Brasil utilizado em músicas folclóricas como fandango e forró)
+Viola-de-gamba (típica do período Barroco e Renascentista)
+Saltério-de-arco (variação tocada com arco, do saltério medieval)
+Erhu (típico da China)
+Morin Khuur (típico do Mongólia)
+Orocongo (típico do Brasil e considerado por alguns como uma variação do berimbau por sua semelhança, mas tocado com arco)
+
+
+== Referências ==

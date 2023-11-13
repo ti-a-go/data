@@ -1,0 +1,47 @@
+A produtividade é basicamente definida como a relação entre a produção e os factores de produção utilizados. A produção é definida como os bens produzidos(quantidade de produtos produzidos). Os fatores de produção são definidos como sejam pessoas, máquinas, materiais e outros. Quanto maior for a relação entre a quantidade produzida por fatores utilizados maior é a produtividade.
+A produtividade é muitas vezes medida por trabalhador mas em muitas situações onde os custos com pessoas são uma percentagem reduzida dos custos totais têm que se ter em conta os outros factores necessários para produzir os resultados pretendidos. O grau de produtividade de um agente econômico (pessoa, empresa, país, etc.) é, regra geral, um dos melhores indicadores para a medição do nível de eficiência e eficácia do mesmo.
+A produtividade constitui uma das melhores medidas para aferir da performance organizacional de uma empresa. Uma empresa com acrescidos resultados na sua produtividade é uma entidade mais eficiente, com melhor utilização dos seus recursos e que atinge melhores resultados, tendo assim maiores hipóteses de prosperar no futuro.
+A ideia é fundamentada por Peter Drucker, que afirma que as produtividades são o melhor indicador para comparar a eficácia da gestão.
+No ambiente agronômico ou agrícola, produtividade [en] é definida como a quantidade de produção por unidade de área, por exemplo, em kg/ha = quilogramas por hectare.
+
+
+== História ==
+A função produção, entendida como o conjunto de atividades que levam à transformação de um bem em outro com maior utilidade, acompanha o homem desde sua origem. Quando polia a pedra a fim de a transformar em utensílio mais eficaz, o homem pré-histórico executava uma atividade de produção.
+Nos milhares de anos que se seguiram, o homem evoluiu e as suas atividades e necessidades tornaram-se cada vez mais vastas e complexas, auxiliadas pelo desenvolvimento de ferramentas e métodos de produzir cada vez mais sofisticados.
+O termo produtividade foi utilizado pela primeira vez, de maneira formal, em um artigo do economista francês Quesnay em 1766. Passado mais de um século, em 1883 outro economista francês, Littre, usou o termo com o sentido de capacidade para produzir.
+Entretanto, somente no começo deste século o termo assumiu o significado da relação entre o produzido e os recursos empregados para produzi-lo.
+No inicio do século XX Henry Ford cria a Linha de produção, revolucionando os métodos e processos produtivos até então existentes. Surge então o conceito de produção em massa, caracterizada por grandes volumes de produtos. Esta metodologia de fabricação trouxe consigo princípios inovadores relacionados com a melhoria da produtividade por meio de novos conceitos e técnicas de gestão das atividades.
+Em 1950 a Comunidade Econômica Europeia apresentou uma definição formal de produtividade como sendo o quociente obtido pela divisão do produzido por um dos fatores de produção. Dessa forma, pode-se falar da produtividade do capital, das matérias-prima, da mão-de-obra, etc.mão-de-obra, materiais, energia, etc.). Por isso, associa-se a produtividade à eficiência e ao tempo: quanto menor for o tempo levado para obter o resultado pretendido, mais produtivo será o sistema.
+Através da produtividade, é possível avaliar a capacidade de um sistema para elaborar os produtos e o grau em que são aproveitados os recursos. A melhor produtividade constitui maior rentabilidade para uma empresa. É nesse sentido que a gestão da qualidade contribui para que uma empresa consiga incrementar a sua produtividade.
+A produtividade global é uma noção utilizada pelas grandes empresas para melhorar a produtividade através do estudo dos seus factores determinantes e dos elementos/membros que intervêm nas mesmas. Neste sentido, as novas tecnologias, a organização do trabalho e do pessoal, o estudo dos ciclos e a distribuição fazem parte da análise.
+
+
+== Conceito económico ==
+Em economia, produtividade é a capacidade dos factores de produção para criar produto. É comum utilizar a expressão "produtividade", associada à produtividade do trabalho, ou seja a quantidade de produto que se obtêm, utilizando uma unidade de factor trabalho. No entanto para calcular a produtividade temos de ter em conta não só o trabalho, mas sim todos os fatores de produção (factores de produção). Economicamente, produção é a atividade da combinação dos fatores de produção que têm como finalidade satisfazer as necessidades do ser humano.
+Quando polia a pedra a fim de transformá-la em um utensílio mais eficaz, o homem pré-histórico estava executando uma atividade de produção. Nesse primeiro estágio, as ferramentas e os utensílios eram utilizados exclusivamente por quem os produzia, ou seja, o comércio era inexistente, mesmo que de troca ou escambo. A produção é um processo de criação de valores. Geralmente os termos produção e economia estão interligados.Problemas comuns em diferentes tipos de sistemas econômicos incluem:quais bens produzir e em que quantidades (consumo ou investimento, bens privados ou bens públicos, etc.) como produzi-los (energia nuclear ou carvão, quais e que tipos de máquinas, quem trabalha a terra e quem ensina, etc.)para quem produzi-los, refletindo a distribuição de renda e da produção.
+No campo da sociologia o termo produção encontra-se intimamente ligado aos estudos de Marx, para o qual a compreensão dos processos históricos e sociais seria possível através do modo como se organiza a produção em determinadas épocas e locais. Marx foi muitas vezes compreendido como formulador de uma ideia determinista, na qual a economia determinaria os outros aspectos da vida social, política, cultural, etc.
+Mas é possível compreender a sua teoria como uma totalidade com múltiplas determinações, não só a determinação económica, embora esta se tenha tornado a pedra basilar numa linguagem e numa esfera que ganha maior força e autonomia num mundo cada vez mais moderno, que estaria configurado num modo de produção capitalista (separação entre trabalhador e posse do instrumento, trabalho assalariado, extracção do excedente da força de trabalho - tempo de trabalho não computado em forma de salário, mas acrescentado ao processo de reprodução da empresa capitalista (lucro + renovação do processo produtivo) e sistema social regido pela "forma mercadoria", sendo necessário contabilizar que o valor de uso quer o valor de troca.
+Produção implica o processo que disponibiliza uma oferta de um produto para o mercado. Pode ser classificada em Produção de Bens Tangíveis e é dividido em quatro partes: indústria, agricultura, pecuária e extrativismo, e ainda Produção de Serviços.
+
+
+== Produtividade total dos factores ==
+A produtividade total dos factores (PTF) é a quantidade de produto que se obtêm com uma unidade ponderada de todos os factores de produção.
+ PTF = Y / (aK + bL)
+
+sendo:
+
+Y     o produto;
+K     o fator capital;
+L     o fator trabalho;
+a e b são os ponderadores dos respectivos fatores.
+
+
+== Progresso tecnológico ==
+O aumento da produtividade total dos factores (PTF) ao longo do tempo é designado por progresso tecnológico.
+
+
+== Produtividade na Indústria ==
+A produtividade é fator fundamental para o crescimento e desenvolvimento da indústria. Nos últimos anos, as empresas brasileiras aumentaram sua produção contratando mais gente, porém, com a crise econômica do Brasil, os índices de desemprego estão em patamares historicamente baixos, o que impacta de forma negativa no crescimento da economia, em consequência, também, dos baixos índices de produtividade da indústria. Pesquisa da Conference Board, entidade americana, mostra que os funcionários de empresas brasileiras produziram em 2013 uma média de US$ 10,8 por hora trabalhada, sendo esta a menor média entre países latino-americanos. A chilena foi de US$ 20,8, a mexicana, de US$ 16,8, e a argentina, de US$ 13,9. No fim de 2015, um trabalhador brasileiro era capaz de produzir US$ 29.583 e um americano US$ 118.826. O foi compilado pelo pesquisador Fernando Veloso, do Instituto Brasileiro de Economia, da Fundação Getulio Vargas (FGV). Alguns dos fatores que impulsionam a produtividade na indústria são a qualificação profissional por meio de investimentos em educação, a aquisição e produção de tecnologia, bem como a diminuição de burocracia, investimento permanente em infraestrutura e a competitividade externa.
+
+
+== Referências ==

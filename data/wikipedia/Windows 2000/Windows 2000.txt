@@ -1,0 +1,102 @@
+O Microsoft Windows 2000 foi um sistema operacional preemptivo, gráfico e de fácil aprendizagem que foi desenvolvido para trabalhar com um ou mais processadores de 32 bits em computadores na arquitetura x86 e 64 bits na arquitetura IA64. É parte de uma linha de sistemas operacionais denominada Microsoft Windows NT e foi lançado em 17 de fevereiro de 2000, sendo o sucessor do Windows NT 4.0. Ele está disponível em quatro versões: Professional, Server, Advanced Server e Datacenter Server. Adicionalmente, a Microsoft oferece o Windows 2000 Advanced Server - Edição Limitada, que foi lançado em 2001 e roda em processadores de 64 bits Itanium. O Windows 2000 é classificado com um sistema operacional de núcleo híbrido, e sua arquitetura é dividida em dois modos: usuário e núcleo. O "modo núcleo" dá acesso total aos recursos do sistema e suporta a execução das aplicações em modo usuário, com acesso restrito aos recursos.
+Todas as versões do Windows 2000 possuem em comum muitas funcionalidades, incluindo muitas utilidades de sistema como o Microsoft Management Console (MMC) e sistemas de gerenciamento de aplicação como o utilitário de desfragmentação de disco.
+Todas as versões do Windows 2000 suportam o sistema de arquivos Windows NT versão 5 ou NTFS 5 (New Tecnology File System), o sistema de arquivos criptografado (EFS), também armazenamento em discos básicos ou dinâmicos. O armazenamento em discos dinâmicos permite que diferentes volumes sejam utilizados. A família 2000 Server também teve um aumento de funcionalidades, incluindo a capacidade de ter um serviço de diretório único: o Active Directory, Distributed File System (um sistema de arquivos que possibilita compartilhamento de arquivos) e armazenamento em volumes com tolerância à falhas.
+O Windows 2000 pode ser instalado numa empresa através de instalações interativas ou não interativas. A instalação não interativa se baseia no uso de um arquivo de resposta que tem a finalidade de preencher as informações de instalação, e pode ser utilizado através de um CD "bootável" usando o Microsoft Systems Management Server (SMS), através do System Preparation Tool (Sysprep).
+
+
+== Histórico ==
+O Windows 2000 originalmente vem do Microsoft Windows NT. Originalmente chamado de Windows NT 5, a Microsoft mudou seu nome para Windows 2000 em 27 de outubro de 1998
+ . A primeira versão beta do Windows 2000 foi liberada em 27 de setembro de 1997 e vários betas foram liberados até o Beta 3 que foi lançado em 29 de Abril de 1999. A partir dali, a Microsoft lançou mais três versões beta até o seu lançamento do sistema operacional para seus parceiros em 12 de Dezembro de 1999. Oficialmente o lançamento do Windows 2000 foi em 17 de fevereiro de 2000 e a imprensa imediatamente declarou que esse era o sistema operacional mais estável lançado pela Microsoft em toda a sua história. A Novell, entretanto, não ficou tão impressionada com a nova arquitetura de serviços de diretório da Microsoft, eles acharam o Active Directory menos escalável que o seu proprio serviço de diretório, o Novell Directory Services (NDS) lançado muito antes. 
+ Em 29 de setembro de 2000, a Microsoft lançou o Windows 2000 Datacenter. A Microsoft lançou o Service Pack 1 (SP1) em 15 de agosto de 2000, Service Pack 2 (SP2) em 16 de maio de 2001, Service Pack 3 (SP3) em 29 de Agosto de 2002 e seu último Service Pack (SP4) em 26 de Junho de 2003. A Microsoft anunciou que eles não iriam lançar o Service Pack 5, mas, ao invés disso, eles lançaram o Update Rollup 1 para o Service Pack 4 em 13 de Setembro de 2005.
+O Windows 2000 já foi trocado por novos sistemas operacionais da Microsoft. Ela já trocou os produtos do Windows 2000 Server pelo Windows Server 2003, e o Windows 2000 Professional pelo Windows XP Professional. O Windows Neptune iniciou seu desenvolvimento em 1999, e achava-se que iria ser a versão doméstica do Windows 2000. Entretanto, o projeto estourou em tempo de produção e apenas um alfa foi criado. O Windows ME (Millenium Edition) foi lançado como seu substituto e o projeto Neptune teve seu projeto adiado para a produção do Windows XP. Os únicos elementos do Projeto Windows que foram incluídos no Windows 2000 foram a capacidade do upgrade das versões 95 e 98 e o suporte para o sistema de arquivos FAT32.
+Muitos problemas de segurança sérios foram encontrados no Windows 2000. Code Red e Code Red II foram famosos (e muito difundidos pela imprensa do mundo todo) worms que exploraram vulnerabilidades do serviço de indexação do Internet Information Services (IIS) do Windows 2000. Em agosto de 2003, dois worms denominados Sobig e o Blaster atacaram milhões de computadores com Windows, resultando no maior tempo de down-time (serviço fora do ar) e no maior gasto para limpeza até aquela data.
+
+
+== Arquitetura ==
+O Windows 2000 é um sistema altamente modular que consiste em duas camadas: o modo usuário e o modo núcleo. O modo usuário se refere ao modo no qual as aplicações são executadas. Tais aplicativos são limitados em termos de acesso a recursos de sistemas, enquanto o modo núcleo tem acesso irrestrito para os sistemas de memória e dispositivos externos. Todas as aplicações que rodam em modo usuário acessam recursos de sistema através da comunicação com o modo núcleo.
+
+
+=== Modo usuário ===
+O modo usuário no Windows 2000 é feito de subsistemas com capacidade de transmitir requisições para os drives modo núcleo apropriados usando um gerenciador de entrada/saída. Dois subsistemas constituem a camada de modo usuário no Windows 2000: o sistema Ambiental e o sistema Integral.
+O subsistema Ambiental foi desenvolvido para rodar aplicações escritas para vários tipos de sistema operacional. Esses aplicativos, entretanto, rodam em baixa prioridade que os processos de modo núcleo. Existem três principais tipos de Subsistemas Ambientais: 
+
+Subsistema Win32 roda aplicações Windows de 32 bits e também suporta Máquina Virtual DOS - Virtual DOS Machine (VDM), permitindo que aplicações de 16 bits para MS-DOS rodem no Windows 2000.
+Subsistema Windows on Windows (wowexec.exe), fazendo com que aplicativos feitos para versões antigas do Windows rodem no Windows 2000.
+Subsistema OS/2 suporta aplicações OS/2 de 16 bits e emula OS/2 1.x, mas não a 2.x ou posterior.
+Subsistema POSIX suporta aplicações que são estritamente escritas tanto para POSIX.1 padrão ou que obedecem o padrão ISO/IEC.O Subsistema Integral procura por funções especificas do sistema fora do subsistema Ambiental. Consiste em um subsistema de segurança (permite/nega acesso e gerencia logon), serviço de estação (ajuda com o acesso de rede do computador) e um serviço servidor (permite que o computador forneça serviços de rede).
+
+
+=== Modo núcleo ===
+O Modo núcleo no Windows 2000 tem acesso total ao hardware e aos recursos de sistema do computador. O modo núcleo impede que serviços e aplicações modo usuário acessem áreas criticas do sistema operacional.
+A interface Executive com todos os subsistemas de modo usuário. Ela interage com o entrada/saída, Gerenciamento de Objetos, segurança e gerenciamento de processos, contendo vários componentes, incluindo:
+
+Gerenciador de Objetos: Um subsistema Executive especial que todos os outros Subsistemas Executive deve passar para ter acesso aos recursos do Windows 2000. Ele é essencial no serviço de infraestrutura de gerenciamento de recursos que permite que o Windows 2000 seja um sistema operacional orientado a objetos.
+Gerenciador de I/O: permite que dispositivos se comuniquem com subsistemas modo usuário, ele traduz a leitura e a escrita do subsistema modo usuário e os transfere para o dispositivo de driver
+Monitor de Referencia de Segurança(SRM): a autoridade primária para utilizar as regras de segurança do subsistema de segurança integral.
+Gerenciador de IPC : vem de Interprocess Communication, gerencia a comunicação entre os clientes (no subsistema Ambiental) e servidores (componentes do executive).
+Gerenciador de Memoria Virtual: gerencia a memória virtual, permitindo que o Windows 2000 use o disco rígido(HD) como um dispositivo de armazenamento primário.
+Gerenciador de Processos: manipula a criação e finalização de processos e a threads.
+Gerenciador PnP : manipula o "ligar e usar" e suporta os dispositivos de detecção e instalação na hora do boot.
+Gerenciador de Energia: o gerenciador de energia coordena os eventos de energia e fornece energia para os IRPs.
+O sistema de dysplay é controlado por um driver de dispositivo contido em Win32k.sys. O componente Window Manager desse driver é responsável por desenhar janelas e menus enquanto o componente GDI (graphical device interface - Dispositivo de Interface Gráfica) é responsável por tarefas como desenhar linhas e curvas, renderizar fontes e manipular palhetas.O Windows 2000 Hardware Abstraction Layer (Camada de abstração de hardware), ou HAL, é uma camada entre o hardware físico do computador e o resto do sistema operacional. Ele foi desenvolvido para "esconder" diferenças de hardware e prover uma plataforma consistente para executar aplicações. O HAL inclui códigos de hardwares específicos que controlam interfaces de E/S, controladores de interrupção e múltiplos processadores.
+O micronúcleo se situa entre a HAL e a executiva e fornece sincronização de multiprocessamento, threads e agendamento de interrupções, gerenciamento de traps e envio de exceções. O micronúcleo geralmente se comunica com o gerenciador de processos.
+
+O micronúcleo também é responsável pela inicialização de drivers de dispositivos no boot que são necessários para tornar o sistema operacional funcionando corretamente.
+
+
+=== Funcionalidades Comuns ===
+Certas características são comuns através de todas versões de Windows 2000 (ambos Profissional e as versões de Servidor), entre eles são NTFS 5, a Consola de Gerência de Microsoft (MMC), o Sistema de Arquivo de Encrypting (EFS), dinâmica e armazenamento básico de disco, realces de usabilidade e suporte multi-linguagem e local (localization). Assim como estas características, a Microsoft introduziu uma nova característica para proteger arquivos críticos do sistema. Isto previne programas de substituir arquivos críticos do Windows, causando assim a inoperância do sistema. A Microsoft reconheceu que os erros fatais normalmente mostrados em uma tela azul (ou erro de parada) podem causar problemas sérios para servidores que necessitam constantemente estar ativos e então forneceu um cenário de sistema que permitiria o servidor a automaticamente reiniciar (reboot) quando um erro de parada ocorre. Os operadores têm a opção de descarregar o primeiro 64KB de memória a disco (a menor quantidade de memória que é útil para depurar falhas, também conhecido como um minidump), um dump da memória do núcleo ou um dump do conteúdo inteiro da memória a disco. Para melhorar o desempenho em computadores executando o Windows 2000 como um servidor, a Microsoft deu a escolha para administradores de otimizar o sistema operativo para serviços de fundo ou para aplicações.
+
+
+=== NTFS 5 ===
+
+Microsoft lançou a terceira versão do Sistema de Arquivos NT (NTFS) — também conhecida como versão 5.0 — no Windows 2000; ela introduziu cotas, encriptação em nível de sistema de arquivos (chamada EFS), arquivos espaços e pontos de restauração.
+
+
+== Versões ==
+A Microsoft lançou várias versões do Windows 2000 para corresponder com os diferentes mercados e necessidades de negócio. Lançou o Windows 2000 Profissional, Windows 2000 Server, Windows 2000 Advanced Server e Windows 2000 Datacenter Server.
+
+
+=== Windows 2000 Profissional ===
+O Windows 2000 Profissional foi feito para responder às exigências de um sistema operativo para empresas, negócios e escritórios. É a unidade básica do Windows 2000, e a mais comum, mesmo após a descontinuação do suporte técnico (sendo a segunda versão mais utilizada, atrás apenas do Windows XP Professional). Oferece maior estabilidade e segurança do que qualquer outra versão anterior do Windows para o segmento profissional, suporta até 4 GB de memória RAM e gerencia até 2 processadores simétricos.
+
+
+=== Windows 2000 Server ===
+O Windows 2000 Server partilha a mesma interface de utilizador do Windows 2000 Professional, contendo adicionalmente componentes para correr infraestruturas e aplicações para servidor. Uma delas é o Active Directory, um directório centralizado de utilizadores, baseado no LDAP (Lightweight Direct Access Protocol). A Microsoft também integrou o protocolo Kerberos de autenticação, substituindo o muito criticado NTLM (Windows NT LAN Manager), utilizado em versões anteriores. Ainda introduziu um servidor DNS que permite um registro dinâmico de endereços IP. Esta versão do Windows 2000 suporta até 4 GB de memória RAM e gerencia até 4 processadores simétricos.
+
+
+=== Windows 2000 Advanced Server ===
+Suporte adicional além do Windows 2000 Server:
+Clustering - Faz vários computadores aparecem como um para aplicativos e clientes. Podem ser agrupados entre 2 e 32 servidores. O "Cluster Service" deve ser instalado para implementar o cluster. Suas características são:
+
+Network Load Balancing (NLB).
+Aquisição automática caso o computador que está executando um aplicativo falhar.O diferencial de hardware do Windows 2000 Advanced Server é o seu suporte a até 8 GB de memória RAM e 8 processadores simétricos.
+
+
+== Requerimentos de sistema ==
+Windows 2000 Profissional:
+
+CPU Pentium ou compatível de 133 MHz ou superior
+64 megabytes (MB) de memória RAM (128MB recomendados)
+700 megabytes de espaço em disco (2GB recomendados)Windows 2000 Server:
+
+CPU Pentium ou compatível de 133 MHz ou superior
+Mínimo recomendado de 256 MB de memória RAM
+2 GB espaço em discoWindows 2000 Advanced Server:
+
+CPU Pentium ou compatível de 133 MHz ou superior
+Mínimo recomendado de 256 MB de memória RAM
+2 GB de espaço em disco
+
+
+== Ver também ==
+Windows ME
+Windows XP
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Página oficial do Windows 2000 no Wayback Machine (arquivado em 2007-01-02)
+Página não-oficial de Download do Windows 2000 Final do acervo do WinWorld

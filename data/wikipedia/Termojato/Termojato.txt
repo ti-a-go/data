@@ -1,0 +1,21 @@
+Termojato - é um tipo rudimentar de motor a jato. Seu mecanismo central ainda é um motor de combustão interna, mas no lugar deste mover uma hélice, ele aciona um compressor a gás. 
+
+
+== Funcionamento ==
+O ar comprimido é direcionado em uma câmara de combustão, onde é dada a ignição e combustão. A alta temperatura gerada pela combustão causa a expansão dos gases, fazendo com que estes sejam expelidos sob alta pressão do exaustor, criando assim força e empuxo.
+O motor termojato gera maior potência que um motor a hélice de combustão interna. Isto foi demonstrado em certo número de aviões. A pesquisa sobre esse tipo de motor foi deixada de lado após o fim da Segunda Guerra Mundial, quando a se tornou viável o desenvolvimento dos motores a jato, que geram empuxo e força para um compressor sem a necessidade de um motor a pistão para tanto.
+
+
+== Breve histórico ==
+Em 1908 o inventor francês René Lorin propôs utilizar um motor a pistão para comprimir ar que seria, então, misturado com o combustível e queimado para produzir pulsos de gás quente que seriam expulsos por meio de uma tubeira para gerar uma força propulsora.A primeira aplicação do princípio do termojato foi realizada por Henri Coandă no seu avião Coandă-1910 em 1910.Em 1917, O. de Morize de Chateaudun, França, propôs o Morize. Era o esquema de um ejetor no qual um motor alternativo acionava um compressor que fornecia ar para a combustão de combustível líquido numa câmara que depois era descarregado em um tubo convergente-divergente e, em última instância, para fora na atmosfera.O termo "motorjet" foi registrado em uma patente na Grã-Bretanha por J.H. Harris de Esher, em 1917.Posteriormente, foi desenvolvido por Secondo Campini no início da década de 1930, embora um avião com esse tipo de motor (Caproni Campini N.1) não voasse antes de 1940.O engenheiro Eastman Jacobs, do Comitê Consultivo Nacional para a Aeronáutica, dos Estados Unidos, desenvolveu pesquisas intensas no início da década de 1940 em um projeto que ficaria conhecido como "Jake's Jeep." Tal projeto não foi concluído por ter sido superado pela tecnologia do turbojato.Engenheiros japoneses desenvolveram o motor Tsu-11 para impulsionar o avião-foguete kamikaze Ohka como uma alternativa ao motores de foguete com o qual estes aviões eram equipados.O caça soviético Mikoyan-Gurevich I-250 (N) projetado em 1944 usava um motor de combustão interna para acionar uma hélice, no nariz, e um compressor para gerar empuxo, situado na cauda do avião.
+
+
+== Galeria ==
+
+
+== Fontes ==
+(em inglês) Mach 1 and Beyond: The Illustrated Guide to High-Speed Flight, de Larry Reithmaier, 1994,  ISBN 0070520216
+
+
+== Ligações externas ==
+«Grupomotopropulsor - História do motor à reação na aviação»

@@ -1,0 +1,42 @@
+Lothar Collatz (Arnsberg, 6 de julho de 1910 — Varna, 26 de setembro de 1990) foi um matemático alemão. Em 1937 propôs a famosa conjectura de Collatz, que continua sem solução.
+
+
+== Vida ==
+Entre 1928 e 1933 estudou matemática e física em diversas universidades da Alemanha (Universidade de Berlim, Munique, Universidade de Greifswald e Universidade de Göttingen), onde foi aluno de, entre outros, Erhard Schmidt, Richard von Mises, David Hilbert, Erwin Schrödinger, Richard Courant e Constantin Carathéodory.
+Obteve seu doutorado em 1935 com a tese Das Differenzenverfahren mit höherer Approximation für lineare Differentialgleichungen (O método de diferenças finitas com aproximação de ordem superior para equações diferenciais lineares), orientado por Alfred Klose.
+Por suas diversas contribuições à matemática Collatz recebeu diversas honrarias, dentre elas:
+eleito membro da Academia Leopoldina (1962), da Academia de Ciências de Bolonha e da Academia de Ciência de Modena, as duas últimas na Itália.
+membro honorário da Mathematische Gesellschaft in Hamburg
+Doutor honoris causa da Universidade de São Paulo (1956), da Universidade Técnica de Viena (1967), da Universidade de Dundee na Escócia (1974), da Universidade de Brunel na Inglaterra (1977), da Universidade de Hanôver (1981), da Universidade de Augsburgo (1985) e da Universidade Técnica de Dresden (1990).Collatz morreu em Varna, durante uma conferência de matemática.
+
+
+== Publicações selecionadas ==
+Das Differenzenverfahren mit höherer Approximation für lineare Differentialgleichungen (Escritos do seminário de matemática e do instituto de matemática aplicada da Universidade de Berlim - volume 3/edição 1), Leipzig 1935
+Eigenwertprobleme und ihre numerische Behandlung. Leipzig 1945
+Eigenwertaufgaben mit technischen Anwendungen. Leipzig 1949, 1963
+Numerische Behandlung von Differentialgleichungen. Grundlehren der mathematischen Wissenschaften, Berlin 1951, 1955 (Trad. para o Inglês 1966)
+Differentialgleichungen für Ingenieure. Stuttgart 1960
+com Wolfgang Wetterling: Optimierungsaufgaben Berlim 1966, 1971 (Trad. para o Inglês 1975)
+Funktionalanalysis und Numerische Mathematik. Berlim 1964
+Differentialgleichungen. Eine Einführung unter besonderer Berücksichtigung der Anwendungen. Stuttgart, Teubner Verlag, 1966, 7a. ed. 1990
+com Julius Albrecht: Aufgaben aus der angewandten Mathematik I. Gleichungen in einer und mehreren Variablen. Approximationen. Berlim 1972
+Numerische Methoden der Approximationstheorie. vol. 2. Trechos de palestras da conferência sobre métodos numéricos de teoria de aproximação de 3.-9. Junho de 1973 no Instituto de Pesquisa Matemática em Oberwolfach, Stuttgart 1975
+Approximationstheorie: Tschebyscheffsche Approximation und Anwendungen. Teubner 1973
+
+
+== Ver também ==
+Prêmio Collatz
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Günter Meinardus e Günther Nürnberger: Lothar Collatz (06-07-1910 – 26-09-1990). Journal of Approximation Theory, 65(1):II.
+
+
+== Ligações externas ==
+Literatura de e sobre Lothar Collatz (em alemão) no catálogo da Biblioteca Nacional da Alemanha
+John J. O’Connor, Edmund F. Robertson: Lothar Collatz. In: MacTutor History of Mathematics archive.
+Lothar Collatz (em inglês) no Mathematics Genealogy Project
+«Biografia, Universidade de Hamburg» (em alemão)

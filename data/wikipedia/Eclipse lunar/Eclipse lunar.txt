@@ -1,0 +1,83 @@
+Eclipse lunar é um fenômeno astronômico que ocorre quando a Lua é ocultada totalmente ou parcialmente pela sombra da Terra, em geral, sendo visível a olho nu. Isto ocorre sempre que o Sol, a Terra e a Lua se encontram próximos ou em perfeito alinhamento, estando a Terra no meio destes outros dois corpos. É como se fosse um eclipse solar porém a Terra encobre a Lua nesse caso.
+Por isso o eclipse lunar só pode ocorrer quando coincidem a fase de Lua cheia e a passagem dela pelo seu nodo orbital. Este último evento também é responsável pelo tipo e duração do eclipse.
+
+
+== Fenômeno ==
+
+O eclipse lunar ocorre sempre durante a fase da Lua cheia pois ela precisa estar atrás da Terra, do ponto de vista de um observador no Sol. Como o plano da órbita da Lua está inclinado 5° em relação ao plano da órbita que a Terra realiza ao redor do Sol, nem todas as fases de Lua cheia levam à ocorrência do eclipse.
+O eclipse ocorre quando a Lua cheia coincide com a passagem da Lua pelo plano da órbita da Terra. Este ponto onde a órbita da Lua se encontra com o plano da órbita da Terra chama-se nodo orbital. O nodo pode ser classificado como ascendente ou descendente, de acordo com a direção que a Lua cruza o plano.
+Ao contrário dos eclipses solares que são visíveis apenas em pequenas áreas da Terra, os eclipses lunares podem ser vistos em qualquer lugar da Terra em que seja noite no momento do eclipse.
+
+
+== Classificação ==
+
+Os eclipses lunares podem ser classificados de acordo com a parte da Lua que é obscurecida pela sombra da Terra, e por qual parte da sombra da Terra ela está sendo obscurecida.
+A sombra projetada pela Terra possui duas partes denominadas umbra e penumbra. A umbra é uma região em que não há iluminação direta do Sol e a penumbra é uma região em que apenas parte da iluminação é bloqueada.Os eclipses penumbrais ocorrem quando a Lua entra na região de penumbra, o que na prática resulta numa variação do brilho da Lua que dificilmente é notada. Se a Lua entra inteiramente na região de penumbra ocorre o raro eclipse penumbral total que pode gerar um gradiente de luminosidade visível, estando a Lua mais escura na região que se aproxima mais da umbra.
+Quando a Lua entra na região da umbra, podem ocorrer os eclipses lunares parcial e total. O eclipse parcial ocorre quando apenas parte da Lua é obscurecida pela sombra da Terra e o total, quando toda a face visível da Lua é obscurecida pela umbra. Este obscurecimento total pode durar até 107 minutos e é mais longo quando a Lua está próxima de seu apogeu, ou seja, quando sua distância da Terra é o maior possível.
+Um último tipo de eclipse lunar raro é denominado eclipse horizontal. Ele ocorre quando o Sol e a Lua, em eclipse, estão visíveis ao mesmo tempo. Este tipo de eclipse só é visível quando o eclipse lunar ocorre perto do poente ou antes do nascente.
+
+
+== Aparência ==
+
+A Lua não desaparece completamente na sombra da Terra, mesmo durante um eclipse total, podendo então, assumir uma coloração avermelhada ou alaranjada. Isto é consequência da refração e da dispersão da luz do Sol na atmosfera da Terra que desvia apenas certos comprimentos de onda para dentro da região da umbra. Este fenômeno é conhecido como dispersão de Rayleigh.
+Este fenômeno também é responsável pela coloração avermelhada que o céu assume durante o poente e o nascente. De fato se nós observássemos o eclipse a partir da Lua, nós veríamos o Sol se pondo atrás da Terra.
+
+
+=== Escala de Danjon ===
+
+O astrônomo André-Louis Danjon criou uma escala que veio a receber seu nome para classificar o obscurecimento durante um eclipse lunar. Esta escala vai de 0 a 4ː
+L=0: Eclipse muito escuro, a Lua se torna quase invisível durante a totalidade.
+L=1: Eclipse escuro de cor acinzentada ou próximo do marrom.
+L=2: Eclipse com cor vermelha. A sombra central é muito escura mas as bordas são mais claras.
+L=3: Eclipse cor amarronzada. A borda da sombra é brilhante ou amarela.
+L=4: Eclipse muito brilhante com cor alaranjada. A borda da sombra é brilhante ou azul.
+
+
+== Ciclos de eclipse ==
+
+Todos os anos ocorrem pelo menos dois eclipses lunares. A partir da data de um eclipse é possível prever os próximos através de um ciclo de eclipses como o Saros.
+
+
+== Eclipses lunares 2011-2030 ==
+
+Esta é uma tabela com os eclipses lunares previstos para ocorrer entre os anos 2011 e 2030.
+
+
+== Mais longo eclipse lunar total entre 1900 e 2029 ==
+
+O eclipse lunar total mais longo entre 1000 a.C. e 300 d.C. ocorreu em 31 de Maio de 318. Sua fase total teve uma duração de 1h47m14s.
+
+
+== História ==
+
+Os astrônomos da Grécia Antiga notaram que durante o eclipse lunar, a borda da sombra era sempre circular. Deduziram, assim, que a Terra poderia ser esférica ou redonda.
+
+
+== Referências ==
+
+Alan MacRobert, "October's Ideal Lunar Eclipse", Sky and Telescope (October 2004), p. 74.  (números Danjon)
+
+
+== Ver também ==
+
+Eclipse;
+Eclipse solar;
+Software simulador de planetário;
+Zhang Heng.
+
+
+== Ligações externas ==
+
+Predição
+
+U.S. Navy Lunar Eclipse Computer
+NASA Eclipse home page
+Lunar Eclipses for BeginnersFotos de Eclipses
+
+APOD 10/30/04 Total Lunar eclipse on 10/28/04
+APOD 11/21/03 Total Lunar Eclipse on 5/16/03
+APOD 5/22/03 Composite Lunar eclipse images from 11/9/03
+APOD 1/18/01 Total Lunar eclipse on 1/9/01
+APOD 7/26/00 Total Lunar eclipse photo from 7/16/00Ficção
+
+Lunar Eclipse 2105 - NASA fictional story of eclipse observed from the moon

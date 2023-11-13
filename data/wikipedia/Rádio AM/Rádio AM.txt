@@ -1,0 +1,37 @@
+Rádio AM é o processo de transmissão através do rádio usando modulação em amplitude. É transmitido em várias bandas de frequência. Foi por oitenta anos o principal método de transmissão via rádio. Caracterizado pelo longo alcance dos sinais, a modulação em amplitude está sujeita a interferências de outras fontes eletromagnéticas.
+
+
+== História ==
+As primeiras transmissões utilizando a modulação em amplitude iniciaram-se em 1906 por Reginald Fessenden. Até a Primeira Guerra Mundial era utilizada para transmissão de músicas e recados diversos. A situação modificou-se com o surgimento das rádios comerciais, que deram início à "Era de Ouro do Rádio", que foi da década de 20 até os anos 50.
+No Brasil as primeiras transmissões AM surgiram com a emissora de Roquette-Pinto, que em 1923 fundou a Rádio Sociedade do Rio de Janeiro. Em 1936 a rádio transformou-se em Rádio Ministério da Educação, que propaga o ensino à distância. Hoje, essa emissora se chama Rádio MEC, e pertence à EBC (antiga Radiobrás).
+As transmissões em amplitude modulada foram fundamentais na vida do brasileiro em meados do século XX. As emissoras de longo alcance, como a Rádio Nacional do Rio de Janeiro, a Super Rádio Tupi, Rádio Globo e a Rádio Record, que atingiam quase 100% do território nacional ajudaram a propagar os times cariocas e paulistas de futebol por todo o Brasil. Recentemente, diversas rádios AM passaram a transmitir sua programação também em FM.
+
+
+== Migração de rádio do AM para o FM no Brasil ==
+Com o problema de interferênciasnos grandes centros urbanos e a produção cada vez menor de aparelhos com recepção de sinal AM, em 2013 o governo federal começou a estudar a possibilidade de migração dessas estações para os atuais canais 5 e 6 de televisão analógica, isso se tornou  possível com a implantação da televisão digital for implantado em todas as capitais e regiões metropolitanas do Brasil até 28 de novembro de 2018, a Rádio Capital de São Paulo foi a primeira a migrar para a faixa E-fm. Projetos similares já deram certo em países como os Estados Unidos e México.Em 7 de novembro de 2013, foi assinado o decreto 8139 que permite a migração às emissoras de rádio que operam na faixa de Ondas Médias migrarem para a faixa FM. As emissoras não são obrigadas a aderir ao processo, porém as que optarem por fazer terão que fazer o pagamento da diferença de outorga e desligar os canais de Onda Média em até 180 dias (emissoras contempladas no "Dial Convencional") ou 5 anos (para emissoras que forem para o "Dial Estendido" Decreto 8139, Art.8º § 1º, Paragráfo 1º), esses prazos, para o devolução do canal conta - se a partir da publicação da autorização do uso de radiofrequencia no Diário Oficial. O preço da diferença de outorga foi definido pela portaria nº 6467/2015, Anexo IIII, e os valores foram estipulados conforme a população do município de outorga, potência da emissora e seis subclasses (de A a F), corrigidos pelo IPCA. No dia 23 de setembro de 2021, foi publicado o Decreto 10.804, que permite as emissoras parcelarem o valor da diferença da Outorga em até 120 parcelas corrigidas pela taxa SELIC, a medida poderá acelerar não só o processo de Migração entre as faixas, mas também o surgimento de novas FM´S, onde ainda exista viabilidade técnica.
+A Rádio Progresso de Juazeiro do Norte, foi a primeira emissora a fazer a migração do AM para o FM no país. A solenidade que marcou a mudança de faixa ocorreu em 18 de março de 2016, às 20h30, na sede da emissora, e contou com a participação do ministro das Comunicações, André Figueiredo.Segundo o portal tudoradio.com, até 08 de Novembro de 2023, cerca de 1.006 (56%) das 1.766 emissoras AM (1.781 menos 4 emissoras AM do Grupo Globo, desligadas em 1° de setembro de 2018, a Rádio Guarathan de Santa Maria, Rio Grande do Sul, a Rádio Rural de Porto Alegre, a Rádio Gazeta de São Paulo, que foi desligada em 28 de janeiro de 2019), Rádio Terra de Santos, São Paulo, Rádio Metrópole de Salvador, Rádio Globo de São Paulo, desligada em 10 de fevereiro de 2020,Rádios  Gaúcha, Liberdade, Princesa e  Farroupilha de Porto Alegre, desligadas em 31 de julho de 2021, a Rádio Clube do Pará, que teve sua concessão de Onda Média cassada, porém utilizou de uma manobra arrendando a concessão pertencente a Fundação Boas Novas haviam concluído o processo de migração para FM (média de 1 emissora a cada 2,65/dia). No dia 16 de Outubro de 2023, o Ministério das Comunicações divulgou no portal "Painel da Radiodifusão" que até  o momento 1671 emissoras solicitaram a mudança, e 1.150 (68%)  já concluíram a migração.  . O Dial Convencional(que corresponde a faixa de 87,5 MHz a 107,9 MHz),abrigará pelo menos 1.403** emissoras, . A faixa estendida de FM, que surgiu a partir do aproveitamento dos canais 5 e 6 da TV analógica, corresponde às frequências de 76,1 a 87,3 MHz, e abrigará cerca de 363** emissoras, Já conta com 35 Emissoras Ativas ( dados de 26/10/2023). A regulamentação para a destinação dos canais 5 e 6 da TV Analógica para o uso do FM Estendido se deu através da Consulta Pública 24/2019 da ANATEL. Em Agosto de 2023, o Ministro das Comunicações, Juscelino Filho, declarou que em breve, o Governo Federal editará um novo Decreto, agora para a Migração das Emissoras de Ondas Curtas e Tropicais para FM.O respectivo decreto, nº 11.739 de 18 de Outubro de 2023, especifica que a Migração facultativa das faixas OC e OT, será facultativa, exclusivamente para a faixa de FM- Estendido (76,1 a 87,3 MHZ), e serão obrigadas a devolver os canais de Ondas Curtas e Tropicais 1 ano após a migração,.
+**Respectivas quantidades, podem não refletir a atual realidade, visto que eles refletem o total de canais liberados até agosto de 2021.
+
+
+== Imagens ==
+
+
+== Bandas de frequências ==
+Ondas curtas - 2.3 MHz–26.1 MHz,(2300 kHz-26100 kHz) divididas em quinze bandas, apresentam longo alcance, atingindo milhares de quilômetros porém entre média, alta e baixa qualidade em analógico. Atualmente as ondas curtas estão sendo digitalizadas em vários países com o DRM.
+Ondas médias - 525 kHz–1705 kHz, possuindo médio alcance.
+Ondas longas - 153 kHz–279 kHz, não disponível no hemisfério oeste, é usado para transmissões na Europa, África, Oceania e parte da Ásia.
+Onda tropical - 2300 kHz-5060 kHz de 120-90-75-60 metros, utilizada entre os trópicos, esta banda possui longo alcance, razoável qualidade de sinal.
+
+
+== Ver também ==
+DX
+Modulação em frequência
+Onda curta
+Onda média
+Onda tropical (radiodifusão)
+Rádio digital
+Rádio FM
+Televisão digital
+
+
+== Referências ==

@@ -1,0 +1,24 @@
+Na aviação, física atmosférica e radiodifusão, a altura acima do nível do solo (em inglês:  height above ground level - AGL)) é uma altura medida com referência na superfície de solo logo abaixo. Esta medida é diferente de altitude/elevação, metro acima do nível do mar (AMSL), ou (em Engenharia de Radiodifusão) altura sobre o terreno médio (HAAT). Em outras palavras, estas expressões (AGL, AMSL, HAAT) indicam onde o "nível zero" ou "altitude de referência" está localizado.
+
+
+== Aviação ==
+Um piloto voando sob IFR (tipicamente em condições de baixa visibilidade) deve confiar no altímetro de sua aeronave para decidir quando baixar o trem de pouso e se preparar para o pouso. Desta forma, o piloto necessita de uma informação confiável da altura da aeronave em relação ao local de pouso (normalmente um aeroporto). O altímetro é normalmente um barômetro calibrado em unidades de distância ao invés de pressão atmosférica e pode ser ajustado de forma que indique a altura da aeronave sobre o solo. Isto pode ser feito ao comunicar-se com a torre de controle do aeroporto (para obter a pressão atual da superfície) e ajustar o altímetro de forma que este apresente o valor zero quando estiver no solo do referido aeroporto. A confusão entre AGL e AMSL, ou ainda a calibração incorreta do altímetro, pode resultar em um CFIT, que é o acidente de uma aeronave em sua plena funcionalidade e sob controle por parte do piloto.
+Enquanto que o isto seja uma possível referência disponível para os pilotos, na aviação comercial é um procedimento específico por país e que não é muito comum (é utilizado, por exemplo, na Rússia). A maior parte dos países utiliza a elevação do aeroporto (AMSL) como referência. Durante as aproximações para pouso, várias outras referências podem ser utilizadas, como o AFE (acima do nível do campo - em inglês:  above field elevation) que é a altura de referência do ponto mais alto do aeródromo, TDZE (elevação da zona de toque - em inglês:  touchdown zone elevation) ou o TH (altura da cabeceira - em inglês:  threshold height), ambos se referindo à elevação da pista medidas em AMSL e AGL respectivamente. 
+Em geral, "altitude" refere-se à distância acima do nível do mar (MSL ou AMSL), "altura" se refere à distância acima de um ponto específico (por exemplo, o aeroporto, cabeceira ou o solo) "elevação" descreve a característica de um terreno em termos de distância acima do nível do mar. Um mnemônico que pode ser utilizado é: se é uma altitude, você pode voar, se é elevação, você pode andar e se é a altura, é o quanto uma pedra irá cair antes de atingir o solo.
+
+
+== Física atmosférica ==
+Em estudos de meteorologia e clima, as medidas ou simulações normalmente precisam se referir a uma altura ou altitude específica, que é naturalmente AGL. Entretanto, os valores de variáveis geofísicas medidas em vários locais na superfície natural (solo) pode ser de difícil comparação em terreno montanhoso, pois parte da variabilidade observada é devido a mudanças na altitude da superfície. Por esta razão, as variáveis tais como pressão e temperatura são por vezes "reduzidas" para o nível médio do mar.
+Em modelos de circulação geral, o estado e as propriedades da atmosfera são especificados ou computados em um número de localizações e alturas discretas. Quando a topografia do continente é explicitamente representada, as altitudes destes loais são colocados acima do nível de solo simulado. Isto é normalmente implantado utilizando o sistema de coordenadas sigma, que é a razão da pressão em um local (latitude, longitude, altitude) dividido pela pressão no ponto mais baixo do local na superfície (mesma latitude, mesma longitude, altitude AGL = 0).
+
+
+== Radiodifusão ==
+Em radiodifusão, a altitude AGL tem relativamente pouca relação direta com o alcance de uma estação. Assim sendo, o HAAT (a altura sobre o terreno médio (na área vizinha)) é utilizado para determinar quão longe de radiodifusão (ou qualquer tipo de transmissor de frequência muito alta ou maior) irá viajar.
+Da perspectiva de segurança da aviação, entretanto, o aspecto mais importante é a altura da torre que dá suporte à antena. Neste caso, a altura AGL é a única medida importante para as autoridades de aviação, que requerem que algumas torres altas possuam pintura específica e luzes para alertar de sua altura, evitando assim colisões de aeronaves contra as torres. 
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«AGL in aviation» (em inglês). Consultado em 17 de abril de 2019

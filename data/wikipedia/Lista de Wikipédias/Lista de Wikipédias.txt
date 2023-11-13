@@ -1,0 +1,23 @@
+Esta é uma lista de versões linguísticas da Wikipédia, um projeto de enciclopédia multilíngue de Licença livre, baseado na web, colaborativo e apoiado pela organização sem fins lucrativos Wikimedia Foundation. A Wikipédia possui no total 61 984 138 artigos escritos por 110 687 828 usuários em 303 idiomas, dos quais 291 estão ativos.De acordo com o Alexa, o subdomínio anglófono recebe 59% dos visitantes da Wikipédia, com o restante dividido entre as outras versões, sendo as principais russo (8%), espanhol (6%), chinês (5%) e japonês (4%). Em abril de 2018, as cinco maiores Wikipédias por número de artigos eram, respectivamente, a anglófona, a cebuana, a sueca, a alemã e a francófona.
+
+
+== Lista ==
+
+
+=== Notas explicativas ===
+O endereço (URL) de cada Wikipédia apresenta estrutura http(s)://xx.wikipedia.org/wiki/, onde xx é a identificação da língua da Wikipédia, como o código de letra da norma ISO 639-1. Para as línguas sem representação em código, uma das três letras de ISO 639 é usada. Se não coberto por casos excepcionais ISO, um código único é adotado.
+Consideram-se usuários ativos os que tenham participado no projeto ao longo dos últimos 30 dias.
+A profundidade (Prof.) é uma estimativa da atividade na Wikipédia que mostra quantas vezes são atualizadas as páginas de conteúdo. Profundidades maiores do que 200 ou menores do que 10 podem ser descartadas por irrelevância.Os dados da tabela abaixo são atualizados periódicamente.
+
+
+=== Totais ===
+
+
+== Ver também ==
+Wikipédia:Wikipédia em outras línguas
+
+
+== Notas ==
+
+
+== Referências ==

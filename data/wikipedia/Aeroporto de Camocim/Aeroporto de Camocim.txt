@@ -1,0 +1,25 @@
+O Aeroporto de Camocim (IATA: CMC, ICAO: SNWC) é um aeroporto localizado na Rua Sebastião Lopes, 310, no bairro  Rodagem do lago, na cidade de Camocim, no interior do estado brasileiro do Ceará. O terminal tem capacidade de operar voos regionais e nacionais viabilizando o recebimento de aviões de pequeno e médio porte como Cessna 208 e  Embraer 195. Com isso facilitará o acesso ao turismo  localizado na região, além do escoamento da produção agrícola. Também encurtará significativamente a distância de Fortaleza, a capital, que por terra consome cerca de sete horas contra até  1 hora e 30 minutos de avião.
+
+
+== Características ==
+Categoria/Utilização:
+PUB
+
+Fuso Horário: UTC-3
+Tipo de Operação: VFR DIURNA
+Administrador: Governo do Estado
+Elevação: 5M (16FT)
+Declinação Magnética: 21,24W
+Latitude:  -2.916667 ( Sul 2° 55' 0" )
+Longitude: -40.833332 ( Leste 40° 49' 59" )
+IATA: CMC
+ICAO: SNWC
+Pista: 1200 x 30m
+Piso: ASPH 8/F/B/Y/U
+Sinalização: S
+Observar presença de animais e pessoas dentro da área do aeródromo.
+
+
+== Ver também ==
+Lista de aeroportos do Brasil
+Lista de aeroportos do Ceará

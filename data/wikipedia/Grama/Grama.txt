@@ -1,0 +1,47 @@
+O grama (símbolo: g) é uma unidade de medida de massa, derivada do Sistema Internacional de Unidades (SI), equivalente a 10−3 unidades-padrão (10−3 do quilogramas), sendo assim o seu terceiro submúltiplo. É também a unidade padrão de massa do Sistema CGS de unidades.
+
+1 g = 0,001 kg = 10−3 kg
+
+
+== Equivalências ==
+1 grama é igual a:
+
+1 000 mg
+100 cg
+10 dg
+0,1 dag
+0,01 hg
+0,001 kg
+
+
+== Múltiplos e submúltiplos ==
+Múltiplos
+
+Yotagrama (Yg) = 1024 g
+Zetagrama (Zg) = 1021 g
+Exagrama (Eg) = 1018 g
+Petagrama (Pg) = 1015 g
+Teragrama (Tg) = 1012 g
+Gigagrama ou Quilotonelada (Gg ou kt) = 109 g
+Megagrama ou Tonelada (Mg ou t) = 106 g
+Quintal métrico (q) = 105 g
+Miriagrama (mag) = 104 g
+Quilograma (kg) = 103 g
+Hectograma (hg) = 10² g
+Decagrama (dag) = 10¹ gSubmúltiplos
+
+Decigrama (dg) = 10−1 g
+Centigrama (cg) = 10−2 g
+Miligrama (mg) = 10−3 g
+Micrograma (µg) = 10−6 g
+Nanograma (ng) = 10−9 g
+Picograma (pg) = 10−12 g
+Femtograma (fg) = 10−15 g
+Atograma (ag) = 10−18 g
+Zeptograma (zg) = 10−21 g
+Yoctograma (yg) = 10−24 g
+
+
+== Ver também ==
+Projeto AvogadroAnálise dimensional
+Sistema MKS de unidades

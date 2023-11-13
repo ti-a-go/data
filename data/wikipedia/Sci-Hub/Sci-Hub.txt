@@ -1,0 +1,32 @@
+Sci-Hub é um site que oferece acesso gratuito a milhões de artigos cientificos e livros acadêmicos, violando os direitos autorais e burlando o muro de pagamento das editoras de várias maneiras.O Sci-Hub foi fundado por Alexandra Elbakyan em 2011 no Cazaquistão devido aos altos custos de acesso aos trabalhos de pesquisa. O site é amplamente utilizado em países desenvolvidos e em desenvolvimento, atendendo a mais de 200 mil solicitações por dia a partir de fevereiro de 2016.Sci-Hub e Alexandra Elbakyan foram processados duas vezes por violação de direitos autorais nos Estados Unidos da América em 2015 e 2017, e perderam em ambos os casos, acarretando a perda de alguns dos seus nomes de domínio na Internet. Desde então o site mudou de domínio várias vezes. A mais recente, em janeiro de 2023, derrubou o domínio sueco .se, tornando o domínio russo .ru o principal meio de acessar o site.
+Sci-Hub tem sido elogiado por algumas pessoas da comunidade científica, acadêmica e editoras, por fornecer acesso ao conhecimento gerado pela humanidade. Outros o criticaram por violar os direitos autorais, ameaçando a viabilidade econômica das editoras, comprometendo potencialmente a segurança da rede das universidades e comprometendo o acesso legítimo a esses documentos por pessoal universitário.
+
+
+== Visão geral ==
+O projeto Sci-Hub começou em 16 de abril de 2011. Ele foi fundado pela neurocientista cazaque Alexandra Elbakyan com o objetivo de melhorar a popularização do conhecimento, possibilitando o acesso de mais pessoas a conteúdo pago. O domínio original do projeto, Sci-Hub.org, foi suspenso em novembro de 2015 devido a uma decisão judicial. O projeto veio à tona de novo no mesmo mês através de um domínio .io.O site se tornou muito popular em países em desenvolvimento como Índia e Indonésia, assim como Irã, China, Rússia e Brasil. Fornecer acesso à pesquisa para instituições com menos privilégios é o objetivo expresso de Elbakyan's na criação desse site.Em Portugal o site Sci-Hub foi bloqueado em Janeiro de 2019 pela IGAC – Inspeção-Geral das Atividades Culturais.
+
+
+== Processo legal ==
+Em janeiro de 2016, o site envolveu-se em um caso judicial com a editora Elsevier: Elsevier et al. v. Sci-Hub et al. A Elsevier alega que o Sci-Hub acessa de forma ilícita contas de estudantes e instituições acadêmicas para fornecer acesso livre a artigos em sua plataforma ScienceDirect.  O caso complica-se ainda mais pois o site está hospedado em São Petersburgo, Rússia, dificultando um processo no sistema legal dos Estados Unidos.  Algumas visões do caso interpretam o processo como um ataque da Elsevier contra a disseminação livre do conhecimento e questionam os motivos por trás da decisão da editora em fornecer acesso livre aos seus artigos para alguns editores da Wikipédia. Um caso semelhante foi levantado contra o site LibGen,  que pode estar hospedado na Holanda,  ou também na Rússia. Apesar da apreensão dos sites ordenada por um tribunal distrital de Nova York em 28 de outubro de 2015, o site ainda está acessível através de domínios alternativos desde dezembro de 2015. O site também pode ser acessado pela rede Tor.A Electronic Frontier Foundation citou a Declaração da Universal dos Direitos Humanos da ONU, que diz em seu artigo 27º que toda pessoa tem o direito "de participar no progresso científico e nos benefícios que deste resultam", em apoio ao Sci-hub e ao site irmão Libgen. O processo levantou diversas críticas da Elsevier.
+
+
+== Financiamento e manutenção ==
+A operação do site é financiada por doações de usuários. O código em PHP, a configuração dos servidores web Linux e a sua manutenção são todos feitos pela própria Elbakyan. Ao longo dos anos, vários endereços de URL e endereços IP diretos foram usados para o Sci-Hub, pois dezenas de nomes de domínio foram confiscados por várias autoridades legais.
+
+
+== Ver também ==
+Aaron Swartz
+Acesso aberto
+Alexandra Elbakyan
+ ICanHazPDF
+LibGen
+
+
+== Notas ==
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Sci-hub no Twitter

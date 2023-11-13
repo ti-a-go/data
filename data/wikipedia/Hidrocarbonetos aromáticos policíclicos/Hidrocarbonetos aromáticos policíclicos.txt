@@ -1,0 +1,208 @@
+Os Hidrocarbonetos Aromáticos Policíclicos (HAPs) constituem uma família de compostos caracterizada por possuírem 2 ou mais anéis aromáticos condensados. Estas substâncias, bem como os seus derivados nitrados e oxigenados, têm ampla distribuição e são encontrados como constituintes de misturas complexas em todos os compartimentos ambientais.
+
+
+== Tipos de HAP ==
+Existem muitos HAPs, mas o mais estudado é o benzo[a]pireno (BaP). Tanto estes, como os seus derivados são formados pela combustão incompleta de material orgânico.De maneira geral, tanto os HAPs como os seus derivados estão associados ao aumento da incidência de diversos tipos de cancro em animais, mas ainda não é claro se causam cancro no homem.São poluentes orgânicos de grande persistência ambiental, e muitos deles são capazes de reagir, após transformações metabólicas (bioactivação prévia das enzimas do citocromo P450), com o ADN, tornando-se carcinogénicos e potenciais mutagénicos.
+As propriedades físico-químicas dos HAPs são, em grande parte, determinadas por seus sistemas de duplas conjugadas, que variam com o número de anéis e portanto, com suas massas moleculares.
+A complexidade e composição de misturas de HAPs depende das suas fontes emissoras. Em geral essas misturas são muito complexas, contendo uma grande variedade de HAPs em diferentes níveis de concentração.
+Devido ao seu carácter ubiquitário, constituem uma ameaça potencialmente fatal para a saúde de toda a população.
+Os HAPs são uma família extensa, os mais estudados e com maior risco para a saúde são:
+
+
+=== Benzo[a]antraceno ===
+O benzo(a)antraceno é um contaminante derivado da combustão incompleta do material orgânico. Esse composto é hidrocarboneto poliaromático (HPA) que apresenta quatro anéis aromáticos.
+
+
+==== Propriedades Físico-químicas ====
+As propriedades físicas e químicas do benzo(a)antraceno, assim como de todos os HPAs são bastante influenciadas pelo sistema de duplas ligações conjugadas presentes nas estruturas desta classe de compostos e são fundamentais para descrever a dinâmica e as reações  desse composto no meio ambiente.
+TABELAA partir das propriedades deste composto é possível determinar que o benzo(a)antraceno apresenta altas temperaturas de fusão e de ebulição, é sólido à temperatura ambiente e apresenta baixas  pressão de vapor e constante de Henry, o que faz com que tal composto tenda a se distribuir entre as fases do ar. Este composto é pouco solúvel em água, porém, é solúvel em solventes orgânicos e é altamente lipofílico. Por isso, tende a se acumular em tecidos lipídicos de plantas e animais; com relação às plantas, este composto concentra-se mais na superfície (peles e folhas) do que nos tecidos internos.O coeficiente de partição octanol-água (Kow) é relativamente elevado, o que permite que composto em estudo apresente elevada afinidade por fases orgânicas e lipofílicas, bem como um importante potencial de adsorção sobre as matérias particuladas em suspensão no ar e a água, bem como um forte potencial de bioacumulação nos organismos. O benzo(a) antraceno é quimicamente inerte, porém, quando reage, participa de reações de substituição eletrofílica e de adição.
+
+
+==== Riscos ====
+A contaminação de rios, mares e florestas e, também da atmosfera por benzo(a)antraceno pode causar diversos danos irreparáveis à natureza e à saúde humana. Esse composto pode agir sobre os organismos diretamente ou através de seus derivados, principalmente.  A exposição biótica ao benzo(a)antraceno pode ocorrer pela inalação, pela pele  ou pela ingestão de alimentos ou de água contaminada.  Para os seres humanos podem ser acrescentadas outras vias de exposição tais como: hábito de fumar, inalação (passiva) de fumaça de cigarros e a exposição ocupacional em atividades ou processos que envolvam a produção ou manuseio de matérias-primas que sejam compostos por essa substância.O benzo(a)antraceno é um composto mutagênico para uma ampla variedade de organismos, que incluem invertebrados, peixes, anfíbios, aves, mamíferos e o ser humano podendo causar modificações da proliferação de tecidos, como da medula óssea, dos órgãos linfáticos, das gônadas e do epitélio intestinal. Esse composto também cancerígeno, principalmente quando o organismo é exposto a ele pela via respiratória e/ou dérmica, podendo provocar tumoração em animais e mutação em bactérias.É válido ressaltar que o caráter lipofílico do benzo(a)antraceno permite que ele entre com bastante facilidade nas membranas celulares, permitindo que se acumule em diversos tecidos. Ele é metabolizado em compostos mais hidrossolúveis o que facilita a sua eliminação através da excreção pelo sistema digestório e pelos rins.
+Parte da alta toxicidade desse composto é justificada pela sua capacidade de bioacumulação em diversas de espécies de organismos.  Além da bioconcentração direta da água, pode haver absorção a partir dos alimentos.As plantas também podem absorver benzo(a)antraceno. A principal via de exposição é a atmosfera, acompanhada em segundo lugar pelo solo.  Assim, as plantas de folhas largas contêm geralmente mais benzo(a)antraceno do que as de folhas estreitas; e a  superfície externa das plantas contém mais desse composto do que as estruturas internas. Após a absorção, há pouca transferência ou deslocamento desse HPA ao interior do vegetal.
+
+
+==== Fontes ====
+O benzo(a) antraceno é emitido tanto por fontes naturais como antropogênicas. A contribuição das fontes naturais é muito limitada restringindo-se, praticamente, à queima espontânea de florestas e emissões vulcânicas, na diagênese, na biosíntese de bactérias, algas e vegetais superiores, além de serem integrantes naturais do petróleo e no carvão. Entretanto, as fontes naturais correspondem a apenas 10 % das emissões totais.  As atividades antrópicas são as principais fontes de benzo(a) antraceno no ambiente.Antropogenicamente, o benzo(a)antraceno é formado principalmente pela de queima incompleta de combustíveis como petróleo e seus derivados, carvão, madeira, gás de carvão, e  materiais.  É válido ressaltar que a fumaça de cigarro, queimadas e calefação, em países de clima temperado, constituem outras fontes antrópicas desse composto. Fontes tecnológicas móveis ou estacionárias também podem gerar benzo(a)antraceno.Entre as fontes móveis, está o motor de combustão interna enquanto que as fontes estacionárias são representadas pela atividade de geração de energia elétrica e de calor, bem como as atividades industriais e de incineração.As fontes veiculares de emissão têm uma grande importância devido à complexidade e quantidade crescente de benzo(a)antraceno que é lançado no ar. Na água e no solo, as fontes desse hidrocarboneto poliaromático são a dispersão de matérias betuminosas, os derrames de hidrocarbonetos acidentais, as precipitações atmosféricas, as atividades industriais, os esgotos cloacais e os depósitos de lixo urbano.
+
+
+==== Destinos e Transporte do Poluente no Ambiente ====
+O Benzo(a) antraceno pode sofrer reações somo evaporação, oxidação, dispersão, sedimentação, dissolução e biodegradação. Entretanto, devido às características que este composto possui, as reações mais importantes são a oxidação, dispersão, biodegradação e sedimentação. Isso porque o benzo(a)antraceno não tende a evaporar muito, pois é pouco volátil devido à baixa presão de vapor (2,1 x 〖10〗^(-7)mmHg) e à baixa Constante de Henry (1,2 x 〖10〗^(-5)atm-m³/mol) , permanecendo mais tempo na coluna d’água e também não tende a sofrer dissolução, por tratar-se de um composto pouco solúvel (solubilidade = 0,0094 mg/L). Porém, quando em água, sofre oxidação devido à ação do O, dos sais e dos raios solares. Na atmosfera sofre principalmente fotólise e fotooxidação. Por ser um composto hidrofóbico e com alto Kow (Log Kow: 5,76), se agrega mais facilmente a partículas em suspensão que posteriormente decantam, carregando o composto e facilitando assim, sua dispersão pela movimentação da água. Além dessas reações o composto pode sofrer biodegradação em água e nos sedimentos.Após um derrame no solo de benzo(a)antraceno é provável que grande parte do volume fique retido nas camadas superficiais do solo, pois é fortemente adsorvido pela matéria-orgânica (alto Kow). Em água, também será adsorvido em sedimentos e partículas na coluna de água, incluindo fitoplâncton e zooplâncton, o que também está relacionado ao alto valor de Kow.
+Este composto tende a ir muito pouco para a atmosfera, devido à baixa pressão de vapor e também à baixa constante de Henry. O volume deste composto que vai para a atmosfera é encontrado tanto como vapor livre quanto adsorvido em partículas, que serão transportadas e estarão sujeitas ao assentamento gravitacional e à limpeza pela chuva e pela neve.O benzo(a)antraceno é um composto químico apolar, o que limita a sua reação e solubilidade na água, favorecendo a sua adesão à partículas sólidas, como sedimentos, porém, diferentes reações podem ocorrer, como a oxidação, onde ocorre a combinação dos hidrocarbonetos com o oxigênio, formando compostos hidrossolúveis. Quando a oxidação antecede a hidrólise, pode ocorrer a formação de diolepóxidos.Os sais presentes em água, bem como a incidência de raios solares aceleram esse processo. Pode ocorrer também a sedimentação, por se tratar de um composto hidrofóbico, se agrega mais facilmente a partículas em suspensão que depois se decantam ou carregam o composto. Quando há presença de fungos e bactérias o composto pode sofrer biodegradação pelo próprio metabolismo destes organismos.
+
+
+=== Benzo[b]fluoranteno ===
+
+
+=== Benzo[j]fluoranteno ===
+
+
+=== Benzo[k]fluoranteno ===
+
+
+=== Benzo[g,h,i]perileno ===
+
+
+=== Benzo[a]pireno ===
+
+
+=== Criseno ===
+
+
+=== Ciclopenta[c,d]pireno ===
+
+
+=== Dibenzo[a,h]antraceno ===
+
+
+=== Dibenzo[a,e]pireno ===
+
+
+=== Dibenzo[a,e]piren ===
+
+
+=== Dibenzo[a,i]pireno ===
+
+
+=== Dibenzo[a,l]pieno ===
+
+
+=== Indeno[1,2,3-cd]pireno ===
+
+
+=== 5-metilcriseno ===
+
+
+=== Benzo[c]fluoreno ===
+
+
+== Fontes de Emissão ==
+A fonte predominante dos HAPs é a combustão incompleta da matéria orgânica.Os HAPs são emitidos por fontes naturais e antropogénicas (resultantes da actividade humana). A contribuição das fontes naturais é muito limitada restringindo-se, praticamente, à queima espontânea de florestas e emissões vulcânicas. As fontes antropológicas representam o principal processo de produção de HAPs e dizem respeito a:
+
+pirólise de madeira para produção de carvão;
+operações de transporte e refinação do petróleo;
+incineração de resíduos domésticos e industriais;
+queimas de matéria orgânica de campos e florestas;
+geração de energia via queima de combustíveis fósseis;
+pirólise de querosene para a formação de benzeno, tolueno e outros solventes orgânicos;
+emissão de motores de veículos (particularmente a diesel);
+fumo do tabaco;
+cozinhados;
+incêndios.
+
+
+== Vias de Exposição ==
+
+
+=== Ar ===
+A inalação de partículas presente no ar com HAPs é uma importante via de exposição a estes compostos.
+O fumo do tabaco é a principal fonte de contaminação do ar com HAPs carcinogénicos. Um indivíduo que fume 1 maço de tabaco sem filtro por dia, vai estar exposto ao dobro de HAPs carcinogénicos em relação a quem usa filtro.
+
+
+=== Alimentos ===
+Excluindo as vias de exposição ocupacional, a dieta é, normalmente, a principal fonte de exposição em pessoas que não estão expostas diariamente ao fumo do tabaco, ou seja, os não fumadores.
+HAPs já foram detectados em alimentos brutos e processados. O grau de contaminação depende do modo como os alimentos são processados, preservados e armazenados.
+HAPs são principalmente detectados quando o músculo (incluindo bife, porco, peixe ou frango) é cozinhado em altas temperaturas, como em frigideiras ou em contato direto com o fogo, como em churrasqueiras.A presença de HAPs em alimentos brutos de origem vegetal, pode ser atribuída principalmente à deposição atmosférica. Animais aquáticos, como mexilhões e ostras que tendem a acumular HAPs podem, eventualmente, representar outra forma de aporte destes compostos aos seres humanos e a outros animais. Em alimentos processados, a presença de HAPs está associada ao alimento ou ainda a alguma etapa de processamento, como é o caso da defumação, fritura ou assadura dos alimentos.
+
+
+=== Água ===
+De acordo com a Agência Internacional para Pesquisas do Cancro (IARC) os HAPs com poder carcinogénico que podem aparecer na água são os benzofluorantenos, benzo[a]pireno, benzo[a]antraceno, dibenzo[a,h]antraceno e indeno[1,2,3-cd]pireno. Destes, o benzo[a]pireno (BaP), é considerado o mais cancerígeno. Segundo a U.S. Environmental Protection Agency (U.S. EPA), o BaP em quantidades superiores a 0,2 ppb na água potável causa problemas à saúde. A exposição prolongada a concentrações superiores a 2 ppb causa um efeito potencial no desenvolvimento de cancro. Na maioria das águas e sedimentos, o BaP resiste ao ataque por microorganismos ou substâncias químicas reactivas, podendo, contudo, evaporar ou ser degradado por exposição à luz solar. O BaP bioconcentra-se em organismos aquáticos que não o metaboliza, incluindo o plâncton, as ostras e alguns peixes (IARC)
+Devido à baixa solubilidade e elevada afinidade para a matéria particular, os HAPs não são, normalmente, encontrados na água em elevadas concentrações. A maior fonte de contaminação dos HAPs em água potável é devido ao coaltar que é usado para proteger os canos da água potável da corrosão. Esta situação faz com que os valores de HAPs na nossa água aumentem, e deste modo vemos também os valores aumentados na nossa comida, devido à água que usamos para a confeccionar, assim como o uso de utensílios contaminados com coaltar ou até a própria comida pode estar contaminada.
+
+
+=== Solo ===
+HAPs cancerígenos são também encontrados à superfície dos solos. Estes compostos são absorvidos para as folhas das plantas e depois são transferidos para o solo das florestas. Tanto em florestas como solos rurais, os valores encontrados são idênticos, mas nas áreas metropolitanas estas valores já são muito mais elevados, devido à queima de combustíveis fósseis. Os valores em áreas industriais são mais elevados.
+A maioria dos HAPs encontrados nas águas e solos são resultado da deposição atmosférica.
+
+
+== Toxicocinética ==
+
+
+=== Absorção ===
+Os HAPs são compostos altamente lipofílicos, por isso, são rapidamente absorvidos por todas as vias de exposição (inalação, exposição oral e dérmica).
+A quantidade absorvida por inalação varia de acordo com o grau de contaminação atmosférica, que está directamente relacionado com a urbanização, o tráfego de veículos automóveis (principalmente veículos com motor a diesel) e com o tipo e a industrialização da área. Em ambientes fechados, o fumo de cigarro e as fontes de aquecimento podem contribuir para o aumento dos níveis ambientais de HAPs. Absorção de HAPs inalados ocorre principalmente através da parede interior dos brônquios e em menor quantidade através dos alvéolos pulmonares.
+A absorção dérmica é bastante importante em algumas actividades industriais, podendo ser a responsável por até 90% da quantidade absorvida pelo organismo. A absorção percutânea dá-se por difusão passiva e é rápida mas a extensão de absorção é variável entre os compostos e pode ser afectada pelo veículo usado para administração.
+Os alimentos são considerados outra importante fonte de exposição humana, tanto devido à formação de HAPs durante o cozimento, quanto devido à deposição atmosférica sobre grãos, vegetais e frutas. Os HAPs quando ingeridos são captados por compostos lipofílicos. A absorção gastrointestinal é rápida e aumenta com a lipofilia ou na presença de óleos no tracto gastrointestinal. A solubilidade dos HAPs e a presença de bile também influencia a absorção.
+Deste modo, a absorção de HAPs após inalação, exposição oral ou dérmica pode ser afectada pelo veículo de administração.
+A absorção pulmonar do benzo[a]pireno pode ser influenciada por partículas transportadoras e pela solubilidade do veículo. A sua absorção por ingestão é baixa. Óleos aumentam a absorção de benzo[a]pireno e a água e comida sólida suprimem a absorção. Quando o benzo[a]pireno é adsorvido em partículas, o uptake respiratório é mais baixo desde que as partículas fiquem retidas no sistema respiratório por um longo período de tempo.
+
+
+=== Distribuição ===
+Ao HAPs distribuem-se em quase todos os tecidos. Pico de concentração nos tecidos ocorre mais cedo com doses mais elevadas.
+O tecido mamário e outros tecidos gordos são depósitos de armazenagem importantes mas devido ao rápido metabolismo não há acumulação significativa. O armazenamento ocorre principalmente nos rins, fígado e tecido adiposo, com pequenas quantidades no baço, glândulas adrenais e ovários.
+O tracto gastrointestinal contém níveis relativamente elevados de metabolitos, independentemente da via de administração, como resultado da excreção hepatobiliar.
+Distribuem-se amplamente nos tecidos maternos e são detectados no feto demonstrando que eles atravessam a placenta. No entanto, a transferência placentária é limitada e, deste modo, os níveis fetais não são tão elevados como na mãe. Estão presentes no cordão umbilical e leite materno.
+Níveis detectáveis de benzo[a]pireno podem ser observados na maioria dos órgãos internos desde minutos a horas após a exposição. Níveis mais elevados são encontrados no fígado.
+
+
+=== Metabolização ===
+Os HAP tornam-se capazes de danificar o ADN após serem metabolizados por enzimas específicas no corpo.A lipofília dos HAPs torna-os capazes de penetrar as membranas celulares e de permanecerem indefinidamente no organismo. No entanto, o metabolismo dos HAPs torna-os mais hidrosolúveis e assim mais rapidamente excretáveis. O metabolismo dos HAPs é complexo. HAPs são convertidos em todos os tecidos do corpo que contém gordura e envolve várias vias possíveis. Os produtos do metabolismo incluem epóxidos intermediários, dihidrodiois, fenóis, quinonas. Estes podem ser conjugados com glucoronideos e ésteres de sulfato; as quinonas também formam conjugados com a glutationa.
+O metabolismo existe para os tornar mais excretáveis, no entanto, podem ser convertidos a metabolitos mais tóxicos ou carcinogénicos. Um factor que pode influenciar o delicado balanço entre toxificação e destoxificação é o local onde os metabolitos são formados visto que a afinidade e a actividade das enzimas varia.
+Estes compostos movem-se rapidamente nas células. Quando dentro das células, estas usam a sua maquinaria de destoxificação para tentar remover o HAPs. O citocromo P450 adiciona oxigénio ao anel, tornando-o mais solúvel em água e criando âncoras para a ligação de grupos volumosos como açucares ou glutationa. Normalmente, estas moléculas modificadas são excretadas de forma segura do organismo. No entanto, algumas das formas intermediárias são altamente perigosas e causam dano genético antes de conseguirem ser removidas. Um bom exemplo é o benzo[a]pireno. Não é ele próprio que ataca o ADN mas sim um produto do seu metabolismo – um intermediário com um anel epóxido reactivo. Esta molécula poderá ser um mutagénio. O anel planar é semelhante a uma base de ADN permitindo à molécula deslizar confortavelmente entre as bases do ADN e por fim atacar a adenina ou guanina vizinha formando uma ligação covalente.
+As vias pelas quais o benzo[a]pireno pode ser bioactivado pelas seguintes vias:
+•Via da formação dos diol-epóxidos
+•Via do radical catião
+•Via da formação de orto-quinonas
+A activação metabólica de HAPs lipofílicos ocorre primariamente no fígado e também em muitos outros tecidos incluindo as barreiras epiteliais. No entanto, a distribuição pelo sistema circulatório é generalizada, absorção lenta em muitos epitélios resulta em níveis elevados de enzimas que activam HAPs no local de entrada. Esta distribuição desigual de doses é um factor que pode contribuir para a elevada propensão dos HAPs actuarem como carcinogénios nos locais por onde entram no organismo. Apesar dos HAPs serem semelhantes eles têm diferenças estruturais que são a base das diferenças no metabolismo e na carcinogenicidade.
+
+
+=== Excreção ===
+Quando absorvidos directamente da fase gasosa, os HAPs são rapidamente metabolizados e eliminados pelo organismo (o Benzo[a]pireno, por exemplo, é eliminado em cerca de 1 hora). HAPs não têm tempo de semi-vida longo. Entretanto, quando estão associados a partículas respiráveis, esta eliminação é bem mais demorada podendo levar semanas. Por serem rapidamente metabolizados nos tecidos corpóreos, a bio-acumulação não é observada, mesmo nos tecidos ricos em gorduras.
+As maiores rotas de eliminação destas substâncias após metabolismo hepático (metabolitos dos HAPs e seus conjugados) são as predominantemente as fezes e em níveis muito baixos, a urina.
+Após ingestão de dietas contendo benzo[a]pireno, em níveis muito baixos, o metabolito 1-hidroxipireno é detectado na urina.
+Conjugados excretados na bile podem ser hidrolisados por enzimas presentes na flora intestinal e reabsorvidos. Pode ser inferido de dados disponíveis que os HAPs não persistem no organismo por um longo período de tempo e o seu turnover é normalmente rápido. Isto exclui os grupos funcionais dos HAPs que se tornam covalentemente ligados a constituintes de tecidos, em particular a ácidos nucleicos, e que não são removidos por reparação.
+Depois da excreção hepatobiliar a eliminação nas fezes é a maior via de remoção do benzo[a]pireno do organismo, independentemente da via de administração. A urina é outra via de excreção, mas tem menor importância que a bile.
+
+
+== Efeitos dos HAPs ==
+Respiratório: Irritação, tosse crônica, bronquite e cancro broncogênico pode ocorrer com exposição crônica.
+Gastrointestinal: Leucopenia e cancro dos lábios e da cavidade oral podem-se desenvolver com exposição crônica
+Hepático: Hepatotoxicidade suave tem sido demonstrada em animais de laboratório. Alguns indicam que hepato e nefrotoxicidade podem ocorrer a doses elevadas.
+Genitourinário: Hematúria, cancro de bexiga e rim devido a exposição crônica. Nefrotoxicidade suave em ratos.
+Hematológico: Agranulocitose, anemia, leucopenia e pancitopenia desenvolvida em ratos com exposição aguda.
+Dermatológico: Verrugas do coaltar - lesões pré-cancerígenas (por exposição a luz UV), eritema, queimaduras, fotosensibilidade, lesões acneiformes, fotossensibilização e cancro podem-se desenvolver com exposição crônica. Visto que os HAPs são ubiquitários no ambiente, a exposição simultânea a HAPs e a luz ultravioleta é inevitável. A fotomutagenicidade e fotocarcinogenicidade destes compostos têm uma importância considerável para a saúde humana. Pele contaminada com HAPs está muito exposta à luz especialmente em pessoas que trabalham na rua. Alguns produtos de medicina contêm HAPs. Por exemplo, o coaltar, uma complexa mistura de HAPs, é muito usado em cremes, loções e xampus para o tratamento da psoríase. Uma aplicação tópica de coaltar na pele seguida de radiação UV aumenta o risco de desenvolver cancro da pele.
+Imunológico: Desenvolvimento de neoplasmas. Alguns HAPs são imunotóxicos e alguns suprimem componentes seletivos do sistema imune. O espectro da imunotoxicidade sugere que os HAPs interferem com a maquinaria de apoptose/necrose dos linfócitos, por exemplo, induzindo à apoptose de células pré-B. Dois mecanismos principais têm sido sugeridos como promotores da imunosupressão induzida por HAPs. Um envolve a reatividade dos HAPs com o receptor Ah e o outro a sua capacidade para aumentar a concentração de cálcio intracelular em células do sistema imune. Em ambos casos as vias de sinalização antigênicas e mitogênicas do receptor são alteradas levando a proliferação e/ou morte (apoptose) das células do sistema imune. HAPs exercem muitos efeitos importantes no sistema imune. A dose e a via de exposição determinam a natureza do efeito na resposta imune específica e adaptativa. Estudos com HAPs têm indicado que o AhR tem um papel importante na ativação dos mecanismos imunotóxicos dos HAPs via diol-epóxido que levam a interações no ADN, causa genotoxicidade e suprime a imunidade concedida por vias dependentes do p53. O diol epóxido do benzo[a]pireno também pode afetar locais alvo de proteínas e modular vias de sinalização dos linfócitos por mecanismos não genotóxicos. Certos metabolitos dos HAPs, como as quinonas do benzo[a]pireno, podem ser formados via citocromo P450 e vias independentes, e os ciclos redox das quinonas pode originar stress oxidativo em células linfoides. HAPs imunosupressores rompem a homeostase do Ca2+ levando a inibição das vias dependentes de Ca2+ da activação das células B e T. A elevação de Ca2+ produzida pelos HAPs imunosupressores pode resultar da inibição da Ca2+- ATPase no retículo endoplasmático (SERCA).
+Reprodutivo: Alguns estudos indicam que os HAPs podem afetar o desenvolvimento fetal e alterar a performance reprodutiva do homem e da mulher. Têm sido encontrados adutos HAPs-DNA na placenta e em tecidos fetais indicando que os HAPs são transferidos e ativados pelo feto. Adutos na placenta e no feto têm sido encontrados tanto em fumantes como em não fumantes sendo os níveis relativamente superiores em fumantes. Eles também são maiores em mulheres que vivem em locais com maior poluição do ar. A ocorrência e extensão da toxicidade desenvolvida é dependente em parte do genotipo maternal e fetal.
+Cardiovasculares: Tem surgido a hipótese que os HAPs do fumo do cigarro ou os produtos de combustão podem causar lesões no endotélio e alterações no crescimento celular das células musculares, levando a expansão destes nas paredes das artérias e assim podem contribuir para o desenvolvimento de aterosclerose. É correto dizer que o fumo do tabaco é o maior risco para doenças cardiovasculares e há alguma evidência que a exposição ocupacional a produtos de combustão contendo HAPs podem ser associada a um aumento no risco para desenvolver doenças cardiovasculares. Adutos no ADN têm sido detectados no endotélio da artéria mamária interna de fumantes e nas células do músculo liso da aorta afetados por lesões arterioscleróticas. Indivíduos com o genótipo GSTM1*2/2 têm níveis de adutos mais elevados tanto em fumantes como em não fumantes. Os HAPs podem também interagir com receptores citosólicos alterando a expressão de determinados genes. No entanto, não tem sido estabelecida nenhuma relação causal entre risco cardiovascular e exposição aos HAPs provenientes do tabaco ou a produtos de combustão em exposição ocupacional.
+
+
+=== Carcinogenecidade ===
+Câncer é o efeito tóxico dos HAPs mais significativo em animais, mas ainda existem dúvidas sobre seu efeito em humanos. Muitos dos HAPs só se tornam tóxicos após metabolismo. Exposição crônica aumenta a probabilidade de iniciação de cancro. Aumento da incidência de cancros na pele e na bexiga, pulmões e trato gastrintestinal em trabalhadores expostos. Em geral, HAPs são convertidos a óxidos e dihidrodióis, que são oxidados a diol epóxidos. Tanto os óxidos como os diol epóxidos são metabólitos que reagem com o ADN. Óxidos dos HAPs podem formar adutos estáveis com o ADN e os diol epóxidos podem formar adutos estáveis e depurinadores com o ADN através de carbânions eletrofílicos. A reatividade dos óxidos e dos diol epóxidos é dependente da topologia (ex região bay, região fjord, tipos de anel), e a reatividade dos diol epóxidos é dependente de fatores tais como estereoquímica e grau de planaridade. Tanto os adutos estáveis como os depurinativos são formados primeiro com adeninas e guaninas e induzem mutações que estão fortemente associadas com o processo tumorigênico. Os HAPs têm de ser ativados metabolicamente para induzir tumores. No entanto, há uma grande variabilidade individual na capacidade de metabolização dos HAPs: pessoas deficientes em enzimas que activam HAPs a metabólitos reativos deverão ter menos risco de desenvolver câncer, pessoas com deficiência em enzimas que destoxificam metabólitos reativos poderão ter este risco aumentado. Muitos fatores incluindo raça, idade, sexo, tabaco, álcool, fatores genéticos podem induzir ou inibir o metabolismo o que indica que existem interações complexas.
+
+
+=== Processo Inflamatório ===
+Alguns HAPs podem, após metabolismo, induzir processos inflamatórios. Outro efeito dos HAPs é a sua atividade inibitória na comunicação intercelular gap juncional.
+
+
+== Importância do AhR ==
+Alguns dos efeitos biológicos dos HAPs, tais como indução enzimática de enzimas metabolizadoras de xenobióticos, imunosupressão, teratogenicidade e carcinogenicidade pensa-se que sejam mediados pela activação do aryl hydrocarbon receptor (AhR) e posterior perturbação da homeostase celular.
+Este receptor está amplamente distribuído e tem sido detectado na maioria das células e tecidos. O AhR é um regulador da transcrição (dependente de ligando) de muitos genes incluindo genes codificadores de enzimas envolvidas no metabolismo de xenobióticos tal como de genes codificadores factores envolvidos no crescimento celular e diferenciação.
+O AhR está localizado no citoplasma e depois de se ligar ao ligando (ex. HAP) o complexo AhR-ligando entra no núcleo onde se liga a sequências especificas do ADN flanqueando os genes regulados pelo AhR.
+Há também evidência que o AhR actua por entre uma variedade de vias e mais recentemente, que ocorre cross-talk com outros receptores nucleares capazes de controlo tecido-específica e tipo de célula- especifica de expressão de genes. A translocação do AhR activado para o núcleo deve requerer concentrações limiar do ligando. Vários metabolitos oxidativos e elctrofílicos dos HAPs também são conhecidos por induzirem sistemas enzimáticos via elementos receptores antioxidantes. Efeitos biológicos da sinalização do AhR e elemento receptor antioxidante envolve uma variedade de respostas celulares, incluindo regulação das fases I e II do metabolismo, peroxidação lipídica, produção de metabolitos reactivos do ácido araquidônico, diminuição dos níveis séricos de tiroxina e vitamina A e activação persistente do receptor da hormona tiróide. Sinalização AhR poderá resultar em respostas tóxicas e adaptativas ou perturbação das vias endógenas. Além disso, a activação metabólica dos HAPs produz stress celular. Por sua vez isto activa as vias MAPK (mitogen-mediated protein kinase), nomeadamente as Nrf2. As proteínas Nrf2 dimerizam com as oncoproteínas Maf tornamdo-se capazes de ligar a um elemento de resposta antioxidante/ electrofilico, que tem sido identificado em muitas enzimas de fase I e II entre outras enzimas de defesa e controla a sua expressão. Por esta razão, o stress celular pode ser regulado independentemente das enzimas metabolizadoras de xenobióticos mediadas por AhR.
+
+
+== Tratamento ==
+A exposição aguda a dose elevadas pode originar intoxicação. Nesses casos os sintomas apresentados podem ser taquipneia, cianose, dispneia, depressão do SNC, taquicardia ou febre. Nestes casos deve-se monitorizar os gases arteriais, fazer um raio-X e ECG. O uso de simpaticomiméticos pode ser ponderado no caso de arritmias.
+Não existe antídoto específico mas podem ser tomadas uma série de medidas capazes de melhorar o estado da pessoa:
+
+A primeira medida é retirar o doente do contacto com a fonte dos HAPs.
+Em caso de exposição oral não se deve induzir a emese e a utilização de carvão ativado via oral deve ser considerada. Ele possui alta capacidade de neutralizar, absorver e remover toxinas do organismo.
+Nos casos de inalação é recomendado fornecer oxigénio humidificado.
+Na exposição ocular os olhos devem ser lavados com solução hidrossalina pelo menos 15 minutos.
+Na exposição dérmica deve-se remover a roupa contaminada e lavar a área afectada.
+
+
+== HAPs no Espaço ==
+O espaço não é um vácuo total e apesar de o espaço interestelar ser mais desprovido de matéria do que qualquer vácuo criado artificialmente na terra, existe matéria no espaço.
+A maior parte da matéria são gases como o hidrogénio e o Hélio, mas outras moléculas tem sido identificadas no espaço. A irradiação ultravioleta, os raios cósmicos e alguns processos térmicos como a formação de estrelas ou colisões podem originar a formação de moléculas orgânicas complexas como os HAPs. Estes HAPs, tal como a restante matéria interestelar, podem ser incorporados em meteoritos, cometas e poeiras cósmicas. Os HAPs são detectados através do espaço devido à capacidade absorverem fotões e re-emitirem em energias mais baixas (fluorescência) sendo depois detectados em comprimentos de onda que correspondem ao espectro do infravermelho.
+
+
+== Referências gerais ==
+
+«Título ainda não informado (favor adicionar)» 
+[1][2][3][4]Findings of the EFSA Data Collection on Polycyclic Aromatic Hydrocarbons in Food; A Report from the Unit of Data Collection and Exposure on a Request from the European Commission; EFSA/DATEX/002 Issued on 29 June 2007
+Curtis D. K LAASSEN; Casarett & Doull's Toxicology - The Basic Science of Poisons. New York: McGraw-Hill. (2001)
+Air Quality Guidelines - Second Edition; Chapter 5.9 – PAHs; WHO Regional Office for Europe, Copenhague, Denmark, (2000)
+Guidelines for Drinking-water Quality;  Polynuclear aromatic hydrocarbons in Drinking-water; World Health Organization, Geneva, (2003)
+Carl-Elis Boström, Per Gerde, Annika Hanberg, Bengt Jernström, Christer Johansson, Titus Kyrklund, Agneta Rannug, Margareta Törnqvist, Katarina Victorin, and Roger Westerholm: Cancer Risk Assessment, Indicators, and Guidelines for Polycyclic Aromatic Hydrocarbons in the Ambient Air; Environmental Health Perspectives; 110: 3 (2002) 451-488

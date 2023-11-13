@@ -1,0 +1,99 @@
+Ultraleve é um aeródino de baixas velocidade, capacidade de carregamento, potência e de baixos peso e custo. Por isso, é considerado, pelo mercado, uma boa opção para os aficcionados em aviação para pilotar suas próprias aeronaves. É conhecido tecnicamente pelas siglas UL, quando não dispõe de motor, e ULM, quando motorizado.
+
+
+== História ==
+As primeiras aeronaves conhecidas por ultraleves surgiram no final da década de 1970 e início da década de 1980, mas o início de sua história recua ao início do século XX, com os primeiros aviões de pioneiros como Santos Dumont e posteriormente Irmãos Wright, de peso idêntico aos  ULMs atuais.
+Os praticantes brasileiros apontam como avô dos ultraleves o pequeno avião construído por Santos Dumont em novembro de 1907, o nº 19, apelidado pelos franceses de Demoiselle, devido a sua graciosidade e semelhança com as libélulas. Durante as primeiras experiências, o nº 19 sofreu um acidente, ficando seriamente avariado. Pesando 110 quilogramas, era uma aeronave com motor de 35 HP e estrutura de bambu.
+Em 1923, o espanhol Juan de la Cierva inventou o autogiro ou girocóptero, que foi o precursor do helicóptero. O autogiro é ainda fabricado, geralmente em kits a serem montados pelos próprios usuários, e tem muitos aficcionados. Por suas características, se enquadra na legislação vigente sobre ultraleves. Tal como no helicóptero, sua sustentação em voo é fornecida por asas rotativas, mas, ao contrário destes, a propulsão é fornecida por um motopropulsor convencional, por isso decola tal como um avião e não verticalmente. Uma variação do autogiro é o glider ou giroplanador, dotado de asas rotativas, mas sem motor, daí necessitar ser tracionado por um veículo terrestre para levantar voo.
+O primeiro ULM, o Pterodáctilo, assim chamado por sua semelhança com a ave pré-histórica, surgiu nos Estados Unidos na década de 1970. Logo, estas aeronaves de baixo custo, que tornavam o sonho de voar acessível a mais pessoas, se espalhou pelo mundo. No Brasil, as primeiras fábricas foram instaladas na década de 1980 e até 2006 mais de 4 mil unidades já foram fabricadas.
+
+Os primeiros ULMs eram muito simples, precários até, e não passavam , como se dizia pejorativamente, de banquinhos com asas ou asas deltas com motor.  Mas com a evolução tecnológica os modelos foram se sofisticando e alguns têm a aparência de aviões executivos.
+
+
+== Legislação ==
+A legislação dos diversos países cuida de regulamentar os ultraleves em todos os seus aspectos, definindo seus requisitos mínimos, requisitos de voo, processo de fabricação e habilitação de seus pilotos.
+
+
+=== Portugal ===
+A Portaria 332, de 2 de maio de 1990, do Instituto Nacional de Aviação Civil, assim define ultraleve :
+Os ultraleves, sem e com motor de propulsão, adiante respectivamente designados pelos acrónimos UL e ULM, podem ser apresentados nas seguintes versões:
+1) Quanto ao seu controlo em voo:
+a) Por deslocação do centro de gravidade;
+b) Por efeito aerodinâmico sobre superfícies móveis;
+2) Quanto à fonte de energia para descolagem e voo:
+a) Por corrida do piloto e energia potencial;
+b) Por propulsão auxiliar externa e energia potencial;
+c) Por motor próprio;
+3) Quanto à estrutura alar, incluindo superfícies de comando:
+a) Flexível;
+b) Semi-rígida;
+c) Rígida.
+
+
+=== Brasil ===
+O Regulamento Brasileiro de Homologação Aeronáutica (RBHA) nº103 A, publicado pela Agência Nacional de Aviação Civil, também define o que seja ultraleve:
+(a) Veículo ultraleve ou ultraleve, significa uma aeronave muito leve experimental tripulada, usada ou que se pretenda usar exclusivamente em operações aéreas privadas, principalmente desporto e recreio, durante o horário diurno, em condições visuais, com capacidade para 2 (dois) ocupantes no máximo, podendo ser autopropulsada, ou não, e com as seguintes características adicionais:
+(1) Não propulsados:
+(i) Podem, com facilidade, ser montados ou armados na área de decolagem e desmontados ou desarmados na área de pouso;
+(ii) Peso vazio máximo igual ou inferior a 70 kgf.
+(2) Autopropulsados:
+(i) Monomotores, com motor a explosão e propulsados por uma única hélice;
+(ii) Peso máximo de decolagem igual ou inferior a 750 kgf;
+(iii) Velocidade calibrada de estol (CAS), sem motor, na configuração de pouso (Vso) igual ou inferior a 45 nós.
+
+
+== Tipos de ultraleve ==
+Os ultraleves podem ser de três tipos:
+
+PRIMÁRIOnão motorizado - peso vazio máximo igual ou inferior a 70 kg (155 lb).
+motorizado - peso vazio máximo igual ou inferior a 115 kg(254 lb);capacidade máxima de combustível igual ou inferior a 20 l;
+velocidade máxima em voo nivelado e com potência plena igual ou inferior a 102 km/h (55 kt); e
+velocidade de estol sem motor igual ou inferior a 46 km/h ( 25 kt).BÁSICOpeso máximo de decolagem igual ou inferior a 600 kg ( 1320 lb);
+velocidade de estol sem motor igual ou inferior a 65 km/h (35 kt);
+peso vazio máximo igual ou inferior 230 kg para equipamentos terrestres e 280 kg para aquáticos ou anfíbios;e
+carga alar com peso máximo igual ou inferior a 28 kg/ m².Obs.: Carga alar é o peso que suporta a aeronave por unidade de superfície. Quanto maior o tamanho da asa maior será o peso suportado.
+Entre os ultraleves básicos, são muito populares os chamados trikes, não constituindo ultraleves primários como se é pensado já que na sua grande maioria possuem peso vazio máximo superior a 115 kg e capacidade de combustível superior a 20 litros.
+
+AVANÇADOpeso máximo de decolagem igual ou inferior a 600 kg ( 1320 lb);
+velocidade de estol sem motor igual ou inferior a 65 km/h ( 35 kt);
+peso vazio máximo igual ou inferior a 300 kg;e
+carga alar com peso máximo igual ou inferior a 38 kg/m².O avançado se caracteriza ainda por ter o painel de comando mais completo, com recursos não disponíveis em outros modelos.
+
+
+== Fabricantes brasileiros ==
+Montaer
+Aeropepe
+Cimaer
+Edra
+Flyer
+Inpaer
+Jabiru Brazil
+Microleve
+Orion
+Star Flight
+Trike Icaros
+Aerotrike
+Aerobravo
+Rupert Aeronaves
+Wanderlei Camilo dos Santos
+Paradise aeronaves
+Clear Ventilação
+Aeroálcool
+Kraüss Aeronáutica
+
+
+== Ver também ==
+Autogiro
+Aviação desportiva
+Aviação experimental
+Mochila-helicóptero
+Propulsor a jato
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+[1] Ultraleves no Brasil
+[2] ABUL - Associação Brasileira de Ultraleves

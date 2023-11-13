@@ -1,0 +1,318 @@
+Boeing 737 é uma família de aeronaves narrowbody bimotor turbofan, desenvolvida e fabricada pela Boeing. Criado para ser um avião com custos de operação mais baixos, o 737 tornou-se uma série com dez variantes, cujas capacidades de 85 a 215 passageiros. É o único avião narrowbody (corredor único) da Boeing em produção, nas versões -700, -800 e -900. Está em desenvolvimento sua nova geração, o Boeing 737 MAX, mais eficiente no consumo de combustível e com maior capacidade de passageiros.
+Originalmente previsto para 1964, o 737-100 fez seu primeiro voo em abril de 1967. Entrou em serviço em fevereiro de 1968, com a Lufthansa. A versão -200, com maior capacidade de passageiros, entrou em serviço em abril de 1968. Na década de 1980, a Boeing lançou as versões -300, -400 e -500, fazendo parte da série Classic. Contavam com mudanças no número de assentos e novos motores turbofan, além de melhorias nas asas. Na década de 1990, a Boeing lançou a série Next Generation, com diversas mudanças, incluindo asas, redesenhadas, aumento na envergadura, painéis cockpit foram digitalizados e novo design do interior. Esta série foi lançada com as versões -600, -700, -800 e -900, variando de 31 a 42 metros de comprimento da fuselagem.
+É a aeronave comercial mais vendida da história, com 9 803 aviões entregues e 4 489 encomendas a serem entregues até novembro de 2017, além de 4 065 pedidos para a versão 737 MAX. A montagem final é feita na fábrica da Boeing, em Renton, Washington. Esta aeronave  tem como seu principal concorrente o Airbus A320.A maior parte das cabines de comando dos 737 são equipadas com janelas, posicionadas acima dos parabrisas principais e janelas laterais. Essas janelas são características dos 707 original, apelidadas de eyebrows, oficialmente denominadas de janelas L4 ou L5 (esquerdas) e R4 e R5 (direita). O 737 já transportou o equivalente à população do mundo, cerca de 7 bilhões de passageiros.
+
+
+== Desenvolvimento ==
+
+
+=== Início ===
+A Boeing buscava um avião equipado com motores turbojatos, de curto alcance e de médio porte, para substituir o Boeing 727 em rotas curtas e com pouca rentabilidade. Os primeiros projetos ocorreram em maio de 1964. Após uma pesquisa de mercado, foi constatado pela Boeing que seria rentável construir uma aeronave com capacidade de 50 a 60 passageiros, com alcance máximo de 1 609 quilômetros. A Lufthansa foi a primeira companhia a fazer pedidos do novo avião em 19 de fevereiro de 1965, encomendando 21 aeronaves, no valor total de US$ 67 milhões, após a companhia receber garantias que o projeto da aeronave não seria cancelado. Depois de uma negociação entre as empresas, decidiu-se por aumentar a capacidade para 100 lugares.
+Em 5 de abril de 1965, a Boeing recebeu um pedido da United Airlines para 40 aeronaves. A United queria um avião um pouco maior do que a versão original. Assim, a fuselagem foi ampliada em dois metros. A versão mais longa foi designada como 737-200, e a versão original designada como 737-100. O desenvolvimento continuou em ambas as variantes ao mesmo tempo.
+Quando o 737 foi lançado, as outras aeronaves concorrentes, BAC 1-11, Douglas DC-9 e Fokker F-28 já estavam em processo de certificação de voo. Para acelerar o desenvolvimento, a Boeing utilizou 60% da estrutura e sistemas do Boeing 727 na nova aeronave. Os engenheiros decidiram montar as bases do trem de pouso diretamente na parte de baixo das asas para reduzir o comprimento e manteve os motores em altura baixa do chão, para inspeção e manutenção rampa fácil. Após testes em túnel de vento, algumas partes dos motores foram alteradas, para diminuir o arrasto. O motor escolhido foi o Pratt & Whitney JT8D, um turbofan de baixo desvio, fornecendo 14 500 libras de empuxo. Com os motores montados nas asas, a Boeing decidiu montar o estabilizador horizontal na fuselagem, ao invés dos estabilizadores em formato de "T", como eram usados no Boeing 727.
+
+
+=== Produção e testes ===
+Inicialmente, a montagem final da aeronave era realizada junto ao aeroporto de King County, já que na fábrica da Boeing em Renton já era feita a montagem final do Boeing 707 e Boeing 727. Grande parte da fuselagem era construída em Wichita, Kansas, onde a construção era realizada pela Boeing, mas atualmente é realizada pela Spirit AeroSystems.O primeiro protótipo foi apresentado ao público em dezembro de 1966 e fez seu primeiro voo em 9 de abril de 1967. Em 15 de dezembro de 1967, a Administração Federal de Aviação certificou a versão -100 para entrar em serviço comercial. Esta foi a primeira aeronave a receber autorização para aproximações por ILS CAT II. A Lufthansa recebeu seu primeiro avião em 28 de dezembro de 1967, e iniciou os serviços comerciais em 10 de fevereiro de 1968. Foi a única companhia aérea a utilizar a versão -100, por isso a aeronave teve apenas trinta unidades produzidas.A versão -200 fez seu primeiro voo em 8 de agosto de 1967. Foi certificada pela Administração Federal de Aviação em 21 de dezembro de 1967 e fez seu primeiro serviço comercial pela United Airlines em 28 de abril de 1968, partindo de Chicago para Grand Rapids. Esta versão teve mais vendas que a versão anterior, atingindo 1 114 unidades entregues.
+
+
+=== Derivações iniciais ===
+Em 1968, foram implantados reversores de empuxo nos motores, o que ajudava a frear a aeronave na hora do pouso e reduzia a carga sobre o sistema de freios do trem de pouso. As naceles do reversor foram instaladas a 35 graus verticalmente, o que permite que o ar desviado não vá sobre as asas. Foram introduzidos também os sistemas de flaps e algumas melhorias no trem de pouso, o que aumentou a eficiência da aeronave em pistas curtas. Em maio de 1971, todas estes ajustes, incluindo motores mais potentes e maior capacidade de combustível, foram incorporados na versão -200, aumentando em 15% a carga útil e alcance, em comparação a versão -200 original, que ficou conhecida como "737-200 Advanced", tornando seu o padrão de produção em junho de 1971.
+Em 1970, após dificuldades financeiras e uma baixa nos pedidos, recebendo apenas 37 encomendas no ano, a Boeing considerou fechar a linha de produção da aeronave e vender o projeto para companhias aéreas japonesas. Depois do cancelamento do projeto Boeing 2707 e da redução da produção do Boeing 747, foram liberados fundos suficientes para continuar o projeto. Numa tentativa de aumentar as vendas oferecendo maior variedade de opções, a Boeing ofereceu o modelo "737C" (Conversível), com base nas versões -100 e -200, onde apresentava uma porta maior atrás do cockpit, e um piso reforçado, o que permitia o transporte de carga e passageiros fazendo uma simples conversão. Para promover a operação do 737 em pequenos países, a Boeing ofereceu uma melhoria para a versão -200, que permitia que a aeronave pousasse em pistas de terra ou não pavimentadas. A Alaska Airlines usou esta opção para algumas operações em pista de gelo ou terra no Alaska.Em 1988, o modelo -200 foi descontinuado, após 1 114 aeronaves serem produzidas. A última unidade foi entregue a Xiamen Airlines em 8 de agosto do mesmo ano.
+
+
+=== Novas versões ===
+Os engenheiros da Boeing decidiram projetar uma nova versão, com novos motores da CFM International e outras modificações, que tornam a aeronave mais eficiente. Foi escolhido o motor CFM56, que dava uma economia de combustível e redução de ruídos para a aeronave, porém, por conta da baixa altura da aeronave, os ventiladores do motor tiveram que ser reduzidos, deixando o motor a frente da asa e movendo os acessórios para as laterais, dando um aspecto achatado na entrada de ar dos motores.A capacidade da aeronave foi aumentada para 149 passageiros, aumentando o comprimento da fuselagem em 2,87 metros. A asa teve uma série de mudanças para melhorar a aerodinâmica, incluindo um aumento de 53 centímetros na envergadura. O estabilizador vertical foi redesenhado, foram colocados sistemas eletrônicos no cockpit, e a cabine de passageiros teve melhorias semelhantes as instaladas no Boeing 757. A primeira aeronave da versão -300 fez seu primeiro voo em 24 de fevereiro de 1984.Em junho de 1986, a Boeing anunciou o desenvolvimento da versão -400, que aumentava o comprimento da fuselagem em 3 metros, aumentando a capacidade para 188 passageiros. O primeiro voo  da versão -400 foi em 19 de fevereiro de 1988, e após sete meses de testes de voo, entrou em serviço com a Piedmont Airlines em outubro do mesmo ano.
+A versão -500 foi oferecida como uma substituição moderna da versão -200, permitindo que rotas mais longas com menos passageiros sejam mais econômicas, em comparação com a versão -300. O comprimento da fuselagem da versão -500 é 48 centímetros maior, em comparação com a versão -200, acomodando até 140 passageiros. Os motores CFM International CFM56 aumentaram em 25% a economia de combustível, em comparação com os motores Pratt & Whitney JT8D.A versão -500 foi lançada em 1987 pela Southwest Airlines, com um pedido para 20 aeronaves, e voou pela primeira vez em 30 de junho de 1989. Apenas um protótipo voou 375 horas para o processo de certificação. Em 28 de fevereiro de 1990, a Southwest Airlines recebeu a primeira entrega.
+
+
+=== Nova geração ===
+Após o lançamento do principal concorrente Airbus A320, a Boeing iniciou o desenvolvimento de uma versão melhorada em 1991. Após trabalhar com clientes em potencial, a versão "Next Generation" (NG) foi anunciada em 17 de novembro de 1993. Esta versão engloba as variantes -600, -700, -800 e -900. O desempenho é semelhante ao de uma aeronave nova, porém foram conservadas características das outras versões.
+
+A asa foi redesenhada, com um novo perfil aerodinâmico, aumento da envergadura em 4,9 metros, o que aumentou a capacidade total de combustível em 30%. Foram utilizados motores CFM56-7B, que são mais silenciosos e mais eficientes em termos de consumo de combustível. As melhorias de asa, motor e capacidade de combustível aumentam a o alcance da aeronave para 5 600 quilômetros, permitindo a operação transcontinental. Foram modificados também os estabilizadores verticais, e adicionados winglets. Foram instalados painéis de LCD no cockpit, eliminando os mostradores analógicos.O primeiro protótipo a ser apresentado foi uma aeronave da variante -700, em 8 de dezembro de 1996. Esta aeronave voou pela primeira vez em 9 de fevereiro de 1997. O protótipo da variante -800 foi lançado em 30 de junho de 1997 e voou pela primeira vez 31 de julho de 1997. A certificação foi entregue pela Administração Federal de Aviação em 18 de agosto de 1998, após um programa de testes de voo composto por dez aviões, sendo três da variante -600, quatro da variante -700 e três da variante -800.
+Em 2004, após solicitação da brasileira Gol Linhas Aéreas Inteligentes, a Boeing passou a oferecer o pacote SFP (Short Field Performance), que melhora o desempenho da aeronave em pousos e decolagens de aeroportos com pistas curtas, como os aeroportos de Congonhas e Santos Dumont, operados frequentemente pela Gol. O pacote está disponível para as variantes da versão NG e já é equipado automaticamente na variante -900ER. A partir de 2010, a Boeing passou a oferecer o "Boeing Sky Interior", sistema que já era utilizado no Boeing 787 Dreamliner, que reduz o jet lag e proporciona mais conforto aos passageiros.
+O Airbus A320 ultrapassou a versão NG em número de encomendas durante a década de 2000. Porém, com todas as versões, o 737 é a aeronave comercial que está a mais tempo em produção contínua, a aeronave comercial com mais pedidos e entregas e a aeronave mais presente em aeroportos do mundo inteiro. Até 2015, a Boeing produzia 42 aeronaves por mês, e espera aumentar para 52 aeronaves em 2018.
+
+
+=== Novos motores ===
+
+Desde 2006, a Boeing discutiu a substituição do 737 por uma nova aeronave, semelhante ao Boeing 787 Dreamliner, como parte do projeto Boeing Yellowstone. Em novembro de 2014, foi anunciado que a Boeing planeja desenvolver uma nova aeronave para substituir o 737 até 2030. O avião deve ter uma fuselagem semelhante, mas provavelmente feita a partir de materiais compostos, semelhante ao Boeing 787 Dreamliner.Em 20 de julho de 2011, a Boeing anunciou planos para uma nova versão da aeronave, que seria alimentada pelos motores CFM International LEAP-X. Em 30 de agosto de 2011, a Boeing confirmou o lançamento da nova versão, denominada 737 MAX. Esta aeronave competirá com o Airbus A320neo.
+
+
+== Design ==
+A fuselagem do Boeing 737 é derivada dos 707 e 727, os trens de pouso traseiros são cobertos parcialmente, por isso, as rodas possuem calotas que servem para diminuir o arrasto aerodinâmico.
+
+
+=== Motores ===
+
+Os motores da versões "Classic" e "Next Generation" não têm entradas de ar circulares como a maioria dos aviões. A partir da versão "Classic", a aeronave passou a ser equipada com os motores CFM International CFM56, que aumentaram a eficiência e reduziram os ruídos, mas também representaram um desafio de engenharia, dada a baixa altura da aeronave. A Boeing resolveu os problemas transferindo os acessórios que ficavam na parte de baixo para os lados dos motores, fazendo com que os mesmos não tenham um aspecto redondo como em outras aeronaves.Como o motor está próximo ao solo, a aeronave é mais propensa a danos causados por objetos estranhos no motor. O motor turbofan CFM56-7 na versão Next Generation é 7% mais eficiente em termos de consumo de combustível, em comparação com os motores do que o anterior CFM56-3 na versão Classic. A versão MAX terá motores CFM International LEAP-1B com um diâmetro das pás de 1,73 metros. Estima-se que esses motores sejam entre 10 e 12% mais eficientes que os motores CFM56-7 da versão Next Generation.
+
+
+=== Sistemas de voo ===
+
+Os controles de voo primários são controlados pelo sistema hidráulico da aeronave, porém em caso de falha total deste sistema, os controles passarão automaticamente para os compensadores, que funcionam com a energia gerada pela turbina ram air (RAT), em casos de emergência. Deste modo, as alças dos compensadores controlam aerodinamicamente os profundores e ailerons, com as forças musculares que o piloto controlam sobre o manche. Na versão Next Generation, foi implementado um cockpit de vidro, onde todos os instrumentos de controle de voo são digitais, com telas de LCD.Os cockpits da aeronave também são equipados com duas janelas adicionais, posicionadas ao lado do painel superior. Estas janelas permitem uma melhor visibilidade em curvas e facilitam a navegação por estrelas. Com a modernização dos sistemas de navegação, estas janelas tornaram-se redundantes, sendo que muitos pilotos colocam algum objeto para bloquear a entrada de sol durante o dia. A partir de 2004, a Boeing passou a não adicionar as janelas em seus modelos subsequentes, porém algumas companhias ainda optaram por continuar com as janelas. Estas janelas são, por vezes, removidas e tapadas, geralmente durante as revisões de manutenção e podem ser distinguidas pelas saliências deixadas nas bordas do compartimento metálico que isola a janela.
+
+
+=== Winglets ===
+
+A aeronave tem quatro tipos diferentes de winglets: mini-winglets (variante -200), blended winglets (série Classic e Next Generation), split scimitar winglet (série Next Generation) e AT [Advanced Technology] winglet (série MAX).Para as empresas que operam as versões Original e Classic, a Boeing disponibiliza a instalação dos winglets utilizados na versão Next Generation. Estes winglets possuem aproximadamente 8 pés (2,4 metros) de altura e são instalados nas pontas das asas. Eles ajudam a reduzir o consumo de combustível, desgaste do motor e ruído de decolagem. A melhoria geral da eficiência de combustível é de até 5%, através da redução do arrasto induzido.A versão de winglets Split Scimitar foi colocada a disposição em 2014 para as variantes -800, -900ER, BBJ2 e BBJ3, e em 2015 para as variantes -700, -900 e BBJ1. Esta versão foi desenvolvida pela Aviation Partners Inc., empresa baseada em Seattle que também desenvolveu os outros winglets da aeronave. Esta versão traz até 5,5% de economia de combustível em comparação com 3,3% de economia para as outras versões de winglets. A Southwest Airlines foi a primeira companhia a utilizar uma aeronave com esta versão, em 14 de abril de 2014.
+
+
+== Versões ==
+Existem 9 versões do 737 lançadas em nove diferentes ocasiões e mais três versões já existentes que serão relançadas na família MAX, que é mais eficiente do que as outras versões. A família MAX é composta pelo 737 MAX 7, 737 MAX 8 e 737 MAX 9, ou seja, o Boeing 737-700, -800 e -900 em uma versão muito mais eficientes equipados com os motores Leap. Os 737 também se enquadram em três diferentes gerações. Os modelos "Originals" são os 737-100 e 737-200. Os modelos "Classic" compreendem os 737-300, 737-400 e o 737-500. As versões "Next Generation" incluem os 737-600, 737-700, 737-800 e, o mais recente, 737-900. Embora sejam nove versões do 737, existem inúmeras sub-variações para cada modelo.
+
+
+=== 737-100 ===
+Foi o modelo inicial de produção e o menor da família 737. Foi lançado pela Boeing em 1964 e entrou em serviço em 1968. A sua operadora inicial foi a Lufthansa e, a última operadora (após 30 anos de serviços) foi a NASA.
+Foram entregues um total de apenas 30 737-100. Nenhum dessa série permanece em serviço ou em condições operacionais, atualmente. O protótipo original da Boeing (pertencente à NASA) está em exibição e em condições de voo no Museu do Voo, em Seattle.
+
+
+=== 737-200 ===
+O 737-200 foi uma versão estendida do 737-100, lançada para se adequar às necessidades do mercado dos EUA. A United Airlines foi o cliente estreante do modelo, que foi lançado em 1965 e entrou em serviço em 1968. O modelo foi posteriormente aperfeiçoado como 737-200 Advanced, que se tornou a versão de produção padrão da Boeing. O 200 Advanced também era disponível nas versões Conversível (passageiros/carga), “Quick Change” (passageiros diurno/carga noturno), 737-200 Executive Jet (semelhante em configuração ao atual BBJ) e 737-200HGW (High Gross Weight – peso bruto elevado).
+Todos esses modelos estavam a caminho acelerado da extinção, uma vez que dispunham de motores de baixa eficiência no consumo de combustível, elevada emissão de ruídos (mesmo com a instalação de equipamentos redutores tipo “hush-kit”) e custos de manutenção cada vez maiores – embora uma grande quantidade de 737-200 estivesse em operação em companhias secundárias e em países em desenvolvimento.
+No Brasil, a VASP foi a estreante do modelo seguindo-se pela Varig e pela Cruzeiro. Estes 737s são dotados de motores turbojato de baixa derivação (low-bypass ratio turbojet) Pratt & Whitney JT8D.
+No Hawaii, um 737-200 ficou famoso quando teve uma parte da fuselagem despedaçada em abril de 1988. O avião fazia o voo 243 da Aloha Air Lines. Milagrosamente, o avião conseguiu fazer um pouso de emergência em um pequeno aeroporto, e apenas uma pessoa morreu.
+
+737-200C
+O modelo 200C (C de "Convertible") podia ser convertido da versão de passageiros para cargueiro. A Wien Air Alaska foi a lançadora deste modelo.
+737-200QC
+O QC (de "Quick Change") foi uma versão posterior do 737-200C que permitia a rápida alteração entre os modos de transporte (carga/passageiros).
+Em agosto de 2006 um total de 595 Boeing 737-200 (de todas as versões) estavam em serviço de linha aérea. Os principais operadores eram: Air Algérie (11), TAAG Angola Airlines (10), Nationwide Airlines (12), Air Philippines (15), Alliance Air (11), Batavia Air (16), Mandala Airlines (12), Merpati Nusantara Airlines (12), Sriwijaya Air (15), Aerolíneas Argentinas (23), Aloha Airlines (15), Aviacsa (23), LAN Airlines (10) e Sky Airline (11). Cerca de 132 outras empresas aéreas operam um pequeno número de aeronaves do tipo 200. O último modelo 200 foi entregue em 2 de Agosto de 1988 à Xiamen Airlines.
+
+
+=== 737-300 ===
+O 737-300 passou a ser o novo modelo básico e era ligeiramente mais longo do que o 737-200. Foi lançado em 1980 e entrou em serviço em 24 de fevereiro de 1984 (portanto, desmistificando a ideia equivocada de que o modelo 300 substituiu o 200).
+A USAir e a Southwest Airlines foram os estreantes do modelo nos EUA, e a Jat Airways da Sérvia (antiga Iugoslávia) a estreante na Europa. Os aviônicas da série 300 podiam ser tanto uma combinação de “antigos” mostradores analógicos com tubos EFIS, como uma configuração EFIS integral, usualmente. A aeronave foi remotorizada com os turbofans de alta derivação (high-bypass) CFM56 da CFM International que eram significativamente mais silenciosos na decolagem que os JT8D usados nos 727 e 737-200, mas, muito mais potentes e mais eficientes, sem produzir a famosa fumaça preta de seus antecessores.
+Este modelo foi lançado com um interior similar ao contemporâneo Boeing 757.
+Em agosto de 2006 um total de 1002 Boeing 737-300 (de todas as versões) encontravam-se em serviço de linha aérea. Os principais operadores eram: Air China (34), Air New Zealand (14), AirAsia (19), China Eastern Airlines (25), China Southern Airlines (27), Garuda Indonesia (14), Shandong Airlines (14), Thai AirAsia (10), Bmibaby (13), DBA (14), Europe Airpost (11), Jat Airways (10), Jet2.com (20), KLM Royal Dutch Airlines (14), Lufthansa (33), Norwegian Air Shuttle (20), Continental Airlines (48), Gol Linhas Aéreas Inteligentes (15), Southwest Airlines (194), United Airlines (64), US Airways (60) e Varig (20). Cerca de 94 outras empresas também operavam o tipo na mesma época, mas em menor número.Operadores Brasileiros
+
+
+=== 737-400 ===
+O 737-400 foi alongado em relação ao 300, principalmente para se adequar às companhias de fretamento (charters). A Piedmont e a Pace Airlines dos EUA foram as estreantes deste modelo. O 400 foi lançado em 1985 entrou em serviço com a Piedmont em 19 de fevereiro de 1988. A Alaska Airlines é o maior operador do tipo, com 40 unidades, seguido de perto pela Malaysia Airlines, com 39.
+O 737-400F não é um modelo original da Boeing, mas um 737-400 normal convertido apenas para transporte de carga. A Alaska Airlines foi a primeira empresa a converter um de seus 400 de uso regular em aeronave cargueira pura capaz de transportar 10 paletes (plataforma de suporte de carga padronizada). A empresa fazia planos de converter mais 4 unidades em unidades combi, de configuração fixa parte passageiros/parte cargueira, para entrar em serviço em Setembro de 2006.
+Em agosto de 2006, um total de 460 Boeing 737-400 (de todas as versões) encontravam-se em serviço de linha aérea. Os principais operadores eram: Alaska Airlines (40), US Airways (40), Malaysia Airlines (39), Air One (22), British Airways (19), Garuda Indonesia (19), Qantas (19), Turkish Airlines (17), Japan Transocean Air (16), Lion Air (10), Czech Airlines (12), KLM Royal Dutch Airlines (13) e Olympic Airlines (13). Outras 52 empresas operavam um número menor do tipo.No Brasil foi utilizado nas empresas Transbrasil, VASP, Varig e BRA.
+
+Operadores Brasileiros
+
+
+=== 737-500 ===
+O modelo 500 foi o último da segunda geração de 737 a ser desenvolvida. Lançado em 1987, entrou em serviço em 1990.  Com os modelos 300 e 400 em crescimento, a Boeing ofereceu o 737-500 encurtado às empresas que procuravam uma substituição para seus 737-100 e 737-200.
+Este novo modelo incorporava maior alcance, mais economia de combustível e uma cabina de aparência mais moderna que seus antecessores de tamanho similar. Os motores CFM também eram mais silenciosos que os P&W JT8D. O modelo 500 foi oferecido em 20 de maio de 1987 e recebeu 20 pedidos da Braathens norueguesa (atualmente conhecida como SAS Braathens), 13 da Southwest Airlines, 3 da dinamarquesa Maersk Air (atual Sterling Airlines A/S), e 3 da Euralair (atual Air Horizons) francesa.
+Recebeu a certificação da FAA nos EUA em 12 de fevereiro de 1990 e iniciou serviço ativo com a Southwest Airlines em 24 de fevereiro de 1990. Medindo apenas 50 cm a mais do que o 737-200, ele provaria ser o substituto ideal para este modelo na segunda geração da família 737. No total, 389 aeronaves foram pedidas e entregues. Destas, 270 foram pedidas antes do primeiro voo comercial, e 119 depois.
+Em agosto de 2006 um total de 367 Boeing 737-500 em serviço de linha aérea. Os principais operadores eram: Air Nippon (18), Czech Airlines (15), Lufthansa (29), S7 Airlines (10), SAS Braathens (12), Aerolíneas Argentinas (11), Continental Airlines (63), Southwest Airlines (25) e United Airlines (30). Cerca de 44 outras companhias também operavam o tipo na mesma época, mas em pequenos números.No Brasil Foi usado pela Rio Sul Linhas Aéreas e pela Nordeste Linhas Aéreas, depois absorvida ao grupo Varig.
+
+
+=== 737-600 ===
+Junto com os 737-700 e 737-800, o 737-600 foi uma das três versões iniciais da família 737NG. O 737-600 suplantou o 737-500. Lançado em 1995, entrou em serviço em 1998 com a Scandinavian Airlines System multinacional (Dinamarca e Suécia), mas desde então, tem sofrido com vendas fracas, sendo rentável apenas em rotas longas e de baixa densidade.
+O equivalente direto da Airbus é o A318. O Boeing 717 manteve aproximadamente a mesma capacidade de passageiros, mas era otimizado para rotas regionais e não tinha o mesmo alcance do 737-600. A produção do 717 se encerrou em meados de 2006, deixando o 737-600 como a única aeronave de 100 passageiros do mercado oferecida pela Boeing.
+O 737-600 compete diretamente com o Airbus A318 e o Embraer 195.
+Em agosto de 2006 um total de 66 Boeing 737-600 permaneciam em serviço de linha aérea, com mais 3 pedidos firmes. Os operadores eram:
+
+Air Algérie (5),
+Tunisair (7),
+Air China (6),
+Flyglobespan (4),
+Lauda Air (1),
+Malév Hungarian Airlines (6),
+SAS Braathens (8),
+Scandinavian Airlines System (18) e
+WestJet (11, mais 3 pedidos firmes).
+
+
+=== 737-700 ===
+Este modelo foi lançado pela Southwest Airlines em 1993 entrou em serviço em 1998. Possui o maior alcance de todos os tipos de 737, e é um competidor direto do A319. Normalmente, comporta 132 passageiros em uma cabina de duas classes, ou 149 em configuração única. Uma versão executiva desta aeronave é oferecida como BBJ1 .
+O BBJ1 é equipado com asas mais resistentes, trem de pouso do 737-800, e maior alcance (pelo uso de tanques extras) do que outros modelos de 737. O 737-700 é operado por algumas companhias em voos “premium” entre a América do Norte e a Europa.
+Em agosto de 2006 um total de 760 Boeing 737-700 (de todas as versões) estavam em serviço ativo de linha aérea, com mais 422 pedidos firmes. Os principais operadores eram:
+
+Aeroméxico (28, mais 8 pedidos),
+Air China (14),
+Air Sahara (10),
+China Eastern Airlines (28, mais 4 pedidos),
+China Southern Airlines (16, mais 12 pedidos),
+Jet Airways (13),
+Shenzhen Airlines (10),
+Virgin Blue (22),
+Xiamen Airlines (15),
+EasyJet (32),
+SAS Braathens (15),
+Transavia.com (10),
+AirTran Airways (32, mais 68 pedidos),
+Alaska Airlines (22),
+Continental Airlines (36, mais 46 pedidos),
+Copa Airlines (20, mais 5 pedidos),
+Gol Linhas Aéreas Inteligentes (44, mais 01 pedido)
+Southwest Airlines (250, mais 122 pedidos) e
+WestJet (44, mais 6 pedidos).Outros pedidos firmes importantes incluem: All Nippon Airways (39), Garuda Indonesia (18), DBA (10) e SkyEurope (16). Cerca de 29 outros operadores também operam o modelo em pequena quantidade.737-700C
+Novamente, uma versão conversível onde os assentos podem ser removidos para a aeronave poder receber carga. Há uma grande porta do lado esquerdo da fuselagem. A Marinha dos EUA (U.S. Navy) estreou o modelo 737-700C.
+737-700ER
+A Boeing lançou esta versão em 31 de janeiro de 2006. A ANA - All Nippon Airways foi o operador estreante, com a data de entrada no início de 2007. O modelo 737-700ER é, essencialmente, uma versão de passageiros do BBJ1 e do 737-700IGW de longo alcance. Oferecerá um alcance de 10 211 km (5 510 milhas náuticas), com capacidade para 146 passageiros em uma configuração de 2 classes, e 170 em classe única. Um competidor para este modelo seria o Airbus A319LR.
+
+
+=== 737-800 ===
+O 737-800 era uma versão mais longa do 737-700, substituindo diretamente o 737-400. O modelo 800 foi lançado pela Hapag-Lloyd Flug (atualmente Hapagfly) alemã em 1994, entrando em serviço em 1998.
+Uma versão executiva é oferecida pela Boeing como BBJ2, e o 737-800ERX ("Extended Range") é disponível como uma versão militar para o programa MMA (Multi-mission Maritime Aircraft – Aeronave de Múltiplo Emprego Marítimo) para a Marinha dos EUA, também há uma versão para pistas pequenas o 737-800 SFP (Short Field Performance)
+Para diversas companhias aéreas, o modelo 800 substituiu os veneráveis trijatos Boeing 727-200, que dispunham de uma capacidade de passageiros similar.
+O 737-800 tem capacidade para 162 passageiros em uma configuração de 2 classes, ou 189 em classe única. Possui um alcance de 5 670 km (3060 milhas náuticas) e é equipado com motores CFMI CFM 56-7.
+Seu equivalente direto da Airbus é o modelo A320.
+Em Agosto de 2006 um total de 1 026 Boeing 737-800 estavam em serviço ativo de linha aérea, com mais 669 pedidos firmes. Os principais operadores eram:
+
+Gol Linhas Aéreas Inteligentes (106, mais 29 pedidos).
+Air Algérie (10),
+Royal Air Maroc (11, mais 13 pedidos),
+South African Airways (18),
+Air China (24, mais 10 pedidos),
+China Airlines (12),
+China Southern Airlines (29, mais 12 pedidos),
+Hainan Airlines (18, mais 18 pedidos),
+Jet Airways (22, mais 12 pedidos),
+Korean Air (14),
+Qantas (33),
+Shanghai Airlines (15, mais 5 pedidos),
+Virgin Blue (27, mais 11 pedidos),
+Air Berlin (35),
+Air Europa (30, mais 37 pedidos),
+Excel Airways (10),
+Futura International Airways (10, mais 3 pedidos),
+Hapagfly (32, mais 3 pedidos),
+KLM Royal Dutch Airlines (16, mais 1 pedido),
+Pegasus Airlines (12, mais 6 pedidos),
+Ryanair (107, mais 142 pedidos),
+Sterling Airlines (10),
+Transavia.com (19, mais 1 pedido),
+Turkish Airlines (41, mais 8 pedidos),
+American Airlines (77, mais 47 pedidos),
+ATA Airlines (12),
+Continental Airlines (102, mais 7 pedidos),
+Delta Air Lines (57, mais 50 pedidos),
+Delta Shuttle (14)
+Hong Kong Express (11, mais 11 pedidos),Os principais pedidos a serem efetuados são os da:
+
+Air India (18),
+Air Sahara (10),
+Japan Airlines (30),
+SpiceJet (14),
+Xiamen Airlines (15),
+Garuda Indonesia (2)
+Alaska Airlines (40).Cerca de outras 47 empresas também operam o modelo em pequenas quantidades.
+Operador BrasileiroO Boeing 737-800 no Brasil foi primeiramente utilizado pela VARIG/VRG e posteriormente pela Gol.
+
+
+=== 737-900 ===
+Para melhor competir com as ofertas da Airbus, a Boeing introduziu posteriormente o 737-900, que era a mais longa versão da família 737. A Alaska Airlines lançou o 737-900 em 1997, entrando em serviço em 2000.
+O modelo 900 possui uma capacidade de passageiros apenas ligeiramente maior do que o  737-800, devido às limitações de porta para saída/evacuação, em contraste com o Airbus A321 que possui quatro portas amplas em nível de piso de cada lado da fuselagem. Mesmo em uma configuração totalmente econômica com um máximo de 189 assentos, o “pitch” (distância entre os encostos das poltronas) seriam generosos 86 centímetros (34 polegadas).
+As pesquisas de mercado da Boeing mostravam que o 737-900 seria um bom substituto para as rotas que usavam o 757. As companhias aéreas, no entanto, o rejeitaram e apenas 54 foram vendidos até agosto de 2006, comparados aos mais de 270 Airbus A321 entregues durante o mesmo período. O modelo 900 ainda pode ser pedido, mas a versão ER muito mais aperfeiçoada deve provar ser mais popular.
+Seu equivalente direto da Airbus é o A321, embora o 737-900 seja ligeiramente menor.
+Em agosto de 2006 um total de 52 Boeing 737-900 (de todas as versões) encontravam-se em serviço ativo de passageiros, com outros 80 pedidos firmes. Os operadores eram: Jet Airways (2), Korean Air (16), Shenzhen Airlines (5), KLM Royal Dutch Airlines (5), Alaska Airlines (12) e Continental Airlines (12, mais 12 pedidos). Companhias com pedidos firmes são a: Lion Air (60), SpiceJet (5) and Sky Airlines (3).
+
+
+=== 737-900ER ===
+Esta é a mais recente adição à família Boeing 737, e foi introduzida para suprir a capacidade de alcance e de passageiros do 757-200, que teve a produção encerrada (o modelo B757-300 será substituído pelo novo 787 Dreamliner), equipado com novas portas de saída tipo II (ao nível do piso da cabina) e tanques adicionais de combustível. Em comparação ao modelo 900 normal, o ER teve o anteparo de pressurização traseiro achatado para fornecer maior espaço interno na cabina de passageiros, e foi adotado como padrão o pacote aerodinâmico conhecido como Short Field Performance, mencionado anteriormente.
+Seu projeto de aerofólio avançado fornece uma velocidade de cruzeiro econômico de Mach 0.78, com capacidade para voos em elevados regimes de Mach 0,82. A Lion Air da Indonésia lançou o 737-900ER. Uma versão executiva é oferecida como BBJ3.
+Tipicamente, o 737-900ER transporta 180 passageiros em configuração de 2 classes, mas em classe única pode levar até 215 passageiros. Equipado com os mesmos motores CFMI CFM56-7 do modelo 700ER, o 900ER possui um alcance de 5 900 km (3 200 milhas náuticas). A montagem final do primeiro Boeing 737-900ER começou em Junho de 2006, e o “roll-out” (apresentação após a montagem final) ocorreu na fábrica, em Renton, Washington – EUA, em 8 de agosto de 2006 para o cliente estreante do modelo, a Lion Air.
+Para modernizar a frota e futuramente aposentar as aeronaves mais antigas, a Delta encomendou 100 aviões Boeing 737-900ER. Uma das vantagens do modelo é a economia: o consumo de combustível é praticamente 20% menor do que o dos aviões usados atualmente pela companhia. Até a metade de 2013 serão entregues 12 aeronaves, entre 2014 e 2017 mais 19 e as 12 restantes, em 2018. A série 737-900ER é a primeira a oferecer assentos Sky Interior, com mais espaço para bagagem de mão, cabine mais ampla e ventilada e sistema de iluminação de baixo custo. No total, a compra está avaliada em US$ 8,5 bilhões.
+
+
+=== 737 MAX ===
+Em 2011, a Boeing anunciou o programa do 737 MAX. Ela oferece três variantes, o 737 MAX 7, 737 MAX 8 e 737 MAX 9, que substituirão os modelos 737-700, 737-800 e 737-900. As principais alterações são o uso de motores CFM International LEAP-1B, acrescentando fly-by-wire para o controle dos spoilers e o alongamento do trem de pouso do nariz.
+A primeira entrega ocorreu em maio de 2017, para a companhia Malindo.
+
+
+=== Versões Militares ===
+O Boeing 737 também foi popular em versões militares. Há diversas versões do 737 com as seguintes funções especiais:
+
+O T-43, é um 737-200 – Utilizado para treinar navegadores para a Força Aérea (U.S. Air Force). Alguns foram modificados como CT-43, que são usados para transportar passageiros.
+O C-40 Clipper, é um 737-700C – A substituição da Marinha dos EUA U.S. Navy para o C-9 Skytrain II. O C-40B e o C-40C são usados pela U.S. Air Force para o transporte de Generais e outros oficiais de alta patente.
+O Project Wedgetail, é um 737-700IGW (ligeiramente similar ao 737-700ER) – Esta é uma versão de Alerta Aéreo Antecipado e Controle (AEW&C) do 737NG. A Real Força Aérea Australiana (Royal Australian Air Force) é o primeiro cliente, com a Turquia, Coreia do Sul, e Itália como clientes previstos.
+O P-8 Poseidon, é um 737-800ERX - Em 14 de Junho de 2004 a Divisão de Sistemas Integrados de Defesa da Boeing (Integrated Defense Systems) venceu a Lockheed Martin na concorrência para substituir a aeronave de patrulha marítima P-3 Orion. Os pedidos definitivos para a Marinha dos EUA devem passar de 100. O P-8 é exclusivo pelo fato de possuir pontas de asa estendidas para fora e enflechadas para trás no estilo das existentes no 767-400ER, ao invés dos winglets recurvados para cima disponíveis em outras versões de 737NG.
+O SLAMMR: Aeronave de reconhecimento marítimo/transporte, equipado com equipamento SLAMMAR (side-looking multi-mission airborne radar – radar aeroembarcado multi-missão de visão lateral). Estas Três aeronaves foram vendidas à Força Aérea da Indonésia.
+O Lockheed CATBird, é um 737-300 modificado com um nariz de um Lockheed F-35 Lightning II, um par de canards (superfícies de controle horizontais dianteiras) e (internamente) uma cabina de comando de um F-35; deve ser utilizado para teste em voo da suíte completa de aviônicos do F-35.Diversos países operam as versões de Passageiros e Carga do 737 em aplicações governamentais e militares:
+
+Brasil, Chile, Índia, Indonésia, Kuwait, México, Nigéria, Peru, Coreia do Sul, Taiwan (Air Force One de Taiwan), Tailândia, Emirados Árabes Unidos, Estados Unidos da América (Força Aérea e Marinha) e Venezuela.
+
+
+== Especificações ==
+Seção central da cabina e fuselagem (todos os modelos):Altura externa: 4,11 m
+Altura Interna: 2,20 m
+
+
+== Entregas de 737 de todos os modelos ==
+
+
+== Acidentes ==
+
+
+=== Acidentes Recentes ===
+3 de janeiro de 2004 - Flash Airlines, Voo 604, um 737-300 caiu pouco após a decolagem de Sharm el Sheikh, Egito matando todos os 148 passageiros e tripulantes.
+3 de fevereiro de 2005 - Kam Air, Voo 904, um 737-200 bateu numa montanha a 30 km a leste de Cabul, Afeganistão matando todos os 96 passageiros e oito tripulantes.
+14 de agosto de 2005 - Helios Airways, Voo 522, um 737-300 caiu após despressurização da cabina e perda de consciência da tripulação, a norte de Atenas, Grécia, matando todos os 121 passageiros e tripulantes.
+23 de agosto de 2005 - TANS Peru, Voo 204, um 737-200 (ex-VASP) caiu durante uma tempestade na selva Peruana, matando 40 dos 92 passageiros e seis tripulantes.
+5 de setembro de 2005 - Mandala Airlines, Voo 091, um 737-200 caiu em Medan, Indonésia, matando 102 dos 117 passageiros e tripulantes, mais 47 pessoas no solo.
+22 de outubro de 2005 - Bellview Airlines, Voo 210, um 737-200 caiu pouco depois da decolagem de Lagos, Nigéria, matando todos os 111 passageiros e seis tripulantes.
+8 de dezembro de 2005 - Southwest Airlines, Voo 1248, um 737-700 deslizou para fora da pista durante um pouso sob nevasca no Aeroporto Internacional Midway, em Chicago, Illinois – EUA, matando uma criança em um automóvel que passava em via próxima.
+29 de setembro de 2006 - Gol Transportes Aéreos, Voo 1907, um 737-800 da Gol Linhas Aéreas com 154 ocupantes caiu após uma colisão com um Embraer Legacy. Todos a bordo do 737 morreram. O Legacy conseguiu pousar em segurança na Base de Cachimbo da Força Aérea Brasileira, no sul do Pará - Brasil.
+29 de outubro de 2006 - ADC Airlines, Voo 53, um 737-200 caiu durante uma tempestade após decolar de Abuja, Nigéria. Apenas sete ocupantes sobreviveram de entre os 104 passageiros e tripulantes.
+1 de janeiro de 2007 - Adam Air, voo KI574, um 737-400 despenhou-se com 102 pessoas a bordo, depois de descolar do aeroporto de Surabaya, Indonésia, com destino a Manado, Indonésia.
+5 de maio de 2007 - Kenya Airways, voo KQ507, um 737-800 despenhou-se com 115 pessoas a bordo, depois de descolar do aeroporto de Douala, Camarões, com destino a Nairobi, Quénia, não houve sobreviventes.
+24 de agosto de 2008 - Quirguistão - Itek Air Um 737 caiu após 10 minutos de voo, por uma descompressão, com 95 passageiros. O número estimado é de 70 mortos.
+14 de setembro de 2008 - Rússia - Aeroflot Um 737-500 caiu na região dos Montes Urais, próximo ao seu destino. Todos os 80 passageiros morreram.
+25 de fevereiro de 2009 - Holanda - um Boeing 737-800 (matrícula TC-JGE) efetuando o voo TK 1951 caiu a 5 km do Aeroporto Schiphol em Amsterdam (Br) ou Amesterdão (Pt). Dos 127 passageiros e sete tripulantes, cerca de 80 se feriram e nove (três tripulantes e seis passageiros) morreram.
+23 de dezembro de 2009 - Jamaica - American Airlines, Voo AA 331, um Boeing 737 derrapou, saiu da pista e partiu-se em dois. Aeronave da American Airlines havia decolado de Miami e pousou no Aeroporto Internacional de Kingston, na Jamaica. Chovia muito em Kingston e a visibilidade era ruim. Foram 90 pessoas feridas e nenhuma morte.
+30 de julho de 2011 - Guiana - Caribbean Airlines, Voo BW 523, um Boeing 737 com 140 passageiros a bordo sofreu um acidente ao pousar na Guiana, e se partiu em dois. Não houve mortes apenas feridos.
+19 de março de 2016 - Rússia - FlyDubai, Voo FZ981, um Boeing 737 com 62 pessoas a bordo sofreu um acidente ao pousar em Rostov do Don. Todas as pessoas a bordo morreram.
+18 de maio de 2018 - Cuba - Cubana de Aviación. Um Boeing 737-200, com 110 a bordo, sendo seis tripulantes e 104 passageiros – entre eles um bebê e quatro crianças – caiu pouco depois da decolagem do Aeroporto Internacional José Martí, na capital Havana, rumo à cidade de Holguín, no extremo leste da ilha. A imprensa local diz que pelo menos 100 pessoas morreram, a maioria delas seria cubana.
+29 de outubro de 2018 - Indonésia - Um Boeing 737 MAX 8 da Lion Air caiu no oceano devido a uma causa desconhecida até o momento. De acordo com as informações locais, o piloto entrou em contato com a torre de controle e pediu para retornar ao aeroporto. Porém, a aeronave perdeu o sinal 13 minutos depois. O avião transportava 178 passageiros entre eles uma criança e dois bebês.
+10 de Março de 2019 - Etiópia - Um Boeing 737 Max 8 com destino ao Aeroporto Internacional Jomo Kenyatta, Nairóbi caiu seis minutos após decolar do Aeroporto Internacional Bole vitimando seus 149 passageiros e 8 tripulantes. O acidente está sob investigação.
+8 de Janeiro de 2020 - Irã - Um Boeing 737-800 com destino ao Aeroporto Internacional de Kiev Boryspil, Ucrânia, caiu logo depois da decolagem do Aeroporto Internacional Imam Khomeini, Teerã, Irã, abatido pelo GRI com uso de míssil antiaéreo vitimando todos os 167 passageiros e 9 tripulantes
+7 de agosto de 2020 - Índia - Um Boeing 737-800 da Air India Express, com 191 passageiros a bordo, ultrapassou a pista ao pousar no aeroporto de Calecute. Matando 17 pessoas que estavam no avião.
+21 de março de 2022 - China - Um Boeing 737-800 da China Eastern Airlines, com 132 pessoas a bordo caiu na região montanhosa de Guangxi, localizado ao sul do país. O avião despencou 6 mil metros em apenas 2 minutos, matando todos que estavam a bordo.
+
+
+=== Resumo de acidentes ===
+Estatísticas de 1 de janeiro de 2007:
+
+Perdas totais: 115, com um total de 3 272 fatalidades
+Outras ocorrências: 6, com um total de 242 fatalidades
+Sequestros: 96, com um total de 325 fatalidades
+
+
+=== Controvérsias ===
+Em 21 de agosto de 2006 a Sky News alegou que os Boeing 737 Next Generation construídos de 1994 a 2002 continham peças defeituosas. O relatório declarava que diversas peças da estrutura produzidas pela Ducommun foram consideradas como defeituosas pelos funcionários da Boeing, mas esta se recusou a tomar alguma atitude. A Boeing declarou que as alegações “não tinham mérito”.
+
+
+== Ver também ==
+
+Desenvolvimento relacionadoBoeing 737 Classic
+Boeing 737 Next Generation
+Boeing 737 MAX
+Boeing 737 AEW&C
+Boeing C-40 Clipper
+Boeing P-8 Poseidon
+Boeing T-43Aeronaves comparáveisAirbus A318
+Airbus A319
+Airbus A320
+Airbus A321
+Bombardier CRJ-700
+Bombardier CSeries
+Dassault Mercure
+Embraer E-Jets
+Irkut MC-21
+Sukhoi Superjet 100
+
+
+== Referências ==
+
+
+=== Bibliografia ===
+Eberhardt, Scott; Anderson, David F. (2009). Understanding Flight. Chicago: McGraw Hill Professional. ISBN 978-0-07-162696-5 
+Bowers, Peter M. (1989). Boeing Aircraft since 1916. Annapolis, Maryland: Naval Institute Press. ISBN 0-87021-037-8 
+Endres, Günter (2001). The Illustrated Directory of Modern Commercial Aircraft. St. Paul, Minnesota: MBI Publishing Company. ISBN 0-7603-1125-0 
+Yenne, Bill (1997). Boeing: Planemaker to the World. Berkeley, California: Thunder Bay Press. ISBN 1-57145-045-9 
+Shaw, Robbie (2001). Boeing 737-100 and 200. St. Paul, Minnesota: MBI Publishing Company. ISBN 0-7603-0991-4 
+Shaw, Robbie (1995). Boeing Jetliners. Londres: Osprey. ISBN 1-85532-528-4 
+Shaw, Robbie (1999). Boeing 737-300 to 800. St. Paul, Minnesota: MBI Publishing Company. ISBN 0-7603-0699-0 
+Sutter, Joe (2006). 747: Creating the World's First Jumbo Jet and Other Adventures from a Life in Aviation. Washington D.C.: Smithsonian Books. ISBN 0-06-088242-5 
+Brady, Chris (2014). The Boeing 737 Technical Guide. Washington D.C.: Lulu Enterprises Incorporated. ISBN 9781291773187 
+
+
+== Ligações externas ==
+737 no site da Boeing (em português)

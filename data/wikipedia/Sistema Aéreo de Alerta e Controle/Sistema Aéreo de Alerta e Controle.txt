@@ -1,0 +1,30 @@
+Sistema Aéreo de Alerta e Controle (também conhecido pelo acrônimo AEW&C, do inglês Airborne Early Warning and Control, ou, ainda, AWACS, sigla para a expressão Airborne Warning and Control System) é um sistema de vigilância aérea eletrônica por radares instalados em aeronaves, com a função C3 (comando, controle e comunicações) para logística de tática e de defesa militar.
+Quando usado em grande altitude, o radar na aeronave permite que os operadores detectem e rastreiem alvos e distingam entre aeronaves amigas e hostis muito mais distantes do que um radar terrestre similar. Como um radar terrestre, ele pode ser detectado por forças opostas, mas devido à sua mobilidade e alcance estendido do sensor, é muito menos vulnerável a contra-ataques.Os modernos sistemas AWACS podem detectar aeronaves até 400 km de distância, assim como armas antiaéreas. Em um combate ar-ar, o sistema AWACS pode comunicar-se com aeronaves amigas, aumentando assim o alcance dos sensores destas aeronaves, adicionando-lhes invisibilidade, pois não necessitarão utilizar seus próprios radares para identificar alvos ameaça.
+A designação Airborne Early Warning (AEW) passou a ser empregada nos anos 50, quando da utilização dos Fairey Gannet AEW.3 e Lockheed EC-121 Warning Star. 
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Armistead, Leigh and Edwin Armistead. Awacs and Hawkeyes: The Complete History of Airborne Early Warning Aircraft. St Paul, Minnesota: Zenith Imprint, 2002. ISBN 0-7603-1140-4.
+Davies, Ed. «AWACS Origins: Brassboard – Quest for the E-3 Radar». Stamford, Lincs, UK: Key Publishing. Air Enthusiast (119, September/October 2005): 2–6. ISSN 0143-5450 
+Gibson, Chris (2011). The Admiralty and AEW: Royal Navy Airborne Early Warning Projects. [S.l.]: Blue Envoy Press. ISBN 978-0956195128 
+Gordon, Yefim; Komissarov, Dmitriy (2010). Soviet/Russian AWACS Aircraft: Tu-126, A-50, An-71, Ka-31. Col: Red Star Vol. 23. Hinckley, England: Midland Publishing. ISBN 978-1857802153 
+Gordon, Yefim; Davison, Peter (2006). Tupolev Tu-95 Bear. Col: Warbird Tech. 43. North Branch, Minnesota: Specialty Press. ISBN 978-1-58007-102-4 
+Hazell, Steve (2000). Fairey Gannet. Col: Warpaint Series No.23. Buckinghamshire, England: Hall Park Books. ISSN 1363-0369 
+Hirst, Mike (1983). Airborne Early Warning: Design, Development, and Operations. London: Osprey. ISBN 978-0-85045-532-8 
+Hurturk, Kivanc N. (1998). History of the Boeing 707. New Hills: Buchair. ISBN 0-9666368-0-5 
+Lake, Jon (Fevereiro de 2009). «Aircraft of the RAF – Part 10 Sentry AEW.1». Stamford, UK: Key Publishing. Air International. 76 (2): 44–47 
+Lloyd, Alwyn T. (1987). Boeing 707 & AWACS. Col: in Detail and Scale. Falbrook, CA: Aero Publishers. ISBN 0-8306-8533-2 
+Neufeld, Jacob; Watson Jr., George M.; Chenoweth, David (1997). Technology and the Air Force. A Retrospective Assessment. Washington, D.C.: United States Air Force. pp. 267–287  http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA440094&Location=U2&doc=GetTRDoc.pdf
+Pither, Tony (1998). The Boeing 707 720 and C-135. [S.l.]: Air-Britain (Historians). ISBN 0-85130-236-X 
+Tyack, Bill "Maritime Patrol in the Piston Engine Era" Royal Air Force Historical Society Journal 33, 2005 ISSN 1361-4231.
+Wilson, Stewart (1998). Boeing 707, Douglas DC-8, and Vickers VC-10. Fyshwick, Australia: Aerospace Publications. ISBN 1-875671-36-6 
+
+
+== Ligações externas ==
+
+Moderno Sistema Laser de AWACS, com uso de caça F-16
+Concepção artística do laser
+Reconhecimento aéreo

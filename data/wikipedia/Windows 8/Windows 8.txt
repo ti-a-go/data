@@ -1,0 +1,99 @@
+O Windows 8 é uma versão do Microsoft Windows, uma série de sistemas operacionais desenvolvidos pela Microsoft para computadores pessoais, laptops e tablets. É o sucessor do Windows 7. Foi anunciado oficialmente por Steve Ballmer, diretor executivo da Microsoft, durante a conferência de pré-lançamento do sistema operacional. O Windows 8 Developer Preview, primeira versão beta do sistema, foi lançado no dia 13 de setembro de 2011 e depois foi seguida pela versão Consumer Preview no dia 29 de fevereiro de 2012. No dia 31 de maio de 2012, foi liberada para download a versão Windows 8 Release Preview. A versão final foi lançada mundialmente em 26 de outubro de 2012. O Windows 8 foi substituído pelo Windows 8.1.
+O Windows 8 introduziu grandes mudanças na plataforma e na interface para melhorar a experiência de usuário em tablets, já que o Windows agora competia com sistemas operacionais móveis, o Android e o iOS. Essas alterações incluíram um Windows Shell otimizado para o toque baseado na linguagem de design Metro UI da Microsoft e na nova Tela Iniciar (que exibe aplicativos e conteúdos atualizados dinamicamente em uma grade de Live Tiles), uma nova plataforma para o desenvolvimento de "aplicativos" com ênfase na entrada touchscreen, integração com serviços online (incluindo a capacidade de sincronizar aplicativos e configurações entre os dispositivos) e adição da Windows Store, um serviço de distribuição on-line de novos softwares que são executados na Tela Iniciar. Muitos desses recursos foram inspirados no Windows Phone, sistema operacional móvel dos aparelhos da linha Nokia Lumia. O Windows 8 também adicionou suporte para USB 3.0, discos rígidos de formato avançado, comunicação por campo de proximidade (NFC) e computação em nuvem. Recursos adicionais de segurança foram introduzidos, como um software de antivírus embutido, integração com o serviço de filtragem de phishing, Microsoft SmartScreen e suporte para o UEFI Secure Boot em dispositivos suportados com firmware UEFI, para evitar que um malware infecte o processo de inicialização.
+O Windows 8 foi lançado para uma recepção crítica mista. Reações positivas relacionadas melhorias de desempenho, melhorias de segurança e melhor suporte para dispositivos sensíveis ao toque foram positivas porém a nova interface de usuário do sistema operacional foi amplamente criticada por ser potencialmente confusa e de difícil usabilidade, especialmente quando usada em um dispositivo com teclado e mouse em vez de uma tela sensível ao toque. Apesar dessas deficiências, 60 milhões de licenças do Windows 8 foram vendidas até janeiro de 2013, um número que incluía upgrades e vendas para OEMs para novos PCs.
+
+
+== Usuários ==
+A Microsoft divulgou recentemente que mais de 100 milhões de licenças já foram vendidas. Porém, segundo a Moor Insights & Strategy, as 100 milhões de licenças a que a Microsoft se refere foram despachadas para o mercado, mas não foram, necessariamente, ativadas. Se levarmos em consideração somente o número de usuários ativos, o volume cai para cerca de 59 milhões de licenças vendidas. Segundo dados da StatCounter, o Windows 8 representa cerca de 5,94% dos usuários mundiais, ainda muito longe do Windows 7 que é líder, representando 52,62% dos usuários mundiais. O Brasil, até então, é o país que mais utiliza o Windows 8. Segundo dados da StatCounter, o Windows 8 representa 8,2% dos usuários Brasileiros, ainda assim, longe do Windows XP e Windows 7 que representam, respectivamente, 19,28% e 66,13% dos usuários brasileiros.
+
+
+== Recursos ==
+A interface totalmente renovada e os novos aplicativos chamaram atenção do público. Apesar da nova interface, também é possível utilizar a interface de Desktop assim como nos sistemas anteriores.
+
+
+=== Tempo de inicialização ===
+O Windows 8 possui um boot (inicialização) cerca de 30% a 70% mais rápido do que nas versões anteriores, podendo chegar a iniciar em apenas dois segundos. Em agosto de 2011, a Microsoft solicitou à United States Patent & Trademark Office, o serviço de patentes dos Estados Unidos, o registo de um sistema chamado "Fast Machine Booting Through Streaming Storage" (inicialização rápida da máquina através de armazenamento streaming).
+
+
+=== Internet Explorer 10 ===
+O Windows 8 inclui o Internet Explorer 10 na sua nova interface e na interface Desktop. O visual do Internet Explorer é mais simples e o navegador é mais rápido. Foi totalmente redesenhado, mas a sua versão Desktop teve poucas mudanças, quando comparada com a versão 9. Já a inclusa na Interface renovada do Windows 8 é mais simples, com menos botões e foi feita uma grande reorganização.
+
+
+=== Compatibilidade com o Windows Phone ===
+Segundo o CEO da Nvidia, em entrevista ao CNET, que alguns dos apps feitos para Windows Phone serão compatíveis com o Windows 8 (na nova interface). Referiu também que esta compatibilidade "É uma maneira também de estimular os desenvolvedores a criarem novos aplicativos para o Windows Phone".
+
+
+=== Reconhecimento de voz ===
+A Microsoft está planeando adicionar a tecnologia Tellme no Windows 8, capaz de realizar comandos por voz. Esta tecnologia já está presente outros aparelhos da marca como Kinect, Xbox 360, Windows Phone, Azure entre outros.
+
+
+=== Suporte a Flash Player ===
+Depois da Microsoft afirmar que o Windows 8 não teria de forma alguma a compatibilidade ao Adobe Flash Player, a empresa voltou atrás e colocou o suporte ao plugin. Além disso, uma parceria feita pela Microsoft e Adobe fará que o Flash tenha atualizações automáticas pelo Windows Update. O Flash agora é um dos únicos plugins que deve funcionar no novo sistema e no Internet Explorer 10. É provável que em versões futuras o Adobe Flash Player não seja mais suportado pelo sistema operacional.
+
+
+=== Suporte para USB 3.0 ===
+Foi confirmado o suporte para USB 3.0 no Windows 8, garantindo mais velocidade nas cópias e transferências de arquivos do computador para dispositivos móveis. Além disso, algumas partes da cópia e transferência de arquivos foram melhoradas.
+
+
+=== Windows To Go ===
+Com um recurso chamado de Windows To Go, é possível executar o Windows 8 inteiramente a partir de um pen drive ou de um disco rígido externo. Tem como foco os usuários corporativos, que podem inicializar seu próprio sistema onde forem. A "desvantagem" fica por conta do fato que os discos internos do computador "host" não são acessíveis através do Windows to Go; o mesmo vale para a partição do Windows to Go quando o dispositivo estiver em um computador com sistema operacional em execução. Esta função está disponível somente no Windows 8 Enterprise.
+
+
+== Recursos removidos ==
+
+Além da remoção do menu Iniciar, várias características notáveis ​​foram removidos do Windows 8. O suporte para reprodução de DVDs foi removido do Windows Media Player, devido ao custo de licenciar os decodificadores necessários (especialmente para dispositivos que não incluem unidades de disco óptico em tudo) e a prevalência de serviços de streaming como o Netflix. Pelas mesmas razões, o Windows Media Center não está mais incluído por padrão no Windows 8 também, mas o software (que também inclui suporte para reprodução de DVD) pode ser adicionado de volta através do add-on pago "Pro Pack" (para a versão base de Windows 8, que também atualiza o sistema para o Windows 8 Pro) ou "Media Center Pack" (para o Windows 8 Pro). O Windows 8 ainda vai apoiar softwares de terceiros que incluem reprodução de DVD.Os recursos "Backup e Restauração" e "Versões Anteriores", que costumavam ser Sombras de Cópia, foram removidos no Windows 8 em favor da nova função, chamada Histórico de Arquivos. Ao contrário da Sombra de Cópia, que realiza monitoramento de nível de bloco de arquivos, o Histórico de Arquivos só utiliza o USN Journal para acompanhar as mudanças; e adicionalmente, copia as versões anteriores de arquivos compartilhados armazenados em um computador com Windows Server.
+
+
+=== Windows RT 8 ===
+
+O Windows RT, que é uma versão do Windows para sistemas com Arquitetura ARM, só suporta aplicativos incluídos com o sistema (como uma versão especial do Microsoft Office 2013), fornecidos através do Windows Update ou pela Windows Store, para garantir a qualidade dos aplicativos disponíveis em ARM. O Windows RT não suporta a execução de aplicativos IA-32 ou x64. A loja de aplicativos do Windows pode ser compatível entre Windows 8 e Windows RT, ou compilado para suportar uma arquitetura específica.
+
+
+== Críticas ==
+Outra crítica foi em relação ao visual do sistema operacional em modo de Área de Trabalho. O sistema apresenta janelas com bordas retangulares, diferentes das de seus antecessores Vista e 7, que continham bordas arredondadas. O Windows 8 perdeu outra característica inovadora, o Windows Aero, presente nas versões Vista e 7, deixando as barras superiores das janelas sem transparência e centralizando seus títulos, o que gerou certo desconforto visual para alguns usuários (a transparência pode ser gerada por softwares baixados na internet, porém podendo apresentar bugs).
+
+
+== Atualização do Windows 8.1 ==
+Aconteceu, em abril de 2014, o lançamento do Windows 8.1 Update 1, que é semelhante a um pequeno Service Pack. Ele trouxe mudanças no visual e desempenho, focando nos computadores com mouse e teclado.
+
+
+== Requisitos ==
+Primeiramente, acesse o centro de compatibilidade da Microsoft, escolha a versão do Windows e verifique se a sua placa mãe está apta para receber o Windows 8.
+Depois vá ao site do fabricante dos periféricos que dependem de drivers e verifique se estão disponíveis drivers para Windows 8.
+
+
+== Tablets e conversíveis ==
+A Microsoft anunciou os requisitos mínimos de hardware para o novo tablet e dispositivos conversíveis projetados para o Windows 8, e definido um fator de forma conversível como um dispositivo autônomo que combina o PC, monitor e fonte de energia recarregável com um teclado mecânico em anexo e dispositivo apontador em um único chassi. Um conversível pode ser transformado num comprimido, onde os dispositivos de entrada estão conectados escondidos ou removidos, deixando o monitor como o mecanismo de entrada única.
+
+
+== Ver também ==
+Microsoft Windows
+Microsoft Office
+Windows 8.x
+Windows 8.1
+Windows 7
+Windows Server 2012 R2
+Windows Server 2012
+Windows Server 2008 R2
+Windows Vista
+Windows XP
+Windows 2000
+Windows Phone
+Superfetch
+Readyboost
+
+
+== Notas e referências ==
+
+
+=== Referências ===
+
+
+=== Notas ===
+Nenhum, de momento
+
+
+== Ligações externas ==
+«Notas de lançamento do Windows 8» (em inglês) 
+«Windows Newsroom: Galeria de vídeos» (em inglês) 
+«Blog Oficial» (em inglês)

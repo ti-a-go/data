@@ -1,0 +1,128 @@
+Reabastecimento em voo, ou REVO, ou Reabastecimento aéreo é o processo de transferir combustível de uma aeronave (o tanque) para outra (o receptor) durante o voo. Isto permite ao receptor permanecer em voo mais tempo e, mais importante, estender sua autonomia e portanto a de suas armas e o alcance de sua missão. Uma série de reabastecimentos aéreos pode dar alcance limitado somente pelo cansaço da tripulação e fatores técnicos, como por exemplo consumo de óleo do motor. 
+Devido ao fato da aeronave receptora poder ser preenchida com combustível extra, o reabastecimento aéreo pode permitir uma decolagem com uma carga maior, que pode ser de armas, carga ou pessoal: sendo o peso máximo de decolagem mantido pela substituição do combustível por mais carga. Alternativamente uma decolagem pode ser feita de pistas mais curtas, com um peso mais leve que possibilite a decolagem, e o reabastecimento ser realizado após a aeronave estar no ar (como com a aeronave de reconhecimento aéreo SR-71 Blackbird da Força Aérea dos Estados Unidos). 
+Normalmente a aeronave que provê o combustível é projetada especialmente para esta missão, entretanto o reabastecimento pode ser instalados em projetos existentes de aeronaves se o sistema de reabastecimento utilizado for o "sonda e cesto". O custo do equipamento de reabastecimento em ambas a aeronave tanque e receptora, além da manuseio especializado da aeronave a ser reabastecida, necessitando voo em formação muito próximo faz com que esta atividade seja somente utilizada em operações militares. Não é conhecida nenhuma atividade regular de reabastecimento em voo civil. Em operações militares de larga escala o reabastecimento aéreo é usado extensamente. Como por exemplo na Guerra do Iraque em 1991 e em 2003, quando todas as missões aéreas foram realizadas com reabastecimento em voo, exceto algumas poucas missões de curto alcance na área do Kuwait. 
+
+
+== História e desenvolvimento ==
+Os primeiros experimentos de reabastecimento aéreo foram realizados na década de 1920, com duas aeronaves, voando em formação, uma passando à outra uma mangueira que conectava seus respetivos tanques de combustível. Um biplano DH-4B permaneceu em voo, com reabastecimento aéreo, por 37 horas em 2 de junho de 1923. 
+O desenvolvimento foi rápido. Em 1929, um grupo de pilotos da força aérea americana, liderados pelo major Carl Andrew Spaatz, bateu o recorde de autonomia, com mais de 150 horas, voando um Question Mark em Los Angeles. Em 1930, os irmãos Hunter fixaram um novo recorde de 553 horas e 40 minutos, sobre Chicago. O reabastecimento aéreo permaneceu um processo perigoso até 1935 quando Fred e Al Key inventaram o primeiro bocal de reabastecimento sem vazamentos, projetado por A. D. Hunter. Eles excederam o recorde anterior por mais de 100 horas em um avião Curtiss Robin, permanecendo no ar por mais de 27 dias.
+No Reino Unido, Alan Cobham foi pioneiro no método de sonda e cesto e realizou demonstrações públicas do sistema. Em 1934, fundou a Flight Refueling Ltd e em 1938 tinha um sistema automático para reabastecer aeronaves como o hidroavião Short Empire Cambria a partir de um Armstrong Whitworth AW.23. Aviões Handley Page Harrow foram utilizados para reabastecer hidroaviões Empire em voos transatlânticos regulares.
+Atualmente, aviões de reabastecimento são especialmente projetados para a tarefa de transferir combustível para uma aeronave receptora, baseados projeto de Hunter, até mesmo na altas velocidades necessárias para que os aviões a jato permaneçam em voo. 
+Em 1949, de 26 de fevereiro a 3 de março um B-50 Superfortress norte-americano, "Lucky Lady II", voou sem escalas ao redor do mundo em 94 horas e 1 minuto, um feito somente possível através de 3 reabastecimentos aéreos de 8 tanques KB-29M. O voo saiu e retornou da Carswell Aéreo Force Base em Fort Worth, Texas, com os reabastecimentos sendo feitos na África Ocidental, o Oceano Pacífico, perto de Guam e entre o Havaí e a costa oeste dos Estados Unidos. Esta primeira circum-navegação non-stop do globo mostraram que barreiras geográficas e vastas distâncias não eram mais obstáculos ao poder aéreo militar, graças ao reabastecimento aéreo. 
+
+
+== Sistemas de reabastecimento aéreo ==
+Os dois sistemas mais utilizados de reabastecimento entre duas aeronaves são o sistema de lança e receptáculo e o sistema sonda e cesto. Menos popular os sistema asa-asa não é mais utilizado. 
+
+
+=== Lança e receptáculo (O "Lança Voadora da Boeing") ===
+No final da década de 1940, o general norte-americano Curtis LeMay, pediu à Boeing que desenvolvesse um sistema de reabastecimento que transferisse combustível numa vazão maior que a possível com mangueiras flexíveis – dali surgiu o conceito do sistema da “Lança Voadora”.
+O B-29 foi o primeiro a utilizar estes sistema, e entre 1950 e 1951, 116 B-29s, designados KB-29Ps, foram convertidos para como tanques no fábrica da Boeing em Renton. 
+A Boeing prosseguiu e desenvolveu a primeira aeronave de reabastecimento aéreo especialmente dedicada, o KC-97 Stratotanker, um Boeing Stratocruiser (C-97 StratoFreighter) com a lança desenvolvida pela Boeing e querosene extra alimentando a lança. Os motores do KC-97 eram movidos a gasolina, um sistema combustível misto gasolina/querosene não era a melhor solução, portanto era necessário desenvolver um jato reabastecedor, com um tipo de combustível único para ambos os motores, do tanque e do abastecido. A força aérea solicitou à Boeing que desenvolvesse tanques baseados na plataforma do Boeing 367-80 (Dash-80) Aéreoframe. O resultado foi Boeing Model 717, designado militarmente como KC-135 - 732 foram construídos.
+A lança voadora da Boeing consiste em um eixo longo e rígido conectado à traseira da aeronave tanque. A fixação do eixo é flexível, possibilitando à lança o movimento de 25 graus para cada lado, e de alinhado com parte inferior da fuselagem até 50 graus para baixo. Na parte interior do eixo está um tubo rígido dentro do qual passa o combustível. A ponta do tubo possui um bocal fixado numa junta bola. O bocal se encaixa no receptáculo da aeronave a ser abastecida durante o processo de transferência de combustível. Uma válvula no final do bocal evita o vazamento de combustível até que seja feito contato entre o bocal e o receptáculo, permanecendo travado durante o abastecimento. 
+Montado sobre o eixo estão pequenas asas estabilizadoras - os ruddevators visíveis na figura, com um formato "V" - ou alternativamente quatro superfícies, similares à montagem feita no jato da Segunda Guerra Mundial Heinkel He 162. superfícies permitem o controle aerodinâmica da lança. O tubo de combustível estende-se e retrai-se hidraulicamente, e também absorve o movimento relativo entre o tanque abastecedor e a aeronave sendo abastecida.
+O receptáculo abastecedor é normalmente instalado no linha central da aeronave, mas considerações de projeto podem levá-la a ser instalada em outros locais. 
+Para iniciar o reabastecimento aéreo, o piloto da aeronave receptora inicia um voo em formação, diretamente abaixo da aeronave, aproximadamente 50 ft (17 metros) abaixo da lança. Quando autorizado o piloto move a aeronave à frente para a posição de contato, auxiliado por comandos de rádio ou visuais (luzes em baixo do tanque) do tripulante operador da lança o "boom operator" ou "boomer". No KC-135 a posição do boomer é deitada, enquanto no KC-10 é sentada. Em ambos os tanques a posição é na traseira do avião, de frente para trás. Uma vez que o receptor atinge a posição de contato o piloto permanece na posição, procurando manter o mínimo de movimento relativo entre as aeronaves. Utilizando o controle do ruddevator e a extensão/retração da lança, o boomer consegue posicionar a lança tridimensionalmente, assim alinhado o bocal com o receptáculo e estendendo o tubo de maneira a fazer contato entre ambos. Após o engajamento (travando a lança na posição) bombas são ligadas, forçando o combustível através da lança para o recipiente.
+
+Enquanto em contato, os indicadores de direção (duas fileiras de luzes sob o tanque) auxiliam o piloto da aeronave sendo abastecida a manter-se dentro do envelope de reabastecimento aéreo. Este envelope – uma aérea em formato aproximado de um cubo – dentro do qual o bocal e o receptáculo devem permanecer durante o contato – é razoavelmente diferente dependendo da aeronave abastecida. Seus limites são baseados nas limitações de movimento da lança, ou para prevenir o movimento para uma área qualquer porção da lança toque a aeronave abastecida fora do receptáculo. Os limites mecânicos da lança vêm ou de limitações estruturais do sistema de abastecimento ou da máxima deflexão do bocal flexível. Em caso do movimento da aeronave sendo abastecida em qualquer direção, fora do envelope, o bocal de abastecimento pode permanecer travado na aeronave (como ao tentar retirar uma chave da fechadura puxando a chave para o lado, e não diretamente para trás) prevenindo o desengajamento do sistema. O boomer segue o movimento da aeronave abastecida, movendo os ruddevator para manter o alinhamento entre o tubo de combustível interno e o eixo externo. Ele também monitora a posição da aeronave abastecida, através de três indicadores de posição, e comanda o desengajamento do bocal caso a aeronave abastecida sai do envelope de abastecimento. 
+Quando o abastecimento é completado o boomer comanda a desconexão. O desengajamento pode acontecer também em caso de enchimento inadvertido da aeronave receptora. Após a desconexão o boomer retrai o tubo de combustível do receptáculo e move a lança para longe da aeronave abastecida. Enquanto não está em uso a lança é alinhada com a parte de baixo do tanque, através dos ruddevators, ou puxada através de cabo e bomba hidráulica, para diminuir o arrasto. A aeronave abastecida se desloca para trás e para baixo, livrando o tanque e segue em sua missão.
+A principal vantagem da lança é a grande vazão de combustível (até 1000 galões por minuto em um KC-135). Isto porque o diâmetro do tubo de combustível numa lança é maior que o do sistema rival "sonda e cesto". Uma alta vazão de transferência de combustível foi considerada vital pelo comanda aéreo norte-americano para abastecimento da frota de bombardeiros por causa da preocupação com fadiga dos pilotos durante a operação de reabastecimento. Os pilotos da aeronaves em abastecimento necessitam de um alto nível de concentração para voar em formação durante o procedimento de reabastecimento. Outra questão do sistema com lança é o custo de treinamento do boomer – estimativas da década de 1990 colocam o custo em aproximadamente um milhão de dólares. 
+Além da força aérea norte-americana o sistema de lança é utilizada nas forças aéreas da Países Baixos (KDC-10), Israel (Boeing 707 modificado) e Turquia (KC-135R norte-americanos). Provavelmente a maior aeronave de reabastecimento, o Irã, recebeu tanques de reabastecimento baseados no Boeing 747 com uma lança e três cestos em 1976, nomeados pelo Irã como IRIAF B747. Pelo menos um deles ainda sobrevoa Teerã com frequência sob a matrícula 5-8107. O Japão e a Itália encomendaram à Boeing aeronaves de reabastecimento baseadas no Boeing 767.
+O grupo europeu EADS desenvolveu uma lança de reabastecimento usando o sistema de controle "fly-by-wire", compatível com outros sistemas de lança. Este sistema é oferecido nos Airbus modificados que são configurados como tanques.
+Atualmente a Boeing e EADS estão competindo por um contrato para suprir a força aérea norte-americana com um novo tanque, para substituir a envelhecida frota de KC-135. Este contrato está estimado em 40 000 milhões de dólares, considerando a substituição de toda frota de 500 KC-135 pode chegar a mais de 100 000 milhões de dólares – fazendo dele o maior contrato de programa militar da história.
+
+
+=== Sonda e cesta ===
+O sistema mais simples e barato de sonda-e-cesta é utilizado por várias organizações militares incluindo a marinha e os fuzileiros navais norte-americanos e várias forças aéreas ao redor do mundo. Este sistema pode ser facilmente instalado em tanques existentes, entretanto possibilita uma menor vazão de combustível por causa da menor pressão e menor diâmetro da mangueira quando comparado com a lança de abastecimento. Entretanto isto não é um problema para aeronaves menores, que consomem pouco combustível. 
+A cesta (ou drogue, em inglês), é uma conexão que lembra uma peteca plástica, presa a sua extremidade mais estreita, está uma válvula, e uma mangueira flexível, que vai até carretel instalado no avião tanque. A aeronave a ser abastecida possui uma sonda, que é um braço rígido instalado no nariz da aeronave, ou na lateral do nariz. Na ponta da sonda está uma válvula que permanece fechada até encaixar com a cesta, quando então abre e permite a passagem de combustível do tanque até o receptor. A válvula utilizada nos sistema de cesto e sonda normalmente utilizado é um padrão OTAN e foi originalmente desenvolvido pela companhia Flight Refuelling Limited. Aeronaves tanque equipadas com cesto de diferentes países podem abastecer aeronaves com sonda de outros. O sistema padrão de sonde possui rebites de cisalhamento entre a ponta da válvula e a sonda. Em caso de uma carga lateral ou ascendente excessiva, enquanto em contato com o cesto, os rebites quebram a válvula de combustível, liberando-a, em lugar de deixar danificar o braço de abastecimento. Como o a sonda está fortemente presa à fuselagem da aeronave, isto também previne eventuais danos à própria fuselagem. A quebra da sonda (ou da válvula de combustível) ocorre devido à erros de pilotagem ou à turbulência. Às vezes a válvula quebrada permanece presa na cesta da mangueira de abastecimento, evitando que outras aeronaves sejam abastecidas. 
+
+
+==== Técnica de voo ====
+A aeronave tanque voa reto e nivelado, com a cesta presa à mangueira de combustível esticada e livre atrás e abaixo dele. O piloto da aeronave a ser abastecida deve então utilizar seus controles de voo para encaixar a sonda de reabastecimento diretamente na cesta, de modo que as válvulas da cesta e da sonda prendam-se juntas, assim permitindo o fluxo de combustível de uma aeronave para outra. Isto requer que ambas as aeronaves mantenham uma velocidade relativa menor que dois nós, de modo a evitar, em caso de velocidade menor, um contato leve (em que a as válvulas não travem juntas), ou em caso de maior velocidade, deixar um arco na mangueira, produzindo uma carga lateral na válvula da sonda, quebrando-a e eventualmente provocando o fim da missão. A melhor aproximação é por trás e por abaixo, alinhado com a direção da mangueira. Uma boa regra para o piloto da aeronave a ser abastecida é posicionar-se de modo a alinhar a cesta com a unidade do carretel da mangueira (em inglês, Hose Drum Unit - HDU).
+
+
+== Aeronaves tanque por sistema de reabastecimento ==
+
+
+=== Lança e receptor ===
+KB-29P (fora de serviço)
+adaptado do bombardeiro B-29 Superfortress
+KC-97 Stratotanker (fora de serviço)
+derivado do C-97 Stratofreighter
+KC-135 Stratotanker
+similar ao Boeing 707 comercial, mas com fuselagem de menor diâmetro e outros sistemas
+também utilizado pelas Forças Aéreas Francesa, de Singapura e da Turquia.
+a lança pode ser instalada antes do voo com um adaptador cesta. Os KC-135 Stratotankers da Forças Aéreas Francesa usam um sistema sonda e cesto
+modelos MPRS possuem dois sistemas de cesto nas pontas da asa.
+Tanques Boeing 707 modificados incluem as Forças Aéreas da Austrália, Venezuela, Israel, Itália e África do Sul.
+KC-10 Extender
+adaptado do McDonnell Douglas DC-10
+possui também um sistema sonda e cesto que pode ser utilizado em voo
+pode ser utilizado com dois sistemas sonda e cesto embaixo das asas (similar ao KC-135 MPRS) capaz de reabastecimento simultâneo de duas aeronaves.
+A Força Aérea dos Países Baixos opera dois KDC-10s – antigas aeronaves civis modificadas para um padrão similar ao KC-10
+KC-767
+adaptado do Boeing 767
+recém entregue à Força Aérea da Itália e Japão.
+se encomendado pelos Estados Unidos, todos os modelos terão adaptadores para MPRS
+Airbus A330 MRTT
+desenvolvimento do Airbus A330-200
+a aeronave da Força Aérea Australiana será equipada com ambos os sistemas lança voadora e sonda-e-cesto para acomodar tanto os F-111s como os F/A-18s. Será conhecido como KC-30B.
+as aeronaves britânicas serão sonda-e-cesto somente.
+
+
+=== Sonda e cesto ===
+Airbus A330
+Força Aérea Real, a entrar em serviço em 2008.
+Airbus A310 MRTT
+4 para a Luftwaffe
+2 para a Força Aérea Canadense (como CC-150 Polaris)
+Airbus A400M, futura aeronave de transporte estratégico e tanque, a entrar em serviço em 2009.
+Avro Lancaster (fora de serviço)
+Reabastecia Gloster Meteors na década de 1940
+Avro Lincoln (fora de serviço)
+Reabastecia Gloster Meteors na década de 1940
+Avro Vulcan (fora de serviço)
+especialmente modificado para operações durante a Guerra das Malvinas
+Blackburn Buccaneer (fora de serviço)
+Equipado para abastecimento mútuo
+Boeing 707
+Utilizado pela FAB, Força Aérea da Austrália, África do Sul e outra .
+KC-135 Stratotanker da Força Aérea Francesa usa o sistema sonda e cesto.
+A Força Aérea do Canadá utilizou CC-137 (Boeing 707) para reabastecimento. Foram aposentados no final da década de 1990.
+KB-29M (fora de serviço)
+adaptado do B-29 Superfortress
+KB-50 (fora de serviço)
+adaptado do B-50 Superfortress, um modelo melhorado do B-29 Superfortress.
+HC-130 Hercules e KC-130 Hercules, especialmente nos Fuzileiros Navais dos Estados Unidos, como KC-130s na FAB, Força Aérea Argentina, Força Aérea de Israel, Singapura, Canadá e Espanha.
+variantes do C-130 Hercules
+Lockheed L-1011 Tristar
+K1 e KC1 utilizados pela RAF
+Vickers Valiant (fora de serviço)
+Vickers VC-10
+Handley Page Victor (fora de serviço)
+KA-3 (fora de serviço)
+A-4 Skyhawk
+KA-6 (fora de serviço)
+KA-7 (fora de serviço)
+F/A-18E/F
+Ilyushin Il-78 MidasTanque padrão russo, adaptado do Ilyushin Il-76
+Variantes desta aeronave foram utilizadas nas forças aérea da Argélia, Índia e República Popular da China
+Myasishchev M-4-2
+adaptado do bombardeiro M-4
+Myasishchev 3MS-2
+adaptado do bombardeiro 3M
+Tu-16N (e Tu-16Z com sistema asa-asa)
+Sukhoi Su-24 M
+Su-33
+
+
+== Manifestações na cultura popular ==
+O filme The Starfighters possui várias cenas com jatos F-104 Starfighter em reabastecimento.
+O filme Dr. Strangelove de 1964 tem uma cena genuína de uma operação "lança e receptáculo" entre um KC-135 Stratotanker e um B-52 Stratofortress, durante turbulência.
+O filme The Final Countdown de 198 tem uma cena genuína de operação "sonda e cesto" entre um KA-6 Intruder e um F-14 Tomcats.
+O filme Air Force One mostra uma animação computadorizada de um KC-10 reabastecendo Boeing presidencial
+
+
+== Ligações externas ==
+Aéreoborne rearming - A comprehensive article including a video.
+Official KC-30 Tanker website

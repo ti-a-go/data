@@ -1,0 +1,24 @@
+A mamografia ou mastografia é um exame de rastreio por imagem, que tem como finalidade estudar o tecido mamário. 
+Esse tipo de exame pode detectar um nódulo, mesmo que este ainda não seja palpável.
+Para tanto é utilizado um equipamento que utiliza uma fonte de raios-x, para obtenção de imagens radiográficas do tecido mamário.
+
+
+== Aplicações ==
+A capacidade de identificar lesões de tamanho mínimo é uma das vantagens do uso da mamografia na detecção de um  câncer de mama, antes de ser palpável e  de se manifestar clinicamente. Este diagnóstico, feito numa fase muito precoce da doença, é geralmente associado a um melhor prognóstico para a cura e a necessidade de um tratamento menos agressivo para o controle do câncer em alguns casos.
+Em muitos países, a mamografia de rotina das mulheres é recomendada como um método de triagem para o diagnóstico precoce do câncer de mama. A US Preventive Services Task Force recomenda a mamografia, com ou sem exame clínico das mamas a cada 1-2 anos em mulheres com 40 anos ou mais. Em conjunto com os testes clínicos, encontrou-se uma redução relativa da mortalidade  de 20%.
+
+
+== Falsos negativos ==
+Mamografia dá resultado falso negativo em pelo menos 10% dos casos. Isto é devido à existência de tecido denso, escondendo o câncer sob a aparência dos tecidos normais.
+
+
+== Falsos positivos ==
+De acordo com o estudo publicado no Annals of Internal Medicine, "após 10 anos de mamografias anuais, mais da metade das mulheres vai receber pelo menos um  falso-positivo, e de 7% para 9% irão receber uma recomendação de falso-positivo de biópsia."
+
+
+== Ver também ==
+Radiologia
+BI-RADS
+
+
+== Referências ==

@@ -1,0 +1,179 @@
+O parapente (paraglider, em inglês)  é semelhante a um paraquedas, pois também tem uma estrutura flexível e o utilizador está suspenso. O voo de parapente é uma modalidade de voo livre que pode ser praticado tanto para recreação quanto para competição, sendo considerado um esporte radical.
+Enquanto o paraquedista se limita  passivamente a diminuir os riscos de uma aterragem violenta, o parapentista tem um voo dinâmico, onde o piloto pode controlar a sua direção e, em circunstâncias favoráveis de correntes de ar ascendentes, a sua descida, podendo manter-se a voar por períodos longos.
+Denomina-se paramotor o parapente no qual um motor é empregado para propelir o piloto.
+
+
+== Histórico ==
+A história do parapente começa em 1965 com a velasa (sailwing em inglês) criada por Dave Barish que chamou de slope soaring (voo de talude) a prática de salto com esta vela. Paralelamente, Domina Jalbert inventa um paraquedas cujo velame é composto por células, para gerar o efeito asa de avião. Este paraquedas com dorso e intradorso, separados pelas células, foi o ancestral dos atuais paraquedas, parapentes e kites (as velas do kitesurf).
+
+
+== A razão ==
+O parapente foi criado no Parachute Club d'Annemasse (França), em 1978 para servir de treino aos paraquedistas na precisão na aterrissagem sem necessitarem de utilizar um avião. Em 1980, foi criado o primeiro estágio de vol de pente (voo de encosta) e três anos mais tarde o nome mudou para parapente. Em 1985, é reconhecido como desporto pela "Fédération Française de Vol à Voile".Desde então, passaram a evoluir separadamente e, atualmente, a diferença mais importante entre paraquedas e parapente é em relação ao chamado L/D (em inglês, Lift and Drag), ou razão de planeio, que significa a distância horizontal que se pode atingir quando se parte de uma certa altura. Por exemplo: com um parapente de L/D 7, se a decolagem é feita de uma altura de 1 quilômetro, atingem-se 7 quilômetros de distância horizontal.
+Nos parapentes básicos atuais, os L/Ds são superiores a 9, já os L/Ds dos paraquedas são muito inferiores a este valor.  Os parapentes de competição já possuem L/D maior que 11.
+
+
+== Construção ==
+É feito de materiais como o nylon e o poliéster não porosos e impermeabilizados, para que o ar que entra não saia através do tecido, mantendo assim a pressão interna e o velame inflado. Quanto mais horas de voo e exposição ao Sol, mais desgastado fica o velame, causando a perda da impermeabilidade e aumentando a porosidade, tendo assim uma diminuição da performance.
+O velame varia de tamanho de acordo com o peso do piloto e com a modalidade (voo duplo, longa distância, acrobacias etc).
+
+
+== Designações ==
+
+
+=== Células ===
+Os gomos do parapente e variam de quantidade de um modelo para outro diferenciando assim a performance.
+
+
+=== Extradorso ===
+A parte de cima do velame, ou seja, as costas.
+
+
+=== Intradorso ===
+A parte de baixo do velame, ou seja, a barriga onde se prendem as fileiras de linhas.
+
+
+=== Estabilizador ===
+A ponta do velame visa à estabilidade em torno do eixo vertical, e faz também que o parapente aproe para o vento. Funciona impedindo a passagem de parte do ar do intradorso, que tem pressão maior, passe para o extradorso, que tem pressão menor, diminuindo, assim, o aumento do arrasto causado pelo turbilhonamento da ponta da asa.
+
+
+=== Bordo de ataque ===
+A parte da frente das células do velame, onde se encontram as aberturas por onde o ar entra.
+
+
+=== Bordo de fuga ===
+A parte de trás do velame, que é costurada para o ar não sair e onde as linhas do freio atuam para que se possa fazer as curvas através da deformação de um dos lados ou diminuir a velocidade atuando dos dois lados simultaneamente.
+
+
+=== Freios ===
+A união dos batoques e linhas usadas para frear e direcionar o parapente, usado para aumentar a sustentação na decolagem, e no pouso para amortecer a chegada. O freio é muito importante pois através dele é que sentimos a variação de pressão do velame e em voos turbulentos é necessária uma pilotagem ativa aumentando e diminuindo a tensão na linha de freio para compensar a variação de pressão.
+
+
+=== Elevadores, bandas ou tirantes ===
+As tiras que unem as linhas aos mosquetões e são formadas por 2 a 5 elevadores. São classificados como tirante A podendo-se ter 2 tirantes sendo um para fazer orelhas, B, C, D.
+
+
+=== Batoques ===
+Os batoques são uma espécie de alca e estão ligados à linha dos freios. O piloto segura os batoques com as mãos. São ao todo, dois batoques. Uma para comandar o lado direito e outro para comandar o lado esquerdo.
+
+
+=== Trimmer ===
+O trimmer é um acelerador, ou seja, um dispositivo usado para alongar o elevador traseiro do parapente. Este dispositivo atua mudando o ângulo ALFA  do parapente chamado também de ângulo de ataque, o que altera a velocidade horizontal e vertical do parapente, fazendo com que ele voe mais rápido ou mais devagar.
+
+
+=== Linhas ===
+São as linhas do parapente que unem o velame aos tirantes e são feitas de vários materiais como o kevlar.
+
+
+=== Suspensão ===
+É composta pelas linhas que unem os elevadores ao velame, a mais comum nos dias de hoje é a suspensão linear, tendo cada tirante uma fileira individual de linhas.
+
+
+=== Mosquetinhos ou Mosquetões ===
+Feitos de aço ligam as linhas aos tirantes.
+
+
+=== Arnés (PB), arnez (PE), cadeira, selete ===
+Tendo a prática do parapente nascido muito associada ao montanhismo, o mecanismo que permite segurar o piloto herdou, dessa forma, o nome de "arnés", à semelhança do que acontece na escalada. No entanto, com a evolução da modalidade surgiram diversas formas desde os mais compactos habitualmente utilizados no voo acrobático ou montanhistas, aos mais volumosos e confortáveis utilizados sobretudo no voo de distância.
+No caso dos bilugares, ou voo duplo a asa possui um mecanismo que permite a fixação de dois cavalos. O do piloto, e um mais compacto destinado ao passageiro.
+
+
+== Equipamento ==
+
+
+=== Paraquedas reserva ===
+Acessório de uso obrigatório para segurança em voo. Usado para emergências no caso de colisão em voo, desinflar e engravatar, causando a perda de altitude irreversível. O tamanho do paraquedas reserva varia com o peso a ser sustentado.
+O tipo mais utilizado é o redondo, semelhante a utilizado por militares porém este modelo possui pouca ou nenhuma dirigibilidade (levado pelo vento), existem outros tipos, como o Rogalo que tem a forma semelhante a de um triângulo e permite o controle do voo até o solo, podendo o piloto escolher um melhor local para pouso.
+
+
+=== Óculos de sol ===
+São importantes para poder pilotar melhor sem que ao olhar para a vela o Sol o atrapalhe, é importante que as lentes tenham uma boa proteção UV
+
+
+=== Capacete ===
+Item obrigatório de voo, para proteção caso o piloto ou passageiro em um pouso forte bata a cabeça, arborize ou caia na decolagem.
+
+
+=== Botas de voo ===
+Geralmente tem proteção lateral para não torcer o tornozelo no caso de pousar forte ou caminhadas  em terreno irregular.
+
+
+== Acessórios ==
+
+
+=== Variômetro ou Vario ===
+Dispositivo que permite ao piloto identificar se está na presença de uma massa de ar ascendente ou descendente.
+
+
+=== GPS ===
+Aparte das habituais funcionalidades de navegação, o GPS é forma mais eficiente do piloto ter uma noção da altura e velocidade a que se desloca.
+
+
+== As modalidades ==
+
+
+=== Cross Country ===
+É a modalidade mais popular do parapente, tendo como objetivo voar a maior distância no menor espaço de tempo possível. Normalmente, nos campeonatos de Cross Country, existe uma comissão técnica que define uma prova (trajeto) com dois ou mais pontos a serem percorridos pelos pilotos. Cada piloto utiliza um GPS para seguir a rota definida pela comissão técnica e o vencedor é o piloto que chega primeiro ao final da prova (goal).
+No Brasil, temos um dos melhores lugares para se voar, que é conhecido mundialmente como a "Meca" do voo livre, que é Governador Valadares/MG.
+O atual campeão Brasileiro nesta categoria é Frank Brown.
+O recorde mundial de distância livre foi obtido em 14 de novembro de 2007 por 3 brasileiros (Frank Brown, Rafael Saladini e Marcelo Prieto) percorrendo 461,8 quilômetros após decolarem da cidade de Quixadá, no Ceará, e pousarem no Maranhão.
+Existe, ainda, um Ranking na internet, XC Brasil e XC Portugal, que pontua os pilotos com seus voos.
+
+
+=== Acrobacia ===
+É uma modalidade extremante radical e que exige muita técnica do piloto para ser realizada com segurança. O início da acrobacia como modalidade foi em meados de 2001, quando o piloto espanhol Raul Rodriguez inventou a manobra conhecida como SAT, onde o piloto gira de costas com um eixo vertical que fica entre o piloto e o parapente. A partir da descoberta desta manobra, foram inventadas varias outras manobras e então começaram a surgir os campeonatos de acro. Todos os campeonatos de acro são obrigatoriamente realizados sobre a água (por motivos de segurança), onde os pilotos definem as manobras que irão realizar e os juízes analisam a velocidade, ritmo e conexão entre as manobras que o piloto realiza. Atualmente já existem cursos específicos para este tipo de modalidade e aprender a fazer acrobacia esta se tornando cada vez mais fácil e seguro.
+
+
+=== Voo duplo de parapente ===
+É uma modalidade presente nos campeonatos e torneios, além disso é uma prática de alguns pilotos, após adquirir confiança em suas habilidades no esporte, então passam a levar seus familiares e amigos. Por outra via, alguns pilotos aproveitam para conciliar o esporte, lazer e ganhar algum dinheiro proporcionando o voo duplo de parapente a terceiros. Contudo, a bem da segurança, esta atividade deve ser conduzida por pilotos experientes, tais como os instrutores de escolas especializadas neste esporte, que, além da destreza, têm, também, conhecimento das condições meteorológicas do local, dos pontos de pouso e resgate.
+
+
+== Lift (dinâmico) ==
+É o voo realizado em encostas, ou obstáculos de altura razoável, como: serras, morros e até prédios.
+
+
+== Galeria de Fotos ==
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Ver também ==
+Copa do Mundo de Parapente
+Asa-delta
+Pipa
+Planador
+
+
+== Ligações externas ==
+Federação Aeronáutica Internacional
+Federação Portuguesa de Voo Livre
+Associação Brasileira de Parapente
+Associação Brasileira de Voo Livre
+
+
+== Referências ==

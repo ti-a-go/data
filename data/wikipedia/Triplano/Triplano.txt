@@ -1,0 +1,44 @@
+Triplano - é uma aeronave com uma configuração de asas de tal modo que há três superfícies de sustentação verticalmente paralelas (uma sobre a outra). Esta configuração visava grande manobrabilidade por possuir asas mais curtas e, com menor momentum angular no sentido longitudinal. Por outro lado, os três conjuntos de asas impediam que o avião alcançasse velocidades mais altas, mesmo com motores potentes, representando baixa eficiência. Foi uma configuração predominantemente usada durante a Primeira Guerra Mundial, mas caiu em desuso por não apresentar grandes vantagens em relação aos biplanos, que possuiam menor arrasto aerodinâmico, por terem menos conjuntos de asas.
+
+
+== Escalonamento ==
+É o modo como as asas biplanas e triplanas são montadas em relação ao comprimento da fuselagem. Podem ser:
+
+Sem escalonamento: As asas são montada uma acima da outra sem diferença de posição.
+Escalonamento ascendente: As asas são montadas com diferença em relação ao comprimento da fuselagem sendo a superior ligeiramente à frente em relação a vertical da de baixo. Como em uma escada quando se está subindo.
+Escalonamento descendente: Ao contrário da ascendente estas são montadas com a asa superior afastando se para trás do comprimento da fuselagem. Como em uma escada quando se está descendo.
+
+
+== Exemplo de layout ==
+
+
+== Imagens de exemplo ==
+
+Triplanos
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Ver também ==
+Monoplano
+Biplano
+Quadriplano
+Multiplano
+
+
+== Ligações externas ==
+«WEBX.ubi.pt» (PDF)  Arquivado em 15 de fevereiro de  2010, no Wayback Machine.

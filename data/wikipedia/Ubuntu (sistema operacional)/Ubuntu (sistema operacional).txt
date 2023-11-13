@@ -1,0 +1,160 @@
+Ubuntu é um sistema operacional(pt-BR) ou sistema operativo(pt-PT?) de código aberto, construído a partir do núcleo Linux, baseado no Debian e utiliza GNOME como ambiente de desktop de sua mais recente versão com suporte de longo prazo (LTS). Esta distribuição Linux é desenvolvida pela Canonical Ltd.Geralmente é executado em computadores pessoais e também é popular em servidores de rede, geralmente executando a versão Ubuntu Server, com recursos de classe empresarial. Até 2017, o Ubuntu também estava disponível para tablets e smartphones, com a edição Ubuntu Touch.
+A proposta do Ubuntu é oferecer um sistema que qualquer pessoa possa utilizar sem dificuldades, independentemente de nacionalidade, nível de conhecimento ou limitações físicas. O sistema deve ser constituído principalmente por software livre e deve também ser isento de qualquer taxa.
+
+
+== Denominação ==
+O nome "Ubuntu" AFI: [u'buntu] deriva do conceito sul-africano de mesmo nome, diretamente traduzido como "humanidade com os outros" ou "sou o que sou pelo que nós somos todos".
+
+Esse nome busca passar a ideologia do projeto, baseada nas liberdades do software livre e no trabalho comunitário de desenvolvimento. O sistema é muito comumente chamado "Ubuntu Linux", porém, oficialmente a Canonical, desenvolvedora do sistema, usa apenas o nome "Ubuntu", uma vez que o sistema ao ser portado para outros núcleos livres para além do Linux recebe outros nomes (por exemplo, o Ubuntu implementado sobre o OpenSolaris recebe o nome de "Nexenta") - ao contrário do Debian, por exemplo, que recebe este nome independentemente do núcleo usado.
+
+
+== História ==
+O Ubuntu é construído sobre a arquitetura e a infraestrutura do Debian, e compreende as versões de sistema operacional para telefones e tablets Linux, desktop e tablet descontinuados. O Ubuntu lança versões atualizadas previsivelmente a cada seis meses, e cada lançamento recebe suporte gratuito por nove meses (dezoito meses antes da versão 13.04) com correções de segurança, correções de bugs de alto impacto e correções de bugs conservadoras e substancialmente benéficas de baixo risco. O primeiro lançamento foi em outubro de 2004.As versões atuais de suporte de longo prazo (LTS) são suportadas por cinco anos e são lançadas a cada dois anos. As versões LTS recebem lançamentos de pontos regulares com suporte para novo hardware e integração de todas as atualizações publicadas naquela série até o momento.Os pacotes do Ubuntu são baseados em pacotes do ramo instável do Debian. Ambas as distribuições usam o formato de pacote .deb do Debian e ferramentas de gerenciamento de pacotes (por exemplo, APT e Ubuntu Software). Pacotes Debian e Ubuntu não são necessariamente binariamente compatíveis entre si, no entanto; pacotes podem precisar ser reconstruídos a partir do código-fonte para serem usados no Ubuntu. Muitos desenvolvedores do Ubuntu também são mantenedores de pacotes-chave no Debian. O Ubuntu coopera com o Debian, empurrando as mudanças de volta para o Debian, embora tenha havido críticas de que isso não acontece com frequência suficiente. Ian Murdock, o fundador do Debian, expressou preocupação com os pacotes do Ubuntu divergindo muito do Debian para permanecerem compatíveis. Antes do lançamento, os pacotes são importados do Debian unstable continuamente e mesclados com modificações específicas do Ubuntu. Um mês antes do lançamento, as importações são congeladas e os empacotadores trabalham para garantir que os recursos congelados funcionem bem juntos.Em 8 de julho de 2005, Mark Shuttleworth e a Canonical Ltd anunciaram a criação da Ubuntu Foundation e providenciaram um aporte inicial de US$ 10 milhões. A finalidade da fundação é garantir apoio e desenvolvimento a todas as versões posteriores a 5.10.No dia 5 de maio de 2007, Matt Zimmerman anuncia o novo projeto da Canonical, o "Ubuntu Mobile and Embedded", que seria uma versão do Ubuntu otimizada para uso com o Dispositivo de Internet Móvel da Intel. A primeira versão, 8.04, foi lançada em 30 de julho de 2008, porém o projeto foi cancelado na versão 9.10 Alpha 6, lançada em 17 de setembro de 2009.Em 12 de março de 2009, o Ubuntu anunciou o suporte de desenvolvedores para plataformas de gerenciamento de nuvem de terceiros, como as usadas no Amazon EC2.Desde o Ubuntu 17.10, o GNOME 3 é a GUI padrão do Ubuntu Desktop, enquanto o Unity ainda é o padrão em versões mais antigas, incluindo todas as versões atuais do LTS. A versão Ubuntu GNOME foi descontinuada após a versão padrão adotar este ambiente de desktop e os esforços de desenvolvimento foram combinados. Uma bifurcação do Unity 8, chamada Yunit, foi criada para continuar o desenvolvimento do Unity. Shuttleworth escreveu em 8 de abril de 2017:
+
+Shuttleworth também mencionou que a Canonical cessará o desenvolvimento do Ubuntu Phone, Tablet e convergência.
+
+
+== Características ==
+
+
+=== Desenvolvimento ===
+O Ubuntu é produzido pela Canonical e pela comunidade em um modelo de governança meritocrático. A Canonical fornece atualizações gratuitas de segurança e suporte para cada versão do Ubuntu, a partir da data de lançamento e até o lançamento atingir sua data de fim de vida (EOL - End Of Life). Todas as versões são disponibilizadas sem custo algum, a Canonical gera receita através da venda de serviços premium relacionados ao Ubuntu.Novas versões são lançadas duas vezes ao ano, uma no mês de Abril e outra no mês de Outubro. Tendo relação direta com suas versões: Ano.Mês. Sua mais recente versão é a 22.04 Jammy Jellyfish (lançada em Abril de 2022).
+
+
+=== Debian vs. Ubuntu ===
+Diferencia-se do Debian pela filosofia em torno de sua concepção, por ter versões lançadas semestralmente, por disponibilizar suporte técnico nos 9 meses seguintes ao lançamento de cada versão e as versões LTS (Long Term Support, suporte de longo prazo) para desktop e servidores receberem 5 anos de suporte. O Ubuntu possui uma forte ligação com a comunidade Debian, contribuindo direta ou indiretamente com qualquer modificação nos códigos fonte, ao invés de apenas anunciar essas mudanças em uma data posterior. Muitos programadores do Ubuntu mantêm pacotes chave do próprio Debian.
+
+
+=== Usabilidade e acessibilidade ===
+Um dos focos principais é a usabilidade, incluindo o uso da ferramenta sudo para tarefas administrativas (similar ao Mac OS X) e a oferta de uma gama de recursos completa a partir de uma instalação padrão.
+Outros focos são a acessibilidade e internacionalização, permitindo a utilização do sistema pelo maior número de pessoas possível. A partir da versão 5.04, a codificação de caracteres padrão é o UTF-8 (permitindo a utilização de caracteres não utilizados no alfabeto latino). O projeto visa também a oferecer suporte técnico nos idiomas de seus usuários.
+
+
+=== Popularidade ===
+Atualmente (2019) a página do Ubuntu no Distrowatch da versão de desktop é a quinta mais acessada no ranking dos últimos seis meses. Ela já foi apontada como uma das melhores distribuições para o uso em computadores pessoais. É o sistema operacional mais popular em ambientes hospedados (computação em nuvem) por ser a distribuição Linux mais popular para servidores, e a distribuição Linux mais popular para a execução de servidores web, onde é usada por 34% dos top 10 milhões de sites analisados pela W3Techs.
+
+
+=== Aparência ===
+O visual padrão até a versão 5.10 e na versão 9.10 caracteriza-se pela utilização de tons castanhos; entre as versões 6.06 (Dapper Drake) e 9.04 (Jaunty Jackalope), no entanto, passou-se a usar um padrão de cores mais próximo do laranja. A versão 10.04 passou a adotar um padrão de cores mais diversificado, misturando tons de púrpura no padrão de cores. O padrão púrpura e laranja se mantêm até hoje.
+
+
+=== Aplicativos ===
+Além das ferramentas de sistema padrão e outros aplicativos menores, o Ubuntu é oferecido com diversos programas pré instalados que atendem às funcionalidades básicas, entre os quais estão a suíte de aplicativos LibreOffice e o navegador de internet Firefox. Programas para visualizar conteúdos multimídia, clientes de e-mail e jogos simples completam o sistema básico. A gestão de instalação de software é realizada pelo APT e pelo Synaptic e, mais recentemente, pelo Centro de Software do Ubuntu.
+
+
+=== Classificação de pacotes e suporte ===
+O Ubuntu divide a maioria dos softwares em quatro domínios para refletir as diferenças de licenciamento e o grau de suporte disponível. Alguns aplicativos não suportados recebem atualizações de membros da comunidade, mas não da Canonical Ltd.
+
+Os software livres incluem softwares que atenderam aos requisitos de licenciamento do Ubuntu, que correspondem aproximadamente ao Debian Free Software Guidelines. As exceções, no entanto, incluem firmwares e fontes, na categoria Main, porque, embora não possam ser modificados, sua distribuição é desimpedida.Os softwares não-livres geralmente não são suportados (Multiverse), mas algumas exceções (Restricted) são feitas para softwares não-livres importantes. Os softwares não-livres suportados incluem drivers de dispositivo que podem ser usados para executar o Ubuntu em alguns hardwares atuais, como drivers de placas gráficas somente binárias. O nível de suporte na categoria Restricted é mais limitado que o Main, porque os desenvolvedores podem não ter acesso ao código-fonte. Pretende-se que Main e Restricted contenham todo o software necessário para um ambiente de desktop completo. Programas alternativos para as mesmas tarefas e programas para aplicações especializadas são colocados nas categorias Universe e Multiverse.
+Além do acima, em que o software não recebe novos recursos após uma versão inicial, o Ubuntu Backports é um repositório oficialmente reconhecido para backporting de software mais recente de versões posteriores do Ubuntu. O repositório não é abrangente; ele consiste principalmente em pacotes solicitados pelo usuário, que são aprovados se atenderem às diretrizes de qualidade. O Backports não recebe nenhum suporte da Canonical e é totalmente mantido pela comunidade.
+O repositório -updates fornece atualizações de versão estáveis (SRU - stable release updates) do Ubuntu e geralmente são instaladas através do gerenciador de atualizações. Cada release recebe seu próprio repositório de -updates (por exemplo, atualizações intrépidas). O repositório é suportado pela Canonical Ltd. para pacotes no Main e Restricted, e pela comunidade para pacotes no Universe e Multiverse. Todas as atualizações para o repositório devem atender a determinados requisitos e passar pelo repositório -proposed antes de serem disponibilizados para o público. As atualizações estão programadas para estarem disponíveis até o final da vida útil da versão de lançamento.
+Além do repositório -updates, o repositório instável -proposed contém uploads que devem ser confirmados antes de serem copiados em -updates. Todas as atualizações devem passar por este processo para garantir que o patch realmente conserte o bug e não haja risco de regressão. As atualizações propostas são confirmadas pela Canonical ou pelos membros da comunidade.
+O repositório de parceiros da Canonical permite que os fornecedores de software proprietário forneçam seus produtos aos usuários do Ubuntu, sem custo, usando as mesmas ferramentas familiares para instalar e atualizar o software. O software no repositório de parceiros tem suporte de segurança oficial e outras atualizações importantes por seus respectivos fornecedores. A Canonical suporta o empacotamento do software para o Ubuntu e fornece orientação aos fornecedores. O repositório de parceiros está desativado por padrão e pode ser ativado pelo usuário. Alguns produtos populares distribuídos pelo repositório de parceiros em 28 de abril de 2013 são o Adobe Flash Player, o Adobe Reader, o Skype e o Wine também podem ser instalados para executar o software do Windows, se o usuário desejar.
+
+
+==== PPAs ====
+Um Personal Package Archive (PPA) é um repositório de software para o upload de pacotes a serem construídos e publicados como um repositório do Advanced Packaging Tool (APT) pelo Launchpad. Enquanto o termo é usado exclusivamente no Ubuntu, o host do Launchpad, Canonical, prevê a adoção além da comunidade Ubuntu.
+
+
+==== Software de terceiros ====
+O Ubuntu possui um sistema de certificação para software de terceiros. Alguns softwares de terceiros que não limitam a distribuição estão incluídos no componente Multiverse do Ubuntu. O pacote ubuntu-restricted-extras contém adicionalmente software que pode ser legalmente restrito, incluindo suporte para reprodução de MP3 e DVD, fontes Microsoft TrueType, ambiente de execução Java da Sun, plug-in Flash Player da Adobe, muitos codecs de áudio/vídeo comuns e unrar, um descompactador para arquivos compactados no formato de arquivo RAR.
+Além disso, suítes de aplicativos de terceiros estão disponíveis para compra através do Ubuntu Software, incluindo muitos jogos como o Braid e o Oil Rush, software para reprodução de DVD e codecs de mídia. Mais jogos estão disponíveis através do Steam.
+
+
+=== Segurança ===
+O objetivo do Ubuntu é ser seguro "out-of-the-box". Por padrão, os programas do usuário são executados com poucos privilégios e não podem corromper o sistema operacional ou os arquivos de outros usuários. Para maior segurança, a ferramenta sudo é usada para atribuir privilégios temporários para executar tarefas administrativas, o que permite que a conta raiz permaneça bloqueada e ajuda a evitar que usuários inexperientes façam alterações catastróficas no sistema ou abram brechas de segurança. O PolicyKit também está sendo amplamente implementado no desktop. A maioria das portas de rede é fechada por padrão para evitar invasões. Um firewall vem integrado e este possui uma GUI (GUI para Uncomplicated Firewall) disponível para configurá-lo, ele permite que usuários finais que instalam servidores de rede controlem o acesso. O Ubuntu compila seus pacotes usando recursos do GCC, como PIE e proteção contra buffer overflow, para proteger seu software. Esses recursos extras aumentam bastante a segurança com um custo de desempenho de 1% em 32 bits e 0,01% em 64 bits.O Ubuntu também suporta criptografia de disco completo, bem como criptografia de diretórios Home e Private.
+
+
+=== Instalação ===
+
+
+==== Live media e DVD ====
+Qualquer versão até a 12.04 ocupava apenas um CD (até 700 MB); a partir da versão 12.10, era necessário um DVD ou um pen drive, pelo fato da nova versão ultrapassar o limite de 700 MB. A distribuição livre dos CDs do Ubuntu pelo ShipIt foi descontinuada e os CDs passaram a ser vendidos na loja virtual da Canonical, recurso que não existe mais para focar na distribuição via downloads. Atualmente, um simples pen drive de 4GB suporta o Ubuntu, com possibilidade de salvar os dados e configurações do usuário, se configurado dessa maneira.  A atualização e instalação de mais programas poderá ser realizada via internet, num processo fácil e em ambiente gráfico.
+Para quem pretende experimentar o Ubuntu sem o instalar no disco rígido, o sistema funciona em uma live media(pendrive ou DVD), sem necessidade de ser instalado. Estes modos são mais lentos e destinam-se essencialmente a proporcionar um primeiro contato com o Ubuntu, seus programas inclusos e saber quais programas podem ser eventualmente instalados; além de ser útil para manutenção de hardware. Existe também a opção de instalar via rede, utilizando a opção network installer na página de download.O programa remastersys permite a qualquer um facilmente (em modo gráfico) criar um Live CD/DVD personalizado, com os programas e opções que o utilizador desejar, a partir de uma instalação existente do Ubuntu. Também existem os programas Reconstructor e Ubuntu Customization Kit com um propósito semelhante.
+
+
+==== Requisitos de sistema recomendados ====
+A versão desktop do Ubuntu atualmente suporta as arquiteturas Intel x86 e AMD64. Suporte não-oficial é disponibilizado para PowerPC, IA-64 (Itanium) e PlayStation 3 (contudo observe que a Sony removeu oficialmente o suporte para o Linux no PS3 com o firmware 3.21, lançado em 1 de abril de 2010).Para instalar o Ubuntu são necessários:
+
+Uma placa de vídeo (GPU) é requerida para habilitar efeitos visuais.
+
+
+== Projetos ==
+
+
+=== Oficiais ===
+As edições oficiais do Ubuntu são criadas pela Canonical e pela comunidade Ubuntu, recebendo também o suporte delas:
+
+Ubuntu Desktop: Voltada para desktops, laptops com interface gráfica Gnome Shell.
+Ubuntu Server: Voltada para servidores, não instala interface gráfica, é distribuída gratuitamente e o suporte pode ser adquirido separadamente.
+Ubuntu Cloud: Voltada para computação em nuvem.
+Ubuntu Core: Voltada para internet das coisas (IoT).
+
+
+=== Versões derivadas oficiais ===
+Além do Ubuntu, existem versões derivadas que são oficialmente reconhecidas:
+
+Kubuntu - versão do Ubuntu que utiliza o ambiente de desktop KDE
+Ubuntu Budgie - com ambiente de desktop Budgie
+Ubuntu MATE - com ambiente de desktop MATE
+Ubuntu Unity - com ambiente de desktop Unity
+
+
+==== Computadores menos potentes ====
+O LXDE e o Xfce são às vezes recomendados para uso com PCs mais antigos que podem ter menos memória e poder de processamento disponíveis:
+Lubuntu - utiliza o ambiente de desktop LXDE
+Xubuntu - utiliza o ambiente de desktop Xfce
+
+
+==== Uso específico ====
+Ubuntu Kylin - versão específica para usuários da China
+Ubuntu Studio - para edição e criação de conteúdos multimídia
+
+
+=== Versões derivadas não-oficiais ===
+Dentre as versões não-oficiais destacam-se:
+
+elementary OS
+KDE neon
+Linux Lite
+Linux Mint
+Pop! OS
+Zorin OS
+
+
+=== Outros ===
+Além desses, Mark Shuttleworth aprovou a criação de uma distribuição que usa exclusivamente software livre aprovado pela FSF, a gNewSense. Estes projetos estão ligados oficialmente ao Ubuntu, com lançamentos simultâneos e compatibilidade de pacotes, obtidos dos mesmos repositórios oficiais. Espalhou-se o boato que o Google estava desenvolvendo um derivado do Ubuntu chamado Goobuntu, e que iria vendê-lo. A empresa confirmou a criação dessa versão modificada, mas deixou claro que não tem planos para distribuí-la fora da companhia.
+
+
+== Lançamentos ==
+Uma nova versão do Ubuntu é lançada semestralmente, e cada lançamento tem um codinome e um número de versão. O número de versão é baseado no ano e no mês de lançamento. Por exemplo o Ubuntu 4.10 foi lançado em outubro de 2004, na data: ano 2004, mês 10. Abaixo está uma lista dos lançamentos anteriores e os lançamentos planejados. A partir da versão 13.04 em diante, o suporte em versões não-LTS foi alterado de 18 para 9 meses.
+
+
+== Adesão internacional ao Ubuntu ==
+O Ubuntu contou durante o primeiro semestre de 2007 com situações de migração ou adoção por parte de organizações e entidades de renome. O fabricante internacional de equipamento informático Dell que adotou, em maio, o Ubuntu como o sistema operativo de código aberto selecionado para equipar os seus computadores desktop e notebook destinados aos usuários finais; e o anterior anúncio, em Março, por parte do Parlamento francês de que em Junho de 2007 daria início à migração de toda a sua rede informática (máquinas clientes e servidores, num total de cerca de 1.154 máquinas) para o Ubuntu, com ênfase no uso da suite OpenOffice e do browser Firefox por parte dos utilizadores do Parlamento (577 Deputados).
+Hoje em dia, o Ubuntu está presente em múltiplos governos e ministérios, como é o caso do Ministério da Educação Grego, do Governo de Andalucía, do Ministério da Educação Romeno, do Governo de Punjab, no Paquistão, do Governo de Assam e de Uttar Pradesh, na Índia, no Ministério da Educação da Macedónia, no Governo de Gauteng, na África do Sul e nas Forças Armadas Brasileiras.
+Para além disso, já são múltiplas as faculdades e universidades que confiam no Ubuntu para seu sistema operativo principal, como é o caso da Universidade de Oxford, no Reino Unido, da Universidade de Harvard, em Massachusetts, da Universidade Johns Hopkins, em Baltimore, da Universidade de Oakland, no Michigan, na Universidade de Nantes, em França, na Universidade de Deli, na Índia, entre outras.
+Segundo estimativas o Ubuntu, em 2015, já possuiria mais de 40 milhões de utilizadores e cerca de 30.000 utilizadores do sistema operativo Microsoft Windows descarregam o Ubuntu diariamente.
+
+
+== Ver também ==
+Kubuntu
+Lubuntu
+Ubuntu Budgie
+Ubuntu MATE
+Ubuntu Kylin
+Ubuntu Studio
+Xubuntu
+Lista de distribuições de Linux
+
+
+== Referências ==
+
+
+== Ligações externas ==
+ Media relacionados com Ubuntu (sistema operacional) no Wikimedia Commons
+Sítio oficial (em inglês)
+«Documentação oficial» (em inglês) 
+«Suporte da comunidade no Ask Ubuntu» (em inglês) 
+«Fórum Ubuntu Linux». - Suporte da comunidade em língua portuguesa 
+«Fórum de desenvolvimento do Ubuntu» (em inglês). - Não é usado para suporte

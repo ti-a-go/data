@@ -1,0 +1,72 @@
+"Nada", usado como pronome indefinido, é a ausência de algo ou coisa particular que se possa esperar ou desejar estar presente, "nada foi encontrado", ou alguma coisa, "não gostaria de comer nada?". Como substantivo masculino, denota a não existência, o que não existe, o vazio. Como um advérbio é usado para enfatizar a negação, "não é nada sério". 
+Na filosofia, existem duas concepções para o nada. Na primeira concepção, o nada define o estado geral de não existência, às vezes reificado como um domínio ou dimensão para a qual as coisas passam quando deixam de existir ou da qual podem vir a existir, por exemplo, "entende-se que Deus criou o universo ex nihilo" , "do nada". No existencialismo, o nada é o fundamento da condição humana, revelado como angústia diante da morte, da liberdade absoluta e da distância em relação ao ser. Na segunda concepção, o Nada denota aquilo que se opõe, contradiz, transcende ou se afasta do ser, em sentido absoluto, relativo, ou como mera construção linguística.Por definição, quando se fala de existência se fala da existência de algo. O nada não é coisa alguma, logo não existe. O nada é um signo, uma representação linguística do que se pensa ser a ausência de tudo. O que existe são representações mentais do nada. Como uma definição ou um conceito é uma afirmação sobre o que uma coisa é, o nada não é positivamente definido, mas apenas representado, fazendo-se a relação entre seu símbolo (a palavra "nada") e a ideia que se tem da não-existência de coisa alguma. O "nada" não existe, mas é concebido por operações de mente. Esta é a concepção de Bergson, oposta à de Hegel, modernamente reabilitada por Heidegger e Sartre, de que o nada seria uma entidade de existência real, em oposição ao ser e ao tudo.
+
+
+== Filosofia ==
+
+
+=== Filosofia ocidental ===
+Ao pensar-se no "nada", associamos à nossa mente a ausência de qualquer coisa que seja, o vazio absoluto. O nada foi pensado como conceito pelos filósofos que questionavam inclusive se "o nada existe?".
+
+
+==== Parmênides ====
+Um dos primeiros filósofos ocidentais a considerar o nada como um conceito foi Parmênides (século V a.C.), filósofo grego da escola eleática e defensor do monismo. Para Parmênides, o nada não existe, não pode ser conhecido nem expressado, sustentando que seria contraproducente dizer que algo não existe. Segundo sua linha de raciocínio, para falar de algo, é preciso falar de algo que existe; para falar de algo no passado, essa coisa ainda deve existir (em algum sentido) agora, e disso ele conclui que não existe algo como mudança. O não-ser não existe ("enquanto nada não é", "μηδν δ᾿οὐκ ἔστιν"). Não é possível, portanto, para o que não é ser (e o não-ser não pode nem mesmo ser concebido). Parmênides influenciou outros filósofos, como, por exemplo, Sócrates e Platão. Aristóteles dá a Parmênides uma séria consideração, mas conclui: "Embora essas opiniões pareçam seguir logicamente em uma discussão dialética, acreditar nelas parece quase uma loucura quando se considera os fatos."
+
+
+==== Leucipo ====
+Leucipo (início do século V a.C.), um dos atomistas da filosofia grega antiga, como outros filósofos da época, fez tentativas de reconciliar a concepção de que a mudança é possível sem supor que algo vem de 'o que não é'. Por um lado, Leucipo aceitou a posição monista de que não poderia haver movimento sem vazio. O vazio é o oposto de ser, é o que não é, é um não-ser. O que é em sentido estrito é um pleno absoluto. O pleno absoluto não é monolítico, trata-se, porém, de um múltiplo infinito em número e, graças à pequenez de seu volume, também invisível (os átomos). Sua teoria foi posteriormente expandida por Demócrito (c. 460-370 a.C.). Nesse cenário, os objetos macroscópicos podem vir a existir, mover-se através do espaço e passar para o não-ser por meio da união e separação de seus átomos constituintes. O vazio deve existir para permitir que isso aconteça, ou então o "mundo congelado" de Parmênides deve ser aceito.
+
+
+==== Aristóteles, Newton e Descartes ====
+Aristóteles (384-322 a.C.) forneceu o escape clássico do problema lógico proposto por Parmênides, ao distinguir coisas que são matéria e coisas que são espaço. Nesse cenário, o espaço não é um "nada", mas, sim, um receptáculo no qual os objetos da matéria podem ser colocados. O verdadeiro vazio (como "nada") é diferente de "espaço", rejeitando o vazio que defendem Leucipo e Demócrito. Esta caracterização do espaço atingiu seu auge com Isaac Newton, que afirmou a existência do espaço absoluto.
+René Descartes, por outro lado, retornou a um argumento semelhante ao de Parmênides de negar a existência do espaço. Para Descartes, havia matéria, e havia extensão da matéria, não deixando espaço para a existência de "nada".
+
+
+==== Kant ====
+Na análise transcendental da Crítica da Razão Pura, Immanuel Kant, Kant divide o conceito do "nada" em quatro categorias, a saber: ens rationis, nihil privativum, ens imaginarium e, finalmente, nihil negativum. Ens rationis é definido como "conceito vazio sem objeto"; uma entidade lógica abstrata geralmente sem existência positiva fora da mente. São númenos e, como tais, transcendem os limites do conhecimento. O nihil privativum é definido como "objeto vazio de um conceito"; vem à tona ou pela ausência de qualquer determinação positiva como resultado de duas forças conflitantes ou por toda a ausência de matéria, ou seja, realidade, e neste último sentido como absentia que nega a realidade. Sua função é, portanto, criar a categoria de limitação. O ens imaginarium é uma "intuição vazia sem objeto"; é como a ausência de matéria no espaço e no tempo, semelhante a nihil privativum, mas no sentido de ausência de matéria. Kant nega a possibilidade real do ens imaginarium, são apenas formas vazias de intuição e, como tal, só podem ser imaginadas; nunca capazes de existir por conta própria. Finalmente, a divisão do nihil negativum é definida por Kant como um "objeto vazio sem conceito"; é o conceito de absurdo, o logicamente impossível.
+
+
+==== Hegel ====
+Georg Wilhelm Friedrich Hegel (1770-1831) é o filósofo que trouxe o método dialético a um novo pináculo de desenvolvimento. Para Hegel, o nada é o contra-conceito do ser. A Ciência da Lógica de Hegel inclui, entre outras coisas, análises das três determinações: "ser", "nada" e "devir". O ser em sua acepção mais abstrata, o "puro ser", é indeterminado e totalmente imediato; se equivalendo ao "puro nada". A imediação enfatiza mais uma vez que o "puro ser" não está sujeito a quaisquer condições externas, não tem causa, é simplesmente o que é. Assim, as determinações de "puro ser" e "puro nada" revelam-se equivalentes.
+
+
+==== Heidegger ====
+Em sua aula inaugural "Que é Metafísica?" de 1929, Martin Heidegger trabalha a questão do nada em articulação o ser, na perspectiva da pergunta fundamental da metafísica: "por que existe o ser e não o nada?" (ou "por que existe afinal ente e não antes nada?") Para o cosmólogo brasileiro Mário Novello, esta também é a pergunta fundamental para a cosmologia, quando tenta tratar como surgiu o universo, que seria o maior objeto que a ciência pode tratar.
+O nada na obra de Heidegger exerce uma função enquanto possibilidade pela qual o Ser-aí humano pode entrar numa relação com a totalidade do ente. De acordo com o filósofo, cujo pensamento foi influenciado pelo misticismo,  não basta pensar no nada como a negação de um ser, porque então ele seria definido pelo que exatamente constitui seu oposto. "Nada" e "ser" pertencem um ao outro. Eles não são iguais, mas são mutuamente dependentes e pertencem um ao outro. Somente pelo "nada" o "ser" se revela como "estranheza" ou como "outro". Acima de tudo, nada é o que produz em nós uma sensação de pavor (em alemão, Angst). Esse profundo sentimento de pavor, sustentava Heidegger, é a pista humana mais fundamental para a natureza e a realidade do nada.
+
+
+==== Sartre ====
+Jean-Paul Sartre, em seu livro O Ser e o Nada (L'être et le néant) define dois tipos ou categorias distintas e irredutíveis de "ser" (être). Um tipo é être-en-soi, a existência bruta de coisas como uma árvore. O outro tipo é être-pour-soi, que é a consciência. Para Sartre, o segundo tipo de ser seria o "nada", uma vez que a consciência não pode ser um objeto da própria consciência, e não pode possuir essência. Sartre e, mais ainda, Jacques Lacan, usam essa concepção do nada como fundamento de sua filosofia ateísta. Igualar o nada com o ser leva à criação do nada e, portanto, Deus não é mais necessário para que haja existência. As ideias de Sartre são fortemente influenciadas pelo Ser e Tempo (Sein und Zeit) de Martin Heidegger, embora Heidegger posteriormente tenha afirmado que ele foi mal compreendido por Sartre.
+
+
+=== Filosofia oriental ===
+A compreensão de 'nada' varia amplamente entre as culturas, especialmente entre as culturas e tradições filosóficas ocidentais e orientais. Por exemplo, Śūnyatā (vazio), ao contrário do "nada", é considerado um estado de espírito em algumas formas de budismo (ver Nirvana e Bodhi). Alcançar o "nada" como um estado de espírito nesta tradição permite que a pessoa se concentre totalmente em um pensamento ou atividade em um nível de intensidade que não seria capaz de atingir se estivesse pensando conscientemente.
+Alguns autores apontaram semelhanças entre a concepção budista do nada e as idéias de Martin Heidegger e existencialistas como Sartre, embora essa conexão não tenha sido explicitamente feita pelos próprios filósofos. Em algumas filosofias orientais, o conceito de "nada" é caracterizado por um estado de ser sem ego em que um totalmente percebe sua própria pequena parte no cosmos.
+
+
+== Física ==
+Fisicamente é preciso distinguir três coisas: o vácuo, o vazio e o nada. O vácuo é um espaço não preenchido por qualquer matéria, em qualquer estado físico. O vácuo, porém, ainda apresenta campos, sejam eles magnéticos, elétricos, gravitacionais. Mesmo se fosse possível criar um vácuo de cem por cento no qual não houvesse ondas sem matéria nem campos interagindo, esse espaço ainda não estaria livre de eventos ou matéria, uma vez que partículas e antipartículas estão constantemente se formando e se aniquilando. Este fenômeno, conhecido como flutuação do vácuo.Mesmo se houvesse um vazio onde tivesse total ausência de matéria, campos ou radiação, este vazio ainda seria considerado alguma coisa, pois haveria ainda o espaço, isto é, a capacidade de caber algo, ainda que não houvesse nenhum objeto para preenchê-lo. Todo o espaço, mesmo que não contenha matéria, é preenchido por campo gravitacional. Não há como sugar ou bloquear a gravidade de uma região do espaço porque a gravidade é apenas a forma do próprio espaço. Como resultado, mesmo o mais vazio dos vácuos físicos sempre terá um campo de curvatura. O espaço perfeitamente "vazio" sempre terá energia do vácuo, o campo de Higgs e a curvatura do espaço-tempo.O conceito de nada incluiria também a inexistência das leis físicas, dentre elas a conservação da energia, o aumento da entropia e a própria passagem do tempo. Sendo o espaço o conjunto dos lugares, isto é, das possibilidades de localização, sua inexistência implica a impossibilidade de conter qualquer coisa. Isto é, não se pode estar no nada. O nada é, pois, um não-lugar.
+Desde o século XX, o termo "nada" foi entendido como a ausência inacessível de qualquer ser, incluindo espaço e tempo. O hoje chamado modelo cosmológico padrão situa a criação de tudo que existe, incluindo o espaço-tempo, no Big Bang. No entanto, suas propriedades, postuladas no quadro da teoria geral da relatividade, perdem sua validade quando o Big Bang se aproxima, no limiar da época de Planck. Por essas razões, as ciências naturais de hoje não usam o conceito de nada no sentido de "antes do Big Bang", mas o considera fisicamente sem sentido. Astrônomos e físicos falam de uma singularidade em relação ao Big Bang, que conteria toda a energia e espaço-tempo do Universo. Ou seja, a singularidade não é nada.
+Existem novos modelos do que precedeu e causou o Big Bang. Um modelo, usando a gravidade quântica em loop, visa explicar o início do Universo por meio de uma série de Big Bounces, em que as flutuações quânticas fazem com que o Universo se expanda. Entre os diversos existentes, destacam-se o modelo cíclico e suas diversas variações, o modelo de Big Bounce (grande "rebote") e o modelo universo oscilante. Nestes modelos, sem exceção, o universo seria eterno (e até, com definições mais complexas do que seja esta eternidade) e sempre existiu, jamais se originando do nada. Em outras palavras, sempre teria existido algo.
+
+
+== Matemática ==
+Matematicamente, o conjunto vazio não é o mesmo que nada; ele é um conjunto que não possui elementos (ou seja, que não contém nada), mas um conjunto é sempre algo. É um elemento do conjunto dos subconjuntos de um conjunto (chamado de conjunto das partes). Assim este "nada" matemático, seria sempre um dos elementos de qualquer conjunto. Esta concepção, aplicada à física, todavia, não possui base fenomenológica sustentável, pois a física não é a matemática em si, embora se possa tratar as coisas físicas por modelos matemáticos, ou modelos físico-matemáticos, construindo-se física.
+Deve-se destacar que um ponto, da geometria, que não possui dimensão, também não pode ser associado ao conceito de "nada" diretamente, pois sendo um ponto, não pode ser o nada plenamente definido na Filosofia.
+
+
+== Ver também ==
+
+Tudo
+Não-ser
+Ser
+Cosmogonia
+Vazio
+Conjunto vazio
+Teologia negativa
+Niilismo
+Vanitas
+Zero
+
+
+== Referências ==

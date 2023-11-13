@@ -1,0 +1,51 @@
+Tetracloreto de carbono, também conhecido por outras designações (ver tabela), é um composto orgânico com a fórmula química CCl4. É um reagente usado na química sintética e foi muito usado como agente extintor e como agente refrigerante.  O tetracloreto de carbono é um líquido incolor com um cheiro adocicado e característico, que pode ser detectado a baixas concentrações.
+As designações tetracloreto de carbono ou tetraclorometano são aceitas pela nomenclatura IUPAC. Popularmente é chamado de tetra.
+
+
+== História e Síntese ==
+O tetracloreto de carbono foi sintetizado originalmente por reação do clorofórmio com o cloro pelo químico francês Henri Victor Regnault, mas hoje em dia é sintetizado a partir do Metano:
+
+CH4  +  4 Cl2  →  CCl4  +  4HCl.A produção utiliza frequentemente sub-produtos  de outras reações de cloração tais como os resultantes da síntese do Diclorometano e Clorofórmio.
+A produção de tetracloreto de carbono tem vindo a decrescer desde 1980 devido a preocupações ambientais e diminuição da procura associada de CFC’s, que dele derivavam.  Em 1992, a produção nos Estados Unidos, Europa e Japão foi estimada em 720 000 ton.O tetracloreto de carbono foi adicionado ao Protocolo de Montreal na emenda de Londres em 1990. A sua produção e comercialização está proibida nos países desenvolvidos desde 1996. Proibição essa que será extensível aos países sub-desenvolvidos em 2010. Produz séria contaminação e é portanto considerado prejudicial à saúde.
+Em Cubatão, a fábrica da Rhodia que o produzia contaminou seus trabalhadores e teve que ser fechada. Alguns trabalhadores contaminados fundaram o que hoje é a Associação de Combate aos Poluentes Orgânicos Persistentes.
+
+
+== Propriedades ==
+Na molécula de tetracloreto de carbono, quatro átomos de cloro estão posicionados simetricamente como “cantos” de uma configuração tetraédrica juntos a um átomo de carbono, no centro, através de uma simples ligação covalente. Devido à sua geometria simétrica a molécula não possui qualquer momento dipolar; isto é, o tetracloreto de carbono não é um composto polar. Como solvente é bastante adequado para dissolver compostos não polares, gorduras e óleos. O tetracloreto de carbono apresenta alguma volatilidade, liberta um vapor com um cheiro adocicado característico, similar ao tetracloroetileno, cheiro característico da limpeza a seco.
+
+
+== Utilizações ==
+.
+No início do século XX, o tetracloreto de carbono foi amplamente usado como solvente de limpeza a seco, como agente refrigerante e colocado dentro de lâmpadas de lava. Antigamente foi também usado como agente extintor e pesticida.
+Quando se tornou aparente que o tetracloreto de carbono provocava efeitos adversos na saúde humana, a sua utilização começou a decrescer, através da utilização de alternativas menos perigosas como o tetracloroetileno. A sua utilização como pesticida destinado a eliminar insectos no armazenamento de cereais continuou até ser banido em 1970 nos Estados Unidos.
+Antes do Protocolo de Montreal, grandes quantidades de tetracloreto de carbono eram usadas para a produção de agentes refrigerantes freon, R-11 (triclorofluorometano) e R-12 and R-12 (diclorodifluorometano). Devido ao facto de estes agentes refrigerantes possuírem um elevado coeficiente de deplecção de ozono foram já eliminados.
+O tetracloreto de carbono é ainda usado na fabricação de agentes refrigerantes menos perigosos e na detecção de neutrinos.
+Devido ao facto de ser uma das mais potentes hepatotoxinas (tóxico para o fígado), é muito usado na investigação científica de agentes hepaprotectores.
+
+
+=== Reatividade ===
+O tetracloreto de carbono praticamente não apresenta flamabilidade a baixas temperaturas. Sob altas temperaturas pode formar o gás venenoso fosgénio.
+Devido ao facto de não possuir ligações C-H, o tetracloreto de carbono não reage facilmente em reacções sem radicais. Por isso é um solvente bastante útil em Halogenações, tanto pelo halogénio elementar como com reagentes de halogenação como o N-bromosuccinimida.
+Em Química Orgânica, o tetracloreto de carbono funciona como fonte de cloro na reacção de Appel.
+
+
+== Segurança ==
+A exposição a concentrações elevadas de tetracloreto de carbono (incluindo os seus vapores) pode afectar o sistema nervoso central e causar degenerescência no fígado. e rins e pode resultar (após exposição prolongada) em coma e até morte. A exposição crónica ao Tetracloreto de Carbono pode causar Hepatotoxicidade do Fígado danos nos rins, podendo resultar em cancro. Mais informação pode ser encontrada na Ficha de Dados de Segurança.
+Em 2008, um estudo sobre produtos de limpeza comuns encontrou a presença de Tetracloreto de Carbono em “Concentrações muito elevadas” (Até 101 mg m−3) como resultado de os fabricantes misturarem tensioactivos, ou sabão com lixívia.O Tetracloreto de Carbono é um depletor da camada de Ozono e um gás com efeito de estufa. No entanto, desde 1992 a sua concentração atmosférica tem vindo a decair pela diminuição da sua utilização.
+
+
+=== Simbolo de Risco ===
+   
+
+
+== Toxicocinética ==
+É absorvido pelas vias pulmonar e cutânea. Sua taxa de biotransformação é baixa, sendo que 30 a 50% do ingerido ou inalado é eliminado sem alterações na expiração.
+
+
+== Ligações externas ==
+Associação de Combate aos Poluentes Orgânicos Persistentes
+Cancerigenidade do Tetracloreto de Carbono
+Carbon tetrachloride dictionary-Guidechem.com
+
+
+== referências ==

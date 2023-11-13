@@ -1,0 +1,88 @@
+Asa voadora - é uma aeronave de asa fixa sem fuselagem definida, com o aspecto semelhante a de um bumerangue. Tripulação, equipamento e carga ficam alojados no interior de sua estrutura.A asa voadora pode ter várias pequenas protuberâncias como naceles e "bolhas," também profundores e material rodante. Algumas aeronaves não tem fuselagem mas possuem estabilizadores horizontais separados. Normalmente estas aeronaves são classificadas como asas voadoras, não o sendo de fato. Um exemplo é o Northrop X216H.Teoricamente, a asa voadora é a configuração de aeronave mais eficiente do ponto de vista da aerodinâmica e peso estrutural. Argumenta-se que a ausência de determinados componentes presentes em outras aeronaves deve, naturalmente, proporcionar estes benefícios. Porém, na prática, para o voo a asa deve garantir estabilidade e controle, o que impõe restrições adicionais sobre o projeto destas aeronaves. Portanto, a esperada redução no peso e no arrasto pode ser parcial ou totalmente ausente devido a características do projeto necessárias para assegurar estabilidade e controle.
+
+
+== História ==
+
+Aviões sem cauda foram experimentados desde as primeiras tentativas de voar feitas pelo ser humano.  Mas só foi possível eliminar fuselagem após o fim da I Guerra Mundial o que criou a oportunidade para construir uma asa voadora real. Hugo Junkers patenteou um conceito de transporte aéreo de asa única em 1910. Ele viu nisso uma solução para o problema da construção de um avião grande o suficiente para transportar um número razoável de passageiros mais combustível o suficiente para cruzar o Atlântico em serviço regular. Acreditava que o volume interno potencialmente grande e o pequeno arrasto fariam da asa voadora uma boa opção para esta função. Em 1919 ele iniciou o trabalho no design de seu "Gigante" JG1, destinado a passageiros, mas dois anos mais tarde, a Comissão aliada de controle aeronáutico ordenou que o JG1 incompleto fosse desmontado por exceder os limites de tamanho para os aviões alemães imposto pelos aliados no pós-guerra. Junkers concebeu asas voadoras futurista para até 1000 passageiros, mas o mais próximo disso veio com a criação em 1931 do Junkers G 38 com uma grande espessura da asa, proporcionando espaço para o combustível, motores e duas cabines de passageiros.
+No entanto, ainda era necessária uma fuselagem curta que terminava numa cauda dupla, para tripulação e passageiros adicionais.
+A configuração de asa voadora foi amplamente estudada nas décadas de 30 e 40, nomeadamente por Jack Northrop e L. Cheston Eshelman nos EUA, e Alexander Lippisch e os irmãos Horten na Alemanha.
+Primeiros exemplos reais de asas voadoras:
+
+O francês Charles Fauvel projetou o planador AV3, [carece de fontes?] voou com sucesso em 1933.
+O planador alemão Horten H1 voou com sucesso parcial em 1933, e o subsequente H2 voou com sucesso em ambas as variantes de planador e motorizado.
+O planador norte-americano Freel Flying Wing de 1937.
+O norte-americano Northrop N-1M de 1940.
+Os planador experimental britânico Armstrong Whitworth A.W.52 de 1944 e mais tarde o Armstrong Whitworth AW52 com motor a jato.
+O alemão Horten Ho 229 de 1945. A primeira asa voadora bimotora a jato do mundo.Vários projetos militares alemães foram baseados no conceito da asa voadora (ou variações dela) como uma solução para aumentar o curto alcance dos motores a jato. O mais famoso destes foi o caça Horten Ho 229. Este avião, que voou primeiro em 1944, combinou o design da asa voadora, ou Nurflügel, com motores a jato. O protótipo sobrevivente permanece em um armazém no Smithsonian Institution aguardando restauração.
+Após a guerra, uma série de projetos experimentais foram baseadas neste conceito, mas as dificuldades conhecidas permaneceram insolúveis. Algum interesse continuou até o início dos anos 50, quando o conceito foi proposto como uma solução de projeto para bombardeiros de longo alcance. Essa tendência culminou com a Northrop YB-35 e YB-49, que não entraram em produção. Esses projetos não ofereciam necessariamente  uma grande vantagem naquele momento e apresentaram uma série de problemas técnicos, levando à adoção de soluções "convencionais" como o Convair B-36 e B-52 Stratofortress.
+O interesse nas asas voadoras ressurgiu nos anos 80 devido a sua baixa reflexão de ondas de radar. A tecnologia dos aviões Stealth, baseia-se em formas que refletem as ondas de radar apenas em determinadas direções, tornando difícil de detectar as aeronaves a menos que o receptor do radar esteja em uma posição específica em relação ao dos aviões (posição que muda continuamente à medida que a aeronave desloca-se). Eventualmente, esta abordagem levou ao bombardeiro B-2. Neste caso, as vantagens aerodinâmicas da asa voadora não são as prioridades. No entanto, um moderno sistema de controle por computador fly-by-wire permitiu que muitos dos inconvenientes aerodinâmicos da asa voadora fossem minimizados, fazendo dele um bombardeiro de longo alcance estável e eficiente.
+A asa voadora é mais prática para baixas e médias velocidades, e existe interesse em usá-la para transporte aéreo táctico. A Boeing continua a trabalhar em projetos de aeronaves com fuselagem integrada com dimensões semelhantes a do Lockheed C-130 Hercules mas com aproximadamente 1/3 a mais de cacidade de carga. Companhias, incluindo a Boeing, McDonnell Douglas (já extinta) e De Havilland fazem trabalhos consideráveis nesta área, mas até agora nenhum deles entrou em produção.
+
+
+== Projeto ==
+A asa voadora é teoricamente a configuração de aeronave de asa fixa de maior eficiência aerodinâmica. Oferece alta eficiência estrutural, resultando em menor peso e economia de combustível.
+Por não ter superfícies estabilizadoras convencionais ou as superfícies de controle associadas, a asa voadora sofre as desvantagens inerentes de ser instável e de difícil controle. Estes problemas são de difícil solução, e os esforços para fazê-lo podem reduzir ou mesmo anular os benefícios esperados, como a redução do peso e arrasto. Além disso, as soluções podem produzir um projeto final que ainda é muito inseguro para determinados usos, como a aviação comercial.
+Outras dificuldades surgem para acomodar o piloto, motores, equipamentos de voo e carga toda dentro da asa. Uma asa que construída com tamanho suficiente para conter todos esses elementos terá um aumento da área frontal, quando comparada com uma asa e fuselagem convencional, o que resulta em maior arrasto e, portanto, velocidade mais lenta do que um projeto convencional. Tipicamente, a solução adotada neste caso é manter a asa razoavelmente fina e, em seguida, equipa-la com uma variedade superfícies de controle para suprir todas as necessidades de uma aeronave prática.
+Outros problemas conhecidos com o projeto da asa voadora são relacionados com a estabilidade e controle.
+
+
+=== Estabilidade ===
+Para a aeronave voar sem correção constante, deve ter estabilidade direcional na guinada.
+Asas voadoras não possuem fuselagem longa, que forneça um ponto de fixação para um estabilizador eficiente, que deve ser fixado diretamente sobre a parte traseira da asa, influenciando pouco no centro aerodinâmico, o que significa que, para ser eficaz ele deve ser grande. Este estabilizador pode anular as vantagens do avião por ter grande peso e arrasto. O problema pode ser minimizado pelo aumento da inclinação da ponta da asa. Por exemplo, numa asa de baixa razão de aspecto (curta), mas a maioria das asas voadoras tem inclinação suave e, consequentemente, têm, na melhor das hipóteses, pequena estabilidade.
+Na chamada "configuração pato" (canard) [carece de fontes?] as pontas das asas são voltadas para baixo agudamente, aumentando a área na parte traseira da aeronave, quando vista de lado.
+
+
+=== Capacidade de manobra ===
+Na maioria dos projetos, o estabilizador está tão à frente que os lemes de controle montados sobre eles têm pouco efeito, assim, meios alternativos de controle devem ser fornecidos. A única solução prática é a resistência diferencial: a resistência perto da ponta da asa é artificialmente aumentada. Métodos típicos incluem:
+
+Split ailerons: A superfície superior se move para cima enquanto a superfície inferior se move para baixo, criando um efeito de freio de ar.
+Spoilers: Usado na parte superior da asa, para interromper o fluxo de ar e aumentar o atrito.  Este efeito é geralmente acompanhado por uma perda de sustentação, que deve ser compensada pelo piloto ou por características de projeto complexas.
+Spoilerons: Atua reduzindo a elevação e, portanto, a quantidade de arrasto necessária para mover eixo longitudinal da aeronave.A consequência do método de resistência diferencial é que, com manobras frequentes, ele resultará em arrasto. Então, asas voadoras voam melhor quando cruzam correntes de ar calmas. Em caso de turbulência ou de mudanças de rota a aeronave pode ser menos eficiente do que um projeto convencional.
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Definição ==
+Algumas aeronaves possuem fuselagem, de cauda simples ou dupla, mas não tem estabilizador horizontal. Rigorosamente, não são asas voadoras, embora sejam geralmente referidos como tal. Um exemplo é o Northrop X-216H, que tem um estabilizador montado sobre uma cauda dupla, mas é considerado como primeira  asa voadora da Northrop.
+Muitas asas-delta e ultraleves não tem cauda. Como transportam o piloto e o motor (quando presente) sob a estrutura da asa, não podem ser considerados como asas voadoras.
+Um avião de asas em delta e seção central alta representa um caso-limite entre a asa voadora, aeronaves com fuselagem e asa integradas e o lifting body (corpo sustentante).
+
+
+== Ver também ==
+A4b
+Horten Ho XIII
+Horten Ho XVIII
+Northrop YB-35
+
+
+== Bibliografia ==
+"Beyond the Frontiers:Northrop's Flying Wings". Gunston, Bill (1996). Wings of Fame (Londres: Aerospace Publishing) (Volume 2): págs. 24–37. ISBN 1 874023 69 7.
+The Flying Wings of Northrop. Kohn, Leo J. (1974) Milwaukee, WI: Aviation Publications ISBN 0-87994-031-X
+Northrop Flying Wings. Maloney, Edward T.(1975) Buena Park, CA: Planes Of Fame Publishers ISBN 0-915464-00-4
+"Towards the Ideal Aircraft? The life and Times of the Flying Wing Part One: Beginnings to 1945". Pelletier, Alain J. Air Enthusiast (Nº. 64, Julho–Agosto de 1994): págs. 2–17.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«Century of Flight» (em inglês). - História da Asa voadora. 
+«Nurflügel» (em inglês). - The Nurflügel page. 
+«Avião do Futuro» (em inglês). de Joe Mizrahi, Wings, Abril de 1999, Vol. 29, No. 2 
+«Warbirdforum» (em inglês). - Glen Edwards e a Asa Voadora. 
+«WEBX» (PDF). - configuração e desenho de aeronaves. 
+(em inglês)  Century of Flight - História da Asa voadora.

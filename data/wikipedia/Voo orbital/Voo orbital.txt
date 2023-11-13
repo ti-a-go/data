@@ -1,0 +1,43 @@
+Um voo espacial orbital (ou voo orbital) é um voo espacial no qual uma espaçonave é colocada em uma trajetória onde poderia permanecer no espaço por pelo menos uma órbita. Para fazer isso ao redor da Terra, ele deve estar em uma trajetória livre que tenha uma altitude no perigeu (altitude na aproximação mais próxima) em torno de 80 quilômetros (50 mi); esta é a fronteira do espaço definida pela NASA, a Força Aérea dos EUA e a FAA. Para permanecer em órbita nesta altitude requer uma velocidade orbital de ~ 7,8 km/s. A velocidade orbital é mais lenta para órbitas mais altas, mas alcançá-las requer maior delta-v. A Fédération Aéronautique Internationale estabeleceu a linha Kármán a uma altitude de 100 km (62 milhas) como uma definição de trabalho para a fronteira entre a aeronáutica e a astronáutica. Isso é usado porque a uma altitude de cerca de 100 km (62 mi), como Theodore von Kármán calculou, um veículo teria que viajar mais rápido do que a velocidade orbital para obter sustentação aerodinâmica suficiente da atmosfera para se sustentar.Devido ao arrasto atmosférico, a altitude mais baixa em que um objeto em uma órbita circular pode completar pelo menos uma revolução completa sem propulsão é de aproximadamente 150 quilômetros (93 mi).
+A expressão "voo espacial orbital" é mais usada para distinguir de voos espaciais suborbitais, que são voos em que o apogeu de uma espaçonave atinge o espaço, mas o perigeu é muito baixo.
+
+
+== Lançamento orbital ==
+O voo espacial orbital da Terra só foi alcançado por veículos de lançamento que usam motores de foguete para propulsão. Para alcançar a órbita, o foguete deve transmitir à carga útil um delta-v de cerca de 9,3 a 10 km/s. Este número é principalmente (~ 7,8 km/s) para a aceleração horizontal necessária para atingir a velocidade orbital, mas permite o arrasto atmosférico (aproximadamente 300 m/s com o coeficiente balístico de um veículo alimentado com combustível denso de 20 m de comprimento), perdas de gravidade (dependendo de queimar tempo e detalhes da trajetória e do veículo de lançamento) e ganhar altitude.
+A principal técnica comprovada envolve o lançamento quase vertical por alguns quilômetros ao realizar uma curva de gravidade e, em seguida, achatar progressivamente a trajetória a uma altitude de mais de 170 km e acelerar em uma trajetória horizontal (com o foguete inclinado para cima para combater a gravidade e manter a altitude) para uma queima de 5–8 minutos até que a velocidade orbital seja alcançada. Atualmente, 2–4 estágios são necessários para atingir o delta-v necessário. A maioria dos lançamentos é feita por sistemas de lançamento descartáveis.
+O foguete Pegasus para pequenos satélites, em vez disso, é lançado de uma aeronave a uma altitude de 39 000 pés (12 km).
+Muitos métodos propostos para realizar voos espaciais orbitais têm o potencial de ser muito mais baratos do que os foguetes. Algumas dessas ideias, como o elevador espacial e o rotovator, exigem novos materiais muito mais fortes do que os conhecidos atualmente. Outras ideias propostas incluem chão aceleradores tais como loops de lançamento, foguete assistida aviões / avião espacial tais como motores de reação Skylon, scramjet alimentado avião espacial e RBCC avião espacial potência. O lançamento de arma foi proposto para carga.
+A partir de 2015, a SpaceX demonstrou um progresso significativo em sua abordagem mais incremental para reduzir o custo do voo espacial orbital. Seu potencial de redução de custos vem principalmente do pouso propulsivo pioneiro com seu estágio de reforço de foguete reutilizável, bem como sua cápsula Dragon, mas também inclui a reutilização de outros componentes, como as carenagens de carga útil e o uso de impressão 3D de uma superliga para construir mais eficiente motores de foguete, como o SuperDraco. Os estágios iniciais dessas melhorias podem reduzir o custo de um lançamento orbital em uma ordem de magnitude.
+
+
+== Estabilidade ==
+Um objeto em órbita a uma altitude inferior a aproximadamente 200 km é considerado instável devido ao arrasto atmosférico. Para um satélite estar em uma órbita estável (isto é, sustentável por mais de alguns meses), 350 km é uma altitude mais padrão para órbita baixa da Terra. Por exemplo, em 1 de fevereiro de 1958, o satélite Explorer 1 foi lançado em uma órbita com um perigeu de 358 quilômetros (222 milhas). Ele permaneceu em órbita por mais de 12 anos antes de sua reentrada atmosférica no Oceano Pacífico em 31 de março de 1970.No entanto, o comportamento exato dos objetos em órbita depende da altitude, do coeficiente balístico e dos detalhes do clima espacial que podem afetar a altura da alta atmosfera.
+
+
+== Órbitas ==
+Existem três "bandas" principais de órbita em torno da Terra: órbita terrestre baixa (LEO), órbita terrestre média (MEO) e órbita geoestacionária (GEO).
+De acordo com a mecânica orbital, uma órbita encontra-se em um plano particular e amplamente fixo ao redor da Terra, que coincide com o centro da Terra e pode ser inclinado em relação ao equador. O movimento relativo da espaçonave e o movimento da superfície da Terra, conforme a Terra gira em seu eixo, determinam a posição em que a espaçonave aparece no céu a partir do solo e quais partes da Terra são visíveis da espaçonave.
+É possível calcular uma trilha no solo que mostra em qual parte da Terra uma espaçonave está imediatamente acima; isso é útil para ajudar a visualizar a órbita.
+
+
+== Manobra orbital ==
+Em voos espaciais, uma manobra orbital é o uso de sistemas de propulsão para mudar a órbita de uma nave espacial. Para espaçonaves distantes da Terra - por exemplo, aquelas em órbita ao redor do Sol - uma manobra orbital é chamada de manobra no espaço profundo.
+
+
+== História ==
+O Sputnik 1 foi o primeiro objeto de fabricação humana a realizar voos espaciais orbitais. Foi lançado em 4 de outubro de 1957 pela União Soviética.
+O Vostok 1, lançado pela União Soviética em 12 de abril de 1961, transportando Yuri Gagarin, foi o primeiro  voo espacial humano bem-sucedido a atingir a órbita da Terra.
+O Vostok 6, lançado pela União Soviética em 16 de junho de 1963, transportando Valentina Tereshkova, foi o primeiro  voo espacial bem-sucedido de uma mulher a alcançar a órbita da Terra.
+Crew Dragon Demo-2, lançado pela SpaceX e pelos Estados Unidos em 30 de maio de 2020, foi o primeiro  voo espacial humano bem-sucedido por uma empresa privada a atingir a órbita da Terra.
+
+
+== Ver também ==
+Órbita
+Classificação de Órbitas
+Rota no solo
+Astrodinâmica
+Espaçonave
+Viagem espacial
+
+
+== Referências ==

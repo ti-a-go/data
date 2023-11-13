@@ -1,0 +1,59 @@
+O iPhone 4S é um smartphone da Apple Inc., anunciado no dia 4 de outubro de 2011, um dia antes do falecimento do co-fundador, presidente e diretor executivo da Apple Inc, Steve Jobs, no evento da marca "Let's Talk iPhone". O modelo foi lançado no dia 14 do mesmo mês e foi o primeiro da empresa a ser apresentado por Tim Cook, no lugar de Steve Jobs. Sucessor do iPhone 4, o modelo usa um processador Apple A5 Dual-Core de 1 GHZ, com clock de 800MHz. Junto ao iPhone 4S, a Apple também lançou a quinta versão do sistema operacional iOS, que trazia pela primeira vez a assistente de voz Siri, assim como o serviço de armazenamento em nuvem, o iCloud.
+O iPhone 4S foi uma inovação para a Apple, em termos de telefonia celular. Apesar da sua tela de 3,5 polegadas e design semelhante ao do modelo anterior, o novo iPhone trouxe várias melhorias. Começando com o seu processador Apple A5 Dual-Core de 1GHz com o surpreendente pico de 800MHz. Houve também o upgrade da câmera, que passa a contar com 8 Megapixels, nova lente e leve aumento de abertura, o que passou a facilitar ainda mais a entrada de luz, aumentando o desempenho da câmera em ambientes de baixa luminosidade. A nova antena dual GSM também foi um avanço para a marca e modelo, no sistema uma antena recebe o sinal Wifi e 3G e a outra emite o sinal dos mesmos, melhorando assim a velocidade de ambos, numa qualidade 3G+ (3G Plus)
+A produção deste modelo foi encerrada em Setembro de 2014, juntamente com o lendário iPod Classic (o primeiro da linha), sendo assim, descontinuado o Conector dock e encerrando a "era Jobs". O iPhone 4s de 8GB foi descontinuado em 31 de março de 2015 no Brasil.Em 8 de junho de 2015, foi anunciado na WWDC que o iPhone 4S seria o primeiro iPhone da história a receber cinco versões do sistema operacional, sendo estes o iOS 5, 6, 7, 8 e 9.
+
+
+== Lançamento ==
+
+
+=== Brasil ===
+As operadoras TIM, Claro, Oi e Vivo e a própria Apple começaram a vender o aparelho no dia 15 de Dezembro de 2011 pelo preço inicial de R$ 2599,00 (versão 16GB) e R$ 2999,00 (versão 32GB).
+
+
+=== Portugal ===
+O iPhone 4S chegou a Portugal no dia 11 de Novembro de 2011, juntamente com mais 14 países.
+
+
+== Especificações ==
+
+
+=== Câmera ===
+O iPhone 4s é o primeiro modelo a ter uma câmera traseira de oito megapixels, a câmera frontal VGA e o flash LED foram mantidos os mesmos do iPhone 4.
+A nova câmera traseira é capaz de gravar vídeos HD de 1080p a 30 frames por segundo.
+
+
+=== Energia e bateria ===
+Bateria interna de íon de lítio recarregável;
+Carga via USB do computador ou adaptador de energia;
+Tempo de conversação:Até 8 horas em 3G; Até 16 horas em 2G;
+
+Tempo em espera: Até 200 horas;
+Uso da Internet:Até 5 horas em 3G; Até 8 horas em Wi-Fi;
+
+
+=== Armazenamento e Micro-SIM ===
+O iPhone 4s usa um cartão Micro-SIM, que é posicionado em uma bandeja ejetável, localizada no lado direito do aparelho. Todos os modelos anteriores ao iPhone 4 e 4s usaram cartões regular Mini-SIM.
+
+
+=== Conteúdo da caixa ===
+iPhone 4s;
+Fone de ouvido Apple com controle remoto e microfone;
+Cabo com conector de dock para USB;
+Adaptador de energia USB;
+Caixa;
+Documentação.
+
+
+== Ver também ==
+iPhone 5
+iPod Touch
+iPad
+iOS (Apple)
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Site oficial da Apple Inc.
+Apple Store: iPhone 4s

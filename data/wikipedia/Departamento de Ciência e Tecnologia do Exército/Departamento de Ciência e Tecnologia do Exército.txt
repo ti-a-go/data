@@ -1,0 +1,101 @@
+Departamento de Ciência e Tecnologia (DCT) é o órgão de Direção Setorial (ODS) do Exército Brasileiro (EB) que atua com foco em planejar, orientar, controlar e coordenar as atividades de ciência e tecnologia, de estímulo à inovação no Exército e de fomento à indústria de defesa nacional. Como vetor de Ciência e Tecnologia dentro da Força Terrestre, também cabe ao DCT a responsabilidade de gerenciar o Sistema de Ciência, Tecnologia e Inovação do Exército (SCTIEx).
+
+
+== Criação ==
+Antes da existência do DCT, as atividades de ciência e tecnologia do Exército Brasileiro eram realizadas por duas secretarias, a Secretaria de Tecnologia da Informação e a Secretaria de Ciência e Tecnologia. Com a evolução e a abrangência dos temas abordados pela área de Ciência, Tecnologia e Inovação (CT&I), a reestruturação e a integração dessas secretarias se torna iminente. Dessa forma, em 2005, por meio do decreto nº 5.426, cria-se o Departamento de Ciência e Tecnologia.
+Além de realizar a fusão das secretarias e promover a integração das atividades de CT&I no EB, uma das principais finalidades da criação do DCT passa a ser a busca pelo atendimento às demandas da Força Terrestre, no desenvolvimento de produtos e serviços de defesa com elevado valor tecnológico.
+Em 2006, o comandante do Exército concede ao DCT a denominação histórica de Departamento General Gomes Freire de Andrade.O departamento herda a insígnia da Ordem do Mérito Militar, concedida em 2001 à Secretaria de Tecnologia da Informação e em 2002 à Secretaria de Ciência e Tecnologia, ambas pelo presidente Fernando Henrique Cardoso.
+
+
+== Estrutura e organização ==
+O DCT é composto por onze organizações militares diretamente subordinadas, sendo elas:
+Centro de Avaliações do Exército (CAEx);
+Comando de Defesa Cibernética (Com D Ciber);
+Comando de Comunicações e Guerra Eletrônica do Exército (CCOMGEx);
+Centro de Desenvolvimento de Sistemas (CDS);
+Centro Integrado de Telemática do Exército (CITEx);
+Centro Tecnológico do Exército (CTEx);
+Diretoria de Fabricação (DF);
+Diretoria de Serviço Geográfico (DSG);
+Instituto Militar de Engenharia (IME);
+Agência de Gestão de Inovação Tecnológica (AGITEC); e
+Diretoria de Sistemas e Material de Emprego Militar (DSMEM).O Departamento também é membro do Conselho de Administração da Indústria de Material Bélico do Brasil (IMBEL).
+
+
+== Programas e projetos ==
+Programas e projetos de Ciência e Tecnologia do EB que visam contribuir com a capacidade operacional da Força Terrestre e, consequentemente, auxiliar na defesa do território nacional.
+
+VBTP-MR GUARANI;
+ASTROS 2020;
+Sistema Integrado de Monitoramento de Fronteiras – SISFRON;
+Rádio Definido por Software (RDS);
+Radares de vigilância SABER-M60, SENTIR-M20 e VIGILANTE-M200;
+Centro de Operações Antiaéreas;
+Implantação da Base Cartográfica Digital Contínua da Amazônia Legal;
+Programa Amazônia Conectada;
+Data Center do Exército Brasileiro, entre outros.
+
+
+== Antigos e atual chefe ==
+
+
+=== Diretoria de Processamento de Dados ===
+Gen Div José Maria de Andrade Serpa - 01/01/1972 - 21/08/1972
+Gen Bda Ferdinando de Carvalho - 22/08/1973 - 22/04/1975
+Gen Bda Rubens Mário Brum Negreiros - 13/05/1975 - 05/01/1976
+Gen Bda Jayme Miranda Mariath - 06/01/1976 - 13/05/1980
+Gen Bda Dalnio Teixeira Starling - 30/05/1980 - 16/02/1982
+
+
+=== Diretoria de Informática ===
+Gen Div Oswaldo Muniz Oliva - 27/01/1983 - 12/11/1985
+Gen Bda Antonio Sebastião Leonel Gomes Marsiglia - 12/11/1985 - 04/01/1989
+Gen Bda Luiz Gonzaga Schroeder Lessa - 04/01/1989 - 19/04/1991
+Gen Div Joubert de Oliveira Brizida - 09/05/1991 - 02/03/1993
+Gen Div Francisco Pinto dos Santos Filho - 14/03/1993 - 18/04/1995
+Gen Bda Ary Silvio Tomaz Nunes - 18/04/1995 - 03/04/1997
+
+
+=== Secretaria de Ciência e Tecnologia ===
+Gen Ex Haraoldo Erichsen de Fonseca - 14/02/1985 - 30/11/1987
+Gen Ex Hyran Ribeiro Arnt - 15/01/1988 - 10/01/1989
+Gen Ex Hélio Pacheco - 10/01/1989 - 06/05/1990
+Gen Ex Romero Lepesqueur - 07/05/1990 - 01/02/1993
+Gen Ex Carlos Annibal Pacheco - 01/02/1993 - 23/12/1993
+Gen Ex Antônio Sebastião Leonel Gomes Marsiglia - 23/12/1993 - 28/04/1997
+Gen Ex José Enaldo Rodrigues de Siqueira - 28/04/1997 - 23/03/1998
+Gen Ex Frederico Faria Sodré de Castro - 23/031998 - 02/02/1999
+Gen Ex Horácio Raposo Borges Neto - 02/02/1999 - 07/04/2000
+Gen Ex Marcello Rufino dos Santos - 07/04/2000 - 16/11/2000
+Gen Ex Jorge Armando Félix - 05/01/2001 - 30/12/2002
+Gen Ex Alberto Mendes Cardoso - 13/01/2003 - 06/06/2005
+
+
+=== Secretaria de Tecnologia da Informação ===
+Gen Div Adalberto Imbrósio - 01/01/1999 - 21/12/2000
+Gen Ex Francisco Roberto de Albuquerque - 09/01/2001 - 17/04/2001
+Gen Ex Pedro Augusto da Silva Neto - 14/02/2002 - 18/04/2004
+Gen Ex Roberto Jugurtha Camara Senna - 08/08/2002
+Gen Ex Pedro Augusto da Silva Neto - 24/05/2003 - 30/04/2004
+Gen Ex Eron Carlos Marques - 01/05/2004 - 25/10/2004
+Gen Ex Marius Teixeira Neto - 03/01/2005 - 27/01/2005
+Gen Ex Alberto Mendes Cardoso - 27/01/2005 - 06/06/2005
+
+
+=== Departamento de Ciência e Tecnologia ===
+Gen Ex Alberto Mendes Cardoso - 01/06/2005 - 04/05/2006
+Gen Ex Darke Nunes de Figueiredo - 04/05/2006 - 15/08/2008
+Gen Ex Luis Carlos Gomes Mattos - 15/08/2008 - 08/04/2009
+Gen Ex Augusto Heleno Ribeiro Pereira - 08/04/2009 - 09/05/2011
+Gen Ex Sinclair James Mayer - 09/05/2011 - 11/05/2015
+Gen Ex Juarez Aparecido de Paula Cunha - 11/05/2015 - 04/05/2018
+Gen Ex Edson Leal Pujol - 04/05/2018 - 18/12/2018
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Sítio oficial (em português)
+Radar SABER-M60,
+Radar SENTIR-M20

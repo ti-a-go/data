@@ -1,0 +1,18 @@
+Altitude é a distância vertical medida entre um ponto e um datum (uma superfície de referência) que geralmente é o nível médio do mar (MSL).A altitude e a temperatura do local em que ela é medida normalmente são grandezas inversamente proporcionais, pois quando a altitude aumenta em 150 m a temperatura ambiente diminui aproximadamente 1 °C. Por conta disto, via de regra a temperatura ambiente diminui aproximadamente 6,5 °C a cada 1 quilômetro que a altitude aumenta. A esse valor - que nada mais é que uma taxa de variação de 6,5 °C para cada mil metros de distância vertical.
+
+
+== Tipos específicos de altitude ==
+Altitude ortométrica: é a distância vertical de um ponto, situado sobre a superfície terrestre, em relação a um geoide de referência.Altitude elipsoidal: é a distância vertical de um ponto a um elipsoide de referência. As altitudes indicadas pelos receptores dos Sistemas de Posicionamento Global (GPS), por exemplo, são do tipo elipsoidal.Altitude de pressão: muito utilizada em aeronáutica, trata-se de uma superfície atmosférica irregular, porém na qual a pressão atmosférica é constante. Se uma aeronave desloca-se, pelo ar, mantendo-se invariavelmente na mesma altitude de pressão, isso significa que a distância vertical dessa aeronave, em relação à superfície terrestre, poderá variar diversas vezes, mas a pressão atmosférica permanecerá exatamente a mesma em todos os pontos da atmosfera pelos quais essa aeronave passar. Em outras palavras: uma aeronave que voa na mesma altitude de pressão é uma aeronave que voa "perseguindo" um (e somente um) valor (constante) de pressão atmosférica. Esse controle de "altitude em função da pressão atmosférica" é feito pelo altímetro, seja de modo manual (pelo piloto em comando), seja de modo automático (pelo dispositivo altímetro embutido em um piloto automático de computador de bordo, de um FMS ou de algum outro aviônico). A altitude de pressão é expressa em unidade de pressão e seu valor é calculado na atmosfera padrão.
+
+
+== Ver também ==
+Sistema de coordenadas geográficas
+WGS84
+
+
+== Referências ==
+
+
+== Bibliografia ==
+CHRISTOPHERSON, Robert W. Geossistemas: Uma Introdução à Geografia Física. 7 ed. Porto Alegre: Bookman, 2012.
+TULER, Marcelo. Fundamentos de Topografia: Série Tekne. Porto Alegre: Bookman, 2014.

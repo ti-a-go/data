@@ -1,0 +1,20 @@
+O Gemeinsame Normdatei (GND) é um ficheiro de autoridade mantido pela Biblioteca Nacional da Alemanha (e bibliotecas associadas) em colaboração com diversas redes de bibliotecas de língua alemã, entre outros da Áustria e da Suíça.
+O Gemeinsame Normdatei foi introduzido em 19 de abril de 2012 tendo em vista (entre outros) a harmonização com normas internacionais  e substituiu os ficheiros de autoridade:
+
+Personennamendatei (PND, pessoas)
+Schlagwortnormdatei (SWD, tópicos)
+Gemeinsame Körperschaftsdatei (GKD, entidades)
+Einheitssachtitel-Datei do Deutsches Musikarchiv (DMA-EST-Datei)O formato do GND baseia-se no formato MARC 21 bibliográfico. No momento da introdução o GND disponibilizou 9.493.860 entradas, das quais 7.106.000 entradas sobre pessoas.
+
+
+== Ver também ==
+Base Virtual Internacional de Autoridade
+Biblioteconomia
+
+
+== Ligações externas ==
+
+Catalogação bibliográfica: OGND (Bibliotheksservice-Zentrum Baden-Württemberg)
+
+
+== Referências ==

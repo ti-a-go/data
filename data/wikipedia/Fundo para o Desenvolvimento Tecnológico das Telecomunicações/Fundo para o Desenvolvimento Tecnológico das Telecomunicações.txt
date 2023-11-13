@@ -1,0 +1,264 @@
+O Fundo para o Desenvolvimento Tecnológico das Telecomunicações (FUNTTEL)
+foi instituído pelo governo brasileiro, com objetivo de estimular o processo de inovação tecnológica, incentivar a capacitação de recursos humanos, fomentar a geração de empregos e promover o acesso de pequenas e médias empresas a recursos de capital para ampliar a competitividade da indústria brasileira de telecomunicações, conforme previsto pela Lei Geral de Telecomunicações.
+
+
+== O Conselho Gestor do FUNTTEL ==
+O FUNTTEL está subordinado a um Conselho Gestor, constituído pelos seguintes representantes, cujos mandatos tem duração de três anos, e seus respectivos órgãos:
+Presidente - André Muller Borges: Ministério da Ciência, Tecnologia, Inovações e Comunicações – MCTIC;
+Conselheiro Elton Santa Fé Zacarias: Ministério da Ciência, Tecnologia, Inovações e Comunicações – MCTIC;
+Conselheiro Marcos Vinicius de Souza: Ministério do Desenvolvimento, Indústria e Comércio Exterior e Serviços – MDIC;
+Conselheiro Marcus Vinicius Paolucci: Agência Nacional de Telecomunicações – ANATEL;
+Conselheira Irecê Fraga Kauss Loureiro: Banco Nacional de Desenvolvimento Econômico e Social – BNDES;
+Conselherio Marcos Cintra: Financiadora de Estudos e Projetos – FINEP;
+Fonte: Portaria nº: 3.545, de 29/06/2017 do Ministério da Ciência, Tecnologia, Inovações e Comunicações, publicada na seção 2 do D.O.U nº 124 de 30/06/2017.
+
+Estes são designados pelo Ministro da Ciência, Tecnologia, Inovações e Comunicações para exercer seus mandatos por três anos. Cabe ao representante do MCTIC presidir as sessões do conselho.
+As Reuniões Ordinárias do Conselho Gestor do Funttel ocorrem trimestralmente, podendo ocorrer as Reuniões Extraordinárias a qualquer tempo.
+
+de acordo com a Lei nº 13.341/2016, o Ministério das Comunicações foi extinto e suas atribuições passaram a ser de responsabilidade do Ministério da Ciência, Tecnologia, Inovações e Comunicações.
+
+
+=== Atribuições ===
+As atribuições do Conselho Gestor são:
+
+aprovar seu Regimento Interno;
+Aprovar as normas de aplicações dos recursos em programas, projetos e atividades prioritárias na área de telecomunicações;
+Aprovar, acompanhar e fiscalizar a execução do plano de aplicação dos recursos;
+Submeter anualmente ao Ministério das Comunicações a proposta orçamentária;
+Prestar contas da execução orçamentária e financeira do Funttel;
+Decidir sobre outros assuntos de interesse do Funttel;
+Propor a regulamentação dos dispositivos da Lei nº 10.052, de 2000, no âmbito de sua competência; e
+Estabelecer as normas referentes à operacionalização do Funttel.
+
+
+=== Secretaria Executiva ===
+A Secretaria Executiva do Conselho Gestor que foi criada para apoiar o Presidente e aos Conselheiros e tem como atribuições:
+
+Dar assessoria ao Presidente, nos assuntos de competência do Conselho;
+Organizar as pautas das reuniões do Conselho, secretariar as reuniões e lavrar as atas respectivas; e
+Exercer outras atribuições que lhe forem conferidas pelo Presidente do Conselho.
+
+
+== Receitas ==
+Os recursos do FUNTTEL tem como fato gerador, as seguintes origens:
+
+Contribuição 0,5% sobre receita bruta das empresas prestadoras de serviços de telecomunicações
+Contribuição de 1% sobre a arrecadação bruta de eventos participativos realizados por meio de ligações telefônicas
+Dotações na Lei orçamentária anual e seus créditos adicionais
+Doações
+O produto da remuneração de recursos repassados aos agentes aplicadores
+
+
+=== Arrecadação ===
+A tabela a seguir demonstra a arrecadação das receitas do Funttel, relativas aos itens 1 e 2 do parágrafo anterior, desde sua criação.
+
+valores baseados na memória de cálculo
+ «Fonte: STN - Receitas de contribuições 1994 a 2014 - Código de receita 12202602 (arquivo excel)» 
+ «Fonte: STN - Receitas de contribuições 2015 em diante - Código 12200921 para o principal da receita, e 12200922 para multa e juros (arquivo excel)» Atualizado até janeiro de 2017.
+Série histórica com valores nominais. Inclusos pagamentos de multa e juros. Não considerados índices de atualização ou inflação.
+Valores evidenciados pelo método de caixa.
+
+
+=== Destinação das Receitas ===
+20% para a Desvinculação das receitas da União - DRU (até 2015)
+30% para a Desvinculação das receitas da União - DRU (a partir de 2016)
+20% para o CT-INFRA do FNDCT
+64% restantes para aplicação pelo Funttel (até 2015)
+56% restantes para aplicação pelo Funttel (a partir de 2016)
+Memória de Cálculo (até 2015):
+Destinação DRU = Receita arrecadada x 0,2
+Destinação CT-INFRA = (Receita arrecadada - Destinação DRU) x 0,2
+Destinação ao Funttel = Receita arrecadada - Destinação DRU - Destinação CT-INFRA
+Memória de Cálculo (a partir de 2016):
+Destinação DRU = Receita arrecadada x 0,3
+Destinação CT-INFRA = (Receita arrecadada - Destinação DRU) x 0,2
+Destinação ao Funttel = Receita arrecadada - Destinação DRU - Destinação CT-INFRA
+
+
+== Orçamento, programas e ações ==
+
+
+=== Programas ===
+Até 2011 o orçamento anual compreendia as ações constantes no programa 8025 - Inovação Tecnológica em Telecomunicações.
+A partir de 2012 o programa 8025 foi absorvido pelo programa 2025 - Comunicações para o desenvolvimento, a inclusão e a democracia, por força do Plano Plurianual 2012/2015 - Plano mais Brasil, permanecendo inalteradas as suas ações.
+
+
+=== Ações ===
+As ações e finalidades para o programa 2025 são:
+
+Ação 4333 - Estimular a criação de tecnologias inovadoras visando à melhoria, à eficiência e à competitividade do setor de telecomunicações.
+Ação 4343 - Garantir ao CPqD a continuidade de pesquisas e o desenvolvimento tecnológico na área de telecomunicações.
+Ação 4341 - Desenvolver tecnologias e difundir o conhecimento em atividades de pesquisa aplicada a telecomunicações, mediante a qualificação de recursos humanos.
+Ação 0505 - Permitir que pequenas e médias empresas tenham acesso aos recursos de capital, com o objetivo de ampliar a competitividade da indústria brasileira de telecomunicações.
+Ação 6522 - Assegurar a execução dos financiamentos a projetos de desenvolvimento de tecnologias nas telecomunicações.
+Ação 2722 - Constituição de um centro de custos administrativos dos programas, agregando as despesas que não passíveis de apropriação em ações finalísticas do próprio programa.A partir de 2013 as ações 4333, 4341 e 4343 foram agregadas em uma única ação finalística: 20ZR - Política Produtiva e Inovação Tecnológica
+Fontes:
+
+Cadastro de ações para o programa 8025 (até 2011)
+Cadastro de ações para o programa 2025 (2012)
+
+
+=== Orçamento para 2016 ===
+Segundo Lei Orçamentária Anual nº 13.414 de 10/01/2017:
+
+Fontes:
+
+PLOA 2017 Ações não reembolsáveis e reembolsáveis, página 82 e 618
+
+
+== Aplicação dos recursos do Fundo ==
+Os recursos do FUNTTEL são aplicados por seus agentes financeiros e pela Fundação CPqD exclusivamente nos programas, projetos e atividades do setor de telecomunicações.
+
+
+=== Agentes Financeiros ===
+BNDES
+FINEP
+
+
+=== Planos de aplicação de recursos ===
+PAR da Fundação CPqD - Resolução 94/2013 do Conselho Gestor do Funttel
+PAR da Finep - Resolução 93/2013 do Conselho Gestor do Funttel
+PAR do BNDES - Não apresentado
+
+
+==== Obrigações dos agentes financeiros ====
+As principais obrigações dos agentes financeiros (BNDES, FINEP) e da Fundação CPqD perante o FUNTTEL, são:
+
+Apresentação anual de propostas relativas aos planos de aplicação de recursos repassados, por programa, projeto e atividade de seus clientes;
+Apresentação trimestral dos demonstrativos consolidados da execução orçamentária e financeira dos recursos repassados;
+Prestação de contas anual, até 28 de fevereiro, dos recursos recebidos conforme Relatório de Execução do Plano de Aplicação de Recursos, relativo ao exercício imediatamente anterior.
+
+
+=== Entidades elegíveis ===
+De acordo com a resolução nº 66/2010, os recursos a serem aplicados tem como destinação as seguintes instituições e empresas:
+
+Instituições de pesquisa, públicas ou privadas, constituídas sob as leis brasileiras e com sede e administração no País, com comprovada atuação no campo das Tecnologias da Informação e da Comunicação e que estejam em efetivo funcionamento por, no mínimo, três anos;
+Instituições de ensino, públicas ou privadas, constituídas sob as leis brasileiras e com sede e administração no País, com comprovada atuação no campo das Tecnologias da Informação e da Comunicação e que estejam em efetivo funcionamento por, no mínimo, três anos;
+Empresas prestadoras de serviços de telecomunicações, constituídas sob as leis brasileiras e com sede e administração no País, que estejam em efetivo funcionamento por, no mínimo, um ano;
+Empresas que desenvolvam bens e serviços especializados para o setor de telecomunicações, constituídas sob as leis brasileiras e com sede e administração no País, que estejam em efetivo funcionamento por, no mínimo, um ano; e
+Empresas fornecedoras de bens e serviços especializados para o setor de telecomunicações, constituídas sob as leis brasileiras e com sede e administração no País, que estejam em efetivo funcionamento por, no mínimo, um ano.
+
+
+=== Acesso aos recursos do Funttel ===
+A entidade interessada deve procurar o agente financeiro do Funttel, BNDES ou Finep, munida do Projeto que deseja submeter e verificar o tipo de demandas existente para aplicação dos recursos, que podem ser:
+
+Demanda induzida, quando é feita uma convocação pública;
+Encomenda, quando o desenvolvimento de um projeto ou atividade for diretamente encomendado a uma ou mais entidades específicas; e
+Demanda espontânea, quando uma entidade apresentar um projeto ou atividade por iniciativa própria.
+
+
+=== Tipos de recursos disponíveis ===
+Não reembolsáveis:
+
+Recursos cuja aplicação for realizada com o objetivo de dar apoio financeiro a projeto ou atividade sem exigência de compensação financeira.Reembolsáveis:
+
+a aplicação cuja aplicação for realizada com o objetivo de dar apoio financeiro a projeto ou atividade com exigência de compensação financeira.
+
+
+=== Critérios para aprovação de projetos ===
+Os projetos serão selecionados levando-se em conta:
+
+O fomento a geração de conhecimento no setor de telecomunicações;
+A contribuição para o desenvolvimento da indústria nacional de equipamentos e serviços de telecomunicações;
+A contribuição para a capacitação de recursos humanos qualificados no setor de telecomunicações;
+A promoção de cooperação e formação de redes, integrando instituições de ensino, de pesquisa e empresas;
+A complementação do desenvolvimento tecnológico resultante de projetos e atividades já fomentados pelo Funttel; e
+A atração para o País de atividades de pesquisa e desenvolvimento realizadas por empresas e instituições brasileiras que atuam no âmbito internacional.
+
+
+=== Áreas tecnológicas prioritárias ===
+O Conselho Gestor do Funttel, em sua Resolução nº 97/2013, que define o planejamento estratégico do Fundo para os próximos exercícios, definiu que o Funttel deverá focalizar seus recursos nas seguintes áreas tecnológicas, alinhadas com os objetivos do PNBL:
+
+Comunicações ópticas;Comunicações digitais sem fio;Redes de transporte de dados; eComunicações estratégicas.
+
+
+== Resultados ==
+Dentre os resultados da aplicação dos recursos do Funttel podem-se destacar:
+
+Projeto GigaProjeto SIC - Segurança da Informação e ComunicaçãoAplicações de TV interativaCentrais Trópico
+
+
+=== Notícias sobre projetos ===
+Laboratório 4GLaboratório LTECPqD atinge velocidade de 2 Tb/s em transmissão ópticaProjeto começa: CPqD começa piloto de substituição de senha por biometria em Android
+
+
+== Regulamentação ==
+Criação: Lei nº 10.052, de 28.11.2000;
+Regulamentação: decretos 3.737 e 4.149, de 30.01.2001 e 01.03.2002, respectivamente e pelas «Resoluções do Conselho Gestor do Funttel» .
+
+
+== Informações de interesse do contribuinte ==
+
+
+=== Informações de natureza tributária ===
+Tipo de tributo: Contribuição de intervenção no domínio econômico - CIDE
+Função Tributária: Extra Fiscal
+Tipo de Lançamento:  Lançamento_por_homologação
+Fato gerador: ver Receitas
+
+
+=== Informações sobre pagamento ===
+
+
+==== Emissão de Guia de Recolhimento, cálculo de multa e juros ====
+Recolhimento: mediante Guia de Recolhimento da União - GRU, modelo simples, , para pagamento exclusivamente no Banco do Brasil e em favor da Unidade Gestora 410007, Gestão 0001 - Tesouro Nacional, e utilizando o código 14200-0.
+Informação relevante: a guia gerada pelo modelo GRU Simples contém no código de barras, apenas as informações sobre o valor principal. Caso haja valores de multa e juros, os mesmos devem ser digitados, diretamente no terminal, pelo guichê de caixa do Banco do Brasil.
+Data de Vencimento: último dia útil do mês imediatamente seguinte ao do período de apuração.
+Atualizações após vencimento:
+
+Multa:
+20% sobre o principal caso o pagamento seja efetuado no mês seguinte ao do vencimento, ou
+30% sobre o principal caso o pagamento seja efetuado a partir do segundo mês seguinte ao mês de vencimento, não cumulativa com a multa descrita no item anterior;
+75% sobre o principal caso o pagamento seja efetuado a partir do lançamento de ofício, ou seja, se o contribuinte receber uma notificação de lançamento.Juros:
+1% sobre o principal, caso o pagamento seja efetuado no mês seguinte ao do vencimento, ou
+Caso o pagamento seja efetuado após o mês seguinte ao do vencimento: taxa de juros apontada pela «Tabela Selic Acumulada»  (segunda e terceira tabelas), sobre o principal, relativa ao mês em que o pagamento deveria ter sido efetuado.
+Fontes:
+
+Resolução nº 95 do Conselho Gestor do Funttel - Novo regulamento da arrecadação do Funttel
+Ministério das Comunicações - Instruções para preenchimento da GRU
+Lei 8.981, Art 84
+Lei 9.065, Art 13
+
+
+==== Emissão de Certidões ====
+É assegurada ao contribuinte a emissão das seguintes condições, dependendo da situação:
+
+Certidão Negativa de Débitos - Indica a inexistência de pendências do contribuinte junto ao Funttel, com validade de 180 dias a partir da data de sua emissão;
+Certidão Positiva de Débitos com efeito de Negativa - Indica a existência de pendências do contribuinte junto ao Funttel, com validade de 60 dias a partir da sua data de emissão.
+Certidão Positiva de Débitos - Indica a existência de pendências do contribuinte junto ao Funttel;
+
+
+==== Optantes pelo Simples Nacional ====
+Estão desobrigados a recolher para o Funttel, de acordo com o Parecer PGFN/CAT/Nº 770/2010, os optantes pelo Simples Nacional, nos termos da Lei Complementar 123/2006, a iniciando-se no momento da opção respeitadas as vigências abaixo:
+
+A partir de 01/07/2007 - para os contribuintes sob o regime de tributação das microempresas e empresas de pequeno porte;
+A partir de 15/12/2006 - para os demais contribuintes.
+
+
+=== Informações sobre recursos e processos administrativos ===
+Acompanhamento de processos: Sistema de Consulta a Processos
+Atenção: os procedimentos abaixo só poderão ser realizados até 30/06/2015. Após isso, todo peticionamento se dará na forma eletrônica via CADSEI. 
+Para ter acesso às informações sobre processos e recursos administrativos, bem como de cópias e vistas de processos é necessário protocolar um requerimento no Ministério das Comunicações, ou em uma de suas delegacias regionais, acompanhados dos seguintes documentos: cópia autenticada dos atos constitutivos e suas alterações, documento de identificação, e, na hipótese de procurador, deve ainda apresentar a procuração que lhe confira poderes para tanto.
+Os recursos administrativos referentes às arrecadações podem ser protocolados nos seguintes endereços:
+No edifício sede:
+Esplanada dos Ministérios Bloco R, Térreo, protocolo do Ministério das Comunicações. Cep 70.044-900. Brasília - DF
+Nas Delegacias Regionais:
+I - Delegacia Regional do Ministério das Comunicações no Estado de Minas Gerais, localizada na Av. Afonso Pena, 1.270, Térreo - Centro, Belo Horizonte-MG, CEP 30130-900;
+II - Delegacia Regional do Ministério das Comunicações no Estado do Rio de Janeiro, localizada na Rua 1o de Março, 64, 1º andar - Centro, Rio de Janeiro-RJ, CEP 20010-900;
+III - Delegacia Regional do Ministério das Comunicações no Estado de Santa Catarina, localizada na Praça XV de Novembro, 242, sala 110 - Centro, Florianópolis-SC, CEP 88010-970;
+IV - Delegacia Regional do Ministério das Comunicações no Estado de São Paulo, localizada na Rua Mergenthaler, 592, Bl. 1, Mezanino, Vila Leopoldina, São Paulo-SP, CEP 05311-900;
+V - Delegacia Regional do Ministério das Comunicações no Estado de Mato Grosso, localizada na Rua C, Sem Número, Complexo ECT - Vila Sadia, Bairro Cristo Rei, Várzea Grande-MT, CEP 78115-970.
+Fonte:
+
+Diário Oficial da União - DOU, nº 89, página 68. Data 12/05/2010
+
+
+== Ver também ==
+Fundo Nacional de Desenvolvimento Científico e Tecnológico
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«Página oficial»

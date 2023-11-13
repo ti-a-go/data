@@ -1,0 +1,76 @@
+Telefone é um sistema de telecomunicações capaz de transmitir som através de sinais elétricos nas redes de telefone. É definido como um aparelho eletroacústico que permite a transformação, no ponto transmissor, de energia acústica em energia elétrica e, no ponto receptor, a energia elétrica é transformada novamente em acústica, permitindo desta forma a troca de informações (através da fala) entre dois ou mais usuários. Para haver êxito nessa comunicação, os aparelhos necessitam estar comutados (ligados) a uma central telefônica.
+
+
+== História ==
+
+Há muita controvérsia sobre a invenção do telefone, historicamente atribuída a Alexander Graham Bell.
+
+
+=== Invenção ===
+Em 2 de junho de 1875, Graham Bell e seu auxiliar Thomas Watson fizeram várias experiências para verificar o funcionamento do telégrafo harmônico. Cada um foi para uma sala na oficina de Bell. Watson, em uma delas, tratava de ligar diversos eletroímãs, enquanto Bell, na outra, observava o comportamento dos eletroímãs de seu aparelho que deveriam vibrar estimulados pelo aparelho de Watson.
+De início a experiência não funcionou e para piorar a lâmina de um dos transmissores não vibrava quando ligada à pilha. Como essa lâmina parecia estar presa, Watson começou a puxá-la e soltá-la para ver se assim ela começava a vibrar. Nisso, Bell ouve uma forte vibração no aparelho que estava em sua sala, dá um grito e vai correndo perguntar a Watson o que ele havia feito. Dando uma olhada na lâmina que estava com problema, Bell viu que um parafuso estava muito apertado, impedindo que o contato elétrico gerado entre a lâmina e o eletroímã fosse rompido, interrompendo a transmissão de pulsos elétricos para a outra sala.
+Bell, tentando compreender o que havia acontecido, verificou que quando a lâmina de aço vibrou diante do eletroímã, ela induziu uma corrente elétrica oscilante na bobina do eletroímã e essa corrente elétrica produziu a vibração no aparelho que estava na outra sala. O princípio da física que explicava esse fenômeno já havia sido demonstrado por Michael Faraday. Então Bell percebeu que poderia usá-lo para fazer o que tanto queria: transmitir a voz através da eletricidade, e deu instruções a Watson para que construísse um novo aparelho, adaptado sob o antigo, com a finalidade de captar as vibrações sonoras do ar e produzir vibrações elétricas.
+
+
+=== Primeiro telefone ===
+No dia seguinte, 3 de junho de 1875, atendendo a solicitação de Bell, Watson construiu dois exemplares. Um deles era de uma estrutura de madeira que tinha uma espécie de tambor mantendo todas as partes do dispositivo nas posições corretas, e que devido ao seu formato ficou conhecido como “telefone de forca”.
+A ideia de Bell era que ao falar próximo à membrana ela vibraria, fazendo a lâmina tremer perto do eletroímã e induzindo correntes elétricas variáveis até sua bobina. Ele esperava que essas vibrações sonoras fossem reproduzidas igualmente na forma elétrica que seria conduzida por fios metálicos até um outro aparelho idêntico, fazendo-o vibrar e emitir um som semelhante ao inicial.
+Para começar o teste, os dois colocaram os aparelhos em lugares bem distantes; um no sótão e o outro no terceiro andar do prédio – dois andares abaixo, ligados por um par de fios metálicos. À noite, Bell ficou no sótão e Watson na sala do terceiro andar, tentando se comunicar. Por mais que Watson falasse alto ou mesmo gritasse, Bell não ouvia nada, no entanto, quando Bell falava em seu dispositivo, Watson ouvia alguns sons. Mas era preciso aperfeiçoá-lo.
+As pesquisas posteriores tinham como objetivo o desenvolvimento de uma membrana para transformar o som em corrente elétrica e reproduzi-lo novamente no outro lado, e assim a invenção foi patenteada em 7 de março de 1876. Mas a data que entrou para a história da telefonia foi o dia 10 de março de 1876, pois nesse dia foi feita a transmissão elétrica da primeira mensagem completa pelo aparelho recém-inventado. Graham Bell se encontrava no último andar de uma hospedaria em Boston, nos Estados Unidos. Já Watson trabalhava no térreo e atendeu o telefone, de onde ouviu, espantado:
+
+Assim Thomas Watson foi a primeira pessoa a ouvir uma voz pelo dispositivo denominado telefone. Começava aí a história das telecomunicações, que iria revolucionar o mundo dali em diante.Em maio de 1876 Graham Bell, com seu invento já patenteado, levou o telefone para a Exposição Internacional comemorativa ao Centenário da Independência Americana na cidade de Filadélfia, colocando-o sobre uma mesa à espera do interesse dos juízes, o que não correspondeu às expectativas. Dois meses após, Dom Pedro II, Imperador do Brasil, chega em visita à Exposição. Tendo, há tempos, assistido a uma aula de Bell para surdos, saudou o jovem professor. Dom Pedro II abriu caminho para a aceitação do invento. Os juízes começaram a se interessar e assim o telefone foi examinado. Bell estendeu um fio de um canto a outro da sala, onde o silêncio era total, dirigiu-se ao transmissor e colocou o Imperador do Brasil na outra extremidade. Dom Pedro II tinha o receptor ao ouvido quando exclamou de repente:
+
+Menos de um ano depois já estava organizada em Boston a primeira empresa telefônica do mundo, a Bell Telephone Company, com 800 telefones.
+
+
+=== Novo reconhecimento ===
+Entretanto, como reconheceu o Congresso dos Estados Unidos através da resolução 269, de 15 de junho de 2002, o aparelho foi inventado por volta de 1860 pelo italiano Antonio Meucci, que o chamou "telégrafo falante". A primeira demonstração pública da invenção de Meucci foi em 1860, e teve sua descrição publicada num jornal de língua italiana de Nova Iorque. Meucci criou o telefone com a necessidade de comunicar-se com sua esposa, que era doente e por isso ficava de cama no seu quarto no andar superior. O laboratório de Meucci ficava no térreo, assim ele não tinha condições para cuidar da esposa e trabalhar ao mesmo tempo; assim sendo, ele inventou o telefone, a fim de que se sua esposa precisasse dele não tivesse que gritar ou sair de sua cama.
+
+
+== No Brasil ==
+
+O telefone chegou ao Brasil em 1877, poucos meses depois da exposição de Filadélfia. O primeiro aparelho foi fabricado nas oficinas da Western and Brazilian Telegraph Company, especialmente para Dom Pedro II. Foi instalado no Palácio Imperial de São Cristovão localizado na Quinta da Boa Vista, hoje o Museu Nacional no Rio de Janeiro, e era ligado às casas ministeriais, esta sendo a primeira linha telefônica brasileira. No mesmo ano começou a funcionar uma linha telefônica ligando a loja O Grande Mágico, na Rua do Ouvidor, de propriedade de Leon Rodde, ao Quartel do Corpo de Bombeiros.Em agosto de 1878 são feitas as primeiras demonstrações do telefone na cidade de São Paulo, por Leon Rodde e por Morris Kohn, sendo este último o responsável pela primeira ligação interurbana em território brasileiro, quando conectou através de fios telegráficos já existentes a estação da Cia. Paulista de Estradas de Ferro em Campinas à estação da São Paulo Railway em São Paulo.Em 15 de novembro de 1879 era feita a primeira concessão para estabelecimento de uma rede telefônica no Brasil. Quem ganhou a concessão foi Charles Paul Mackie, representante da Bell no Rio de Janeiro. Foi também em 1879 que a repartição de telégrafos organizou no Rio de Janeiro um sistema de linhas telefônicas ligadas à Estação Central do Corpo de Bombeiros, para aviso de incêndios. Em 13 de outubro de 1880 é criada a Brazilian Telephone Company, que em 1883 já tinha instalado no Rio de Janeiro cinco estações de 1 000 assinantes cada uma. Depois de passar por diversos proprietários tendo várias denominações, foi incorporada em junho de 1899 à Brasilianische Elektrizitäts Gesellschaft, com sede em Berlim, que ganhou uma concessão de 30 anos, mas em 1907 foi vendida mais uma vez, passando a se chamar Rio de Janeiro Telephone Company. A primeira linha interurbana também é de 1883 e ligava o Rio de Janeiro com a cidade de Petrópolis.A primeira concessão para outros estados foi realizada em 18 de março de 1882, para atender as cidades de São Paulo, Campinas, Florianópolis, Ouro Preto, Curitiba e Fortaleza. Em 7 de janeiro de 1884 é a vez de São Paulo entrar na era da telefonia com a Companhia de Telégrafos Urbanos, quando foram instalados os 22 primeiros telefones da cidade. No Rio Grande do Sul o serviço telefônico foi instalado em 1885 na cidade de Pelotas, com a União Telefônica.
+Das diversas empresas que surgiram nesse período deve ser ressaltada a Companhia Rede Telefônica Bragantina, que surgiu em 1896 em Bragança Paulista, porque desempenhou papel fundamental na história da telefonia do país e que talvez tenha sido a maior companhia a operar em território brasileiro naquela época, vindo a se tornar um império da telefonia em 15 anos, envolvendo 98 cidades dos estados de São Paulo, Rio de Janeiro e Minas Gerais. O privilégio não era apenas de Minas, Rio e São Paulo. Na grande maioria das outras regiões do Brasil, a telefonia foi implantada entre 1882 e 1891.A permissão para a construção de uma linha ligando São Paulo ao Rio de Janeiro foi concedida em 1890, para J. O. Simondsen. Ele teve a ideia de seguir pelo litoral e chegou a construir 60 km de linha, mas acabou desistindo do projeto. A ligação entre Rio e Minas por linha telefônica aconteceu em 1895. Em 1910 foi inaugurado o primeiro cabo submarino para ligações nacionais entre Rio de Janeiro e Niterói. O primeiro cabo interurbano subterrâneo no Brasil foi inaugurado em 1913. Eram 30 pares, ligando Santos a São Paulo, numa distância de cerca de 70 km. Logo após a ligação foi feita também com Campinas.Em 1923 é criada a Companhia Telefônica Brasileira, a maior empresa de telefonia do Brasil até a criação do sistema Telebras em 1972.Os primeiros telefones automáticos do Brasil foram inaugurados em 1922 na cidade de Porto Alegre e em 1925 na cidade de Rio Grande. Em São Paulo os primeiros telefones automáticos foram inaugurados em 14 de julho de 1928 e em 31 de dezembro de 1929 foi a vez do Rio de Janeiro recebê-los. E no dia 28 de janeiro de 1932 foram inaugurados os circuitos rádio telefônicos Rio de Janeiro – Buenos Aires, Rio de Janeiro – Nova York e Rio de Janeiro – Madrid.
+
+
+== Em Portugal ==
+Em Portugal as primeiras experiências de telefone iniciaram-se em 24 de Novembro de 1877, ligando Carcavelos à Central do Cabo em Lisboa.
+A primeira rede telefónica pública foi inaugurada em Lisboa a 26 de Abril de 1882 pela Edison Gower Bell Telephone Company of Europe Ltd. que tinha a concessão atribuída desde 13 de Janeiro de 1882. A concessão foi transferida para a  The Anglo Portuguese Telephone Company (APT) em 1887 que a manteve até 1968.
+O primeiro serviço de telefone automático foi inaugurado em Portugal em 1930 e em 25 de Setembro de 1937 a APT inaugurou a primeira estação automática na Estrela em Lisboa. Nesse ano a rede da APT tinha 48 000 assinantes.
+
+
+== Tipos ==
+Há categorias distintas de aparelhos telefônicos, dependendo da tecnologia utilizada.
+
+O telefone analógico transporta apenas transmissões de voz e frequências de sinalização.
+O telefone sem fio utiliza radiofrequências de curto alcance para transmissão da voz para uma base que faz a conversão para o meio analógico ou digital.
+O telefone digital acrescenta uma camada para a transmissão de dados que permite o tráfego de informações sobre a ligação em curso ou enviar informações para interagir com um PABX, por exemplo.
+O telefone "voip" utiliza o protocolo TCP/IP e conexões da Internet para transmissão e recepção de voz e dados digitalizados (transformados em pacotes de dados). Telefones analógicos também podem utilizar a tecnologia Voip, desde que o PABX a que estão conectados tenha gateways (conversores voz/ip) apropriados.
+O telefone celular ou telemóvel.
+O telefone público.
+
+
+== Tecnologia ==
+Os primeiros telefones eram conectados a uma central manual, operada por uma telefonista. O usuário tinha que girar uma manivela para gerar a "corrente de toque" e chamar a telefonista que atendia e, através da solicitação do usuário, comutava os pontos manualmente através das "pegas". Assim um assinante era conectado ao outro. Com o surgimento das centrais automáticas os telefones passaram a ser providos de "discos" para envio da sinalização. Estes discos geravam a sinalização decádica, que consiste de uma série de pulsos (de 1 a 10). Esta tecnologia prevaleceu até o final da década de 1960 quando começaram a surgir os telefones com teclado eletrônico. Os telefones com teclado facilitavam a "discagem", pois demorava menos para teclar um número. Foram desenvolvidos teclados que enviavam os pulsos de sinalização decádica conforme a tecla deprimida (carregada). Posteriormente com o advento da sinalização DTMF o envio de sinalização ficou ainda mais rápido.
+Atualmente vem crescendo o uso da telefonia pela internet, usando VoIP (Voz sobre IP, do inglês Voice over IP) e Voz sobre Frame Relay. Há muitos programas que usam esta tecnologia, entre os quais pode-se destacar o Skype, que tem sido muito bem sucedido na missão de usar a internet como meio de transmissão de voz. Com a disseminação da telefonia pela internet começaram a ser fabricados os ATAs - Adaptadores para telefones analógicos, dispositivos que permitem a conexão de um telefone convencional à internet. O telefone foi evoluindo com o passar das décadas e hoje temos até mesmo os telefones sem fio.
+
+
+== Ver também ==
+Lista telefônica
+Museu das Telecomunicações
+Radiotelefonia
+Telefone por satélite
+Videotelefonia
+Voz sobre IP
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+Museu das Telecomunicações - Rio de Janeiro
+Acervo MUSEHUM
+Revista Sino Azul (RJ) - 1928 a 1989 - DocReader Web
+Revista Brasileira de Telecomunicações
+Memória Telebras

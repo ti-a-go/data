@@ -1,0 +1,141 @@
+O AK-47, ou AK como é oficialmente conhecida (russo:  Автома́т Кала́шникова, tr. Avtomát Kaláshnikova), também conhecida como Kalashnikov, é um fuzil de assalto de calibre 7,62x39mm criado em 1947 por Mikhail Kalashnikov e produzido na União Soviética pela indústria estatal IZH.
+O trabalho de design na AK-47 começou em 1945. Em 1946, o AK-47 foi apresentado para testes militares oficiais e, em 1948, a versão de estoque fixo foi introduzida no serviço ativo com unidades selecionadas do Exército Soviético. Um dos primeiros desenvolvimentos do design foi o AKS (S-Skladnoy ou "dobrável"), que foi equipado com um estoque de metal de subcobertura. No início de 1949, o AK-47 foi oficialmente aceito pelas Forças Armadas Soviéticas e usado pela maioria dos Estados membros do Pacto de Varsóvia.
+Mesmo depois de quase sete décadas, o modelo e suas variantes continuam sendo os fuzis de assalto mais populares e amplamente usados no mundo devido à sua grande confiabilidade em condições adversas, baixos custos de produção comparados às armas ocidentais contemporâneas, disponibilidade em praticamente todas as regiões geográficas e a facilidade no uso. O AK-47 foi fabricado em muitos países e tem atendido a forças armadas, bem como forças irregulares e insurgências em todo o mundo, e serviu de base para o desenvolvimento de muitos outros tipos de armas de fogo individuais, tripuladas e especializadas. Em 2004, "Das estimadas 500 milhões de armas de fogo em todo o mundo, aproximadamente 100 milhões pertencem à família Kalashnikov, três quartos dessas são AK-47". Como armas do tipo AK foram feitas em muitos países, muitas vezes ilicitamente, é impossível saber quantas realmente existem.
+
+
+== Histórico ==
+
+
+=== Origens ===
+O fuzil de assalto AK-47 (Avtomat Kalashnikova - 47, fuzil automático Kalashnikov, modelo de 1947) surgiu na União Soviética logo após o fim da Segunda Guerra Mundial inspirado no fuzil de assalto alemão Sturmgewehr 44, sendo o fuzil mais fabricado de todos os tempos. Estima-se que o número de exemplares produzidos tanto na Rússia como sob licença em países como a Bulgária, China, Hungria, Índia, Coreia do Norte, Romênia entre outros, chegue a impressionante cifra de 90 milhões. Países como a Finlândia e Israel também se basearam no projeto deste fuzil para produzirem seus modelos M62 e Galil, respectivamente. É caracterizado por sua grande rusticidade, facilidade de produção em massa, simplicidade de operação e manutenção, além de reconhecida estabilidade em baixas e altas temperaturas. Deixa a desejar nos requisitos precisão, ergonomia e peso.
+
+Seu funcionamento se dá similarmente aos demais fuzis de assalto, pelo aproveitamento indireto dos gases que são desviados da parte posterior do cano até um cilindro montado acima deste, onde pressionam um êmbolo de longo curso que aciona o recuo do ferrolho de trancamento rotativo. O ferrolho desliza sobre dois trilhos na caixa da culatra com uma folga significativa entre as peças móveis e fixas, o que permite que opere com o seu interior saturado de lama ou areia. Dispara munição 7,62 x 39 mm nos modos automático e semiautomático. Seu registro de tiro e segurança é considerado por muitos sua principal desvantagem, não corrigida nos modelos posteriores. É lento e desconfortável, exige esforço extra para operar, especialmente com luvas, e quando acionado produz um "clique" alto e distinto. Outra desvantagem é a posição do ferrolho, que permanece fechado após o último tiro.
+É alimentado por um carregador tipo cofre metálico bifilar de trinta projéteis, com retém localizado à frente do guarda-mato. Outros tipos de carregadores como o de quarenta projéteis ou o tambor de 75 projéteis da RPK também podem ser usados.  Seu aparelho de pontaria é graduado de 100 m a 1 000 m  (800 no AK), e um ajuste fixo que pode ser usado para todas as faixas de até 300 metros. Pode também pode ser equipado com lançador de granadas montado sob o cano. A versão de coronha dobrável foi desenvolvida para as tropas aerotransportadas e denominadas AKS (AKMS). Os AK foram concebidos com baionetas destacáveis do tipo faca, que associada a sua bainha transforma-se numa tesoura de cortar arames.
+No final de 1942, tropas soviéticas capturaram vários dos MKb42 alemães, juntamente com munição 7,92 mm. Em meados de 1943, o MKb.42 (H), juntamente com a carabina M1 dos EUA foram avaliados por especialistas soviéticos, e foi decidido que uma arma semelhante, disparando um cartucho de poder intermediário, devia ser desenvolvida para o Exército Soviético logo que possível. A tarefa de desenvolvimento inicial da nova munição foi implementada em tempo bastante curto. Por novembro de 1943, especificações técnicas para o cartucho 7,62 x 41 mm com culote foram enviadas a todos os pequenos escritórios soviéticos de design de armas. Na primavera de 1944, havia pelo menos dez projetos de armas automáticas em andamento (não contando carabinas semiautomáticas). Em meados de 1944, uma comissão selecionou um modelo designado AS-44 projetado por Sudaev, como o melhor conjunto, e ordenou uma produção limitada para ensaios com a tropa. Alguns AS-44 foram fabricados na primavera de 1945, e avaliados no verão, logo após a vitória na Europa. O modelo agradou; porém o AS-44 era muito pesado (mais de 5 kg de peso vazio), e a comissão ordenou uma próxima rodada de desenvolvimento e testes, que começou no início de 1946.
+
+
+=== Desenvolvimento ===
+Mikhail Kalashnikov, um jovem sargento das forças armadas soviéticas que fora ferido em combate em 1942, concebeu um protótipo de pistola-metralhadora enquanto estava de licença médica. Sua primeira arma foi indeferida em razão da complexidade, no entanto ele foi designado ao órgão de investigação e desenvolvimento de armas leves do Exército Vermelho perto de Moscou, para continuar a sua educação e trabalho em outras armas. Aqui Kalashnikov projetou uma carabina semiautomática, fortemente influenciado pelo fuzil M1 Garand. Esta carabina, embora não tenha sido bem sucedida por si só, serviu como ponto de partida para seu primeiro fuzil de assalto, provisoriamente conhecido como AK No.1 ou AK-46.
+
+Em novembro de 1946, o projeto do AK-46 foi escolhido para a fabricação de protótipos, juntamente com 5 outros projetos (de 16 apresentados à comissão). Kalashnikov foi enviado para a cidade de Kovrov (também não muito longe de Moscou) para fabricar a arma numa pequena fábrica de armas ali existente. O AK-46 era operado a gás, com ferrolho rotativo que utilizava um pistão para aproveitamento indireto dos gases logo acima do cano, e controles duplos (segurança e chave seletora de fogo separados, no lado esquerdo da unidade de disparo ).
+
+Em dezembro de 1946 novos fuzis foram testados, com AS-44 sendo usado como unidade de controle (embora seu desenvolvimento tenha cessado antes, em 1946, devido à morte prematura de Sudaev, que estava gravemente doente desde 1945). Como um primeiro resultado destes testes, o AK-46 foi selecionado para o desenvolvimento de ensaios de comissão, com outras duas armas dos designers e Dementiev e Bulkin. Na segunda fase de ensaios, que incluía três armas (AK-46 por Kalashnikov, AB-46 por Bulkin e AD por Dementiev), resultou na rejeição da AK-46 melhorada, que foi inferior aos outros em vários aspectos. Apesar dessa falha, Kalashnikov, usando seus contatos e apoio de algum membro da comissão de estudos (que conhecia de seu trabalho anterior na NIPSMVO em 1943-46)[carece de fontes?] teve luz verde para continuar o seu desenvolvimento para a próxima rodada de testes. Após a falha técnica do AK-46, Kalashnikov e seu companheiro designer Zaitsev (que era um designer de armas na fábrica Kovrov) decidiram reformular completamente a concepção, com o uso de soluções técnicas bem sucedidas emprestadas de várias armas, incluindo seus concorrentes diretos. Por exemplo, o pistão de gás a longo-curso ligado ao ferrolho rotativo, juntamente com a montagem de retorno por mola, foram aparentemente inspirado do modelo AB Bulkin-46; a ideia de grandes distâncias entre o conjunto do ferrolho e as paredes da caixa da culatra, com atrito mínimo das superfícies, foi inspirada no Sudaev AS-44; a alavanca de segurança foi copiada do rifle de caça Remington modelo 8 projetado por Browning, etc.
+Essa cópia e empréstimo de ideias realmente foi incentivada pela Comissão, pois toda propriedade intelectual na URSS era considerada propriedade do 'povo', ou do Estado. Assim, todas as empresas estatais poderiam utilizar-se das propriedades intelectuais existentes. E a criação de um novo fuzil de assalto mais eficaz para o vitorioso Exército Soviético estava certamente no topo da lista das prioridades.
+
+Após extensos testes, realizados em dezembro de 1947 e Janeiro de 1948, que incluíram melhoramentos nos três modelos, os resultados foram pouco conclusivos. O AK-47 foi concebido para ser o mais durável e confiável dos três concorrentes, porém perdia em precisão para os outros, especialmente no modo automático (que era, e ainda é considerado o principal modo de fogo na doutrina russa/soviética). Na verdade, a única arma que cumpriu os requisitos de precisão o AB Bulkin-47, mas teve alguns problemas com a durabilidade das peças. Após longa discussão, a comissão de estudos finalmente decidiu que o mais preciso não necessariamente é o mais confiável. Esta decisão de última instância levou a Comissão a recomendar o AK-47 para ensaio com a tropa em novembro de 1947. Foi decidido que a produção da nova arma devia ser iniciada na fábrica de armas Ijevsk (atual edifício Ijevsk Machine Plant Ijmash). Kalashnikov passou de Kovrov para Ijevsk para colaborar com a produção da nova arma, que teve início em meados de 1948. A adoção oficial seguiu-se no final de 1949, com a nomenclatura padrão de "7,62 milímetros Avtomat Kalashnikova AK" (7,62 mm carabina automática Kalashnikov). Ao mesmo tempo, uma versão de coronha dobrável foi aprovada para o uso em unidades aéreas, como "7,62 milímetros Avtomat skladnoy Kalashnikova AK S' (7,62 mm carabina automática Kalashnikov, dobrável).
+A concepção original da caixa da culatra, que foi construída em caixa de aço estampada, causou uma série de problemas na fábrica. A tecnologia (equipamentos e mão de obra) da época resultou numa percentagem muito elevada de malformações na paredes, fixação inadequada das peças e geometria ruim. Após a revisão crítica do processo na fábrica, decidiu-se que seria mais economicamente viável regressar ao "velho" método de usinagem. Após aprovação dos militares, foi colocado em produção em Izhmash em 1951, sob a mesma denominação de base.
+
+
+=== Da Ak-47 à AKM ===
+Ao longo dos anos seguintes, o projeto do AK incorporou muitas pequenas alterações e atualizações, mas foi o fuzil de assalto experimental Korobov TKB-517 (testado pelo Exército Soviético em meados da década de 1950), que estimularam um maior desenvolvimento do AK. O Korobov TKB-517 era muito mais leve que o AK e com custo de produção de 2/3 deste, e significativamente mais precisa em fogo automático. Esse avanço levou o Exército Soviético a emitir novas exigências para um modelo mais leve e mais eficaz, que foram formuladas em 1955. Estes requisitos foram complementados pela exigência de um modelo complementar de apoio de fogo (fuzil-metralhadora). Ensaios das novas armas foram realizadas em 1957-1958. Kalashnikov e sua equipe de Ijevsk apresentaram uma melhora com um novo tipo de caixa da culatra e outras pequenas melhorias, que concorreu com outras equipes de design a partir do Kovrov e Tula. Em termos técnicos, a proposta de Kalashnikov teve desempenho mediano nestes ensaios, com seus rivais provando ser mais eficazes e menos dispendiosos de fabricar. A comissão de estudos, no entanto, decidiu novamente pelos mesmo critérios, e recomendou o AK para adoção devido ao seu desempenho comprovado e familiaridade com a indústria e as tropas. Foi adotado oficialmente em 1959 como rifle - o AKM (Avtomat Kalashnikova Modernizirovannyj - Automática Kalashnikov Modernizada), juntamente com arma de apoio RPK, versão de cano mais pesado.
+Como principais alterações o AKM apresentou a introdução da caixa da culatra em aço estampado, e dispositivo de boca para anular/reduzir o momento que tende a levantar o cano da arma quando do disparo. Outras mudanças foram o redesenho da coronha ligeiramente levantada e a empunhadura do punho tipo pistola. O compensador de boca pode ser substituído por um silenciador. Isto requer um silenciador especial e munição subsônica. Outra mudança do AKM foi uma melhora da alça de mira, com escalonamentos de 100-1000 (em vez dos 800 da AK) metros. Ambos os 800 metros e 1 000, no entanto, são demasiado otimistas para qualquer uso prático, uma vez que o fogo efetivo é limitado a cerca de 300-400 metros, se não menos.
+Em 1974, o Exército Soviético oficialmente adotou a munição 5,45 mm e o fuzil AK-74 seu novo armamento padrão. O AKM, no entanto, nunca foi oficialmente declarado obsoleto e retirado de serviço, e ainda está em unidades do exército russo. Algumas unidades de apoio ainda estão armadas com modelos AKM. Há também um crescente interesse nas armas 7,62 mm, pois as tropas ficaram desapontados com a baixa eficácia da munição 5,45 mm durante os conflitos locais na década de 1990. Algumas forças especiais (principalmente da polícia e do Ministério de Assuntos Internos), atualmente operam na Chechênia, com fuzis AKM.
+Os modelos AK e AKM foram amplamente exportados para os países pró-soviético em todo o mundo. Licenças de fabricação e pacotes de dados técnicos foram transferidos (gratuitamente ou com taxa nominal) para muitos países do Pacto de Varsóvia (Albânia, Bulgária, China, Alemanha Oriental, Hungria, Coreia do Norte, Polónia, Roménia, Iugoslávia). Países amigos, como o Egito, Finlândia e Iraque, também receberam licenças de fabricação.
+Atualmente, apesar da proliferação do calibre 5,56 / 5,45 mm, muitas empresas continuam a fabricar fuzis 7,62 mm para uso militar ou policial (por exemplo, há uma AK-103, feito em limitada números pela IZHMASH na Rússia). Além disso, a produção das AKs semiautomáticas continua em muitos países, incluindo a Rússia, Bulgária, Romênia, China, entre outros.
+
+
+=== Substituição ===
+Em 1974, os soviéticos começaram a substituir seus fuzis AK-47 e AKM por um novo projeto, o AK-74, que usa munição 5,45×39mm. Este novo fuzil e cartucho só começou a ser fabricado em países do Leste Europeu quando a União Soviética entrou em colapso, reduzindo drasticamente a produção do AK-74 e de outras armas do antigo bloco soviético.
+
+
+== Projeto ==
+O AK-47 foi projetado para ser um fuzil totalmente automático, simples e confiável, que poderia ser fabricado de forma rápida e barata, usando métodos de produção em massa que eram métodos de arte na União Soviética no final da década de 1940. O AK-47 usa um sistema de gás de curso longo que geralmente é associado com grande confiabilidade em condições adversas. O grande pistão de gás, as folgas generosas entre as partes móveis e o projeto cônico da caixa do cartucho permitem que a arma suportar grandes quantidades de corpos estranhos e incrustações sem deixar de funcionar.
+
+
+=== Reputação ===
+Tem alta reputação entre especialistas por sua resistência à água, areia e lama, bem como por sua manutenção simples. Tem a fabricação de baixo custo e curto período de tempo, com cadência de 600 tiros/minuto. A velocidade do projétil na boca do cano é de 721 m/s, com munição calibre 7,62x39mm (cartucho curto, padrão russo).
+Em comparação a seu maior rival, o fuzil de fabricação norte-americana M4A1, o AK-47 tende a ser mais confiável e mais resistente aos elementos supracitados, também exigindo menos cuidados de limpeza e manutenção.
+
+Quando comparada a espingardas modernas, a sua fama é folclórica, visto que contem muitas partes móveis, prejudicando a precisão de disparo, é muito ruidosa, é muito pesada, tendo em média, 4,3 kg (sem o carregador de munição, que pode conter 20, 30 ou 90 cartuchos) e tem um raio de ação eficaz de apenas 300 m, bem abaixo dos fuzis modernos.
+
+
+== Características ==
+
+
+=== Vida de serviço ===
+O AK-47 e suas variantes são feitos em dezenas de países, com "qualidade que varia de armas finamente projetadas a peças de trabalhos questionáveis". Como resultado, o AK-47 tem uma vida de serviço/sistema de aproximadamente 6 mil, para 10 mil, para 15 mil disparos. O AK-47 foi projetado para ser um fuzil de assalto barato, simples e fácil de fabricar, perfeitamente compatível com a doutrina militar soviética que trata equipamentos e armas como itens descartáveis. Como as unidades são frequentemente implantadas sem o apoio logístico adequado e dependentes da "canibalização do campo de batalha" para o reabastecimento, é na verdade mais econômico substituir e não consertar armas.O AK-47 tem peças pequenas e molas que precisam ser substituídas a cada mil disparos. No entanto, "toda vez que é desmontado além do estágio de decapagem, levará algum tempo para algumas peças recuperarem o seu ajuste, algumas partes tendem a se soltar e cair ao disparar a arma. Algumas partes da linha AK-47 são rebitadas juntas. Consertar estes problemas pode ser um tanto trabalhoso, já que o final do rebite deve ser moído e um novo conjunto colocado após a substituição da peça."
+
+
+== Variantes ==
+AK-46: protótipo que deu origem ao AK-47;
+AK-47: modelo de produção inicial, com uma caixa de culatra de metal estampado do Tipo 1;
+AK-47/1952: modelo com uma caixa de culatra maquinada, coronha e guarda-mão de madeira e câmara e cano cromados para resistirem à corrosão;
+AKS-47 ou AK-47S: variante da AK-47 com coronha metálica dobrável, para uso no interior de veículos fechados;
+RPK: variante de apoio de fogo, com cano mais longo e bipé;
+AKM: variante aperfeiçoada e mais leve da AK-47. Dispõe de uma caixa de culatra do Tipo 4, feito de metal estampado e rebitado, um dispositivo na boca do cano para contrariar o seu levantamento em fogo automático e uma redução de peso para os 3,61 kg;
+AKMS: versão de coronha rebatível para baixo da AKM, para uso de tropas aerotransportadas;
+AK-74: versão de calibre 5,45x39mm;
+AK-74N: versão da AK-74 com dispositivos de visão noturna
+AKS-74: Variante da AK-74 com coronha feita em aço dobrável para esquerda;
+AK-101: versão de calibre 5,56 mm NATO, destinada ao mercado de exportação;
+AK-103: versão combinando os aperfeiçoamentos introduzidos na AK-74 com o calibre 7,62x39mm;
+AK-107: versão aperfeiçoada da AK-74.
+AK-9: adição mais recente à família, em 2006.
+
+
+== Usuários ==
+AK-47 é, segundo o Guiness Livro do Recordes, a arma de fogo mais utilizada atualmente no mundo.
+
+
+=== Comércio ilícito ===
+Em todo o mundo, a AK e suas variantes são comumente usados por governos, revolucionários, terroristas, criminosos e civis. Em alguns países, como Somália, Ruanda, Moçambique, Congo e Tanzânia, os preços das AKs do Mercado Negro estão entre US$ 30 e US$ 125 por arma, e os preços caíram nas últimas décadas devido à falsificação em massa. No Quênia, "uma AK-47 paga cinco cabeças de gado (cerca de 10 mil xelins quenianos ou 100 dólares) quando oferecida para troca, mas custa quase metade desse preço quando é pago em dinheiro". Existem lugares ao redor do mundo onde as armas do tipo AK podem ser compradas no Mercado Negro por apenas US$ 6, ou trocadas por um frango ou um saco de grãos.O AK-47 também gerou uma indústria artesanal e foi copiado e fabricado (uma arma de cada vez) em pequenas lojas em todo o mundo. O número estimado de armas do tipo AK varia muito. A Small Arms Survey sugere que "entre 70 e 100 milhões dessas armas foram produzidas desde 1947". O Banco Mundial estima que do total de 500 milhões de armas de fogo disponíveis no mundo, 100 milhões são da família Kalashnikov, e 75 milhões são AK-47. Como armas do tipo AK foram feitas em muitos países, muitas vezes ilicitamente, é impossível saber quantas realmente existem.
+
+
+== Influência cultural e impacto ==
+
+Durante a Guerra Fria, a União Soviética e a República Popular da China, bem como os Estados Unidos e outras nações da OTAN forneceram armas e conhecimento técnico a numerosos países e forças rebeldes em todo o mundo. Durante esse período, os países ocidentais usaram fuzis automáticos relativamente caros, como o FN FAL, o HK G3, o M14 e o M16. Em contraste, os russos e chineses usaram o AK-47; seu baixo custo de produção e facilidade de fabricação permitiram que eles fizessem AKs em grande número.
+Nos Estados pró-comunistas, o AK-47 tornou-se um símbolo da revolução do Terceiro Mundo. Eles foram utilizados na Guerra Civil Cambojana e na Guerra Camboja–Vietnamita. Durante a década de 1980, a União Soviética tornou-se o principal comerciante de armas para países embargados por nações ocidentais, incluindo nações do Oriente Médio, como Irã,[carece de fontes?] Líbia e Síria, que saudaram o apoio da União Soviética contra Israel. Após a queda da União Soviética, os AK-47 foram vendidos abertamente e no mercado negro para qualquer grupo com dinheiro, incluindo cartéis de drogas e Estados ditatoriais, e mais recentemente eles foram vistos nas mãos de grupos islâmicos como a Al-Qaeda, o EIIL e o Talibã no Afeganistão e Iraque, e as FARC, e os guerrilheiros na Colômbia do Exército de Liberação Nacional.
+Na Rússia, o Kalashnikov é uma tremenda fonte de orgulho nacional. "A família do inventor do rifle de assalto mais famoso do mundo, Mikhail Kalashnikov, autorizou a empresa de engenharia alemã MMI a usar o bem conhecido nome Kalashnikov em uma variedade de produtos não tão mortais." Nos últimos anos, a vodka Kalashnikov foi comercializado com garrafas de souvenirs em forma de AK-47 Kalashnikov. Há também relógios Kalashnikov, guarda-chuvas, e facas.O Museu Kalashnikov (também chamado de museu AK-47) foi inaugurado em 4 de novembro de 2004 em Izhevsk, na República Udmúrtica. Esta cidade está na região dos Urais da Rússia. O museu narra a biografia do general Kalashnikov e documenta a invenção do AK-47. O complexo de museus de armas de pequeno porte da Kalashnikov, uma série de salões e exposições de multimídia são dedicados à evolução do rifle de assalto AK-47 e atraem 10 mil visitantes mensais. Nadezhda Vechtomova, diretora do museu, afirmou em uma entrevista que o objetivo do museu é honrar a engenhosidade do inventor e do trabalho duro dos funcionários e "separar a arma como arma de assassinato das pessoas que a produzem e contar sua história em nosso país". Em 19 de setembro de 2017, um monumento de 9 metros (30 pés) de Kalashnikov foi inaugurado no centro de Moscou. Um manifestante, mais tarde detido pela polícia, tentou pendurar uma faixa que dizia "um criador de armas é um criador de morte".A proliferação dessa arma é refletida por mais do que apenas números. O AK-47 está incluído na bandeira de Moçambique e seu brasão, um reconhecimento de que o país ganhou sua independência em grande parte através do uso efetivo de seus AK-47. Também é encontrada nos brasões do Timor-Leste e no da era da revolução Burkina Faso, bem como nas bandeiras do Hezbollah, Resistência Síria, FARC-EP, Exército do Novo Povo, TKP/TIKKO e as Forças de Guerrilha Popular Revolucionária Internacional.
+Alguns países ocidentais associam o AK-47 a seus inimigos; tanto na era da Guerra Fria quanto a atual. Por exemplo, filmes ocidentais geralmente retratam criminosos, membros de gangues e terroristas usando AK-47. Por estas razões, nos EUA e na Europa Ocidental, o AK-47 é considerado, de forma estereotipada, como a arma preferida dos insurgentes, gangsters e terroristas. Por outro lado, em todo o mundo em desenvolvimento, o AK-47 pode ser atribuído positivamente aos revolucionários contra a ocupação estrangeira, o imperialismo ou o colonialismo.O AK-47 fez uma aparição na cultura popular dos EUA como um foco recorrente no filme de Nicolas Cage, Lord of War (2005). Numerosos monólogos no filme enfocam a arma e seus efeitos no conflito global e no mercado de armas.Em 2006, o músico colombiano e ativista pacifista César López concebeu a escopetarra, uma AK convertido em violão. Um foi vendido por US$ 17 mil em um evento de arrecadação de fundos para beneficiar as vítimas de minas antipessoais, enquanto outro foi exibido na Conferência das Nações Unidas sobre Desarmamento.No México, o AK-47 é conhecido como "Cuerno de Chivo" (literalmente "Chifre de Cabra") devido ao seu design curvo do carregador. É uma das armas de escolha dos cartéis de drogas mexicanos. Às vezes é mencionado em letras de músicas folclóricas mexicanas.
+
+
+== Galeria ==
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Ver também ==
+
+Fuzil de assalto
+AKSU-74
+Mikhail Kalashnikov
+Arma de fogo
+Lista de fuzis de assalto
+
+
+== Notas ==
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Fackler et al. (1984). "Wounding potential of the Russian AK-74 assult rifle", Journal of Trauma-Injury Infection & Critical Care. 24, 263-6.
+Ezell, Edward Clinton (1986). The AK-47 Story: Evolution of the Kalashnikov Weapons. Mechanicsburg, PA: Stackpole Books. ISBN 0-8117-0916-7.
+Guinness World Records 2005. ISBN 1-892051-22-2.
+
+
+== Ligações externas ==
+Site da AK – Página inicial do Kalashnikov (Mirror) no Wayback Machine (arquivado em 2007-09-29)
+Guia de Reconhecimento da Arma Nazariana (MANUAL) Manual da AK 47 (.pdf)
+O intemporal e onipresente AK-47 – apresentação de slides por revista Time
+«Website do fabricante» (em inglês) 
+«AK-47 Museum virtual tour» (em inglês) 
+«AK47S self-loading carbine (USA)» (em inglês) 
+«Automat Kalaschnikow Filme documentando o homem e a máquina» (em inglês) 
+«AK-47 . O fuzil universal - Blog Arma e Munição» 
+«Militarypower: Fuzil de assalto AK- 47 - Rússia»

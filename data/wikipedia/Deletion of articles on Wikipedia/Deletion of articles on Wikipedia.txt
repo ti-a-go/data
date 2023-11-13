@@ -1,0 +1,74 @@
+Volunteer editors of Wikipedia delete articles from the online encyclopedia regularly, following processes that have been formulated by the site's community over time. The most common route is the outright deletion of articles that clearly violate the rules of the website (speedy deletion). Other mechanisms include an intermediate collaborative process that bypasses a complete discussion (proposed deletion or PROD), and a whole debate at the dedicated forum called Articles for deletion (AfD). As a technical action, deletion can only be done by a subset of editors assigned particular specialized privileges by the community, called administrators. An omission that has been carried out can be contested by appeal to the deleting administrator or on another discussion board called Deletion review (DRV).
+Unless an administrator deletes an article on sight, the deletion process involves the addition of a template to the report by an editor, indicating to readers and other editors which kind of deletion process is sought for that article. Removing a template proposing speedy deletion or proposed deletion often precipitates a formal nomination for deletion through AfD. In contrast, removing an AfD template is not permitted until the discussion has concluded. When an article is deleted, the article's talk page is generally also deleted, as are links that redirect to the deleted article. Deletion discussions are carried out on separate pages dedicated to that purpose and are not deleted. Wikipedia administrators can see content that has been deleted, but other editors and visitors to the site do not. Processes exist for editors to request access to deleted content to use for other purposes.
+Occasionally, deletion instances attract public attention, causing controversy or criticism of Wikipedia or other entities. Conventions and practices of deletion have caused a long-lasting controversy within the Wikipedia community, with two schools of thought forming, one generally favoring deletion as a conventional and relatively routine practice (deletionism) and the other proposing broader retention (inclusionism).
+Almost 500,000 articles have been deleted from the English Wikipedia since its inception in 2001. In 2021, about 20,000 articles were deleted from the English Wikipedia. About 60% of articles nominated for deletion are deleted, about 25% are kept, and the remainder are merged with another article, redirected to another article, or met with another fate.
+
+
+== Purpose ==
+
+By community conventions, deletion is used to ensure that the subject of each Wikipedia article is worthy of comprehensive coverage, i.e., notable.: 218  Deletion is also used to remove from the encyclopedia content that violates intellectual property rights, particularly copyright, and content that is purely intended to advertise a product.: 218 
+
+
+=== Deletionism and inclusionism ===
+
+
+== Overview of processes ==
+
+
+=== Speedy deletion ===
+
+Administrators may delete specific articles on Wikipedias without community input. However, "according to Wikipedia policy, editors should only nominate an article for speedy deletion under limited circumstances, such as pure vandalism, and not mark legitimate pages without good faith discussion".Wikipedia "maintains an extensive list" of criteria for speedy deletion,: 220  and the majority of deleted pages fall under one of these criteria for speedy deletion (spam, vandalism, test pages and so on) and are deleted by any administrator as soon as they see them,: 201  either because they have been tagged for deletion by an editor who reviewed a newly created page, or because the administrator has directly reviewed such a page. Speedy deletion is also widely used to address copyright violations and, in some cases, has been applied to the mass-deletion of articles created by identified sock puppet accounts of editors who were paid to develop reports in violation of Wikipedia's terms of use.A non-administrator seeking the speedy deletion of an article typically adds a speedy deletion template to the top of the article, which in turn adds the article to a list checked by administrators for this purpose.: 220 
+
+
+=== Proposed deletion ===
+
+Proposed deletion, or PROD, is an intermediate process developed for articles that do not meet the criteria for speedy deletion but for which a full discussion is likely unnecessary. As with speedy deletion, a template is added to the page indicating that deletion is sought. The article will be deleted if no editor contests or removes the tag within seven days.: 221 Due to concerns regarding defamation and other personality rights, Wikipedia policies direct special attention to biographies of living persons, which may be deleted for lacking citations. Schneider et al. identify proposed deletions of such biographies (BLP-PROD) as a separate path to deletion.: 2, 8 
+
+
+=== Articles for deletion ===
+
+For articles that do not meet the criteria for speedy deletion and for which proposed deletion is not attempted or a PROD tag is removed, editors can nominate the article for deletion through community discussion. Discussions typically last seven days, after which a deciding editor determines whether a consensus has been reached. Deletion discussions are carried out on separate pages in Wikipedia's project space dedicated to that purpose, and the discussions themselves are not deleted. Any editor may participate in the discussion, and certain Wikipedia editors are persistent participants in Articles for deletion (AfD) discussions. Discussions can be cut short under the "Snowball Clause" (or "WP:SNOW"),: 158  where an overwhelming consensus for a particular outcome quickly develops, and conversely can be extended several times, on rare occasions lasting a month or more. Wikipedia policy encourages editors to use deletion as a "last resort" following attempts to improve an article by conducting additional research.
+Separate discussion boards exist for the deletion of other kinds of content, including "Categories for discussion" (CfD), "Files for discussion" (FfD), "Templates for discussion" (TfD), and "Miscellany for deletion" (MfD). The last one encompasses proposals to delete project-space pages, portals, and user-space pages.: 224 Discussions are initiated with a proposal to delete, but they may resolve several possible outcomes. Other common possibilities are that the article is kept, whether by consensus to keep, or the absence of agreement for another outcome; that it is merged into another article; or that the title is redirected to another report, the latter of which may or may not entail deletion of the edit history of the deleted page. Wikipedia policy supports finding "alternatives to deletion" (ATD), which may include any alternatives. Another possibility is that the article may be moved to draft space for further development. However, pages in draft space that are not edited for six months are deleted as abandoned. Moving an article to the draft room may be considered a soft form of deletion if further edits are unlikely to be made once it has been moved.
+
+
+=== Deletion review and undeletion ===
+
+The outcomes of deletion discussions can be appealed to another discussion board called Deletion review, which may result in "undeletion" of previously deleted content.: 226 In some instances, an article is repeatedly recreated after being deleted, to the point where an administrator locks the page so that a piece can no longer be created at that title, which is referred to as "salting" about the ancient tradition of salting the earth.: 226 : 217 
+
+
+=== Out-of-process deletions ===
+Rarely, a Wikipedia article might be deleted for reasons unrelated to administrator action or community discussion.  In theory, the legitimate case is when the Wikimedia Foundation deletes an article, perhaps due to a legal concern such as a court order external to Wikipedia, but this is extremely rare.  A highly unusual case of attempted censorship of Wikipedia was the Pierre-sur-Haute military radio station article.  French military officials coerced a French Wikipedia administrator into deleting the article.  This proved ineffective, as a Swiss administrator restored the article a short time later. Finally, a Wikipedia vandal can soft-delete a page by making an edit that blanks the page,: 204  although this will almost always be quickly detected and undone by other editors. For example, the content of Donald Trump's Wikipedia article was briefly deleted in 2015 before being promptly restored. In rare cases, however, an administrator may blank the page of a contentious discussion while preserving the edit history of the page.: 224 
+
+
+== Deletions attracting public attention ==
+Specific cases of disputes between deletionists and inclusionists have attracted media coverage.
+
+
+=== 2006–2007 ===
+In July 2006, writers for The Inquirer were offended by claims made by certain Wikipedia editors that it conspired with Everywhere Girl (a stock photo model, whose identity was initially unknown, who appeared on advertising material around the world) to create her phenomenon. They observed an apparent campaign to remove all references to Everywhere Girl on Wikipedia. Later, they found it contrary to common sense that what became included on Wikipedia was their series of reports on the deletions of the Wikipedia article.In December 2006, writer and composer Matthew Dallman found that Wikipedia's biography of him was under debate, and became drawn to the vote counts. He decided not to participate on his behalf because of Wikipedia's apparent dislike of self-promotion, saying, "It's like I'm on trial, and I can't testify". However, he would not be able to resist the urge.Andrew Klein was disappointed that the article on his webcomic Cake Pony was deleted, despite his claims that the "article contains valuable and factual information about a popular internet meme". He conceded that "it's their site, and you've got to play by their rules". Many other webcomic-related articles were deleted in the fall of 2006, resulting in criticism by the artists of those comics.Slate.com and The Wall Street Journal writer Timothy Noah documented his "career as an encyclopedia entry", and questioned the need for rules on notability in addition to rules on verifiability.In February 2007, the nomination of the Terry Shannon article for deletion was ridiculed by The Inquirer.The deletion of the biography of television anchor Susan Peters, the article for the Pownce website and Ruby programmer why the lucky stiff also sparked controversy.As an early notable example, the 2007 deletion of South African restaurant Mzoli's was given substantial coverage in the media due to a dispute over an editor deleting what was almost the initial version only 22 minutes after being created by Jimmy Wales, one of Wikipedia's founders. Wales said that supporters of deletion displayed "shockingly bad faith behavior". The article was kept after a multitude of editors helped work on it. The consequence is that while inclusionists can say the deleting administrator crossed the line, deletionists can say that the process works as notability was established.
+
+
+=== 2009 ===
+
+Comic book and science fiction/fantasy novel writer Peter David became involved in a November 2009 discussion on the deletion of actor Kristian Ayre's Wikipedia biography. David took issue with the quality of the discussion and what he perceived as deletionism on the part of some of the project's editors. He wrote about the experience in his "But I Digress ..." column in Comics Buyer's Guide #1663 (March 2010), remarking that "Wikipedia, which has raised the trivial to the level of the art form, actually has cut-off lines for what's deemed important enough to warrant inclusion". In attacking the practice in general, David focused on the process by which the merits of Ayre's biography were discussed before its deletion and what he described as inaccurate arguments that led to that result. Referring to the processes by which articles were judged suitable for inclusion as "nonsensical, inaccurate, and flawed", David provided information about Ayre with the expressed purpose that it would lead to the article's recreation. The article was recreated on January 20, 2010.
+
+
+=== 2018 ===
+
+
+=== 2021 ===
+In November 2021, the English Wikipedia's entry for Mass killings under communist regimes was nominated for deletion, with some editors arguing that it has "a biased 'anti-Communist' point of view", that "it should not resort to 'simplistic presuppositions that events are driven by any specific ideology'", and that "by combining different elements of research to create a 'synthesis', this constitutes original research and therefore breaches Wikipedia rules". This was criticized by Robert Tombs, who called it an attempt to "whitewash communism" and "morally indefensible, at least as bad as Holocaust denial, because 'linking ideology and killing' is the very core of why these things are important. I have read the Wikipedia page, and it seems careful and balanced. Therefore attempts to remove it can only be ideologically motivated – to whitewash Communism". Other Wikipedia editors and users on social media opposed the deletion of the article. The article's deletion nomination received considerable attention from conservative media. The Heritage Foundation, an American conservative think tank, called the arguments made in favor of deletion "absurd and ahistorical". On December 1, 2021, a panel of four administrators found that the discussion yielded no consensus, meaning that the status quo was retained, and the article was not deleted. The article's deletion discussion was the largest in Wikipedia's history.
+
+
+== See also ==
+Deletionpedia – a now inactive project unrelated to Wikimedia that collected certain articles deleted from Wikipedia
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Wikipedia's policy pages on deletion

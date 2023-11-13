@@ -1,0 +1,370 @@
+Letra dominical é uma letra do alfabeto que indica qual o dia ou os dias em que ocorre um Domingo ao longo de qualquer ano do Calendário juliano ou gregoriano, desde o primeiro ao último dia desse ano, e que aparece colocada ao lado de cada um dos dias do ano de um calendário eclesiástico universal.Letra dominical tem a sua grafia influenciada da raiz latina da palavra — "dies dominicus" ou "dominica" (com c) — dia do senhor, o domingo —, mas, como na língua portuguesa o dia correspondente se diz e escreve — "domingo" (com g) —, também se pode dizer e escrever letra domingal ou letra domingual, como vemos nas instruções do calendário inicial do Livro de Horas chamado de Dom Manuel ou no chamado Códice de Bastião Lopes.
+
+
+== História ==
+Como o conceito de Domingo só se torna vulgar para um calendário anual por influência da religião cristã, também só a partir daí podemos em rigor falar do uso de letras dominicais.
+Constantino, depois de assinar o Édito de Milão acordado dom Licínio, governador do oriente, no ano de 313, admitindo a tolerância religiosa de diferentes cultos, procurava conciliar laços que unissem o império. No ano 321, uniformiza e generaliza a estrutura semanal de 7 dias (tradição judaico-cristã) e o dia de descanso fica sob o símbolo do Sol — o Dia do Sol — Dias Solis, o que também apelava a tradições do Sol Invicto e do Mitraismo. A associação dos astros que presidem a cada dia da semana ainda se revela nos nomes dos dias da semana em diferentes línguas, principalmente ocidentais, à exceção de algumas, como a portuguesa.
+Os cristãos escolheram o Domingo como o dia da celebração comunitária da fé e que afirmava uma alteração do dia de descanso em vez do sábado, na divisão dos dias da semana de origem judaica, grupos de sete dias, que se repetem indefinidamente para a frente e para trás. E assim substituem o nome de Dia do Sol por Domingo. É esta tradição litúrgica que se revela nos nomes dos dias da semana na língua portuguesa.
+O monge cita Dionísio (ou Dinis), o Mínimo (c. 470 — c. 544), que escreve, em Roma, por volta do ano 530 d.C., que estudou uma forma de cálculo do dia de Páscoa, ao mesmo tempo que estabelece uma correspondência entre os anos da era romana e os anos desde o nascimento de Cristo, e, mais tarde, com o monge inglês Beda, o Venerável, em particular na sua História Eclesiástica do Povo Inglês, concluída por volta do ano 731, influenciaram a datação habitual dos anos pela Era de Cristo ou Anno Domini (ou simplesmente A.D.), e o uso da das letras dominicais e do número áureo, nos calendários eclesiásticos, ao lado do calendário romano, para o cálculo ou computação dos dias da semana e das festas móveis da liturgia cristã.
+A partir da Alta Idade Média, as letras dominicais tornaram-se uma das marcas características dos calendários cristãos e ajudam a identificar os dias transpostos da semana de origem judaica para os calendários cristãos, que passaram a utilizar no império romano o calendário juliano, resultante da reforma de Júlio César.
+
+
+== Quantas e quais são as letras dominicais? ==
+Como as letras dominicais estão associadas a semanas de 7 dias, também as letras dominicais são sempre e apenas sete; e habitualmente usam-se as sete primeiras letras do alfabeto latino: A, B, C, D, E, F e G. Em muitos calendários dos missais e livros de horas medievais mais antigos, as letras dominicais eram escritas geralmente em letras minúsculas, mas a primeira — A — aparece também muitas vezes escrita em maiúscula.
+Como estamos a referir-nos a dias e anos, também podemos distinguir as letras dominicais dos dias e as letras dominicais do ano.
+
+As letras dominicais dos dias do ano são fixas, uma para cada dia do ano, e sempre a mesma.As letras dominicais do ano não são fixas porque o número de 365 dias do ano não é múltiplo de 7. Estas variam de ano para ano, de uma forma também regular, recuando na sequência das Letras dominicais: 1 letra em cada ano comum, 2 quando um ano é bissexto. O ano comum de 1982 tem como letra dominical a C; o ano comum de 1983 a B; o ano bissexto de 1984 as Letras dominicais A e G; o ano comum de 1985 a F; o ano comum de 1986 a E; e o ano comum de 1987 a D.A letra que indica os Domingos de um ano organiza a sequência das outras Letras dominicais que vão indicar os outros dias da semana em qualquer dia de um Ano Comum ou Bissexto. Se a letra dominical de uma é B, todos os dias do ano com letra B serão domingos, os dias com letra C serão segunda-feira, os dias com letra D serão terça-feira, etc..
+A combinação das sequências possíveis das Letras Dominicais de acordo com as regras dos Anos Comuns e Bissextos permite organizar tabelas ou listas dos anos em 28 linhas, onde se encontram todas as combinações dos 7 dias da semana e do ciclo de 4 anos do calendário juliano (3 anos comuns seguidos de 1 ano bissexto) - 7 x 4 = 28. Esse ciclo de 28 anos era também designado ciclo solar ou dionisíaco por comparação com o ciclo lunar. Essa combinação das letras dominicais era constante antes da reforma gregoriana e iniciava-se num ano bissexto com as letras dominicais GF (ano 1 desse ciclo). Depois da reforma gregoriana, esse ciclo foi interrompido e só é válido para conjuntos de 28 anos que não incluam os anos centenários não divisíveis por 400 (os anos 1700, 1800 e 1900). O próprio ano da reforma, 1582, implicou mudança da letra dominical que foi G até ao dia 4 de outubro e passou a C no dia seguinte, 15 de outubro, com o salto de 10 dias.
+
+
+== Para que servem as letras dominicais? ==
+Em primeiro lugar, as Letras dominicais  servem para saber em que dia ocorriam os domingos, e, claro, todos os outros dias da semana de qualquer ano.
+Em segundo lugar, a combinação dos Números Áureos com as Letras dominicais permite organizar tabelas de cálculo das festas móveis do Ano litúrgico para qualquer ano, para simplificar o cômputo das Festa móveis do Calendário litúrgico cristão desde a Septuagésima até à Páscoa, e da Páscoa até ao Pentecostes, ao Corpo de Cristo, e mesmo o número de semanas até aos domingos do Advento.Combinando três instrumentos já conhecidos — o calendário anual, às vezes já com as festas fixas para cada dia, a letra dominical e o número áureo — temos então um modelo simples de calendário universal e perpétuo que encontramos nos missais das igrejas e mosteiros, desde a Idade Média no século XIII.Era no Advento, antes de terminar o ano civil, que se começava a anunciar as datas das festas litúrgicas móveis do ano seguinte.Os mesmos cálculos do calendário eclesiástico anual passaram a ser usados pelos tabeliães ou notários para a datação de documentos, escrituras e registos públicos, como um testamento pessoal ou um Foral do Rei.
+Exemplo de datação de um documento por uma festa móvel do calendário litúrgico: "Na era de 1188 [da Era de César], no dia seguinte à Páscoa". O ano de 1188 na Era de César corresponde ao ano 1150 da Era de Cristo e teve como letra dominical A e Número áureo 11. A Páscoa ocorreu a 16 de Abril. Portanto, o documento está datado de 17 de abril.Exemplo de datação de um documento por uma data fixa do calendário: Em 15 de Agosto de 1250, no dia da Assunção da Bendita Virgem, D. Afonso III, encontrando-se em Évora, doou carta de foral à vila de Torres Vedras. (tradução do original em latim) " Feita esta carta em Évora no mês de Agosto, no dia da Assunção da Virgem Bem-Aventurada. Eu Afonso, rei de Portugal e conde de Bolonha, que esta carta mandei fazer com minhas próprias mãos autenticar, corroboro e confirmo com a aposição do meu selo. Era de mil duzentos e oitenta e oito".Inúmeros missais manuscritos em Portugal integram, nas suas primeiras folhas, calendários romanos acrescentados com as letras dominicais, como por exemplo os mais antigos missais do Mosteiro de Alcobaça, conservados na Biblioteca Nacional de Portugal, em Lisboa.
+
+
+== Por que mudam as letras dominicais de um ano para o seguinte, ou em relação ao anterior? ==
+Porque os dias que são domingos num ano, por exemplo, de 1985, não serão os mesmos dias no ano anterior nem no ano seguinte. E por quê? Porque com a reforma do calendário juliano, proclamado por Júlio César, que se aconselhou com o matemático e astrónomo Sosígenes de Alexandria, determinava que o calendário oficial passaria a ser organizado de forma a concordar com mais rigor com o movimento anual do Sol, que foi calculado como tendo em média 365 dias e 1/4 de dia (ou 6 horas), para simplificar, pois Sogígenes também já sabia que não eram exatamente 6 horas. As 6 horas a mais de cada ano seriam então reunidas num determinado ano, sempre de 4 em 4 anos, formando mais um dia inteiro (1/4 x 4 = 1) — e esse seria o ano bissexto, com 366 dias.
+Os calendários anuais passariam a ser calculados em sequências ou ciclos de 4 anos — três anos seguidos de 365 dias e um quarto ano de 366 dias -. Há, portanto, no calendário juliano e no gregoriano, anos comuns de 365 dias e anos bissextos de 366 dias.
+
+
+== Como mudam as letras dominicais de um ano para o seguinte, ou em relação ao anterior? ==
+Ora, o número 365 quando dividido por 7 dá um resultado de 52 e um resto de 1; e o número 366, quando dividido por 7, dá um resultado de 52 e um resto de 2. Um ano comum de 365 dias equivale a um conjunto de 52 semanas e mais um dia; e um ano bissexto de 366 dias equivale a 52 semanas e mais 2 dias.
+Assim, o primeiro dia do ano seguinte a um ano comum avançará um dia da semana em relação ao primeiro dia do ano anterior. Quando um ano é bissexto, o primeiro dia do ano seguinte avançará dois dias da semana em relação ao primeiro dia do ano anterior.
+Por exemplo: 1976 foi um ano bissexto e teve início a um quinta-feira; e as letras dominicais desse ano foram DC. O ano de 1977, que se lhe seguiu, é um ano comum e teve início a um sábado; e a sua letra dominical é B. O ano de 1978 é igualmente um ano comum e teve início a um domingo; e a sua letra dominical foi A. O ano de 1979 é igualmente um ano comum e teve início a uma segunda-feira; e a sua letra dominical foi G. 1980 foi um ano bissexto e teve início a um terça-feira; e as letras dominicais desse ano foram FE. O ano de 1981, que se lhe seguiu, é um ano comum e teve início a uma quinta-feira; e a sua letra dominical é D. O ano de 1982 é igualmente um ano comum e teve início a uma sexta-feira; e a sua letra dominical foi C. O ano de 1983 é igualmente um ano comum e teve início a um sábado; e a sua letra dominical foi B. 1984 foi um ano bissexto e teve início a um domingo; e as letras dominicais desse ano foram AG. O ano de 1985, que se lhe seguiu, é um ano comum e teve início a uma terça-feira; e a sua letra dominical é F. O ano de 1986 é igualmente um ano comum e teve início a uma quarta-feira; e a sua letra dominical foi E. O ano de 1987 é igualmente um ano comum e teve início a uma quinta-feira; e a sua letra dominical foi D.
+Assim, regra geral, os dias que serão domingo num ano qualquer correspondem ao atraso de um dia em relação aos dias do ano anterior comum ou ao atraso de dois dias quando o ano anterior foi bissexto. Por exemplo, o primeiro domingo de 1985 foi o dia 6 de janeiro, e no próximo ano, 1986, será o dia 5 de janeiro. O dia a mais, além das 52 semanas, faz recuar um dia da semana, entre um ano comum e o seguinte. Nos anos bissextos, o recuo será de dois dias da semana — de 1984 para 1985. Eis um exemplo que serve tanto para o calendário gregoriano como para o juliano:
+
+
+== Como se constrói um calendário de um ano de 12 meses e com 365 dias, com as letras dominicais? ==
+O esquema é simples. Um calendário universal muito útil para qualquer ano é uma lista de 52(53) sequências das mesmas 7 letras dominicais do alfabeto latino — A, B, C, D, E, F, G — e mais uma dia (365 dias/7= 52 semanas + 1 dia).
+O primeiro dia do ano tem a letra dominical A, o segundo a B, o terceiro a C, e assim sucessivamente. O último dia do ano tem, pois, a mesma letra dominical A, como o primeiro dia.
+Com esta tabela, podemos saber sempre em que dia é domingo e em que dia da semana estamos. Podemos agora notar que os meses de janeiro e outubro começam com a letra A, o mês de maio com a B, o de agosto com a C, os meses de fevereiro, março e novembro com a letra D, o mês de junho com a letra E, os meses de setembro e de dezembro com a letra F e os meses de abril e julho com a letra G.
+Imaginemos que um ano começa a um domingo, como foi o caso do ano 1978, o dia 1 de janeiro, que sempre tem a letra dominical A, foi um domingo, então todos os dias da tabela que tenham a letra dominical A, nesse ano, foram igualmente domingos, incluindo o último dia do ano, que já vimos que tem também a letra dominical A. E se a letra A indica nesse ano o domingo, a letra B será a das segundas-feiras, a C a das terças-feiras, e assim sucessivamente. O ano seguinte, por exemplo, 1979, já estamos a perceber que vai começar a uma segunda-feira, e o primeiro domingo será o dia 7 de janeiro, que tem a letra dominical G, letra dominical que indicará nesse ano todos os domingos.
+Atualmente, de acordo com a norma internacional para a representação da data — ISO 8601 — a letra dominical, ao indicar os domingos, também indica o último dia de cada semana do ano, como podemos observar nas tabelas indicadas a seguir. Segundo a mesma norma, a primeira semana de cada ano é aquela em que ocorre a primeira quinta-feira do ano, ou o dia 4 de janeiro, e, portanto, pode não ser aquela em que se encontra o dia 1 de janeiro, que nesse caso ainda pertence à última semana do ano anterior.
+Uma consequência desta norma é que há alguns anos que têm 53 semanas — os anos comuns com letra dominical D que começam e terminam a uma quinta-feira; os anos bissextos com as letras dominicais D e C, que têm início a uma quinta-feira e terminam a uma sexta feira; e os anos bissextos com as Letras dominicais E e D em que o dia 1 de janeiro é uma quarta-feira e o dia 31 de dezembro uma quinta-feira.
+
+
+== Há alguma excepção na ordem das letras dominicais? ==
+Sim. No calendário gregoriano há uma excepção, o ano da reforma do calendário em 1582, em resultado da Bula 'Inter gravissimas' assinada pelo Papa Gregório XIII, e aplicada em Portugal por uma lei assinada por Filipe I, em Lisboa, a 20 de setembro, ano em que foram retirados 10 dias no mês de outubro de 1582, passando do dia 4 de outubro para o dia 15 de outubro, sem alteração da sequência dos dias da semana. Esse mês de outubro de 1582 em Portugal teve apenas 21 dias, e o ano de 1582 conteve apenas 355 dias.
+O ano de 1582, que era inicialmente um ano comum com letra dominical G, passou a partir do dia 4 de outubro, quinta-feira, para o dia seguinte 15 de outubro, sexta-feira, mudando-se a letra dominical para C. Teve portanto duas letras dominicais, mas deixou de ser um ano comum e também não foi bissexto. No entanto, a sequência dos dias da semana não foi alterada, pois tal era uma das condições da reforma.
+Adiante apresentaremos o calendário excepcional de 1582 (ver artigo Calendário do ano de 1582 em Portugal), tal como ocorreu então em Portugal.
+Dos 10 dias retirados em outubro, resultaram diferenças de datas entre os países que mantiveram o calendário juliano (a maioria eram Estados que aderiram à reforma protestante, além dos Estados que já utilizavam o calendário litúrgico ortodoxo) e os países que passaram a usar o calendário reformado — o calendário gregoriano — (a reforma entrou em vigor a 15 de outubro de 1582 apenas nos Estados papais e em Portugal e Espanha — nessa data unidos sob a mesma coroa de Filipe I de Portugal / Filipe II de Espanha.
+As diferenças foram desaparecendo ao longo dos anos e séculos seguintes, à medida que os Estados foram adoptando a reforma do calendário gregoriano, retirando 10 dias (ou mais).
+De facto, os dez dias de diferença que passaram a ter os calendários juliano e gregoriano, foram aumentando, e continuarão a aumentar regularmente, pelas diferentes normas de cada calendário em relação aos anos bissextos. Em cada 400 anos, o calendário juliano tem 100 anos bissextos e o calendário gregoriano apenas 97, e essa diferença aproxima-se com mais rigor do valor de 400 anos solares. Em 2013, mais de 400 anos depois da criação do calendário gregoriano, a diferença entre os dois calendários já se situava em 13 dias.
+No entanto, podemos continuar a fazer equivalências entre os anos e as datas de um calendário gregoriano atual e o calendário juliano que usaríamos hoje se não tivesse havido a Reforma Gregoriana.
+
+Como o calendário gregoriano tem um ciclo de 400 anos, também a partir do ano da Reforma do Calendário em 1582, os calendários repetem-se igualmente de 400 em 400 anos.
+Por exemplo, o ano de 1983 teve um calendário igual ao de 1583, como o ano 2013 tem um calendário igual ao de 1613, e assim para o futuro.No calendário juliano, não há qualquer excepção à sequência das letras dominicais, dos dias, meses ou anos.
+
+
+== Letras dominicais em documentos antigos ==
+Nos calendários que se encontra nos missais ou nos livros de horas do final da Idade Média, é possível encontrar a sequência das letras dominicais como uma referência constante; e no entanto, falta quase sempre o número do dia do mês. Era através da(s) letra(s) dominical(ais) de cada ano que se identificava o dia do mês em que se estava e o dia da semana. A informação da letra dominical do ano seguinte era apresentada nas igrejas durante a missa do primeiro domingo do Advento.Letras dominicais na página do mês de Janeiro (segunda coluna a partir da esquerda) do chamado Calendário de Paris (Calendarium Parisense), do último quartel do século XIV, actualmente na Biblioteca Nacional da Polónia, em Varsóvia. Na parte superior esquerda, encontra a abreviatura KL de Kalendas (o primeiro dia de cada mês romano), iluminada, e no fundo da página, à esquerda, uma pequena imagem típica das iluminuras do mês de Janeiro — um homem que se prepara para comer, aquecendo-se na lareira da sala —, e à direita outra pequena imagem — um homem lançando água de um jarro —, símbolo do Aquário, o signo típico deste mês.É grande também o acervo de imagens e tabelas com letras dominicais em documentos antigos produzidos e/ou usados por portugueses, como por exemplo, e apenas para o mês de Janeiro:
+Letras dominicais na página do Calendário para o mês de Janeiro, em folha de pergaminho (17,0 x 24,0 cm), iluminada, (c. 1401-1433), do Livro de Horas de D. Duarte de Portugal, guardado na Torre do Tombo, em Lisboa, e com algumas semelhanças com a iluminura anterior do Calendário de Paris, como os motivos vegetalistas e a abreviatura KL.
+Letras dominicais na página d' O mês de Janeiro com iluminura (10,8 x 14 cm), do Livro de Horas chamado de D. Manuel I de Portugal e conservado no Museu Nacional de Arte Antiga, em Lisboa, provavelmente executado entre 1517 e 1551. Nesta página, apenas com os primeiros 4 dias do mês (os outros estão nas páginas seguintes), a segunda coluna a contar da esquerda também é a das letras dominicais e na iluminura principal também o senhor da casa se prepara para comer tendo o calor da lareira nas suas costas, vendo-se ainda a família, um escravo, um cão, um gato, e um espaço maior da casa até à cozinha.
+
+
+== As letras dominicais por anos e séculos ==
+Fácil é agora perceber que as combinações possíveis de letras dominicais são 14 — 7 de uma letra dominical em anos comuns e 7 de duas letras dominicais em anos bissextos. Podemos agora construir cada uma das 14 combinações possíveis, diferentes para cada dia do ano em relação ao dia da semana, e que podem ser usados em todos os anos com a mesma letra dominical, ou com as duas letras dominicais nos anos bissextos.
+
+Letra dominical de cada ano do século XXI:
+Letra dominical de cada ano do século XX:
+Letra dominical de cada ano do século XIX
+Como o calendário gregoriano tem um ciclo de 400 anos desde o ano da Reforma do Calendário em 1582, os calendários anuais repetem-se de 400 em 400 anos, a partir do ano 1583 do século XVI — o calendário do ano 2014 é igual ao de 1614.Nas listas seguintes os anos referem-se sempre à Era de Cristo. Assim, nos documentos portugueses anteriores a 1460, em que é registada uma data na Era de César, é necessário subtrair 38 anos para encontrar o correspondente ano na Era de Cristo e a(s) respectiva(s) letra(s) dominical(ais).Para os anos anteriores a 1582, ano da reforma gregoriana, podemos apoiar-nos na tabela de Cristóvão Clávio.
+
+
+== Letras dominicais dos anos comuns ==
+
+
+=== Ano comum com letra dominical A tem início a um domingo ===
+Todos os anos comuns com letra dominical A começam e terminam num Domingo, têm 52 semanas que terminam sempre na letra dominical A.Anos comuns com letra dominical ANo calendário gregoriano:
+
+3º milénio- no século XXI — 2006, 2017, 2023, 2034, 2045, 2051, 2062, 2073, 2079, 2090
+
+2º milénio- no século XX — 1905, 1911, 1922, 1933, 1939, 1950, 1961, 1967, 1978, 1989, 1995
+- o século XIX — 1809, 1815, 1826, 1837, 1843, 1854, 1865, 1871, 1882, 1893, 1899
+- no século XVIII — 1702, 1713, 1719, 1730, 1741, 1747, 1758, 1769, 1775, 1786, 1797
+- no século XVII — 1606, 1617, 1623, 1634, 1645, 1651, 1662, 1673, 1679, 1690
+- no século XVI — 1589, 1595
+No calendário juliano:
+
+2º milénio- no século XVI — 1503, 1514, 1525, 1531, 1542, 1553, 1559, 1570, 1581
+- no século XV — 1402, 1413, 1419, 1430, 1441, 1447, 1458, 1469, 1475, 1486, 1497
+- no século XIV — 1301, 1307, 1318, 1329, 1335, 1346, 1357, 1363, 1374, 1385, 1391
+- no século XIII — 1206, 1217, 1223, 1234, 1245, 1251, 1262, 1273, 1279, 1290
+- no século XII — 1105, 1111, 1122, 1133, 1139, 1150, 1161, 1167, 1178, 1189, 1195
+- no século XI — 1010, 1021, 1027, 1038, 1049, 1055, 1066, 1077, 1083, 1094
+
+
+=== Ano comum com letra dominical B tem início a um sábado ===
+Todos os anos comuns com letra dominical B começam e terminam num sábado, têm 52 semanas que terminam sempre na letra dominical B.Anos comuns com letra dominical BNo calendário gregoriano:
+
+3º milénio- no século XXI — 2005, 2011, 2022, 2033, 2039, 2050, 2061, 2067, 2078, 2089, 2095
+
+2º milénio- no século XX — 1910, 1921, 1927, 1938, 1949, 1955, 1966, 1977, 1983, 1994
+- no século XIX — 1803, 1814, 1825, 1831, 1842, 1853, 1859, 1870, 1881, 1887, 1898
+- no século XVIII — 1701, 1707, 1718, 1729, 1735, 1746, 1757, 1763, 1774, 1785, 1791
+- no século XVII — 1605, 1611, 1622, 1633, 1639, 1650, 1661, 1667, 1678, 1689, 1695
+- no século XVI — 1583, 1594
+No calendário juliano:
+
+2º milénio- no século XVI — 1502, 1513, 1519, 1530, 1541, 1547, 1558, 1569, 1575
+- no século XV — 1401, 1407, 1418, 1429, 1435, 1446, 1457, 1463, 1474, 1485, 1491
+- no século XIV — 1306, 1317, 1323, 1334, 1345, 1351, 1362, 1373, 1379, 1390
+- no século XIII — 1205, 1211, 1222, 1233, 1239, 1250, 1261, 1267, 1278, 1289, 1295
+- no século XII — 1110, 1121, 1127, 1138, 1149, 1155, 1166, 1177, 1183, 1194
+- no século XI — 1009, 1015, 1026, 1037, 1043, 1054, 1065, 1071, 1082, 1093, 1099
+
+
+=== Ano comum com letra dominical C tem início a uma sexta-feira ===
+Todos os anos comuns com letra dominical C começam e terminam numa sexta-feira, têm 52 semanas que terminam sempre na letra dominical C.Anos comuns com letra dominical CNo calendário gregoriano:
+
+3º milénio- no século XXI — 2010, 2021, 2027, 2038, 2049, 2055, 2066, 2077, 2083, 2094, 2100
+
+2º milénio- no século XX — 1909, 1915, 1926, 1937, 1943, 1954, 1965, 1971, 1982, 1993, 1999
+- no século XIX — 1802, 1813, 1819, 1830, 1841, 1847, 1858, 1869, 1875, 1886, 1897
+- século XVIII — 1706, 1717, 1723, 1734, 1745, 1751, 1762, 1773, 1779, 1790
+- século XVII — 1610, 1621, 1627, 1638, 1649, 1655, 1666, 1677, 1683, 1694, 1700
+- século XVI — 1582, 1593, 1599
+No calendário juliano:
+
+2º milénio- século XVI — 1501, 1507, 1518, 1529, 1535, 1546, 1557, 1563, 1574
+- no século XV — 1406, 1417, 1423, 1434, 1445, 1451, 1462, 1473, 1479, 1490
+- no século XIV — 1305, 1311, 1322, 1333, 1339, 1350, 1361, 1367, 1378, 1389, 1395
+- no século XIII — 1210, 1221, 1227, 1238, 1249, 1255, 1266, 1277, 1283, 1294
+- no século XII — 1109, 1115, 1126, 1137, 1143, 1154, 1165, 1171, 1182, 1193, 1199
+- no século XI — 1003, 1014, 1025, 1031, 1042, 1053, 1059, 1070, 1081, 1087, 1098
+
+
+=== Ano comum com letra dominical D tem início a uma quinta-feira ===
+Todos os anos comuns com letra dominical D começam e terminam numa quinta-feira, têm 53 semanas que terminam sempre na letra dominical D.Anos comuns com letra dominical DNo calendário gregoriano:
+
+3º milénio- no século XXI — 2009, 2015, 2026, 2037, 2043, 2054, 2065, 2071, 2082, 2093, 2099
+
+2º milénio- no século XX — 1903, 1914, 1925, 1931, 1942, 1953, 1959, 1970, 1981, 1987, 1998
+- no século XIX — 1801, 1807, 1818, 1829, 1835, 1846, 1857, 1863, 1874, 1885, 1891
+- no século XVIII — 1705, 1711, 1722, 1733, 1739, 1750, 1761, 1767, 1778, 1789, 1795
+- no século XVII — 1609, 1615, 1626, 1637, 1643, 1654, 1665, 1671, 1682, 1693, 1699
+- no século XVI — 1587, 1598
+No calendário juliano:
+
+2º milénio- no século XVI — 1506, 1517, 1523, 1534, 1545, 1551, 1562, 1573, 1579
+- no século XV — 1405, 1411, 1422, 1433, 1439, 1450, 1461, 1467, 1478, 1489, 1495
+- no século XIV — 1310, 1321, 1327, 1338, 1349, 1355, 1366, 1377, 1383, 1394
+- no século XIII — 1209, 1215, 1226, 1237, 1243, 1254, 1265, 1271, 1282, 1293, 1299
+- no século XII — 1103, 1114, 1125, 1131, 1142, 1153, 1159, 1170, 1181, 1187, 1198
+- no século XI — 1002, 1013, 1019, 1030, 1041, 1047, 1058, 1069, 1075, 1086, 1097
+
+
+=== Ano comum com letra dominical E tem início a uma quarta-feira ===
+Todos os anos comuns com letra dominical E começam e terminam numa quarta-feira, têm 52 semanas que terminam sempre na letra dominical E.Anos comuns com letra dominical ENo calendário gregoriano:
+
+3º milénio- no século XXI — 2003, 2014, 2025, 2031, 2042, 2053, 2059, 2070, 2081, 2087, 2098
+
+2º milénio- no século XX — 1902, 1913, 1919, 1930, 1941, 1947, 1958, 1969, 1975, 1986, 1997
+- no século XIX — 1806, 1817, 1823, 1834, 1845, 1851, 1862, 1873, 1879, 1890
+- no século XVIII — 1710, 1721, 1727, 1738, 1749, 1755, 1766, 1777, 1783, 1794, 1800
+- no século XVII — 1603, 1614, 1625, 1631, 1642, 1653, 1659, 1670, 1681, 1687, 1698
+- no século XVI — 1586, 1597
+No calendário juliano:
+
+2º milénio- no século XVI — 1505, 1511, 1522, 1533, 1539, 1550, 1561, 1567, 1578
+- no século XV — 1410, 1421, 1427, 1438, 1449, 1455, 1466, 1477, 1483, 1494
+- no século XIV — 1309, 1315, 1326, 1337, 1343, 1354, 1365, 1371, 1382, 1393, 1399
+- no século XIII — 1203, 1214, 1225, 1231, 1242, 1253, 1259, 1270, 1281, 1287, 1298
+- no século XII — 1102, 1113, 1119, 1130, 1141, 1147, 1158, 1169, 1175, 1186, 1197
+- no século XI — 1001, 1007, 1018, 1029, 1035, 1046, 1057, 1063, 1074, 1085, 1091
+
+
+=== Ano comum com letra dominical F tem início a uma terça-feira ===
+Todos os anos comuns com letra dominical F começam e terminam numa terça-feira, têm 52 semanas que terminam sempre na letra dominical F.Anos comuns com letra dominical FNo calendário gregoriano:
+
+3º milénio- no século XXI — 2002, 2013, 2019, 2030, 2041, 2047, 2058, 2069, 2075, 2086, 2097
+
+2º milénio- no século XX — 1901, 1907, 1918, 1929, 1935, 1946, 1957, 1963, 1974, 1985, 1991
+- no século XIX — 1805, 1811, 1822, 1833, 1839, 1850, 1861, 1867, 1878, 1889, 1895
+- no século XVIII — 1709, 1715, 1726, 1737, 1743, 1754, 1765, 1771, 1782, 1793, 1799
+- no século XVII — 1602, 1613, 1619, 1630, 1641, 1647, 1658, 1669, 1675, 1686, 1697
+- no século XVI — 1585, 1591
+No calendário juliano
+
+2º milénio- no século XVI — 1510, 1521, 1527, 1538, 1549, 1555, 1566, 1577
+- no século XV — 1409, 1415, 1426, 1437, 1443, 1454, 1465, 1471, 1482, 1493, 1499
+- no século XIII — 1202, 1213, 1219, 1230, 1241, 1247, 1258, 1269, 1275, 1286, 1297
+- no século XII — 1101, 1107, 1118, 1129, 1135, 1146, 1157, 1163, 1174, 1185, 1191
+- no século XI — 1006, 1017, 1023, 1034, 1045, 1051, 1062, 1073, 1079, 1090
+
+
+=== Ano comum com letra dominical G tem início a uma segunda-feira ===
+Todos os anos comuns com letra dominical G começam e terminam numa segunda-feira, têm 52 semanas que terminam sempre na letra dominical G.Anos comuns com letra dominical GNo calendário gregoriano:
+
+3º milénio- no século XXI — 2001, 2007, 2018, 2029, 2035, 2046, 2057, 2063, 2074, 2085, 2091
+
+2º milénio- no século XX — 1906, 1917, 1923, 1934, 1945, 1951, 1962, 1973, 1979, 1990,
+- no século XIX — 1810, 1821, 1827, 1838, 1849, 1855, 1866, 1877, 1883, 1894, 1900
+- no século XVIII — 1703, 1714, 1725, 1731, 1742, 1753, 1759, 1770, 1781, 1787, 1798
+- no século XVII — 1601, 1607, 1618, 1629, 1635, 1646, 1657, 1663, 1674, 1685, 1691
+- no século XVI — 1590
+No calendário juliano:
+
+2º milénio- no século XVI — 1509, 1515, 1526, 1537, 1543, 1554, 1565, 1571, 1582- no século XV — 1403, 1414, 1425, 1431, 1442, 1453, 1459, 1470, 1481, 1487, 1498
+- no século XIV — 1302, 1313, 1319, 1330, 1341, 1347, 1358, 1369, 1375, 1386, 1397
+- no século XIII — 1201, 1207, 1218, 1229, 1235, 1246, 1257, 1263, 1274, 1285, 1291
+- no século XII — 1106, 1117, 1123, 1134, 1145, 1151, 1162, 1173, 1179, 1190
+- no século XI — 1005, 1011, 1022, 1033, 1039, 1050, 1061, 1067, 1078, 1089, 1095
+
+
+== Letras dominicais dos anos bissextos ==
+
+
+=== Ano bissexto com as letras dominicais A e G tem início a um domingo ===
+Todos os anos bissextos que têm como primeira letra dominical A começam num Domingo e terminam numa segunda-feira, têm 52 semanas que terminam sempre na letra dominical A até 24 de fevereiro e daí até ao fim do ano na letra dominical G.Anos bissextos com letras dominicais A e GNo calendário gregoriano:
+
+3º milénio- no século XXI — 2012, 2040, 2068, 2096
+
+2º milénio- no século XX — 1928, 1956, 1984
+- no século XIX — 1804, 1832, 1860, 1888
+- no século XVIII — 1708, 1736, 1764, 1792
+- no século XVII — 1612, 1640, 1668, 1696
+- no século XVI — 1584
+No calendário juliano
+
+2º milénio- no século XVI — 1520, 1548, 1576
+- no século XV — 1408, 1436, 1464, 1492
+- no século XIV — 1324, 1352, 1380
+- no século XIII — 1212, 1240, 1268, 1296
+- no século XII — 1128, 1156, 1184
+- no século XI — 1016, 1044, 1072, 1100
+
+
+=== Ano bissexto com as letras dominicais B e A tem início a um sábado ===
+Todos os anos bissextos que têm como primeira letra dominical B começam num sábado e terminam num Domingo, têm 52 semanas que terminam sempre na letra dominical B até 24 de fevereiro e daí até ao fim do ano na letra dominical A.Anos bissextos com letras dominicais B e ANo calendário gregoriano:
+
+3º milénio- no século XXI — 2028, 2056, 2084
+
+2º milénio- no século XX — 1916, 1944, 1972, 2000
+- no século XIX — 1820, 1848, 1876
+- no século XVIII — 1724, 1752, 1780
+- no século XVII — 1628, 1656, 1684
+- no século XVI — 1600
+No calendário juliano:
+
+2º milénio- no século XVI — 1508, 1536, 1564
+- no século XV — 1424, 1452, 1480
+- no século XIV — 1312, 1340, 1368, 1396
+- no século XIII — 1228, 1256, 1284
+- no século XII — 1116, 1144, 1172, 1200
+- no século XI — 1004, 1032, 1060, 1088
+
+
+=== Ano bissexto com as letras dominicais C e B tem início a uma sexta-feira ===
+Todos os anos bissextos que têm como primeira letra dominical C começam numa sexta-feira e terminam num sábado, têm 52 semanas que terminam sempre na letra dominical C até 24 de fevereiro e daí até ao fim do ano na letra dominical B.Anos bissextos com letras dominicais C e BNo calendário gregoriano:
+
+3º milénio- no século XXII — 2112, 2140, 2168, 2196
+- no século XXI — 2016, 2044, 2072
+
+2º milénio- no século XX — 1904, 1932, 1960, 1988
+- no século XIX — 1808, 1836, 1864, 1892
+- no século XVIII — 1712, 1740, 1768, 1796
+- no século XVII — 1616, 1644, 1672
+- no século XVI — 1588
+No calendário juliano:
+
+2º milénio- no século XVI — 1524, 1552, 1580
+- no século XV — 1412, 1440, 1468, 1496
+- no século XIV — 1328, 1356, 1384
+- no século XIII — 1216, 1244, 1272, 1300
+- no século XII — 1104, 1132, 1160, 1188
+- no século XI — 1020, 1048, 1076
+
+
+=== Ano bissexto com as letras dominicais D e C tem início a uma quinta-feira ===
+Todos os anos bissextos que têm como primeira letra dominical D começam numa quinta-feira e terminam numa sexta-feira, têm 53 semanas que terminam sempre na letra dominical D até 24 de fevereiro e daí até ao fim do ano na letra dominical C.Anos bissextos com letras dominicais D e CNo calendário gregoriano:
+
+3º milénio- no século XXI — 2004, 2032, 2060, 2088
+
+2º milénio- no século XX — 1920, 1948, 1976
+- no século XIX — 1824, 1852, 1880
+- no século XVIII — 1728, 1756, 1784
+- no século XVII — 1604, 1632, 1660, 1688
+- no século XVI — não houve nenhum
+No calendário juliano:
+
+2º milénio- no século XVI — 1512, 1540, 1568
+- no século XV — 1428, 1456, 1484
+- no século XIV — 1316, 1344, 1372, 1400
+- no século XIII — 1204, 1232, 1260, 1288
+- no século XII — 1120, 1148, 1176
+- no século XI — 1008, 1036, 1064, 1092
+
+
+=== Ano bissexto com as letras dominicais E e D tem início a uma quarta-feira ===
+Todos os anos bissextos que têm como primeira letra dominical E começam numa quarta-feira e terminam numa quinta-feira, têm 53 semanas que terminam sempre na letra dominical E até 24 de fevereiro e daí até ao fim do ano na letra dominical D.Anos bissextos com letras dominicais E e DNo calendário gregoriano:
+
+3º milénio- no século XXI — 2020, 2048, 2076
+
+2º milénio- no século XX — 1908, 1936, 1964, 1992
+- no século XIX — 1812, 1840, 1868, 1896
+- no século XVIII — 1716, 1744, 1772
+- no século XVII — 1620, 1648, 1676
+- no século XVI — 1592
+No calendário juliano:
+
+2º milénio- no século XVI — 1528, 1556
+- no século XV — 1416, 1444, 1472, 1500
+- no século XIV — 1304, 1332, 1360, 1388
+- no século XIII — 1220, 1248, 1276
+- no século XII — 1108, 1136, 1164, 1192
+- no século XI — 1024, 1052, 1080
+
+
+=== Ano bissexto com as letras dominicais F e E tem início a uma terça-feira ===
+Todos os anos bissextos que têm como primeira letra dominical F começam numa terça-feira e terminam numa quarta-feira, têm 52 semanas que terminam sempre na letra dominical F até 24 de fevereiro e daí até ao fim do ano na letra dominical E.Anos bissextos com letras dominicais F e ENo calendário gregoriano:
+
+3º milénio- no século XXI — 2008, 2036, 2064, 2092
+
+2º milénio- no século XX — 1924, 1952, 1980
+- no século XIX — 1828, 1856, 1884
+- no século XVIII — 1704, 1732, 1760, 1788
+- no século XVII — 1608, 1636, 1664, 1692
+- no século XVI — não houve nenhum
+No calendário juliano:
+
+2º milénio- no século XVI — 1516, 1544, 1572
+- no século XV — 1404, 1432, 1460, 1488
+- no século XIV — 1320, 1348, 1376
+- no século XIII — 1208, 1236, 1364, 1292
+- no século XII — 1124, 1152, 1180
+- no século XI — 1012, 1040, 1068, 1096
+
+
+=== Ano bissexto com as letras dominicais G e F tem início a uma segunda-feira ===
+Todos os anos bissextos que têm como primeira letra dominical G começam numa segunda-feira e terminam numa terça-feira, têm 52 semanas que terminam sempre na letra dominical G até 24 de fevereiro e daí até ao fim do ano na letra dominical F.Anos bissextos com letras dominicais G e FNo calendário gregoriano:
+
+3º milénio- no século XXI — 2024, 2052, 2080
+
+2º milénio- no século XX — 1912, 1940, 1968, 1996
+- no século XIX — 1816, 1844, 1872
+- no século XVIII — 1720, 1748, 1776
+- no século XVII — 1624, 1652, 1680
+- no século XVI — 1596
+No calendário juliano:
+
+2º milénio- no século XVI — 1504, 1532, 1560
+- no século XV — 1420, 1448, 1476
+- no século XIV — 1308, 1336, 1364, 1392
+- no século XIII — 1224, 1252, 1280
+- no século XII — 1112, 1140, 1168, 1196
+- no século XI — 1028, 1056, 1084
+- no século X — 1000
+
+
+== O ano de 1582 em Portugal teve início a uma segunda-feira e terminou a uma sexta-feira ==
+O ano de 1582 foi  o ano em que entrou em vigor a Reforma Gregoriana do Calendário em Portugal, em Espanha e outros reinos.
+Uma das consequências para esse ano de transição foi ter apenas 355 dias.
+A ordem dos dias da semana não foi alterada mas a letra dominical G inicial (o ano teve início a uma segunda-feira) foi substituída pela letra dominical C a partir de 15 de outubro e o ano terminou numa sexta-feira.
+
+
+== Notas ==
+
+
+== Referências ==

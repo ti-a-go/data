@@ -1,0 +1,190 @@
+Licitação é o procedimento administrativo formal regra que se estabelece de forma prévia às contratações de serviços, aquisições de produtos, ou até mesmo para registrar preços para contratações futuras pelos entes da Administração Pública direta ou indireta, que também pode ser considerada como pré-contrato, que tem como objetivo principal a obtenção das propostas mais vantajosas e justas.
+Contratos governamentais ou contratos públicos são as compras de bens, serviços e obras em nome de uma autoridade pública, como uma agência governo. Correspondendo a 12% do PIB global em 2018, as compras governamentais representam uma parte substancial da economia global.
+Para evitar fraude, desperdício, corrupção, ou protecionismo local, as leis da maioria dos países regulam as compras governamentais até certo ponto. As leis geralmente exigem que a autoridade aquisidora emita licitações públicas se o valor da aquisição exceder um determinado limite. As compras governamentais também são objeto do Acordo sobre Compras Governamentais (GPA), um  tratado internacional multilateral sob os auspícios da OMC.
+
+
+== Visão geral ==
+
+
+=== Necessidade de compras governamentais ===
+As compras governamentais são necessárias porque os governos não podem produzir todos os insumos para os bens que eles mesmos fornecem. Os governos geralmente fornecem bem público, por exemplo, defesa nacional ou infra-estrutura pública. Bens públicos não são rivais e não excluíveis, o que significa que o consumo de um indivíduo não diminui a quantidade ou qualidade da mercadoria disponível para outros, e os indivíduos não podem ser impedidos de consumir livremente a mercadoria, ou  "volta gratuita". Consequentemente, os mercados privados não podem fornecer bens públicos. Em vez disso, o governo fornece esses bens e os financia aumentando os impostos de todos os cidadãos.Além dos bens públicos, os governos muitas vezes também fornecem bens de mérito, como educação ou saúde. Bens de mérito são bens privados que são rivais e excluíveis e, portanto, fornecidos por mercados privados. No entanto, os governos também fornecem bens de mérito por razões de equidade e justiça e porque eles têm externalidades positivas para a sociedade como um todo.Para fornecer bens públicos e de mérito, o governo tem que comprar fatores de entrada de empresas privadas, por exemplo. carros de polícia, prédios escolares, uniformes, etc. Este processo é chamado de governo ou contratação pública.
+
+
+=== Problemas ===
+As compras governamentais envolvem um alto risco de corrupção devido ao grande volume de negócios financeiros e à complexidade de muitos processos de compras nos quais as empresas interagem muito estreitamente com políticos e funcionários públicos. Muitas vezes, os interesses pessoais dos funcionários públicos não são os mesmos que os interesses do público. A vulnerabilidade dos compradores públicos à subversão privada levou todos os países a restringir o arbítrio das entidades compradoras no que compram e pagam. Mas enquanto a regulamentação do setor privado dá poder aos funcionários públicos e permite que eles extraiam subornos em troca de alívio regulatório, a regulamentação do governo restringe os funcionários públicos. As regulamentações de compras públicas reduzem o arbítrio dos compradores, geralmente com a intenção de reduzir a corrupção.
+
+
+=== Escopo ===
+Os regulamentos de compras governamentais normalmente cobrem todos os obras públicas, serviços e contratos de fornecimento celebrados por uma autoridade pública. No entanto, pode haver exceções. Estes cobrem mais notavelmente as aquisições militares, que representam grande parte dos gastos do governo. O GPA e a lei de compras da UE permitem exceções onde a licitação pública violaria os interesses essenciais de segurança de um país. Além disso, certos setores politicamente ou economicamente sensíveis, como saúde pública, fornecimento de energia ou transporte público, também podem ser tratados de forma diferente.
+
+
+== Compras estratégicas em compras públicas ==
+Uma das consequências da crise financeira de 2007-2008 foi a tentativa de reduzir os gastos públicos para controlar a dívida pública. Essa tendência afetou as compras governamentais por sua participação significativa nos gastos públicos. Portanto, várias estratégias de compras foram implementadas para aumentar a qualidade e diminuir o custo das compras governamentais. Essas estratégias incluem public e-procurement, compras centralizadas ou framework agreement.
+
+
+=== Contratação pública eletrônica ===
+
+Public e-procurement significa substituir várias fases da contratação pública por meios eletrônicos. O objetivo do uso de ferramentas eletrônicas é reduzir os custos administrativos pela automação. O e-procurement também pode mitigar algumas barreiras à entrada para fornecedores menores, o consequente aumento da concorrência pode reduzir o preço de aquisição.
+
+
+=== Contratos públicos e inovação ===
+O grande poder de compra do setor público levou à consideração do uso da contratação pública como estímulo para fomentar a inovação. As atividades de contratação pública e inovação cruzam-se em três áreas específicas: contratação pública para inovação, contratação pública de inovação e contratação pública inovadora. Primeiro, vários estudos estabeleceram que a contratação pública para inovação é uma ferramenta viável e eficiente para estimular a inovação como uma ferramenta do lado da demanda no mix de políticas de inovação. Em segundo lugar, os contratos públicos também podem ser usados para inovar o próprio setor público (contratos públicos de inovação), por meio da inclusão da “inovação” como meta de compras (muitas vezes como critério secundário). Em terceiro lugar, novas abordagens de contratação pública (como eProcurement ou Parcerias Público-Privadas) podem ser introduzidas para inovar os processos e entidades de contratação pública.
+
+
+=== Centralização de compras na contratação pública ===
+Compra centralizada significa adjudicar contratos de aquisição em nome de uma ou mais entidades aquisidoras. Esse método tem sido usado para obter vários benefícios decorrentes da agregação de demanda. A contratação centralizada pode ser feita por entidades adjudicantes ordinárias ou por uma central de compras estabelecida. A aquisição centralizada é regulamentada pela legislação local. Por exemplo, as diretivas 2004/17/EC e 2004/18/EC tratam dessa questão na UE. Os benefícios comumente mencionados da centralização de compras são os seguintes:
+
+Redução do preço unitário final – Maior valor de aquisição proveniente da agregação de demanda pode aumentar o poder de barganha dos compradores e diminuir o preço final. Além disso, um valor mais alto pode atrair mais empresas para participar da licitação, o aumento da concorrência também pode levar a um preço melhor.
+Redução dos custos de transação – O principal objetivo da aquisição centralizada é evitar a duplicação de alguns procedimentos. As unidades contratantes podem reduzir seus custos de transação em cooperação com outras entidades. Este aspecto é frequentemente considerado como o argumento mais relevante para a centralização de compras.
+Aumentar a transparência – Em muitas jurisdições, existem certos limites de valor que obrigam os adquirentes a publicar os detalhes do concurso e informações sobre os contratos adjudicados e as despesas efectuadas. Portanto, um valor adquirido mais alto pode contribuir para uma maior transparência entre as licitações públicas.
+Compartilhamento de conhecimento – A cooperação em compras também pode resultar no compartilhamento das melhores práticas de compras. Alguns órgãos centrais de compras também realizam atividades de pesquisa.No entanto, outros aspectos da centralização são frequentemente criticados. As desvantagens discutidas são frequentemente ligadas ao teorema da descentralização declarado pelo economista americano Wallace E. Oates em 1972. O teorema afirma que um sistema descentralizado é mais eficiente, devido à assimetria de informação entre o governo local e central.A centralização de compras também pode impactar negativamente o lado da oferta. Valores adquiridos mais altos podem exigir maior capacidade da empresa fornecedora e podem criar barreira à entrada para pequenas ou médias empresas. Consequentemente, pode levar à monopolização do mercado de contratos públicos.
+Os críticos também mencionam que apenas alguns bens podem ser adquiridos centralmente. Bens heterogêneos ou com muitas características não são adequados para essa estratégia.
+
+
+=== Framework agreements ===
+
+Framework agreements é outro método de agregação de demanda. É um tipo de procedimento licitatório em duas etapas, que estabelece a adjudicação de contratos incompletos com um ou mais fornecedores por determinado período de tempo. No Brasil é chamado de registro de preços
+A vantagem discutida é uma redução de custos administrativos novamente, pois o procedimento de licitação não precisa ser duplicado por um período de tempo acordado. Por outro lado, o termo "maldição do vencedor" está associado ao framework acordo, pois há uma incerteza de preço no tempo.Todas essas três estratégias de aquisição não são mutuamente exclusivas. Assim, os contratos-quadro podem ser processados centralmente por meio de e-procurement.
+
+
+== Licitações no Brasil ==
+No Brasil, para licitações por entidades que façam uso da verba pública mais conhecida como Compras Governamentais ou compras públicas, seguem as Leis 8.666/93 de normas gerais de licitações e  contratos, Lei  10.520/02 também conhecida como pregão, destinada a bens e serviços comuns. Há, ainda, outras legislações complementares que também regulam os certames, como a Lei 12.462/2011 [3] - Regime Diferenciado de contratações Públicas e o decreto 5.450/2005 - Forma de Pregão Eletrônico e Lei 14.133/21 (Lei de Licitações e Contratos Administrativos.).
+A partir de 01 de abril de 2023, a Lei 8.666/93 será completamente revogada e sucedida pela Lei 14.133/21 (Lei de Licitações e Contratos Administrativos.) que foi promulgada em 01 de abril de 2021. Após a promulgação da Lei 14.133 os artigos 89 a 108 da Lei nº 8.666, de 21 de junho de 1993 foram retirados da vigência, conforme listado no artigo 193 da Lei 14.133.As licitações são um nicho econômico, chamado de Mercado Governamental que mostra a importância do Estado na economia. As licitações Públicas em geral tem o gasto em média superior a R$ 60 bilhões anuais no Brasil [1]. Elas também ajudam o mercado econômico a viabilizar a concorrência e o desenvolvimento social e regional, o aumento de arrecadação tributaria, o aumento de renda e a diminuição e taxa de desemprego.
+
+
+== Processo licitatório ==
+O ordenamento brasileiro, em sua Constituição Federal de 1988 (art. 37, inciso XXI), determinou a obrigatoriedade da licitação para todas as aquisições de bens e contratações de serviços e obras, bem como para alienação de bens, realizados pela Administração no exercício de suas funções.
+É composto de diversos procedimentos que devem ser efetuados com base nos  princípios definidos no Art.37 da Constituição Federal, a saber, a legalidade, a impessoalidade, a moralidade, a publicidade e a eficiência, com o intuito de proporcionar à Administração a aquisição, a venda ou uma prestação de serviço de forma vantajosa, ou seja, menos onerosa e com melhor qualidade possível e isonomia aos membros da sociedade. É a chamada "eficiência contratória".
+Isto acontece utilizando-se um sistema de comparação de orçamentos chamado de "propostas das empresas". As empresas devem atender às especificações legais necessárias, todas constantes do edital ou convite. A empresa que oferecer maiores vantagens ao governo será a escolhida para o fornecimento do produto ou do serviço, para aquisição de bens alienados pela administração pública ou para atuar nos regimes de concessão ou permissão em relação a serviço público. Oferta mais vantajosa, na legislação brasileira, entende-se pelo critério de menor preço; de melhor técnica; de técnica e preço; ou, por fim, a de maior lance ou oferta para os casos de alienação de bens ou de concessão de direito real de uso. Dentre estes, o critério 'menor preço' é comumente mais utilizado. Ao lado deste, figuram o critério de 'Melhor Técnica', quando se leva em consideração, além do preço, a qualificação do licitado e as características de sua proposta; e 'Maior Lance', utilizado quando o objetivo é alienar (vender) bens públicos, como ocorre nos leilões do Brasil.
+A lei 8666/93 foi uma lei federal brasileira, sancionada em 21 de junho de 1993. Esta lei estabelece normas gerais sobre licitações e contratos administrativos pertinentes a obras, serviços, inclusive de publicidade, compras, alienações e locações no âmbito dos poderes da União, dos Estados, do Distrito Federal e dos Municípios.
+A lei 10.520, de 2002, institui o pregão no ordenamento jurídico brasileiro, para aquisição de bens e serviços comuns.
+A Lei 14.133/21 sucedeu a lei 8666/93 revogando alguns de seus artigos em sua promulgação em 01 de abril de 2021 e revogando-a completamente a partir de 01 de abril de 2023.
+Como fonte de consulta, há uma publicação do Tribunal de Contas da União, disponível no site do TCU, que versa sobre questões relacionadas ao processo licitatório.Ainda segundo a lei 8666, art 25 a Licitação se torna inexigível em casos de fornecedor único, serviços de alto know-how especializado e artistas consagrados pela crítica, entre outros. Além disso, a licitação é dispensada art 24 em casos de interesse público e prévia avaliação técnica e, no caso de alienação imobiliária quando previsto por lei específica.
+
+
+=== Tipologia e modalidades ===
+No Brasil, o legislador optou por classificar distintamente o tipo e a modalidade de licitação. São duas ordens de classificação às quais se submetem quaisquer procedimentos licitatórios. Não é possível mesclar ou criar outras modalidades de licitação, salvo por alteração dos normativos federais.As modalidades referem-se principalmente ao volume das transações em questão, e secundariamente às características do objeto da licitação. São as seguintes modalidades elencadas na lei 8.6666:
+
+Concorrência; (publicação do edital 45 dias / abertura dos envelopes 30 dias);
+Tomada de preços;(publicação do edital 30 dias / abertura dos envelopes 15 dias);
+Convite ou Carta convite;( 3 convidados - publicação 5 dias)
+Leilão;(publicação do edital 8 dias)
+Concurso.(publicação do edital 45 dias)Posteriormente, pela lei 10.520/2002, foi introduzida a modalidade pregão. O Decreto nº 5.450/2005 regulamentou a forma eletrônica do pregão, que passou a ser realizado em plataforma via internet.
+As modalidades leilão e convite destinam-se a fins específicos ligados à natureza dos objetos em licitação. O leilão é adotado para venda de bens móveis inservíveis para a administração, para a venda de produtos legalmente apreendidos ou penhorados, ou para a alienação de bens imóveis tomados junto a credores da administração ou como resultado de processos judiciais.
+O concurso é a modalidade de licitação destinada à seleção de trabalhos técnicos, científicos ou artísticos, para uso da administração. Estabelece-se um prêmio, e qualquer interessado qualificado pode submeter seu trabalho. Frise-se, que esta modalidade de Licitação, não se assemelha ao concurso público, pois aquele cumpre a função de provimento de cargos públicos, através de provas ou provas e títulos.
+O pregão é a modalidade de licitação que já pode ser adotada não apenas pela União, mas também pelos Estados e Municípios, para aquisição de bens e de serviços comuns. Esta modalidade busca simplificar procedimentos, rigorismos excessivos e de formalidades desnecessárias. As decisões, sempre que possíveis, devem ser tomadas no momento da sessão. Esta modalidade caiu no gosto dos gestores públicos por garantir mais celeridade aos certames em razão da inversão de fases.
+As três modalidades principais de licitação, concorrência, tomada de preço e convite, destinam-se prioritariamente à aquisição de bens e serviços. O que as difere é o volume de recursos envolvidos. Atualmente, a lei estabelece as seguintes faixas de valores e respectivas modalidades:
+
+Para obras e serviços de engenharia:
+convite: até R$ 330.000,00 (trezentos e trinta mil reais);
+tomada de preços: até R$ 3.300.000,00 (três milhões e trezentos mil reais);
+concorrência: acima de R$ 3.300.000,00 (três milhões e trezentos mil reais).
+Para outros tipos de compras e serviços:
+convite: até R$ 176.000,00 (cento e setenta e seis mil reais);
+tomada de preços: até R$ 1.430.000,00 (um milhão, quatrocentos e trinta mil reais);
+concorrência: acima de R$ 1.430.000,00 (um milhão, quatrocentos e trinta mil reais).A adoção de uma modalidade de licitação de maior escala é permitida: por exemplo, a administração pode adotar a modalidade concorrência, mesmo para valores abaixo de R$ 650.000,00. O contrário é expressamente proibido e acarreta em anulação do procedimento licitatório. Cabe ainda observar que, como as licitações de maior escala geralmente redundam em maiores custos, a adoção de um tipo por outro deve ser devidamente justificada. Também há uma exceção para o caso de licitação internacional: quaisquer sejam os valores envolvidos, exige-se a modalidade concorrência.
+Os tipos de licitação referem-se ao modelo de decisão na escolha do vencedor da licitação. À exceção do concurso, cujo julgamento é o parecer de uma comissão de especialistas na área, a lei 8.666 elenca os seguintes tipos de licitação:
+
+menor preço: vence a proposta mais vantajosa com o menor custo para a administração pública;
+melhor técnica: vence a proposta de melhor técnica, que aceitar o valor da proposta mais baixa dentre todas as com a técnica minima exigida no edital ou carta convite;
+técnica e preço: as propostas recebem uma nota que leva em conta a técnica e o preço (com pesos na composição da nota definidos no edital ou carta convite), vence a com melhor nota;
+maior lance ou oferta: para o caso de venda de bens ou concessão de direito real de uso.No caso do tipo "menor preço", há uma série de requisitos para identificar se a proposta é exequível, e é proibido oferecer bens ou serviços a valores simbólicos, irrisórios ou nulos, incompatíveis com a realidade. Também é proibido atrelar o seu preço á da proposta concorrente.
+
+
+==== PROCEDIMENTOS DA LICITAÇÃO ====
+A licitação é válida e eficaz quando segue todos os seus procedimentos de acordo com as modalidades de licitação, que são definidos da seguinte maneira:
+
+
+===== Procedimento na concorrência =====
+A concorrência é regida por duas fases; a fase interna que consiste na organização dos atos preparatórios para iniciar a licitação, onde esses atos são encaminhados para a consultoria jurídica do órgão que deve emitir um parecer e só então se inicia a próxima fase denominada de fase externa. Na fase externa há a publicação do edital da licitação no diário oficial da união e em jornal de grande circulação. Em seguida, é feita a habilitação da documentação dos licitantes para se verificar se eles se encaixam nos requisitos de idoneidade que são cobrados para contratar com o poder público.
+O terceiro passo da fase externa consiste no julgamento e classificação dos critérios que serão aplicados no edital. Feito isso, haverá a homologação. Todas as propostas que foram classificadas na etapa anterior são encaminhadas à autoridade do órgão.
+Por fim, é feito a adjudicação. Lembrando que a administração não tem a obrigação de celebrar o contrato administrativo e o licitante fica vinculado a proposta que realizou no órgão pelo prazo de 60 dias desde a apresentação da proposta.
+
+
+===== Procedimento na tomada de preço =====
+Muito parecido com o procedimento da concorrência, a única diferença é que não possui fase de habilitação, já que os licitantes já estão previamente cadastrados.
+
+
+===== Procedimento no convite =====
+Similar ao da concorrência, o convite não traz a publicação do edital e também não realiza a fase de habilitação.
+
+
+===== Procedimento no pregão =====
+Aqui há uma inversão de fases se comparada com o procedimento da concorrência. Primeiramente são classificadas as propostas para só por último realizar a fase de habilitação.
+
+
+=== Fases ===
+São fases da licitação o edital, os documentos de licitação, os tipos de licitação, o julgamento das propostas,  habilitação ocorre após a classificação. Desta forma, analisa-se a documentação apenas da primeira colocada no certame, o que economiza tempo e recursos do Poder Público. Segundo a Lei 8666/93, segue a ordem Habilitação, Julgamento, Homologação, Adjudicação; Já na Lei 10.520, segue a fase de Julgamento, Habilitação, Adjudicação e Homologação.
+
+
+==== Edital e convite ====
+Chama-se edital o documento através do qual a instituição compradora estabelece todas as condições da licitação que será realizada e divulga todas as características do bem ou serviço que será adquirido. A correta elaboração do edital e a definição precisa das características do bem ou serviço pretendido pela entidade licitadora são essenciais para a concretização de uma boa compra ou contratação. Na modalidade convite o edital será substituído pela carta-convite (ou simplesmente convite), que é um oferecimento para que determinada empresa do setor pertinente, cadastrada ou não junto à administração pública, ofereça lances na licitação. Cabe destacar que na modalidade convite, um licitante pode se convidar, solicitando à administração pública que participe do certame.
+
+
+==== Habilitação ====
+Nessa fase, verifica-se as condições dos licitantes como, por exemplo:
+
+financeiras - o licitante deve ter condições econômicas para execução do objeto da licitação;
+fiscal - se espera do licitante que ele esteja em dia com suas obrigações fiscais;
+trabalhistas - o licitante deve estar de acordo com a legislação trabalhista;
+técnicas - o licitante deve provar ter condições técnicas para execução do objeto da licitação.
+
+
+==== Julgamento e classificação ====
+O julgamento é a fase que se verifica se o produto ou serviço oferecido pelos licitantes está de acordo com o que está indicado no edital. Feito isso, faz-se uma classificação colocando as melhores condições em primeiro. Deve-se, no entanto, observar os dispositivos legais que permitem a aplicação de margem de preferência nas licitações, a qual pode mudar a classificação das empresas beneficiadas.
+
+
+==== Homologação ====
+Na homologação, a autoridade gestora verifica se o processo licitatório ocorreu de acordo com todas as regras legais e com o edital. Caso tudo esteja certo, a Autoridade competente homologa o processo.
+
+
+==== Adjudicação ====
+Nesta fase é entregue o objeto da licitação ao vencedor.
+
+
+=== Anulação, revogação e convalidação ===
+A revogação só pode ocorrer na instância administrativa por razões de interesse público decorrente de fato superveniente. Já a anulação ocorre tanto na esfera administrativa (princípio da autotutela) como no judiciário, devendo ser amplamente fundamentada pelo organismo que a anular. Revoga-se o que é lícito, mas não é conveniente ao interesse público. Anula-se o que é ilegal. É importante observar que a anulação, por tratar-se de ato ilegal, tem efeito retroativo (ex-tunc), enquanto a revogação passa a produzir efeitos somente a posterior (ex nunc).
+Pode-se ainda convalidar os atos ilegais cujo vício seja sanável. Seus efeitos são, como na anulação, ex-tunc.
+A anulação do contrato e até a sua rescisão, mesmo que seja por motivo de interesse público, obrigam a Administração Pública a observar o princípio do contraditório e da ampla defesa.
+
+
+=== Compra sem licitação ===
+A Administração Pública é obrigada a fazer licitação, mas como para toda regra existe a exceção, a lei 8.666/93 também diz que a licitação pode ser dispensável, desde que tenha justificativa suficiente para que não seja necessário a licitação.
+A Administração Pública pode fazer compra sem licitação nos seguintes casos:
+
+compras com valor de até R$ 16.700,00 (ou R$ 33.000,00 para obras e serviços de engenharia);
+em caso de guerra;
+em caso de emergência ou calamidade pública;
+contratação de empresa para desenvolvimento institucional dos órgãos;
+restauração de obras de arte e objetos históricos;
+contratação de associações sem fins lucrativos, e nos casos elencados nos 34 incisos, rol exemplificativo e com ato discricionário.
+Diferentemente da Dispensada (artigo 17) que ocorre no bens alienados, em dação em pagamento ou procedimento judicial em bens móveis e imóveis, sendo rol taxativo, e ato vinculado.
+
+
+== Licitação eletrônica - Pregão Eletrônico ==
+Licitação eletrônica (e-procurement) é o uso das tecnologias de Internet para comprar ou fornecer mercadorias e serviços. Os sistemas de licitação eletrônica exigem o uso de sistemas de banco de dados integrados, sistemas de comunicações de rede remota, sistemas baseados na Web, sistemas de estoque e interação com os sistemas contábeis.A eficiência de custos nos processos de compras foi um importante catalisador para a adoção da licitação eletrônica. A licitação eletrônica reduz os preços de compra por meio de uma melhor transparência dos preços praticados pelo mercado e custos de pesquisa mais baixos. A licitação eletrônica permite às organizações que compram produtos semelhantes formar uma cooperativa na cadeia de suprimentos a fim obter preços significativamente mais baixos via descontos em volume. As organizações podem utilizar sistemas de licitação eletrônica para padronizar os processos de compras dentro da organização, aprimorando assim a satisfação interna dos funcionários.
+
+
+== Licitações em Portugal ==
+A contratação pública em Portugal é regida pelo Código dos Contratos Públicos ou Código dos Contratos Públicos (PCC), que foi implementado através dos seguintes Decretos-Leis (decreto -leis) e outras legislações:
+
+Decreto-Lei 18/2008 (29 de Janeiro de 2008)
+Decreto-Lei 59/2008 (11 de setembro de 2008)
+Decreto-Lei 223/2009 (11 de setembro de 2009)
+Decreto-Lei 278/2009 (20 de outubro de 2009)
+Decreto-Lei 3/2010 (27 de abril de 2010)
+Decreto-Lei 131/2010 (14 de dezembro de 2010)
+Lei 64-B/2011 (30 de dezembro de 2012)
+Decreto-Lei 149/2012 (12 de julho de 2012)
+Decreto-Lei 214-G/2015 (2 de outubro de 2015)
+Decreto-Lei 111-B/2017 (31 de agosto de 2017)O Decreto-Lei n.º 104/2011 (6 de outubro de 2011) aplica-se aos contratos de defesa.O Código de Processo Administrativo, instituído pelo Decreto-Lei n.º 4/2015 (7 de janeiro de 2015), prevê ainda os procedimentos gerais em matéria administrativa e o Código de Processo dos Tribunais Administrativos instituído pela Lei n. n.º 15/2002 (22 de fevereiro de 2002), alterado pelo Decreto-Lei n.º 214-G/2015, estabelece procedimentos de contencioso em matéria de contratos públicos e práticas de contratação pública.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Licitações & Contratos - 4ª Edição  Orientações e Jurisprudência do TCU - Edição revista, atualizada e ampliada
+Vade-Mécum de Licitações e Contratos - 7ª Edição - 2016 - Edição revista, atualizada e ampliada.
+As licitações privadas – Portal de Licitação (portaldelicitacao.com.br)
+Guia de Combate a Cartéis em Licitação (cade.gov.br)

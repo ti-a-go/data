@@ -1,0 +1,64 @@
+Planador é uma aeronave sem motor, mais densa que o ar (aeródino) e com uma configuração aerodinâmica semelhante a de um avião, que se mantém voando graças às correntes ascendentes na atmosfera. A prática de aviação desportiva com planadores se denomina voo à vela. Existem planadores utilizados para fins militares, que foram empregados mais largamente durante a Segunda Guerra Mundial.
+
+
+== Estilo e construção ==
+São características asas de grande alongamento, que visam minimizar o arrasto induzido, atingido a máxima eficiência aerodinâmica. 
+Os planadores, mais do que outras aeronaves, são construídos com revestimento externo que ofereça o menor atrito possível com o ar. Os primeiros planadores eram construídos de madeira com revestimento em tela. As versões posteriores foram construídas com revestimento estrutural de alumínio, sendo mais leves e esguios. (Brain, 1998) No final dos anos 1960 apareceram os primeiros planadores construídos em Fibra de vidro (GFRP), revolucionando a performance dos planadores, chegando-se pela primeira vez aos 50:1 de razão de planeio.
+Desde os anos 1980, todos os planadores de alto-rendimento passaram a ser construídos quase inteiramente de fibra de carbono (CFRP), material que permite menor peso com maior resistência estrutural e um acabamento superficial polido de baixíssimo atrito. Possuem reservatórios de água utilizada como lastro, objetivando aumentar sua carga alar, melhorando assim sua penetração. O lastro deve ser alijado antes do pouso para evitar sobrecarga no trem de pouso. Os exemplares de maior envergadura (acima de 25m) atingem razão de planeio de 60:1 ou melhor.
+
+
+== Cockpit ==
+
+Enquanto um avião de pequeno porte normalmente não voa mais do que 3 ou 4 horas, um planador em voo de distância ou em provas de campeonatos permanece no ar tipicamente por 5 a 7 horas, mas pode chegar a 10 ou 12 horas em voos de recordes de distância.
+Por essa razão os planadores tem seus cockpits (cabines de pilotagem) projetados para o máximo conforto do(s) pilotos, podendo também vir equipado com uma instalação sanitária para uso em voo. 
+O painel de instrumentos, alem da instrumentação necessária para voo VFR e rádio VHF aeronáutico, pode vir equipado com vasta eletrônica embarcada, necessária para competitividade, performance e segurança: 
+
+Transponder (para facilitar visibilidade pelo controle de tráfego aéreo e prevenção de colisões)
+GPS
+Moving Map Display (às vezes na forma de um PDA como o iPaq)
+DFDR-GPS (Digital Flight Data Recorder com GPS, para comprovação de voo)
+Computador de planeio finalHá também sistemas integrados que realizam várias dessas funções, ocupando menor espaço no painel.
+
+
+== Decolagem ==
+
+
+=== Reboque aéreo ===
+É a forma mais comum de decolagem no Brasil. Um avião especialmente projetado para essa finalidade, reboca o planador até uma altura adequada para o início voo, normalmente 600m acima da pista de decolagem. O reboque é feito através de um cabo de polipropileno com comprimento entre 50 e 70 metros que conecta as aeronaves, sendo desligado pelo piloto do planador. Pode também ser desligado pelo rebocador em casos de emergência.
+
+
+=== Guincho ===
+Uma forma alternativa de reboque é a utilização de um guincho motorizado instalado na extremidade oposta da pista de decolagem que rapidamente recolhe o cabo de reboque, imprimindo velocidade ao planador. O cabo utilizado é equipado com um para-quedas próximo a sua extremidade, mantido fechado pela tensão durante o reboque, abrindo-se após o desligamento do planador, facilitando assim o recolhimento do mesmo. No Brasil, o lançamento de planadores através de guincho ocorre apenas pelo pelo Clube de Voo a Vela da Academia da Força Aérea, em Pirassununga-SP, desde o ano de 2013. 
+
+
+=== Voo de talude ===
+
+Também conhecido como voo de colina, consiste em aproveitar uma corrente de ar orográfica ascendente numa elevação do terreno. Este método de decolagem diretamente na montanha é utilizado pela asa-delta e o parapente, mas não pelos planadores. Apenas os chamados planadores "primários", originalmente dos anos 30 se utilizavam dessa forma de decolagem, auxiliados por um cabo elástico (tipo sandow) que imprimia maior velocidade inicial ao lançamento. Atualmente essa forma de decolagem se restringe a demonstrações em partes da Europa com planadores daquela era.
+
+
+=== Motoplanador ===
+
+Cada vez mais popular vem se tornando o motoplanador. Este é dotado de um motor para a decolagem e para minimizar o pouso fora de pistas. Após a decolagem, com o início da subida em térmica, colina, ou onda estacionária, o motor é desligado e escamoteado em um compartimento próprio de forma que a aerodinâmica do desenho original seja mantida.
+
+
+== Voo ==
+
+Os planadores se mantém em voo e alcançam grandes distâncias utilizando-se de correntes ascendentes.
+
+
+== Recorde de voo ==
+O recorde de altitude em um planador foi estabelecido em 29 de agosto de 2006 pelo piloto estadunidense Steve Fossett, que pilotando um modelo Glaser-Dirks DG-505M sobre a cidade Argentina de El Calafate atingiu o teto de 15 460 m (50 700 ft).
+
+
+== Ver também ==
+
+
+== Fontes ==
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Federação Brasileira de Voo a Vela
+Windward DuckHawk

@@ -1,0 +1,118 @@
+Na informática, o aplicativo móvel(pt-BR) ou aplicação móvel(pt-PT?), conhecida normalmente por app, abreviado do inglês "application", é um programa computacional desenvolvido para ser usado em dispositivos eletrônicos móveis (como relógio inteligente, smartphone, tablet, receptor de televisão, smartv), que pode ser adquirido por instalação no dispositivo ou descarregada pelo usuário através de uma loja on-line (como Google Play, App Store, Samsung Galaxy Store ou Windows Phone Store). Uma parte das aplicações disponíveis são gratuitas, enquanto outras são pagas. Estas aplicações são pré-instaladas ou vêm diretamente da fábrica, descarregadas pelos clientes de várias plataformas de distribuição de software móvel ou aplicações da web entregues por HTTP que usam processamento do lado do servidor ou do cliente (por exemplo, JavaScript) para fornecer uma experiência "aplicação" dentro de um navegador da Web.
+O número de descarregamentos de aplicações móveis está em forte crescimento. Esta tendência está associada com a venda de smartphones, que também houve um grande crescimento de 74% num ano.Apps se encontram disponíveis em plataformas de distribuição. Popularizaram-se em 2008 e são normalmente asseguradas pelo sistema operacional móvel. Algumas aplicações são exclusivamente gratuitas ou têm versões gratuitas, enquanto outras são comercializadas a valores relativamente e de forma geral acessíveis. Quanto à aplicação paga, geralmente uma percentagem de 20% a 30% é atribuída ao distribuidor e o restante para o criador da app.A mesma aplicação pode custar um valor diferente dependendo do dispositivo para o qual é descarregada, isto é, a mesma aplicação pode ter um custo diferente para iOS, para Android ou outro sistema operativo.
+Geralmente, são descarregadas (vulgo download) da plataforma para um dispositivo de destino, como um iPhone, BlackBerry, smartphones com sistema operativo Android, Windows Phone, para tablets e computadores portáteis (laptop computer) ou de secretária (desktop computer).
+A sigla "app" é uma abreviatura do termo "aplicação de software". Foi em 2010 que se tornou tão popular que foi assinalada como "Palavra do Ano" pela American Dialect Society. Em 2009, David Pogue um escritor e colunista de artigos de tecnologia afirmou que os smartphones mais recentes poderiam ser designados por "app phones" para distinguí-los dos menos sofisticados. Originalmente as Aplicações móveis foram criadas e classificadas como ferramentas de suporte à produtividade e à recuperação de informação generalizada, incluindo correio eletrônico, calendário, contatos, mercado de ações, informações meteorológicas entre outras do gênero. No entanto, a crescente procura, a disponibilidade facilitada e a evolução das apps, conduziu à rápida expansão para outras categorias, como jogos, GPS, serviços de informação meteorológica, serviços de acompanhamento de pedidos vários, compra de bilhetes, confirmações de presenças, conexões nas redes sociais, aplicações nas mais diversas áreas, como saúde, desporto, banca e negócios, mercados de ações, etc., tudo isto para a generalidade dos dispositivos móveis. A disseminação no número e variedade de aplicações serviu de fonte de estímulo à investigação e consequente criação de inúmeras Apps para atender as necessidades mais diversas da maioria dos utilitários.
+As apps tem o propósito de facilitar o dia-a-dia ao seu utilizador, fornecendo-lhe as mais diversas funcionalidades com infinitas possibilidades.
+As apps podem ser utilizadas em qualquer dispositivo móvel podendo, ou não, ter a funcionalidade da geo-localização de forma a tornar a App mais relevante para ser utilizada no local e no momento em que é utilizada, o exemplo dos mapas é o exemplo clássico, mas também pode servir para obter vales de descontos de lojas nas proximidades ou para sugerir pontos de interesse para o utilizador.
+Uma das áreas em que os apps têm um enorme potencial é a saúde. Segundo a Siddiqui (2013), os dispositivos móveis podem ajudar na manutenção da saúde e  prevenção da doença. As Apps desenvolvidas para este efeito podem ter funcionalidades que ajudem melhorar a acessibilidade a tratamentos bem como a rapidez e a exatidão dos exames de diagnóstico (Siddiqui, 2013). As Apps podem ter funcionalidades que aproximam os pacientes dos prestadores de cuidados ou podem ajudar em coisas tão simples como a adesão à terapêutica, fazendo com que o paciente não se esqueça da toma dos medicamentos. 
+
+
+== Dados estatísticos ==
+Descarregamentos de apps para dispositivos móveis. De acordo com a Portio Research (Março de 2013) estimou-se que, até finais de 2012, 1.2 mil milhões de pessoas em todo o mundo estaria a usar aplicações para dispositivos móveis. Projeta-se que esta tendência cresça a 29,8% por ano, atingindo as 4.4 mil milhões de utilizadores até finais de 2017. Contudo grande parte deste crescimento advém da Ásia, que até 2017 representaram quase 50% dos usuários. O mercado das aplicações ainda têm muito para crescer, segundo a ITU (International Telecommunication Union) em Fevereiro de 2013, existiam 6.8 mil milhões de subscritores de dispositivos móveis, o que significa que 17% destes usam apps. Analistas estimam que os downloads de apps em 2013 atinjam entre 56 a 82 biliões. Em 2017, podem mesmo chegar aos 200 mil milhões de downloads. 
+A ABI Research , em Março de 2013, previa que 56 mil milhões de apps seriam descarregadas para smartphones durante o mesmo ano. Distribuídas pelos sistemas operadores da seguinte forma: 58% pela Google Android, 33% pela Apple iOS, 4% pela Microsoft Windows Phone e 3% pertencem à Blackberry. Estimou também que 14 mil milhões de apps seriam instaladas em tablets, neste caso a distribuição pelos operadores de sistema seria: 75% apps de iOS, 21% de Android, 2% de Windows. A Android inclui as apps da Amazon Kindle Fire, que representariam 4% dos downloads.
+A Portio Research (Março de 2013), estima que globalmente far-se-ão 82 mil milhões de downloads de apps durante o ano de 2013 e que até 2017 ultrapassará os 200 mil milhões de downloads por ano.
+Segundo uma pesquisa de mercado a cargo da Gartner , 102 mil milhões de apps serão instaladas durante o ano de 2013, 91% gratuitas, que ainda assim gerarão 26 biliões de Dólares Americanos. Conforme um relatório analítico estima-se que as receitas provenientes da distribuição de Apps ultrapassem os 10 mil milhões de dólares americanos por ano dentro da União Europeia, bem como, em 28 países da EU, mais de 529.000 de empregos criar-se-ão como resultado do aumento exponencial do mercado das apps.
+
+
+== Desenvolvimento ==
+O desenvolvimento de aplicações para dispositivos móveis, envolve processos mais ou menos complicados, a complexidade dos processos é reflexo da experiência do criador e proporcional à estrutura e configurações do software a ser produzido, ao número de dispositivos distintos em que estas vão operar, às especificações do hardware e às plataformas que as vão disponibilizar. As aplicações podem vir pré-instaladas com os dispositivos móveis, podem ser transferidas pelos utilitários ou seus representantes, descarregando-as de plataformas de distribuição de software, no caso de empresas e redes de comunicação ou ainda, transferindo-as diretamente da Web para o dispositivo móvel. É preciso, igualmente, submeter as atualizações e avaliar a necessidade de possíveis modificações mais ou menos extremas dentro de cada plataforma.
+A Economia das apps encontra-se ainda numa fase púbere, contudo, de acordo com um relatório realizado em 2013 pela Vision mobile , estimou-se que nos 28 países membros da UE, a economia das apps contribua para 794 mil postos de trabalho indiretamente associados, 529 mil postos de trabalho diretamente associados, dos quais 60% são de criadores de aplicações móveis. Estimou-se igualmente que 22% da produção global de produtos e serviços relacionados com as aplicações móveis sejam provenientes da EU e que o retorno dessa economia exceda os 10 mil milhões por ano.
+Para desenvolver aplicações para dispositivos moveis é preciso dominar uma das linguagens de programação. Atualmente, a linguagem Java é pioneira em aplicativos voltados para o sistema operacional Android. A linguagem Swift foi criada especialmente para desenvolver aplicativos para iOS, plataforma da Apple. Além de Java e Swift, é possivel desenvolver aplicações com Python, C, C#, etc. 
+Podemos definir 3 tipos de aplicativos, são eles:
+Aplicativos nativos: As aplicações desenvolvidas exclusivamente para uma plataforma específica, como o iOS ou o Android, são chamadas de aplicativos nativos. Isto é, uma aplicação criada para a plataforma Android não funcionará no iOS. Aplicações para Android são programadas em Java, e aplicações para iOS, utiliza-se a linguagem Objective-C ou Swift. Nos aplicativos nativos é possivel utilizar os recursos existentes no smartphone, como câmera, GPS, etc. O WhatsApp, o Facebook e o Uber são exemplos de aplicativos nativos. São aplicativos recomendados, e geralmente possuem melhor desempenho.
+Web Apps: Não é um aplicativo real. Os web Apps são executados pelo navegador e, uma vez que o programa reconhece que o usuário esteja acessando o site através de um Smartphone, se adapta a ele. Não estão disponiveis para instalação nas Apps Stores. São desenvolvidos utilizando HTML5, CSS e Javascript. Estes aplicativos não são recomendáveis para empresas ou ideias que querem proporcionar uma grande qualidade do aplicativo para os usuários. Geralmente fábricas de aplicativos usam essas tecnologias, mas não são recomendadas pela comunidade de desenvolvimento de aplicativos internacional.
+Aplicativos híbridos: É uma junção de um aplicativo nativo e um Web App, gerando assim uma aplicação multiplataforma. Estão disponiveis nas Apps Stores. Netflix e Steam são exemplos de aplicativos híbridos. São desenvolvidos na linguagem HTML5, CSS e Javascript.
+
+
+== Etapas ==
+São inúmeras as etapas a considerar que devem anteceder a criação de uma app para dispositivos móveis, deve ter-se em conta o propósito da app a desenvolver, se vai servir como fonte de rendimento principal, para que plataformas de distribuição as disponibilizar, em que tipo de dispositivos móveis vai ser possível opera-las, criar uma app gratuita ou paga ou as duas, como melhor rentabilizar uma app e qual o nível de risco associado.
+
+
+== Distribuição ==
+A Amazon Appstore opera como um distribuidor alternativo do sistema operativo Android. Começou a funcionar em Março de 2011 e já conta com mais de 1 milhão de aplicações disponíveis. Para além disso, compromete-se a lançar novas aplicações diariamente, está agora classificada como a loja de aplicações móveis mais fiável para a plataforma Android.
+A App Store loja de aplicações para a plataforma iOS, foi a primeira distribuidora, definiu o padrão para os serviços vários de distribuição das aplicações e que ainda hoje serve de modelo para as restantes distribuidoras. Inaugurou a 10 de Julho de 2008, e em Janeiro de 2011, apresentou resultados surpreendentes, mais de 10 mil milhões de downloads. Em 2012 durante a Worldwidede Developers Conference da Apple, o CEO, Tim Cook, anunciou que a Appstore contava já com, 400 milhões de contas, mais de 650 mil aplicações disponíveis para download, bem como 15 mil milhões de downloads de Apps da App Store até essa data . 
+Contudo, se analisarmos uma das perspectivas alternativas do mercado, os resultados são objectivamente díspares, os valores observados pelo serviço de monitorização da BBC em Julho de 2013 de sugerem que mais de dois terços das aplicações na App Store são “zombies”, quase nunca instalados pelos consumidores.
+A BlackBerry World é uma loja de aplicações para os dispositivos BlackBerry 10 e  BlackBerry OS. Abriu em Abril de 2009 designava-se na altura por BlackBerry App World, em Fevereiro de 2011 alegava-se como a loja com maior retorno financeiro por aplicação, bastante superior à AppStore, US $ 9.166.67 em comparação com US $ 6.450.00 respectivamente e US $ 1.200 no mercado Android. Em Julho de 2011, os relatórios exibiam 3 milhões de downloads por dia. Em Maio de 2013 a BlackBerry já disponibilizava mais de 120.000 de Apps. O BlackBerry10 também permite operar aplicações Android.
+A Google Play (anteriormente conhecida por Android Market) é uma loja de software online internacional desenvolvida pela Google para dispositivosAndroid . Foi inaugurada em Outubro de 2008. Em Julho de 2013 já contava com mais de 1 milhão de aplicações disponíveis exclusivamente para Android, a estimativa apresentada pela Google Play rondava os 50 mil milhões de downloads. Como já foi referido, as apps Android podem ser operadas em dispositivos BlackBerry10.
+A Windows Phone Store, inicialmente denominada por Windows Phone Marketplace, foi lançada a 7 de Outubro de 2010 pela Microsoft simultaneamente com a Windows Phone 7. A Windows Phone Store, a 25 de Fevereiro de 2012 , contava já com mais de 120 mil aplicações. De acordo com a Windows Phone 7 Marketplace , a 14 de Maio de 2014 existiam 205.372 aplicações.
+A Windows Store foi introduzida pela Microsoft para as plataformas Windows 8 e Windows RT. Possibilita a transferência de diversos programas construídos para computadores de mesa (desktop) com compatibilidade certificada para o Windows 8, contudo é usado maioritariamente para distribuir aplicações para operarem em tablets e outros dispositivos tácteis, mas ainda podem ser usados com teclados, rato (mouse), e em desktop e em computadores portáteis (laptops).
+Samsung Apps Store a loja de aplicações para telemóveis e smartphones Samsung, foi fundada em Setembro de 2009. A partir de Outubro 2011 Samsung Apps alcançava os 10 milhões de downloads. Atualmente, a distribuidora está disponível em 125 países e oferece aplicações para Windows Mobile, Android e plataformas Bada. Em Dezembro de 2013 a Samsung e a Fingerprint uniram-se na criação de aplicações para dispositivos Samsung, exclusivamente para crianças.
+
+
+== Tipos de aplicativos móveis ==
+Existem algumas diferenciações importantes dentro do universo dos aplicativos móveis, as mais comuns são:
+
+
+==== Aplicativos públicos e aplicativos privados ====
+Aplicativos públicos são aqueles aplicativos liberados em suas respectivas lojas, seja ela Apple Store para iOS e/ou Google Play para Android. Já aplicativos privados são aplicativos que são desenvolvidos especificamente para empresas, desta forma não são liberados em lojas de aplicativos convencionais. Os aplicativos privados costumam ser implementados para funcionários dentro de uma organização ou empresa e não estão disponíveis em lojas públicas. Os aplicativos privados também são conhecidos como aplicativos corporativos.
+
+
+==== Aplicativos nativos e aplicativos híbridos ====
+Os aplicativos chamados nativos são desenvolvidos especificamente para uma plataforma SO móvel que suporta como Swift e Objective-C no caso do iOS e JAVA no caso do Android. O aplicativo é desenvolvido pelas diretrizes da plataforma para o desenvolvimento do aplicativo e usa as APIs que o SO oferece. O aplicativo fornece fácil acesso aos recursos de dispositivos integrados, como acesso à câmera, Bluetooth e GPS. Os aplicativos nativos executam mais rapidamente, fornecem uma aparência consistente e oferecem mais segurança. No entanto, os aplicativos nativos demoram mais para se desenvolver e precisam ser desenvolvidos para cada plataforma. Desta forma, costumam ser mais custoso para uma empresa ou pessoa física.
+Já os aplicativos chamados híbridos são aplicativos web que são desenvolvidos em HTML5 e JavaScript. Esses aplicativos são basicamente sites que se comportam como aplicativos (utilizando design e funcionalidades parecidas com apps).Os aplicativos híbridos são executados em iOS e Android, e todos os dados do aplicativo são fornecidos por servidores de aplicativos. Esses aplicativos fazem chamadas de API de Serviço da Web para buscar os dados. Os aplicativos híbridos usam plataformas de desenvolvimento de aplicativo, como IBM Worklight, Cordova, Angular ou Ionic. As plataformas de desenvolvimento de aplicativo fornecem o wrapper nativo para esses aplicativos. Os aplicativos híbridos executam mais lentamente porque os dados são carregados pela Internet por servidores de aplicativos. Contudo, apps híbridos costumam ser produzidos mais rapidamente e costumam ter um valor mais baixo para construção.
+
+
+== Motor de pesquisa para apps ==
+Auto- intitula-se o “Google” para aplicações móveis, é tecnologia inovadora da Quixey , permite, através de uma imensa base de dados, encontrar a App que melhor preenche as necessidades o utilizador. Além disto, pode-se utilizar as próprias plataformas (AppStore e Android Store) para buscar os apps, que são distribuídos em diversas categorias.
+
+
+== Mudanças organizacionais ==
+Há vários fatores para que as empresas mudem a forma de se organizar. Algumas delas podem ser devido ao envelhecimento e a perda da competitividade do produto, busca de processos mais eficientes a menor custo, entre outros.
+Quando a internet começou a se popularizar, no início dos anos 2000, o mundo digital ganhou destaque. Anos mais tarde, com os computadores inseridos na realidade da população, foi a vez dos celulares avançarem.
+Hoje, os aplicativos para smartphones — que tornaram-se uma das maiores fontes de renda e sucesso para desenvolvedores — permitem novas ações, facilitando as tarefas do cotidiano, de modo que 5 das empresas que mudaram o mundo e fizeram mudanças significativas no comportamento das pessoas, desde a forma de comunicação e até a forma de interação e consumo. Algumas delas são:
+WhatsApp
+O WhatsApp revolucionou a forma de comunicação, causando calafrios nas gigantes da telefonia. Em 2014, o Facebook pagou US$ 16 bilhões pelo aplicativo. Com ele, o usuário pode enviar vídeos, imagens, mensagens de texto ou áudio. Recentemente, foi acrescentado o serviço de sistema de videochamada.
+O aplicativo já é referência no compartilhamento de notícias e também serve como comunicação entre empresas e clientes, facilitando e agilizando para ambos.
+Nubank
+Nubank é a nova operadora de cartões de crédito e possui muitos diferenciais em comparação com as demais operadoras de cartões, a começar pela ausência de uma agência física. Absolutamente tudo é feito online e com a rapidez que a internet proporciona, através de um app disponível para Android e iOS.
+O cartão Nubank, surpreendentemente, não cobra anuidade e nenhuma outra taxa. Isso é possível graças ao modelo de negócio 100% digital, que permite a eles cortar custos com agências e estruturas caras, além da papelada, já que a burocracia é menor.
+Uber
+O Uber chegou ao Brasil há pouco tempo mudou a forma de transporte convencional, mas a empresa existe desde 2009, com o aplicativo sendo lançado no ano seguinte. Faz parte da categoria de carona paga, onde os usuários solicitam o serviço através de smartphones. Em 2015, a empresa estava avaliada em mais de 51 bilhões de dólares.
+O sistema oferece transporte de qualidade, com preço justo e reduzindo o tempo de espera. Ele conta com a tecnologia de localização, de modo que o passageiro pode verificar o percurso. O pagamento também é facilitado, sendo realizado automaticamente por cartão de crédito — ou por dinheiro, dando mais opções aos clientes.
+Spotify
+O Spotify é o aplicativo responsável por revolucionar o modo de ouvir músicas. Conta com as opções livre ou paga — a segunda opção, com 20 milhões de usuários. É considerado o maior acervo de músicas do mundo.
+O sistema possui, aproximadamente, 75 milhões de usuários ativos, sendo avaliado em US$ 15 bilhões.
+iFood
+O mercado gastronômico também ganhou o reforço de aplicativos, sendo que o iFood é o de maior destaque entre eles. O sistema permite que o usuário verifique cardápios on-line e faça pedidos, sendo que a comida é entregue no endereço indicado. Como o slogan diz: iFood, seu novo jeito de pedir comida.
+AirBnb
+O AirBnb revolucionou a rede de hotelaria, ao aliar a tecnologia ao ramo. Sendo a maior rede hoteleira sem possuir nenhum hotel ou quarto, o Airbnb contribuiu para a mudança organizacional vista através dos aplicativos.
+
+
+== Monetização e tipos de Monetização ==
+Monetização é como o seu aplicativo ganhará lucros, ou seja, mesmo o aplicativo sendo gratuito é possível gerar lucro, os mais comuns, são: 
+
+
+==== Pagos ====
+Aplicativos pagos custam um valor nas lojas de aplicativos de seus dispositivos, desta forma uma parte do valor das vendas são repassados para os desenvolvedores.
+Pagos com compras
+Modelo parecido com o citado acima, porém existem alguns conteúdos a serem desbloqueados através da compra dentro do aplicativo.
+Pagos com compras (código promocional)
+Muitos aplicativos oferecem códigos promocionais para que o cliente pague em um serviço ou produto um valor abaixo do originado, de modo a fidelizar o cliente. Este modelo consiste principalmente em estratégias de marketing, onde empresas como a Cuponeria e Busca Desconto divulgam os serviços de certos aplicativos e bons descontos ao obter tais serviços através dos famosos códigos de promoções. Uma parte do valor pago com este código é destinado à empresa principal e a outra parte (que é estabelecida e acordada entre as empresas) é destinada às empresas de cupons.
+
+
+==== Gratuito, mas com anúncios ====
+Esse é o modelo mais usado. Funciona da seguinte maneira: o aplicativo é publicado na loja, a audiência é atraída e um público base é formado. A partir daí os desenvolvedores adicionam anúncios, sendo eles em vídeos ou banners. Muitos jogos dão prêmios e vantagens para você ao assistir ou clicar em anúncios.
+
+
+==== Freemium ====
+Parecido com o modelo acima, normalmente são apps gratuitos porém com vendas dentro do app. Ou seja, dentro do aplicativo muitas vezes possui uma loja onde você poderá comprar. Muitos jogam utilizam deste sistema vendendo ouro, diamantes etc. Um exemplo conhecido é o jogo Clash Royale.
+
+
+==== Gratuito, com assinatura ====
+Neste modelo, o aplicativo é gratuito para baixar porém é limitado, é necessária uma assinatura seja ela mensal, semanal ou anual para que possa utilizar todos os recursos do aplicativo. Alguns para qualquer tipo de utilização é necessária uma assinatura, muito comum em aplicativos de jornais e revistas.
+Venda de serviços
+Muitos dos aplicativos são gratuitos, entretanto, é cobrado uma taxa em cima dos serviços oferecidos pelo seu uso. Empresas mais conhecidas que usam desse modelo são Uber, Ifood e 99taxis. 
+Modelos de compra dentro dos aplicativos
+Os modelos de compras são:Consumível - Precisará comprar os itens de interesse sempre que precisar utilizá-los. Esse modelo é usado para moedas de jogos, pontos de experiência e vida extra. Caso remova e reinstale o aplicativo, ou até mesmo instale em um outro dispositivo, talvez perca as compras já feitas. Exemplo acontece com a App Store (Apple).
+Não consumível - Na compra dos itens você poderá transferi-los para outros dispositivos associados, ou seja, caso perca a compra poderá fazer o download novamente de forma gratuita. Tais exemplos são as atualizações para versão profissional, remoção de anúncios, dicas ilimitas e até mesmo o desbloqueio completo.
+Assinaturas limitadas - Conteúdos que são usados por determinado período, de acordo com cada aplicativo. Poderá ser renovado ou não ao final da vigência.
+Assinaturas com renovação automática - Esse tipo de serviço ou conteúdo são adquiridos por determinado tempo e renovado automaticamente ao seu término. Amostra de tal assinatura é a Netflix.
+
+
+== Ver também ==
+Aplicação web
+Desenvolvimento de software
+Software aplicativo
+
+
+== Referências ==

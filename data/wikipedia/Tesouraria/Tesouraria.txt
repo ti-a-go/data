@@ -1,0 +1,80 @@
+Uma tesouraria ou tesoiraria é o órgão de uma entidade (um governo, um partido político, uma autarquia ou qualquer outra instituição) encarregado da contabilidade, armazenamento ou transações de dinheiro. Em caso de entidades governamentais, costuma receber o nome de tesouro. A pessoa encarregada da tesouraria recebe o nome de tesoureiro.
+
+
+== Estrutura típica de tesouraria ==
+As principais operações financeiras numa tesouraria são contas a receber, contas a pagar, administração do fluxo de caixa, captação e aplicação de recursos financeiros.
+Negociação com clientes e fornecedores em torno de descontos por conta de mudanças nos prazos de recebimentos e pagamentos são operações financeiras complementares numa tesouraria.
+Todas as operações mencionadas são interdependentes e se interligam por meio do fluxo de caixa financeiro, que é uma das principais ferramentas de apoio às decisões da tesouraria.
+
+
+== Contas a pagar e receber ==
+As operações de pagamento e recebimento precisam observar três princípios básicos: agilidade operacional, confiabilidade e economia.
+A crescente informatização das operações de pagamento e recebimento - nota fiscal eletrônica, sistemas ERP e internet - agilizam sua execução. Por outro lado, os aspectos tributários envolvidos, principalmente a expansão das retenções tributárias sobre pagamentos realizados agem no sentido inverso, trazendo maior carga operacional para contas a pagar e receber.
+A combinação adequada entre agilidade operacional e confiabilidade tem conseqüência econômica: o custo de pagar e receber. Por exemplo, se a confiabilidade de execução for a única meta de contas a pagar, a agilidade operacional ficará comprometida, exigindo maiores prazos para processamento dos pagamentos. Este fato por sua vez, tende a elevar muitos preços pagos pela empresa ao comprar produtos ou contratar serviços.
+A distribuição dos pagamentos e recebimentos ao longo do mês tem influência sobre o formato do fluxo de caixa que por sua vez pode influir sobre o custo de captação ou o retorno das aplicações financeiras.
+Do ponto de vista estritamente econômico, um fluxo de caixa com variações significativas em dias isolados do mês tende a ser desvantajoso, aumentando o custo de captação ou reduzindo o retorno das aplicações das sobras de caixa.
+
+
+== Administração do fluxo de caixa ==
+O fluxo de caixa faz, em circunstâncias normais, a ligação entre as projeções de recebimento e pagamento e as decisões de captação e aplicação de recursos financeiros.
+Em situações especiais, notadamente quando a empresa está com grandes dificuldades financeiras, o fluxo de caixa pode ser usado para definir os pagamentos a serem realizados.
+Para que a tesouraria funcione eficazmente, é imprescindível que ela disponha de fluxo de caixa. O ideal é ter dois fluxos de caixa. Um de curto prazo, em base diária, cobrindo pelo menos um mês à frente e outro de médio prazo, em base mensal, cobrindo doze meses à frente.
+O maior desafio da tesouraria na administração do fluxo de caixa é obter um razoável grau de acerto nas previsões realizadas. É considerado satisfatório o fluxo de caixa que tem uma margem de erro até 15%. Significa um grau de acerto de pelo menos 85% entre a primeira projeção efetuada e os valores efetivamente realizados.
+
+
+== Captação de recursos financeiros ==
+Esta é uma das operações financeiras mais presentes no dia a dia de uma tesouraria. Existe uma variedade de linhas de crédito à disposição das empresas com custos diferenciados.
+Quando existe uma adequada programação de captação de recursos financeiros, os respectivos custos financeiros tendem a ser menores.
+O fator chave para que a organização tenha uma adequada programação de captação de recursos financeiros é seu fluxo de caixa financeiro.
+Se o fluxo de caixa financeiro é muito imprevisível, haverá necessidade de a organização dispor de linhas de crédito como maior índice de compromisso por parte dos bancos, característica que torna os custos mais elevados.
+
+
+== Aplicação de recursos financeiros ==
+As aplicações temporárias de sobras de caixa são dirigidas aos ativos financeiros de baixo risco e alta liquidez.
+Uma mais vez que o fator risco é considerado mandatório, apenas a liquidez das aplicações financeiras pode de alguma forma ser administrada de modo a se obter uma determinada meta de rentabilidade.
+Como regra, quanto maior a liquidez de um ativo financeiro, menor será sua rentabilidade. Acrescente-se a isso, o fato de que o IOF penaliza fortemente as aplicações financeiras de curtíssimo prazo, chegando a 96% dos rendimentos para as aplicações por uma dia de prazo.
+Assim, também nas aplicações financeiras, o fluxo de caixa financeiro tem um papel muito relevante em relação aos resultados financeiros obtidos. Um fluxo de caixa pouco preciso terá como consequência a necessidade elevadas margens de segurança. Isto significa deixar um maior volume de recursos financeiros ociosos ou aplicações financeiras com prazo de aplicação mais curto e a consequente redução de rentabilidade.
+
+
+== Negociação com clientes e fornecedores ==
+Em virtude da grande diferença entre as taxas de captação e de aplicação verificadas no Brasil, existe um espaço grande para que as empresas negociem descontos com seus clientes e fornecedores, fazendo operações financeiras mutuamente vantajosas.
+Para citar um exemplo, consideremos um fornecedor que dá trinta dias de prazo de pagamento para um cliente. Este por sua vez, busca descontar a duplicata correspondente, digamos a 3,5% ao mês. O cliente pode ter uma aplicação financeira rendendo 1% ao mês. Assim, antecipar o pagamento ao fornecedor obtendo uma taxa de desconto de 2,5% ao mês, é interessante para ambos. A organização compradora trocará uma taxa de aplicação de 1% ao mês por outra (desconto) de aproximadamente 2,5% ao mês. A organização fornecedora trocará uma taxa de desconto de duplicatas de 3,5% ao mês por uma taxa de desconto de 2,5% ao mês dada à compradora.
+
+
+== Falhas frequentes na operação da tesouraria ==
+Na maioria das organizações uma série falhas ocorrem frequentemente na operação da tesouraria. Elas provocam estrangulamentos operacionais com reflexos negativos sobre a eficiência da tesouraria, principalmente a redução de produtividade. 
+As principais dessas falhas são comentadas a seguir.
+
+
+== Controle inadequado de depósitos de terceiros nas contas da empresa ==
+Falhas no controle de depósitos de terceiros nas contas das empresas geralmente ocorrem quando são concedidas muitas opções de pagamento aos clientes da empresa e a comunicação com estes não é satisfatória. Com o continuado avanço da tecnologia e do processamento bancário, esse problema deverá ser bastante reduzido. Enquanto isso não ocorre, a solução é melhorar o fluxo de informações entre as área comercial e financeira da organização e explorar todo o potencial de informações dos serviços bancários..
+
+
+== Conciliação bancária com muitas pendências ==
+Excesso de pendências na conciliação bancária é um indicador seguro de que é grande o número de eventos financeiros fora de padrão e que por isso não são capturados pelos sistemas informatizados de apoio à tesouraria. Podem ter origem em falhas na implantação do sistema de controle financeiro ou em mudanças nos processos de pagamento ou recebimento. Se o problema não tiver sido causado pelo sistema de controle financeiro, serão necessárias mudanças nos procedimentos financeiros para resolvê-lo.
+
+
+== Insatisfatório controle da inadimplência de clientes ==
+Falhas no controle da inadimplência podem surgir em decorrência de causas variadas sendo as mais comuns a passividade da área de cobrança, inadequação do sistema de controle financeiro. O aprimoramento do fluxo de informações entre as áreas comercial e financeira da organização é um passo importante para a eliminação ou redução desse tipo de falha.
+
+
+== Recebimento tardio de documentos de cobrança emitidos por fornecedores ==
+A principal causa desse problema é o fato de algumas organizações, além de conviverem com seu descontrole interno, também tentam exportá-lo para seus clientes, contando com a tolerância por parte destes. Outra possível causa para o problema é falta de procedimentos claros de pagamento por parte da organização compradora. A solução para os dois casos é a busca deliberada da correção dos desvios, independente da origem.
+
+
+== Pouca padronização dos processos de pagamento ==
+Processos de pagamento pouco homogêneos, gerando excessiva demora para sua liquidação ocorrem devido a estruturação ineficiente do processo de contas a pagar. Multiplicidade de sistemas informatizados de apoio às operações da tesouraria e mudanças frequentes das rotinas de pagamento são as causas mais frequentes do problema. A solução costuma ser trabalhosa e pode requerer exaustivo trabalho de mudanças nos processos de pagamento. 
+Grande número de pagamentos urgentes.
+Excessivo número de pagamentos urgentes é sinal de que as demandas das áreas pagadoras têm prioridade sobre a boa operação da área financeira. A solução requer negociação e principalmente capacidade de articulação e de convencimento por parte da tesouraria para demonstrar as perdas operacionais e financeiras com os pagamentos urgentes.
+
+
+== Fluxo de caixa com alta margem de erro ==
+As causas para esse problema são bastante variadas, mas sempre refletirão a inexistência de adequado nível de cultura de planejamento nos vários setores da organização. A tesouraria isoladamente não conseguirá resolver o problema. Assim, precisará demonstrar e convencer seus pares sobre a importância da qualidade das informações geradas para o fluxo de caixa.
+Também chama-se tesouraria ao setor de uma empresa encarregado de controlar seus fluxos monetários (dinheiro em caixa, bancos ou investimentos financeiros).
+
+
+== Na Igreja Católica ==
+No caso de um cabido metropolitano, é uma das dignidades dos cónegos, mas, nesse caso, o cónego tesoureiro recebe o nome de tesoureiro-mor.
+
+
+== Referências ==

@@ -1,0 +1,54 @@
+Epacta palavra com origem na palavra grega ἐπακταί, com o sentido de dias acrescentados ou interpolados que deu origem à palavra latina epactae, -ārum, donde passou à língua portuguesa.  É um  conceito astronómico usado desde a antiguidade clássica para designar a idade da Lua em qualquer data ou dia do ano, ou também o número de dias que passaram desde a última Lua Nova ou novilúnio. Embora o seu uso original venha da astronomia, o seu uso alargou-se com os cristãos aos cálculos litúrgicos para melhorar o cálculo da data do domingo de Páscoa e ao Martirológio para indicar a idade da lua em dias em qualquer data do ano.
+
+
+== Usos do conceito ==
+Epacta pode ser usada, em vários sentidos:
+1. Idade da Lua em qualquer data do ano, indicada em dias desde a última Lua Nova (onde teve início de um novo mês lunar ou lunação),
+2. Em astronomia designa também o número de dias que o ano solar comum excede o ano lunar comum, e que é cerca de 11 dias,
+3. No Calendário litúrgico a epacta de um determinado ano designa a idade da Lua a) no último dia do ano anterior (31 de dezembro) do ano anterior, ou b) em outros dias predeterminados pelo cômputo pascal.
+Por exemplo, no dia 1 de janeiro de 2016 a idade da Lua era de 22 dias, pois no último dia do ano anteriro anterior - 31 de dezembro de 2015 - já tinham passado 21 dias desde a última Lua Nova, a de 11 de dezembro de 2015, e assim a epacta para o ano litúrgico católico de 2016 é 21.
+Os valores das Epactas eclesiásticas eram fixos na Idade Média e mudaram em consequência da reforma do Calendário Gregoriano em 1582.
+Como o valor médio de uma lunação é de cerca de 29 dias e meio, a idade da Lua pode variar entre 1 e 30 e haverá no máximo 30 Epactas ou idades da Lua: Lua 1, Lua 2, Lua 3, ..., Lua 29, e até ao máximo de Lua 30, conforme o mês lunar tem 29 ou 30 dias.
+Tendo o ano solar 365,25 dias e o ano lunar cerca de 354 dias, divididos em 12 meses lunares de 29 e 30 dias, depois de concluído o 12º mês lunar, inicia-se outro mês lunar que no último doa do ano solar já vai em 11 dias e continua para o ano solar seguinte. A Epacta daquele último dia do ano é 11. No ano solar seguinte o ano lunar antecipa-se mais 11 dias e no final desse 2º ano solar a Epacta será 22.
+A sequência das Epactas que daqui resulta ao longo de 19 anos. é 11, 22, 3, 14, 25, 6, 17, 28, 9, 20, 1, 12, 23, 4, 15, 26, 7, 18, 29.
+Esta sequência, também designada ou associada ao Ciclo de Méton encontra-se tanto no calendário juliano como no calendário gregoriano, com uma diferença, no calendário juliano é um ciclo fixo, enquanto que no calendário gregoriano existem 30 ciclos possíveis de acordo com um modelo proposto por Luigi Giglio e que serviu de base à reforma gregoriana do calendário em 1582. Nesso modelo de Epactas, o dia 10 de janeiro tem como epacta do dia xxi, e como nesse dia neste ano de 2016 ocorreu a primeira Lua Nova do ano, também se pode dizer que a Epacta de 2016 é 21.
+
+
+== Epacta juliana e Epacta alexandrina ==
+O dia do ano a que se refere a Epacta, ou idade da Lua, pode ser um dia qualquer do ano que se estabeleça como referência.
+O mais vulgar é usar o primeiro dia do ano para se indicar a Epacta desse ano, uma vez que o ano juliano passou a usar esse mesmo dia como referência de novo ano. No entanto, para efeitos do cálculo da Páscoa, os cristãos de Alexandria usavam a Epacta do dia 22 de março, por ser o dia do ano em que pode ocorrer mais cedo o domingo de Páscoa.
+Assim historicamente podem identificar-se duas Epactas mais utilizadas para os cálculos do ano litúrgico:
+
+a Epacta juliana, a mais comum, que se refere-se à idade da Lua no primeiro dia do ano, diminuída de 1 unidade,
+a Epacta alexandrina que se refere à idade da Lua no dia 22 de março.
+
+
+== Epacta e calendário solar ==
+De uma forma geral também se pode dizer que a Epacta é o número de dias que o ano solar trópico, de 365 dias, tem a mais que o "ano lunar" comum de 12 lunações, com 354 dias, o que corresponde a 11. O ano lunar seguinte começa assim 11 dias mais cedo e portanto a idade da Lua ou Epacta do ano seguinte avança também 11 unidades.
+Assim, se um ano qualquer, como aconteceu em 2007, tem a Epacta 11, no ano seguinte a diferença avança mais 11 e a Epacta será 22 (2008), e no ano seguinte a diferença avança mais 11 e a Epacta será 3 (2009). A soma indica 33 mas sempre que a soma com o valor anterior ultrapassa 30 subtrai-se 30 ao valor encontrado.
+Dada a diferença de valores entre o "ano lunar" e o "ano solar" podemos agora reparar que ao fim de 3 "anos solares" de 12 meses já temos 36 "meses solares" e 37 "meses lunares" (a diferença acumulado de 33 dias de idade da Lua foi traduzida em um mês intercalado), sempre que queremos manter um valor aproximado entre as lunações e as estações ao ano, num calendário lunissolar como calendário juliano eclesiástico.
+Quando se diz, por exemplo, que a Epacta do ano de 2014 é 29 -, esse número indica a idade da Lua no último dia do ano anterior, ou seja, que no dia 31 de dezembro de 2013 a idade da Lua era 29, número que indica o total de dias passados desde o dia da Lua Nova do mês de dezembro - em dezembro de 2013 a Lua nova ocorreu a 3 de dezembro.  Assim a primeira Lua Nova desse ano de 2014 ocorre no primeiro dia do ano, 1 de janeiro, ano também em que o mês de janeiro  que tem duas Luas novas, no dia 1 e no dia 31, não há nenhuma no mês de fevereiro e a terceira Lua nova desse mesmo ano ocorre a 1 de março.
+
+
+== Epacta e Letra dominical ==
+É possível estabelecer um relação entre as Letras dominicais de um ano e a Epacta e construir uma tabela com essa equivalência, mas um dos dados era suficiente, e desde a Idade Média, os calendários litúrgicos cristãos usavam preferencialmente o Número áureo para antecipar o dia da Lua Nova em cada mês, não se referindo habitualmente à Epacta. Conhecer o Número áureo e a Letra dominical de um qualquer ano era suficiente para calcular a data da Páscoa e encontrar a data de todas as festas móveis dela dependentes, cálculo esse que era simplificado muitas vezes com a apresentação de uma tabela com esses mesmos elementos. Até ao ano de 1582, o ano da reforma do Calendário gregoriano, a relação entre a Epacta e o Número áureo era simples, imediata e constante - conhecendo a Epacta sabia-se o Número áureo e vice-versa.
+Na reforma introduzida pelo Calendário gregoriano, através da Bula Inter gravissimas, (1582), baseada numa solução apresentada por Luigi Giglio que organizou um novo quadro das sequências das 30 Epactas possíveis, estas foram privilegiadas em relação aos Números áureos, com o objectivo de assim obter simultaneamente uma maior aproximação aos dados astronómicos dos movimentos da Lua e uma solução mais duradoura para o cômputo da Páscoa. No entanto, esta opção tinha como consequência natural que a relação entre as Epactas e os Números áureos se altera algumas vezes ao longo dos séculos de acordo com tabelas também então apresentadas.
+
+
+== Ver também ==
+Calendário litúrgico
+Cálculo da Páscoa
+Páscoa
+Bula Inter gravissimas
+Letra dominical
+Meton
+Ciclo metónico
+Número áureo
+Ano trópico
+Lunação
+
+
+== Notas ==
+
+
+== Referências ==

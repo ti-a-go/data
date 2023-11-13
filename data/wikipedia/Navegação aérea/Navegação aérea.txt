@@ -1,0 +1,57 @@
+Navegação aérea é uma técnica que consiste em conduzir um veículo voador de um lugar a outro em segurança, pode ser um balão, um dirigível ou qualquer artefato próprio para voar. 
+A navegação aérea requer uma orientação constante, seja por conhecimento da região ou no interior das nuvens usando o recurso de instrumentos, como a bússola magnética ou ainda usando como referencial as estrelas. 
+A seguir vemos alguns tipos de orientação.
+
+
+== Navegação visual ou contato ==
+É a maneira de conduzir com habilidade e segurança um engenho dirigível através do espaço com a observação de pontos significativos que sirvam como referência.
+
+
+=== Pontos de referência ===
+São todos aqueles que, durante o percurso das viagens, se encontram em destaque e que oferecem um alinhamento, tais como: monumentos, cidades, aeródromos, rodovias, ferrovias e seus cruzamentos, rios, pontes, montanhas, lagos, fumaça de queimadas ou chaminés, etc.
+
+
+== Navegação estimada ==
+É a maneira de conduzir um dirigível de um lugar para outro seguindo o resultado de cálculos de velocidade e direção do vento, tempo estimado, velocidade da aeronave e distancia, ou seja, a partir do último ponto conhecido, obter novos dados para o próximo ponto ou posição.
+Com este método, o dirigível poderá ser localizado a qualquer momento, seja por condições visuais ou por marcações de rádio.
+
+
+== Navegação radiogoniométrica ==
+É a maneira de orientação e de poder determinar, na superfície da Terra, o ponto onde se encontra, por meio da utilização das ondas de rádio.
+Trata-se de rádios apropriados para esse fim, tais como o VOR e o NDB.
+
+
+== Navegação eletrônica ==
+É a maneira de conduzir e posicionar um dirigível sobre a superfície da Terra, por meio de informações advindas de equipamentos eletrônicos sofisticados, que fornecem dados bastante precisos para o desenvolvimento de uma perfeita navegação. 
+
+
+== Navegação astronômica ou celestial ==
+É a forma de navegar, com dados obtidos por meio de observações de corpos celestes. Os cálculos que envolvem conhecimentos de trigonometria esférica  são feitos por intermédio de tabelas próprias ("tábuas logarítmicas") em confronto com a previsão astronômica informadas anualmente, em almanaques náuticos, os resultados, confirmados ou pré-verificados com um instrumento chamado Sextante, através do qual fez-se as visadas medindo em graus o valor da altura e azimute  de determinados corpos celestes, com relação ao horizonte, são os mesmos astronomicamente previstos para aquele local e momento. 
+Com o advento da eletrônica mas através de uma rede de satélites, este método está quase em desuso embora tecnologicamente a cada dia mais atualizado, face a tecnologia por satélite pertencer a duas superpotência que em tempos de guerra podem codificar os sinais.
+
+
+== Navegação por satélite ==
+É o sistema mundial de determinação de posição de naves e aeronaves pela utilização de satélites artificiais que giram em torno da Terra em vários sentidos e em altitude determinada.
+Esse sistema foi inicialmente implantado para fins militares e agora já sendo usado para fins civis. Ex.: Global Positioning System (GPS) e NAVSAT.
+
+
+== Navegação Baseada em Performance - PBN (performance-based navigation) ==
+PBN - Navegação Baseada em Performance 
+Para entender a Navegação Baseada em Performance ou PBN (Performance-Based Navigation), é necessário primeiramente o entendimento de dois conceitos: RNAV e RNP.
+RNAV – Navegação de Área: A navegação convencional (com base em auxílios instalados no solo) tem a desvantagem de depender do alcance de tais auxílios e de a aeronave ter que seguir ao longo de caminhos traçados entre dois auxílios, o que, por vezes, não permite a navegação em linha reta do ponto de partida até o destino. A navegação de área faz uso de sistema a bordo da aeronave capaz de gerar a informação da posição e orientação da aeronave a partir de informações de satélites (GPS, por exemplo), sistema de referência inercial (IRS), auxílios VOR e DME instalados no solo ou a combinação deles. Isso torna possível voar em linha reta entre quaisquer dois pontos do globo, tornando a viagem mais rápida.
+RNP – Performance de Navegação Requerida: RNP é uma navegação de área executada por aeronaves dotadas de sensores capazes de monitorar a precisão, integridade, continuidade e funcionalidade dos equipamentos de navegação, o que garante mais precisão na trajetória de voo.
+Numa operação RNAV5, a aeronave é capaz de se manter 95% do tempo afastada de, no máximo, 5 milhas náuticas da rota proposta, mas se nos 5% restantes do tempo a aeronave estiver fora desta margem de 5 milhas náuticas, o piloto não será avisado pelo sistema de navegação da aeronave. Já numa operação RNP5, além do que ocorre na RNAV5, haverá um alerta para o piloto caso a aeronave esteja fora da margem prevista (5NM).
+
+Na figura ao lado, os círculos representam as áreas de cobertura de cada VOR. A linha contínua representa a rota com base em auxílios no solo; seguindo ao longo desta rota, uma aeronave que pretenda sair do VOR1 para o VOR3, é obrigada a voar em direção ao VOR2 e, só então, seguir para o VOR3. A linha tracejada representa uma rota RNAV, que permite que uma aeronave voe em linha reta do VOR1 diretamente para o VOR3 ou vice-versa.
+Navegação baseada em performance - PBN - não é propriamente um processo de navegação, uma vez que se utiliza de outros processos para ser executada, tais como navegação por satélite, navegação inercial ou radionavegação, mas constitui a maneira mais linear e mais rápida de deslocamento entre dois pontos. 
+
+
+== Referências ==
+SANTOS, Ivanelson Lobato, Navegação Aérea Descomplicada - Segunda Parte - Piloto Comercial, Voo por Instrumentos, Controlador de Tráfego Aéreo. 2018 - 4a. ed. Edição do Autor
+MONTEIRO, Manoel Agostinho. Síntese da Navegação Aérea - Primeira Parte - Piloto Privado. 2002 - 7ª ed. Editora ASA.
+www.navegacaoaerea.com
+
+
+== Ligações externas ==
+Navegação Aérea Instrumentos para navegação estimada 
+Simulador online gratuito de VOR e ADF

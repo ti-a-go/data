@@ -1,0 +1,37 @@
+O convertiplano é um aeródino motopropulsado híbrido que, por ser dotado de asas fixas e também de asas rotativas, é capaz de ora assumir uma "configuração de helicóptero" (para obter sustentação nas asas rotativas) e de ora converter-se a uma "configuração de avião" (para obter sustentação nas asas fixas). As asas rotativas são acionadas por motores.
+
+
+== Tipos ==
+Os convertiplanos podem ser divididos em duas grandes classes:
+Classe I: a dos convertiplanos cuja fuselagem permanece na horizontal durante todas as etapas de movimentação (taxiamento, decolagem, voo, pouso e taxiamento) e cujos eixos das asas rotativas permanecem fixos na direção vertical, de modo que essas asas rotativas exercem somente a função de rotores de sustentação, tal como ocorre nos helicópteros. Neste caso, o convertiplano possuirá um grupo motopropulsor (motor e, geralmente, hélice) responsável por gerar o impulso que permitirá à aeronave deslocar-se no plano horizontal, e as asas fixas poderão ser fixas ou então capazes de girar em torno do eixo transversal da aeronave (eixo que perpendicularmente cruza, no plano horizontal, o eixo longitudinal do convertiplano), contanto que as asas rotativas exerçam apenas a função de rotores de sustentação.Classe II: a dos convertiplanos cuja fuselagem não permanece na horizontal durante todas as etapas de movimentação (taxiamento, decolagem, voo, pouso e taxiamento) ou cujos eixos das asas rotativas são basculantes. Em outras palavras, são os convertiplanos cujas asas rotativas (ou cujas asas fixas, com as quais giram junto as respectivas asas rotativas) podem girar da posição vertical até ficarem na direção horizontal e vice-versa, o que permite que as asas rotativas funcionem tanto como rotores de sustentação (geradores de impulso vertical) quanto como propulsores de deslocamento lateral (geradores de impulso horizontal). As asas rotativas e as asas fixas dotadas dessa capacidade são denominadas proprotores.
+
+
+== Funcionamento ==
+
+
+=== Classe I ===
+Na "configuração helicóptero", as asas rotativas funcionam como rotores que geram exclusivamente sustentação para as decolagens e os pousos verticais (VTOL): o impulso horizontal (para taxiamento, por exemplo) é provido pelo grupo motopropulsor.
+Na "configuração avião", o grupo motopropulsor segue provendo impulso horizontal, o que não apenas permite que a aeronave se desloque pelo ar mas também cria o vento relativo responsável pelo surgimento das forças de sustentação nas asas fixas. Por causa desse efeito, durante os voos retos e nivelados não há necessidade de usar as asas rotativas para obter sustentação, elas podem permanecer desativadas.
+
+
+=== Classe II ===
+Na "configuração helicóptero", as asas rotativas funcionam tal qual os rotores dos helicópteros: geram muita sustentação e algum impulso horizontal, razão por que o convertiplano pode ou taxiar para decolar verticalmente ou então pousar verticalmente para taxiar.
+Na "configuração avião", as asas rotativas mudam do eixo vertical para o horizontal e deste modo deixam de funcionar como rotores para passar a funcionar como hélices, o que gera impulso horizontal e cria o vento relativo necessário ao surgimento de forças de sustentação nas asas fixas.
+
+
+== Vantagens ==
+Tanto na classe I quanto na classe II é comum os dois motores do convertiplano funcionarem independentemente, porém podem estar interligados por um eixo cardã (como ocorre no convertiplano XV-15), o que é uma solução inteligente porque caso um dos motores falhe o outro é utilizado para movimentar as asas rotativas, o que permite ao piloto pousar a aeronave ou até mesmo prosseguir até o destino planejado (caso a segurança e demais condições vigentes permitam).
+As asas fixas dos convertiplanos fornecem uma sustentação maior, que não existe nos helicópteros, e a velocidade máxima de cruzeiro dos convertiplanos em alguns casos ultrapassa 170 m.n. (315 km) por hora, o que é mais veloz que a maioria dos helicópteros. Quanto às asas rotativas, nos convertiplanos da classe II ocorre que, com ou sem rotação das asas fixas, as asas rotativas podem gerar impulso para trás, o que permite ao convertiplano voar para trás, tal como nos helicópteros, ou então gerar impulso vertical de levitação, o que permite ao convertiplano executar "pairado" ou "hovering". E tanto na classe I quanto na classe II é possível ao convertiplano deslocar-se muito lentamente para a frente, algo que não é viável nos aviões: nos convertiplanos da classe I, isso é obtido usando-se pouca potência no grupo motopropulsor, ao passo que nos convertiplanos da classe II isso é obtido colocando-se os eixos das asas rotativas em ângulo ligeiramente inclinado para a frente.
+
+
+== Notas ==
+
+
+== Referências ==
+
+
+== Veja também ==
+Autogiro
+CTA Convertiplano
+STOL
+STOVL

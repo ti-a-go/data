@@ -1,0 +1,55 @@
+Milha náutica, ou milha marítima, é uma unidade de medida de comprimento ou distância, equivalente a 1 852 m, utilizada quase exclusivamente em navegação marítima e aérea e na medição de distâncias marítimas. A milha náutica não integra o Sistema Internacional de Unidades (SI), e o seu uso é desencorajado quando em conjunto com grandezas expressas em unidades do SI.
+
+
+== História ==
+A milha náutica foi historicamente definida como sendo o comprimento de um minuto de arco medido, à superfície média do mar, ao longo de um qualquer grande círculo da Terra.
+Com aquela definição, a milha apenas pode ser utilizada como uma medida aproximada, usando os minutos medidos sobre um meridiano ou sobre o equador. A sua não exatidão deriva de a Terra não ser uma esfera perfeita, já que exibe, em resultado do seu movimento de rotação, achatamento nos polos e alongamento do seu raio ao longo do equador. Esse efeito faz variar o comprimento de um minuto de arco do grande círculo desde 1 843 metros nas zonas polares até 1 862 metros na zona equatorial. Outro fator que contribui para a inexatidão é a irregularidade da superfície terrestre, que embora a uma escala pequena, tem zonas deprimidas e levantadas, o que faz variar o comprimento do arco medido ao longo da superfície em algumas dezenas de metros.
+Em resultado da dependência do comprimento do arco em relação ao local onde é medido (e à direção do grande círculo utilizado), diferentes países adotaram diferentes normas: por exemplo, os britânicos, medindo a milha no mar a sul da Grã-Bretanha, chegaram ao valor de 6 080 pés, ou seja 1 853,184 m, tendo o Royal Hydrographic Office do Reino Unido apenas adotado a definição internacional em 1970.
+A definição convencional da milha náutica foi adotada em 1929 pela I Conferência Hidrográfica Internacional Extraordinária (First International Extraordinary Hydrographic Conference), realizada em Mónaco. O valor corresponde sensivelmente ao valor médio do comprimento de um minuto de arco do meridiano terrestre.
+Para fins de facilidade e rapidez de cálculo, na Marinha do Brasil se usa a equivalência 1 milha náutica = 2 000 jardas = 6 000 pés. O motivo desta equivalência é a utilização de radares com escalas em milhas e jardas, dependendo do alcance selecionado.
+
+
+== Definição ==
+1 milha náutica = 1 852 metros (exatos, segundo convenção internacional, anteriormente o valor era de 1 853,25 metros).
+A milha náutica deriva diretamente da milha geográfica e corresponde ao valor aproximado de 1' (minuto) de grande círculo, isto é de um ângulo de 1º medido sobre o equador ou ao longo de um meridiano. Assim, um grau de latitude, quando medido ao longo de uma linha imaginária orientada exatamente na direção norte-sul ou ao longo da linha do equador, corresponde aproximadamente a 60 milhas náuticas.Nos usos em navegação marítima e aérea, a unidade é muito conveniente por poder ser medida diretamente sobre as cartas independentemente da sua escala, utilizando o minuto de meridiano como unidade, daí a persistência do seu uso, o que tenderá a desaparecer com a substituição das cartas em papel por meios eletrónicos de georreferenciamento.
+Outra disciplina onde a milha náutica mantém aplicação generalizada é o Direito Internacional, nomeadamente na fixação das águas territoriais, zonas económicas exclusivas (ZEE) e outras distâncias significativas para efeitos jurídicos e económicos. A generalidade dos tratados internacionais e convenções sobre direito marítimo utiliza a milha náutica.
+
+
+== Valor convencional e variantes ==
+O valor convencional da milha náutica foi fixado em 1 852 metros exatos (a "Milha Náutica Internacional") por resolução adotada na I Conferência Hidrográfica Internacional Extraordinária. Embora sem uso generalizado, e não autorizado à luz do Sistema Internacional de Unidades e suas Convenções, ainda persiste, em literatura desatualizada, o uso de algumas variantes:
+
+A milha marítima norte-americana é de 1,852 km.
+Para converter a milha marítima (EUA) em quilómetros, multiplique o valor em milhas por 1,852 km. Para fazer o inverso, multiplique o valor em milhas por 0,53996.
+A milha marítima britânica (por vezes referida por imperial) é de 1,853184 km.
+Para converter a milha marítima (UK) em quilómetros, multiplique o valor em milhas por 1,853184 km. Para fazer o inverso, multiplique o valor em milhas por 0,53961.
+
+
+== Símbolo ==
+Não está adotado qualquer símbolo internacional para representar a milha náutica, pelo que é comum encontrarem-se diversas variantes, entre as quais as mais comuns são:
+
+mn, ou m.n., utilizada em português e noutras línguas latinas;
+nm, ou NM, utilizada em inglês e outras línguas, com o defeito de, quando utilizada a variante em minúsculas, pode-se confundir com nm, a abreviatura SI para nanómetro;
+nmi, versão vista em alguns livros de Matemática;
+mi, o que pode ser confundido com qualquer das variantes da milha terrestre;
+sm. de Seemeile, em alemão;
+', o símbolo de minuto de ângulo, usando a relação com o arco de meridiano.A Agência Internacional de Pesos e Medidas (Bureau International des Poids et Mesures (BIPM)) lista a milha náutica como uma unidade correntemente aceitável, mas para a qual não foi acordado internacionalmente qualquer símbolo.
+
+
+== Conversão para outras unidades ==
+1 milha náutica é equivalente a:
+1 852 m, ou 1,852 km;
+1,15077945 statute miles americanas;
+6.076,11549 pés.
+
+
+== Unidades associadas ==
+A principal unidade derivada da milha náutica, e a única tolerada à luz do Sistema Internacional de Unidades, é o nó, o qual corresponde a 1 milha náutica/hora, isto é:
+
+1 nó = 1 milha náutica/hora.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«A milha náutica na página oficial do Sistema Internacional de Unidades.»

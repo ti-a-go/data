@@ -1,0 +1,20 @@
+Radiofrequência (RF) é a faixa de frequência que abrange aproximadamente de 3 kHz a 300 GHz e que corresponde à frequência das ondas de rádio. RF geralmente se refere a oscilações eletromagnéticas ao invés de mecânicas nessa faixa de frequência, embora existam sistemas mecânicos em RF.
+
+
+== Propriedades especiais da corrente elétrica em RF ==
+As correntes elétricas que oscilam na frequência de rádio possuem propriedades especiais que não são encontradas nas correntes contínuas ou correntes alternadas em baixas frequências. A corrente em RF pode irradiar energia para fora do condutor, no espaço, através de ondas eletromagnéticas (ondas de rádio); esta é a base da tecnologia de rádio. Elas também não penetram profundamente em condutores elétricos, e acabam fluindo ao longo da superfície; tal característica é conhecida como efeito skin. Correntes em RF podem ionizar o ar facilmente, criando um caminho condutor nele. Esta propriedade é explorada pelas unidades de "alta frequência" usadas em soldas de arco que utilizam correntes em frequências mais altas do que a fornecida por sua fonte de alimentação. Quando conduzida por um cabo elétrico comum, a corrente em RF tem uma tendência a refletir nas extremidades do cabo, tais como os conectores, e retornar de volta ao cabo em direção à fonte, causando uma condição chamada de ondas estacionárias. Esse efeito pode ser evitado com o uso de cabos especiais chamados linhas de transmissão.
+
+
+== Bandas de frequência ==
+
+
+== Na medicina ==
+A energia de radiofrequência (RF), na forma de ondas ou correntes elétricas, é usada em tratamentos médicos há mais de 75 anos, geralmente através da ablação por radiofrequência em cirurgias minimamente invasivas, como no tratamento da apneia do sono. Ressonâncias magnéticas (MRI) também usam frequências de rádio para produzirem imagens do corpo humano.A radiofrequência em níveis de energia não ablativa é geralmente usada como parte de tratamentos estéticos para comprimir peles flácidas, reduzir gorduras através de lipólise e apoptose, e também promove a cicatrização.
+
+
+== Ver também ==
+Banda (rádio)
+Rádio (telecomunicações)
+
+
+== Referências ==

@@ -1,0 +1,60 @@
+VisualEditor (VE) is an online rich-text editor for MediaWiki-powered wikis that provides a direct visual way to edit pages based on the "what you see is what you get" principle. It was developed by the Wikimedia Foundation in partnership with Fandom. In July 2013, it was enabled by default on several of the largest Wikipedia projects.The Wikimedia Foundation considered it the most challenging technical project to date, while The Economist has called it Wikipedia's "most significant change". According to The Daily Dot, the Wikimedia Foundation's pursuit of wider participation may risk alienating existing editors. In September 2013, English Wikipedia's VisualEditor was changed from opt-out to opt-in, following user complaints, but it was returned to being available by default (for new registered users only) in October 2015 after further development. A 2015 study by the Wikimedia Foundation found that VisualEditor failed to provide the anticipated benefits for new editors.
+
+
+== Development ==
+
+The original web-based Wikipedia editor provided by MediaWiki is a plain browser-based text editor, also called 'Source editor', where authors have to learn the wiki markup language to edit. A what you see is what you get (WYSIWYG) editor for Wikipedia had been planned for years in order to remove the need to learn the wiki markup language. It was hoped this would reduce the technical hurdle for would-be Wikipedians, enabling wider participation in editing, and was an attempt to reverse the decline in editor numbers of 50,000 in 2006 to 35,000 in 2011, having peaked in 2007. It was part of a $1m project aimed at developing new features and making improvements. A goal of the project is to allow both the former wiki markup editing and editing with the WYSIWYG VisualEditor. According to Wikimedia Foundation's Jay Walsh, the hope is to redress under-represented contributions from Arabic, Portuguese, and Indic-language versions of the site.According to Wikimedia Foundation, "There are various reasons that lead existing and prospective contributors not to edit; among them, the complexity of wiki markup is a major issue. One of VisualEditor's goals is to empower knowledgeable and good-faith users to edit and become valuable members of the community, even if they're not wiki markup experts. We also hope that, with time, experienced editors will find VisualEditor useful for some of their editing tasks." In 2012, Sue Gardner, the executive director of the Wikimedia Foundation, said "we don't think that the visual editor, in and of itself, is going to solve the challenge", and Wikipedia co-founder Jimmy Wales remarked "This is epically important".
+
+
+=== Rollout ===
+MediaWiki is used by numerous wikis, with smaller sites originally conceived as being rolled out first. VisualEditor was planned to be rolled out on the English-language Wikipedia for editors with registered accounts, and then for anonymous editors. The alpha version was made available to select users in December 2012, widened to all registered users in April. It was the default editor for users logged-into the English-language Wikipedia in July 2013. It was subsequently made opt-in on the English-language Wikipedia in September 2013 due to community complaints over its stability, and implementation was buggy and had limitations (though it remained active for most non-English Wikipedias). In 2015, it completed its beta development phase and was again made available on English Wikipedia.
+
+
+=== Technical ===
+The Wikimedia Foundation joined forces with Wikia to work on the project. The implementation encountered challenges with the wiki markup language (the basis for Wikipedia articles), due to it being continuously extended over 12 years to include seldom-used rich and complex features making reproduction of the final article appearance dependent on many factors that were not easy to reproduce. The technical implementation required improvements to MediaWiki in parsing, wiki markup language, the DOM and final HTML conversion. A necessary component is a parser server called Parsoid which was created to convert in both directions between wikitext and a format suitable for VisualEditor. The Wikimedia Foundation considered VisualEditor its most challenging technical project to date.As of January 2021 supported web browsers include modern versions of Chromium (Chrome, Edge, Opera), Firefox, Midori, and Safari.The VisualEditor MediaWiki extension is available for download by server operators and typically requires the latest version of MediaWiki, it is bundled since MediaWiki 1.35.
+
+
+==== Online rich-text editor ====
+According to the VisualEditor team, the aim is "to create a reliable rich-text editor for MediaWiki", a "visual editor" which is "WYSIWYG-like". The implementation is split into a "core" online rich-text editor which can run independently of MediaWiki, and a MediaWiki extension.
+
+
+== Response ==
+Responses to the introduction of the VisualEditor have greatly varied, with The Economist's L.M. calling it "the most significant change in Wikipedia's short history."
+
+
+=== Opposition ===
+Some editors expressed concerns about the rollout and bugs, with the German Wikipedia community deciding to use an opt-in model instead of an opt-out one. Irish Wikipedia administrator Oliver Moran, echoing concerns of other editors, said that users may feel belittled by the implication that "certain people" are confused by wiki markup and therefore need the VisualEditor, comparing the learning of wikitext favorably to Twitter's hashtag and @ (at sign) mention syntax.Three months after the rollout of the VisualEditor to the English Wikipedia, The Daily Dot reported that the Wikimedia Foundation had experienced backlash from long-time editors who deemed the editor "buggy and untested". Following discourse between the community and the foundation, Wikipedia administrator Kww overrode the foundation's rollout, making it opt-in, instead of opt-out. The Foundation did not revert the change, instead committing to further improving VisualEditor.
+
+
+=== Support ===
+Softpedia ran an article titled "Wikipedia's New VisualEditor Is the Best Update in Years and You Can Make It Better". The Register said that the update brings the foundation "a little closer to its goal of making it easier for anyone to create and edit Wikipedia articles."
+
+
+=== Research results ===
+Aaron Halfaker, a research scientist at the Wikimedia Foundation, ran a controlled study on the effects of VisualEditor in May 2015. The study found that VisualEditor did not increase editor productivity, however reducing the burden upon existing editors. Editing took 18 seconds longer with VisualEditor before hitting save, and new editors were less likely to save their work. Halfaker however did ascribe these negative results as from editors testing the new system, not any real struggle. A previous June 2013 controlled test — when VisualEditor was less mature — showed similar neutral and negative results.
+
+
+== See also ==
+List of HTML editors § WYSIWYG editors
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Further reading ==
+Roth, Amy; Davis, Rochelle; Carver, Brian (2013). "Assigning Wikipedia editing: Triangulation toward understanding university student engagement". First Monday. 18 (6). doi:10.5210/fm.v18i6.4340.
+Florian Leander Mayer. "Erfolgsfaktoren von Social Media: Wie "funktionieren" Wikis?: Eine vergleichende Analyse kollaborativer Kommunikationssysteme im Internet, in Organisationen und in Gruppen" (2013) Lit Verlag, pp. 30–32. ISBN 978-3643122100
+
+
+== External links ==
+
+MediaWiki VisualEditor
+MediaWiki Extension: VisualEditor
+Help:VisualEditor - Community Central
+What you see is Wiki - Questioning WYSIWYG in the Internet Age
+MediaWiki alternative parsers
+Building a Visual Editor for Wikipedia
+Wired: Wikipedia's WYSIWYG Dilemma

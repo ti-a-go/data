@@ -1,0 +1,88 @@
+Esta é uma lista de aeroportos, organizada por continente e país.
+
+
+== América ==
+
+
+=== América Central e Caribe ===
+Antilhas Neerlandesas
+Bahamas
+Belize
+Costa Rica
+Cuba
+El Salvador
+Guatemala
+Haiti
+Honduras
+Jamaica
+Nicarágua
+Panamá
+República Dominicana
+Ilhas Virgens
+
+
+=== América do Norte ===
+Canadá
+Estados Unidos
+México
+
+
+=== América do Sul ===
+Argentina
+Bolívia
+Brasil
+Chile
+Colômbia
+Equador
+Guiana
+Paraguai
+Peru
+Suriname
+Uruguai
+Venezuela
+
+
+== Ásia ==
+Lista de aeroportos da Arábia Saudita
+Lista de aeroportos do Cazaquistão
+Lista de aeroportos da China
+Lista de aeroportos da Coreia do Sul
+Lista de aeroportos nas Filipinas
+Lista de aeroportos da Índia
+Lista de aeroportos da Indonésia
+Lista de aeroportos do Japão
+Lista de aeroportos do Paquistão
+Lista de aeroportos da Malásia
+Lista de aeroportos da Mongólia
+Lista de aeroportos de Singapura
+Lista de aeroportos da Tailândia
+Lista de aeroportos da Turquia
+Lista de aeroportos do Vietnã
+
+
+== Europa ==
+Lista de aeroportos da Alemanha
+Áustria
+Dinamarca
+Espanha
+Finlândia
+França
+Grécia
+Itália
+Islândia
+Noruega
+Países Baixos
+Portugal
+Reino Unido
+Rússia
+Suécia
+Suíça
+
+
+== Oceania ==
+Austrália
+Nova Zelândia
+
+
+== Ver também ==
+Lista de aeroportos internacionais

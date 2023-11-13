@@ -1,0 +1,45 @@
+O Tesauro de Nomes Geográficos Getty (em inglês Thesaurus of Geographic Names, abreviado ou TGN GTGN) é um produto da fundação J. Paul Getty Trust incluído no Programa de Vocabulário Getty. O TGN inclui nomes e informações associadas sobre lugares. Os lugares em TGN incluem entidades políticas administrativas (por exemplo, cidades, nações) e as características físicas (por exemplo, montanhas, rios). Estão incluídos lugares históricos e atuais, assim como outras informações relacionadas com a história, a população, a cultura, a arte e a arquitetura.
+O recurso está disponível para museus, bibliotecas de arte, arquivos, recurso de coleta visual de catalogadores, projetos bibliográficos privados de licença ou disponíveis gratuitamente para os membros do público em geral no site de Vocabulário Getty  (ver ligações externas).
+Os bancos de dados de vocabulário Getty (Arte e Arquitetura Thesaurus (AAT), União Lista de Nomes de artistas (ULAN), e TGN), são produzidos e mantidos pelo Programa Vocabulário Getty. Eles são compatíveis com a norma ISO e normas NISO para a construção de dicionário de sinônimos. Eles contêm termos, nomes e outras informações sobre pessoas, lugares, coisas e conceitos relativos à arte, à arquitetura e cultura material.
+Os vocabulários Getty podem ser usadas de três formas: na etapa de entrada de dados, por catalogadores ou indexadores que estamos descrevendo, obras de arte, arquitetura, material de cultura, materiais de arquivo, o substitutos visuais, ou materiais bibliográficos; como bases de conhecimento, fornecimento de informações para os investigadores; e como assistentes de pesquisa para melhorar o acesso do usuário final para recursos online.
+
+
+== História ==
+Trabalho na TGN começou em 1987, quando o Getty criou um departamento dedicado a compilar e distribuir terminologia, em que na altura era chamado Grupo de Coordenação de Vocabulário. O AAT já estava a ser gerido pela Getty naquele momento, e o Getty tentava responder às solicitações dos criadores de informações adicionais de vocabulários controlados de arte para os nomes dos artistas (ULAN) e nomes geográficos (TGN). O desenvolvimento de TGN foi informado por um grupo internacional de estudo realizado pelo dicionário de Sinônimos Artis Universalis (TAU), um grupo de trabalho do Comité International d'Histoire de l'Art (CIHA) e pelo consenso alcançado no âmbito de um colóquio realizado em 1991, com a presença do espectro de potenciais usuários de vocabulário geográfico em catalogação e bolsa de estudos de arte e história da arquitetura e arqueologia. O núcleo inicial da TGN foi compilado a partir de milhares de nomes geográficos em uso por vários projetos de catalogação e indexação Getty, ampliada por informações do  banco de dados do governo dos E.U., e reforçada pela entrada manual das informações publicados em cópia de disco rígido de fontes. O TGN cresceu e muda através de contribuições da comunidade de usuários e trabalho editorial do Programa de Vocabulário Getty.
+Os princípios básicos em que a TGN é construído e mantido foram estabelecidos pela Arte e Arquitetura Thesaurus (AAT) e também empregado para a União, Lista de Nomes de artistas (ULAN): o seu âmbito inclui a terminologia necessária para catalogar e recuperar informações sobre as artes visuais e a arquitetura; é construído utilizando normas nacionais e internacionais para a construção de dicionário de sinônimos; ele compreende uma hierarquia com estruturas de árvore correspondente à atual e do mundo histórico; ele é baseado na terminologia atual, garantia para uso pelo autoritário fontes literárias, e validado pelo uso da comunidade acadêmica de arte e história da arquitetura; e ele é compilado e editado em resposta às necessidades da comunidade de usuários.
+TGN foi fundada sob a gestão de Eleanor Fink (chefe do que era então chamado o Grupo de Coordenação do Vocabulário, e, posteriormente, Diretor da História da Arte de Informações de Programa, mais tarde chamado o Getty Informações do Instituto). TGN foi construído ao longo dos anos por vários membros da comunidade de usuários e um exército dedicado editores, sob a supervisão de vários gestores. Suporte técnico para a TGN foi fornecido pela Getty. TGN foi publicado pela primeira vez em 1997 na máquina legível para arquivos. Dado o crescente tamanho e a frequência de mudanças e adições para a TGN, cópia de disco rígido publicação foi considerado impraticável. Atualmente é publicado em uma pesquisa on-line da interface Web e em arquivos de dados, disponível para licenciamento. Os dados para a TGN é compilado e editado em um sistema editorial que foi personalizado por Getty pessoal técnico para atender aos requisitos exclusivos da compilação de dados de vários colaboradores, a construção de complexo e em constante mudança polyhierarchies, fusão, movendo-se, e com publicações em vários formatos. Editorial Final de controle da TGN é mantida pelo Getty Vocabulário Programa, usando bem estabelecidas regras editoriais. Os atuais gestores da TGN são Patricia Harpring, Editor-executivo e Murtha Baca, o chefe, o Vocabulário Programa Digital e Gestão de Recursos.TGN está disponível como conjuntos de Dados desde Agosto de 2014.
+
+
+== Termos ==
+TGN é um vocabulário estruturado atualmente com cerca de 1,106,000 nomes e outras informações sobre lugares. Nomes para um lugar podem incluir nomes no idioma vernáculo, inglês, outros idiomas, nomes históricos, nomes e na ordem natural e a ordem invertida. Entre esses nomes, é sinalizado como o nome preferido.
+TGN é um dicionário de sinônimos, em conformidade com a ISO e NISO padrões para a construção de dicionário de sinônimos; ele contém hierárquicas e de equivalência e relações associativas. Note que TGN não é um SIG (Sistema de Informação Geográfica). Enquanto muitos registros na TGN incluir coordenadas, estas coordenadas são aproximados e servem apenas como referência.
+O foco de cada TGN registro é um lugar. Há cerca de 912,000 lugares na TGN. No banco de dados, cada local de registro (também chamado de um sujeito) é identificado por um ID numérico exclusivo. Vinculado ao registro do lugar são nomes, o lugar do pai ou posição na hierarquia, outros relacionamentos, coordenadas geográficas, notas, fontes de dados e tipos, que são termos que descrevem o papel do lugar (por exemplo, lugar povoado e capital do estado). A cobertura temporal da TGN intervalos da pré-história, o presente e o escopo é global.
+
+
+== Design ==
+O TGN é um sistema de classificação facetada, bem como um hierárquico múltiplo. Há duas facetas: Mundo e Extraterrestres. Dentro do Mundo faceta são Características Físicas e de Entidades Políticas. Pode-se ver locais administrativas amplos como continentes e regiões específicas como bairros, distritos, vilas e cidades. Dentro das Características Físicas, as facetas são cadeias de montanhas, oceanos, mares, rios, cachoeiras, grupos de ilhas e desertos.
+O registo de cada conceito, inclui o seu lugar na hierarquia (com um link para seu pai), bem como links para termos relacionados, relacionados a conceitos, fontes de dados e anotações.
+[
+
+
+== Ver também ==
+Art & Architecture Thesaurus (outro Vocabulário controlado mantido pelo Programa de Vocabulário Getty)
+Geographic coordinate system
+Geographic Names Board
+Geographic Names Information System
+Getty Vocabulary Program
+Conselho Sul-Africano de Nomes Geográficos
+Union List of Artist Names (ULAN)
+United Nations Conferences on Standardization of Geographical Names
+United States Board on Geographic Names
+
+
+== Referências ==
+
+
+== Ligações externas ==
+O Getty Thesaurus of Geographic Names On-line de Pesquisa a TGN On-line para livre.
+Sobre a Getty Vocabulários
+Getty Vocabulário Editorial Diretrizes As diretrizes editoriais para o AAT, ULAN, e TGN conter as regras e orientações destinadas para uso pelos editores da Getty Vocabulário Programa usando o nosso sistema editorial, VCS (Vocabulário Coordenação do Sistema). Contribuintes para o Getty Vocabulários e implementadores do licenciado vocabulário de dados pode consultar estas diretrizes.
+Materiais de formação e apresentações criadas pelo Getty Vocabulário Programa Os documentos desta página a incluir apresentações e outros materiais de treinamento para o Getty Thesaurus of Geographic Names (TGN), a União, a Lista de Nomes de artistas (ULAN), o Art & Architecture Thesaurus (AAT), Catalogação de Objetos Culturais (CCO), as Categorias para a Descrição de Obras de Arte (CDWA), e normas em geral.
+TGN como conjuntos de Dados, documentação

@@ -1,0 +1,164 @@
+Radiodifusão é a transmissão de ondas de radiofrequência que por sua vez são moduladas, estas se propagam eletromagneticamente através do espaço. É um meio de telecomunicação ao qual a maioria da população tem acesso como ouvinte. O receptor de rádio, por se tratar de um instrumento de baixo custo, pequeno porte e programações diversificadas, exerce uma maior incidência na vida diária das pessoas, tanto em zonas urbanas quanto rurais.Muitos costumam fazer confusão tomando radiodifusão pela transmissão de sinais somente de áudio, o que não é correto. A radiodifusão é a "propagação de sinais de rádio, televisão, telex etc., por ondas radioelétricas", ou seja, tanto aparelhos de TV e como de rádio usam radiodifusão para receber sinais e transformá-los em vídeo (no caso da TV) e áudio, vide as entradas RF (radiofrequência) dos aparelhos de TV. A diferença está em como a informação é codificada.
+A radiocomunicação iniciou como telégrafo sem fio, por volta de 1912. Todavia, com a invenção da modulação se iniciaram as primeiras experiências de radiocomunicação e radiodifusão, que a partir deste ponto ganhou espaço comercial.
+
+
+== Radiocomunicação e radiodifusão ==
+Radiocomunicação designa vulgarmente o aparelho transmissor e receptor (transceptor) das ondas de radiofrequência.
+Já radiodifusão designa somente a recepção de sinais de radiofrequência.
+Juridicamente, ambas as modalidades estão contidas por legislações próprias e separadas.
+A radiocomunicação pode ser comercial e amadora, enquanto a radiodifusão é de âmbito restrito à área comercial.
+
+
+== História ==
+Para o desenvolvimento da radiodifusão, contribuíram cientistas e técnicos de muitos países, com seus estudos sobre Electromagnetismo (eletromagnetismo) a partir do final do século XIX. Na época, já existiam dois meios de comunicação rápida e a longa distância: o telégrafo e o telefone, que enviavam sinais eletromagnéticos através de fios.
+Aleksander Stepanovitch Popov, Henry Bradwardine Jackson e Oliver Joseph Lodge, conseguiram em 1895 e 1896, transmitir sinais de rádio a pequenas distâncias.
+Guglielmo Marconi registrou em junho de 1896, em Londres, a primeira patente de um sistema de radiocomunicação, inventado com base em pesquisas anteriores de Michael Faraday, James Maxwell, Heinrich Hertz e outros.
+Marconi aproveitou o coesor de Edouard Branly, a antena de Aleksandr Popov e a sintonia desenvolvida por Oliver Lodge que permitia selecionar o recebimento de apenas uma frequência específica entre as inúmeras que podem ser captadas por uma antena.
+Em julho de 1896, Marconi emitiu sinais de radiofrequência até aproximadamente cem metros do ponto de transmissão. Essa distância ampliou-se, no mesmo ano, para dois quilômetros. Em maio de 1897, 13 km. No início do século XX, o Atlântico Norte já era cruzado por sinais de radiotelegrafia.No Brasil, o padre gaúcho Roberto Landell de Moura realizou, em 1893, do alto da Avenida Paulista ao morro de Sant'Anna, em São Paulo, numa distância de oito quilômetros, a primeira experiência de radiotelefonia de que se tem registro, embora não haja documentos que comprovem o fato a não ser a primeira biografia sobre o padre cientista, escrita por Ernani Fornari. Já em 1899 e 1900, jornais citam a experiência, dando fé do pioneirismo do brasileiro na transmissão de sinais sonoros.
+
+
+=== O avanço da tecnologia ===
+Com a invenção da válvula termiônica, foi possível melhorar a transmissão e reprodução do sinal de rádio. Começaram as emissões radiofônicas com mais qualidade.
+Em 1908, Lee De Forest realizou, do alto da torre Eiffel, uma emissão ouvida nos postos militares da região até Marselha. Um ano depois, a voz do tenor Enrico Caruso era transmitida do Metropolitan Opera House. Em 1916, De Forest instalou uma estação emissora experimental em Nova York. No final da primeira guerra mundial, a radiofonia já estava em pleno funcionamento no mundo inteiro.
+
+
+=== As primeiras transmissões comerciais ===
+Em novembro de 1919, foi inaugurada uma emissora de rádio regular em Rotterdam. Em 1920, inaugurou-se a primeira radiodifusora comercial, em Pittsburgh, Estados Unidos, com o prefixo KDKA.
+O transporte marítimo, que já vinha utilizando a radiotelegrafia desde o início do século XX, passou a utilizar também a radiotelefonia, além disto, começaram a surgir estações amadoras que transmitiam programas musicais. O interesse do público pelos receptores aumentou.
+
+
+=== Era de ouro do rádio ===
+
+Em 1922, por ocasião do Centenário da Independência do Brasil, foi inaugurada a radiodifusão brasileira, com a primeira transmissão realizada no Rio de Janeiro.
+No mesmo ano, nos Estados Unidos, surgiu a primeira emissora comercial, a WEAF, de Nova Iorque, criada pela companhia telefônica American Telephone and Telegraph (atual AT&T). A primeira emissora do Brasil foi a Rádio Sociedade, no Rio, fundada por Roquette Pinto e Henrique Morize.
+Em um Brasil ainda sem televisão, viveu-se a época do auge do sucesso desse meio de comunicação, a chamada Era do Rádio, onde nomes famosos, como o do gaitista Maurício Einhorn começaram a destacar-se (Revista Veja, 2.11.2005, pág.114).
+
+
+=== A disseminação pelo mundo ===
+Na década de 1920, vários países montaram transmissores de rádio, como Alemanha,  Argentina, Áustria, Bélgica, Brasil, Canadá, Chile, Dinamarca, Espanha, Estados Unidos, Finlândia, Reino Unido, França, Itália, Japão, Noruega, Portugal,  Suíça, Checoslováquia e União Soviética.
+A partir das primeiras emissões de rádio, começaram a ser notados os primeiros fenômenos de radiopropagação. Ainda não se sabia da influência da ionosfera e da troposfera na propagação das ondas de rádio, e nem se conheciam os efeitos de reflexão ionosférica, espalhamento e canalização.
+Os fenômenos de radiopropagação começaram a empolgar técnicos e engenheiros, pois as emissoras de então, começaram a receber correspondências de que estavam sendo captadas em cidades e países distantes. O que de certa forma, acelerou as pesquisas e ajudou a disseminar mais ainda a radiodifusão.
+
+
+=== O caos nos Estados Unidos ===
+As frequências das emissoras de rádio foram regulamentadas pelo Departamento de Comércio dos Estados Unidos que passou a determinar as horas em que podiam operar. Houve contestação, o caso foi aos tribunais em 1924, o Departamento de Comércio perdeu a questão. O espectro se transformou num caos que durou por três anos. Em 1927 o congresso americano foi obrigado a intervir criando uma comissão federal de radiocomunicações, que regulamentou o sistema.
+
+
+=== Décadas de 1930 e 1950 ===
+Entre as décadas de 1930 a 1950, o rádio viveu sua chamada Era de Ouro, como o principal meio para divulgação de informações, artistas e talentos, junto ao Cinema. A autorização do governo Vargas para a veiculação de publicidade no rádio, em 1932, deu ao novo meio um impulso comercial e popular. No mesmo ano, o governo começou a distribuir concessões de canais a indivíduos e empresas privadas. Em 1934, surgiu a Rádio Mayrink Veiga, no Rio de Janeiro, uma das mais importantes do país pelas três décadas seguintes. No ano seguinte, foram criadas a Rádio Jornal do Brasil e a Rádio Tupi, duas emissoras históricas que existem até hoje. Em 1936, aparece a Rádio Nacional, que liderou audiência por 20 anos e transformou os padrões de linguagem do rádio brasileiro.
+
+
+=== A organização europeia ===
+Na mesma época na Europa, as estações que se interferiam eram de países e línguas diferentes, a regulamentação tinha que ser de caráter internacional. Isso foi feito a partir de 1925 pela União Radiotelegráfica Internacional (URI). Os governos uniram-se, definiram as frequências e o emprego mais eficaz da radiodifusão. A primeira regulamentação entrou em vigor em novembro de 1926.
+
+
+=== O transístor ===
+Em 1948, com a invenção do transístor aconteceu uma revolução na radiodifusão, apareceram os receptores portáteis. O rádio passou a substituir os jornais como meio de veiculação de notícias, principalmente em países de grande território e população dispersa.
+
+
+== Educação a distância ==
+Devido à facilidade de acesso, à ampla cobertura e à flexibilidade, o rádio oferece inúmeras possibilidades para a educação a distância no desenvolvimento de programas de educação formal e não formal.
+Ao utilizar esse recurso aliado às escolas públicas, amplia-se a capacidade de estratégias criativas para uma educação de qualidade chegar o mais longe possível.
+Esse veículo de comunicação tem como característica  seu apelo da fala direta com o público, o contato íntimo entre o ouvinte e o locutor. O rádio cria a oportunidade para uma identificação mútua com a população, integrando-se à rotina cotidiana do ambiente familiar da comunidade, com grande potencial de mobilização e divulgação.
+Assim, motivado pela cultura da oralidade, pelo seu grande poder de penetração nas áreas rurais - grande parte sem acesso a energia elétrica - e pelos custos mais baixos em relação a outros meios, o rádio é ainda o principal meio de comunicação, justificando-se seu grande potencial de parceria pela educação.
+Seu uso educacional pode ser realizado utilizando músicas e textos em sessões pedagógicas, auxiliando em diversos conteúdos professores e alunos, que a partir de suas realidades locais, vão definindo estratégias de ensino em suas escolas.
+Um dos pontos positivos de se ter esse recurso na escola é poder fazer uso das peculiaridades locais em seus conteúdos programáticos, dando a professores e alunos a oportunidade melhorar sua auto estima.
+
+
+== Funcionamento ==
+As antenas receptoras após captar os sinais de radiofrequência, enviam-nos através da linha de transmissão ao receptor que os amplifica, sintoniza, demodula o áudio, detecta, pré-amplifica, amplifica novamente, e converte-os à som através dos alto-falantes.
+A faixa mais usada no mundo para a radiodifusão é a das ondas médias. Segundo a regulamentação internacional vai de 535 a 1 650 kHz.
+Na Europa, em especial, são usadas as ondas longas. Estas alcançam distâncias maiores que as atingidas pelas ondas médias. Podem chegar até 500 km, isto permite a uma só emissora de grande potência cobrir todo o território de muitos países. A faixa vai de 150 a 285 kHz.
+As emissoras que pretendem atingir grandes distâncias (mil a vinte mil quilômetros) transmitem sinais na faixa das ondas curtas. Concedidas aos serviços de radiodifusão, as ondas curtas denominam-se também faixas de alta frequência (HF).
+
+
+=== Rádio digital ===
+
+A rádio digital é uma alternativa recente para a comunicação que permite que as transmissões por FM tenham qualidade de CD e as transmissões por AM tenham qualidade semelhante às FM tradicionais.
+Apesar dos testes com o modelo de transmissão IBOC (In Band On Channel), o padrão ainda não está definido. Por enquanto, as empresas realizam transmissões em analógico e digital para observar vantagens e problemas desta alternativa. Segundo estimativas da Associação das Emissoras de Rádio e Televisão do Estado de São Paulo, toda a malha de receptores de rádio será atualizada para o formato digital em dez anos. Ou seja, durante este período ocorrerá o simulcasting para que todas as pessoas possam ter condições de adquirir um aparelho de rádio digital.
+Este novo formato de transmissão também traz diversas possibilidades para as emissoras. Por ser um meio digital, a transmissão de rádio poderá também incluir além do som, vídeos e imagens. Nos Estados Unidos já são realizadas transmissões de imagens para os aparelhos de rádios. Boletins meteorológicos e sobre as condições de trânsito da cidade possuem apoio de mapas que são transmitidos pelas telas incluídas nos receptores.
+Atualmente, como é de costume com todo produto novo no mercado, os receptores de rádio digital estão com um preço relativamente elevado. Com o passar dos anos este custo será diminuído consideravelmente. Os receptores automotivos estão na faixa dos R$ 900,00 e os receptores comuns estão custando cerca de R$ 700,00. Valores ainda distantes da realidade da maioria dos ouvintes de rádio.
+Um dos fatores positivos trazidos pelo rádio digital é a melhora considerável na qualidade do áudio. A qualidade da transmissão AM será melhorada para o patamar da transmissão em FM. E a atual transmissão em FM será aprimorada para a qualidade de CD. Com estas novas características a favor, a expectativa que fica é de que o rádio seja revitalizado com a entrada desta nova tecnologia.
+
+
+=== Sistemas de modulação ===
+O método mais usado na radiodifusão ainda é a Amplitude modulada (AM, ver: Rádio AM), que é a variação da amplitude da portadora dependente do áudio inserido no modulador (Misturador).
+O processo de Modulação em frequência modulada (FM, ver: Rádio FM), difere da modulação em amplitude, pois neste, a amplitude não varia. Nele, é a frequência do sinal que varia em função da variação da frequência de áudio, ou seja, o misturador, não soma e subtrai a tensão do sinal, e sim a frequência é que sofre um desvio para cima e para baixo da fundamental.
+As transmissões no modo de modulação em frequência FM em VHF, permitem uma recepção muito mais nítida, porque são menos afetadas pelo ruído. Devida frequência alta seu alcance é menor.
+Quando se utiliza a modulação em frequência em HF, seu alcance não difere em relação à modulação em Amplitude, o que modifica é a qualidade de transmissão, sempre a modulação em frequência suplantará em qualidade a modulação em amplitude.
+Atualmente estão entrando em operação emissoras digitais, cuja qualidade de transmissão é excepcional. A radiodifusão que pensavam alguns iria acabar com o advento da televisão, continua a ser um meio de comunicação difundido no mundo inteiro.
+
+
+=== O que é uma estação de radiodifusão ===
+Uma estação de radiodifusão se compõe de elementos ativos, circuitos moduladores, osciladores, e amplificador de potência. Todos integram a emissora, desde o estúdio, onde são gerados os programas ao vivo, ou em sistemas de reprodução, até chegar no parque de antenas através de linha de transmissão.
+
+
+=== O estúdio de radiodifusão ===
+O estúdio, onde é gerada a programação, é um sistema composto de diversas salas à prova de som, existem os mixers, ou misturadores, onde são harmonizadas as saídas das salas do estúdio e sala de controle para transmissão em cadeia se for o caso. Quando a estação transmissora encontra-se distante do estúdio, um circuito especial (Chamado link) faz o enlace das duas, geralmente em Ultra Alta Frequência, ou modernamente via satélite.
+Nas salas do estúdio estão os microfones, estes captam os sons emitidos, vozes, músicas ao vivo, etc. São enviados aos equipamentos de mixagem e editoração, depois aos pré-amplificadores, amplificadores, moduladores, estágios de potência e finalmente às antenas, para ser irradiados em forma de ondas eletromagnéticas, capazes de viajar pelo espaço a longas distâncias. A onda de radiofrequência é a chamada onda portadora, no caso do AM, ou FM, pois em SSB não existe portadora, embora comumente não se use portadora suprimida para transmissão de radiodifusão.
+
+
+=== O espectro eletromagnético ===
+O espectro de radiofrequência é dividido arbitrariamente em várias faixas**:
+
+EHF - (Extremely High Frequency) - extremamente alta frequência: 30–300 GHz.
+SHF - (Super High Frequency) - super alta frequência: 3–30 GHz.
+UHF - (Ultra High Frequency) -  ultra alta frequência: 0.3–3 GHz.
+VHF - (Very High Frequency) - muito alta frequência: 30-300 MHz.
+HF - (High Frequency) - alta frequência: 3-30 MHz.
+MF - (Medium Frequency) - média frequência: 0,3-3 MHz.
+LF - (Low Frequency) - baixa frequência: 30–300 kHz.
+VLF - (Very Low Frequency) - muito baixa frequência: 3–30 kHz.
+ELF - (Extra Low Frequency) - extra baixa frequência: 3–3 000 Hz.
+ULF - (Ultra Low Frequency) - ultra baixa frequência: menor que 3 Hz.
+Obs: **A nomenclatura acima varia conforme a região do Brasil, por exemplo, também é correto se utilizar da seguinte forma: EHF - Frequência Extremamente Alta e assim por diante.As porções do espectro Eletromagnético alocadas para fins de radiodifusão, foram distribuídas de acordo com critérios rigorosamente técnicos, estas dividem o serviço com outras modalidades, por exemplo:  auxílio para a navegação aérea, telemetria, comunicação telefônica, radares, satélites artificiais, estudos científicos, etc.
+Cada emissora de rádio opera numa frequência determinada por Agências reguladoras (No caso do Brasil, quem regula estas frequências é a ANATEL) para evitar o fenômeno da interferência mútua.
+
+
+== Rádio por país ==
+
+
+=== Portugal ===
+Em Portugal o espectro radiofónico nacional é dividido pelo Grupo Renascença Multimédia (Rádio Renascença e RFM), pela RDP (Antena 1, Antena 2 e Antena 3) e pela Rádio Maria.
+Em termos regionais, duas rádios que já são ouvidas, através de parcerias em todo o território, TSF Rádio Notícias e M80.
+E as rádios locais, várias. Entre elas a Rádio Voz de Alenquer (93,5 FM - 100,6 FM), a Rádio Pernes - Santarém (101,7 FM), a Rádio Seixal, a Rádio Festival e a Rádio Amália (92,0 FM - 100,6 FM) destacam-se pela grande aposta na música portuguesa.
+Em outro posto do espectro posicionam-se novas formas de Rádio já presentes em Portugal, como é o caso das Rádios Online, que operam para todo o mundo mas sendo ouvidas através da internet, como é o caso da Noite FM e Rádio Zero, ambas sediadas em Lisboa, ou ainda do Grupo Marcante de comunicação, dos Açores, com quatro canais disponíveis online.
+Caso curioso é o da Rádio Manobras, da cidade do Porto, que emite em FM 91,5 MHz e através da Internet em radiomanobras.pt. Esta assume-se como a primeira rádio comunitária de Portugal, pois não tem alvará de radiodifusão comercial, mas funciona com voluntários e com fraca potência de emissão (50 watts). Apesar de se denominar comunitária, a Rádio Manobras é mais uma rádio participativa, onde as pessoas participam da emissora e a emissora participa das actividades culturais e sociais da cidade do Porto.
+
+
+=== Rádio no Brasil ===
+
+De acordo com dados da Kantar IBOPE Media, 89% dos brasileiros que residem em uma das 13 principais regiões metropolitanas do Brasil ouvem rádio habitualmente. Isso equivale a 52 milhões de ouvintes nas áreas pesquisadas. O maior alcance acontece pela manhã, entre 10 e 11h, quando o rádio chega a alcançar mais de 37 milhões de pessoas.No Brasil, destacam-se as redes de rádios via satélite como a Rede Jovem Pan, Rede Transamérica, Rede Mix, Central Brasileira De Notícias e a Rede Gaúcha Sat. Também destacam-se as emissoras estatais Rádio MEC e Rádio Nacional, ambas emissoras oficiais do governo do Brasil mantidas pela Empresa Brasil de Comunicação. Algumas outras emissoras de rádio do Brasil são a Super Rádio Tupi, Rádio Clube do Pará, Rádio Globo, Rede Clube Brasil, Rádio Itatiaia, etc.
+Em 2015, o rádio no Brasil recebeu mais de 5 bilhões de reais em investimento publicitário e teve 7,7 milhões de inserções de propaganda. Entre os setores que mais investem em comerciais de rádio estão o comércio e varejo (22%), serviços ao consumidor (19%) e setores de cultura, lazer, esporte e turismo (11%).
+
+
+== Ver também ==
+Lista de emissoras de rádio do Brasil
+Lista de rádios de Portugal
+
+
+== Referências ==
+
+
+== Bibliografia ==
+ARAÚJO, Carlos Brasil de. O escritor, a comunicação e o radiojornalismo. Diretoria de Documentação da Câmara dos Deputados. Brasília, 1972.
+BAUM, Ana (org.). Vargas, agosto de 54 – a história contada pelas ondas do rádio. Rio de Janeiro: Garamond, 2004.
+BURBAGE, Robert e outros - Os meios de comunicação nos Estados Unidos - Imprensa - Rádio - Televisão, Rio, Agir, 1973, tradução de Marco Aurélio de Moura Matos
+COSTELLA, Antônio.  Comunicação - Do grito ao satélite, São Paulo: Mantiqueira.
+ERBOLATO, Mário L. Comunicação e cotidiano. Campinas: Papirus, 1984.
+FEDERICO, Maria Elvira Bonavita. História da comunicação - rádio e TV no Brasil. Petrópolis: Vozes, 1982.
+FERRARETO, Luiz Artur.  Rádio no ar - O veículo, a história e a técnica. Porto Alegre : Sagra Luzzatto, 2000.
+FOGOLARI: Elide Maria. Laboratório de Rádio: a arte de falar e ouvir.  São Paulo: SEPAC/ Paulinas.
+HILLS, George. Los Informativos en radiotelevisión. Espanha: instituto oficial de radio y  televisión. 1983.
+LABRADA Jerônimo. El registro sonoro. Santafé de Bogotá: editorial Voluntad. 1995. 223p.
+LAGO, Benjamim do. Radiodifusão e desenvolvimento. Rio de Janeiro: livraria Cultural da GB, 1969.
+MOURA, Gerson. Tio Sam chega ao Brasil - a penetração cultural americana. São Paulo: Basiliense, 1985.
+MUÑOZ, José Javier, GIL César. La Radio: teoría y práctica. Madrid: Instituto oficial de Radio y Televisión. 1986.
+SAMPAIO, Mário Ferraz. História do rádio e da TV no Brasil e no mundo. Rio de Janeiro, Achiamé, 1984.
+VAMPRÉ, Octavio Augusto. Raízes e evolução do rádio e da TV: cronologia. Porto Alegre: Fundação Educacional Padre Landell de Moura/RBS, 1979.
+
+
+== Ligações externas ==
+«ANATEL (Brasil)» 
+«ANACOM - Autoridade Nacional de Comunicações (Portugal)» 
+«Portal Rádios - Directório das emissoras em Língua Portuguesa»

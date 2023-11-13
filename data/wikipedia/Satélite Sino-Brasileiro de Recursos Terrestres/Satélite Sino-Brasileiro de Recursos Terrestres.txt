@@ -1,0 +1,82 @@
+CBERS (sigla para China-Brazil Earth-Resources Satellite; em português, Satélite Sino-Brasileiro de Recursos Terrestres) é um programa de cooperação tecnológica entre China e Brasil para a produção de uma série de satélites de observação da Terra: CBERS-1, CBERS-2, CBERS-2B, CBERS-3 e CBERS-4.
+
+
+== História ==
+Na década de 1980, países emergentes como Brasil e China, estavam dependentes das imagens fornecidas por satélites de outras nações. Nessa época, uma das prioridades do governo chinês era o desenvolvimento da área espacial. Já no Brasil, o programa de satélites da Missão Espacial Completa Brasileira (MECB), avançava, com o projeto do SCD-1. Enquanto o Brasil já possuía familiaridade com a alta tecnologia e um parque industrial mais moderno, a China possuía experiência tanto na construção de satélites, quanto na construção de foguetes lançadores.Todo esse conjunto de fatores, levaram à assinatura em 6 de julho de 1988, de um acordo de parceria envolvendo o INPE (Instituto Nacional de Pesquisas Espaciais), vinculado ao MCTI pelo lado brasileiro, e a CAST (China Academy of Space Technology), vinculada à CASC pelo lado chinês, para o desenvolvimento de um programa de construção de dois satélites avançados de sensoriamento remoto, denominado Programa CBERS (China-Brazil Earth Resources Satellite), envolvendo investimentos superiores a US$ 300 milhões, com responsabilidades divididas (30% brasileiro e 70% chinês), com a intenção de implementar um sistema completo de sensoriamento remoto de nível internacional.Antes da assinatura desse acordo, a China já trabalhava num programa de satélites de sensoriamento, conhecido como Ziyuan ou simplesmente ZY, significando "recurso" em chinês. Na verdade, o satélite ZY-1 FM1 (Zi Yuan-1 Flight Model 1) dessa primeira geração de satélites, foi o que se tornou conhecido no ocidente como CBERS-1. Os satélites CBERS-1 e 2 são idênticos em sua constituição técnica, missão no espaço e em suas cargas úteis, e além de atender às necessidades dos dois Países, visam permitir o ingresso de ambos no emergente mercado de imagens de satélites até então dominado pelos países que integram o bloco das nações desenvolvidas.Dando continuidade ao processo, em 2002 foi assinado um acordo permitindo o avanço do programa CBERS, prevendo a construção de mais dois satélites, os CBERS-3 e 4, com novas cargas úteis e uma nova divisão de investimentos e responsabilidades entre o Brasil e a China - 50% para cada país. Com a proximidade do fim da vida útil do CBERS-2, em 2004 decidiram construir o CBERS-2B e lançá-lo em 2007. O CBERS-2B operou até o começo de 2010. Segundo fontes do MCTI, o CBERS-3 não obteve sucesso em seu lançamento, enquanto o CBERS-4 segue em "ritmo normal de construção".
+
+
+== O uso ==
+Os satélites CBERS, se destinam a monitoração do clima, projetos de sistematização e uso da terra, gerenciamento de recursos hídricos, arrecadação fiscal, imagens para licenciamento e monitoramento ambiental, entre outras aplicações. Suas imagens são utilizadas no Brasil, por empresas privadas e instituições como Ibama, Incra, Petrobras, Aneel, Embrapa e secretarias de Fazenda e Meio Ambiente.Desde 2001 foi estabelecida uma política de distribuição gratuita das imagens CBERS para todos os usuários brasileiros. Essa significância é atestada pelos mais de 15 000 usuários de mais de 1 500 instituições cadastrados como usuários ativos do CBERS, e também nas mais de 300 000 imagens do CBERS distribuídas à razão aproximada de 250 por dia entre órgãos públicos, universidades, instituições, centros de pesquisa e ONGs.Foi assinado no dia 9 de dezembro de 2010, em Joanesburgo, durante o lançamento da SANSA (Agência Espacial Nacional Sul-Africana), um acordo entre Brasil e China para permitir o fornecimento de dados do satélite CBERS-3 para o país. Este acordo faz parte de uma iniciativa dos dois países para o fornecimento e uso gratuitos de dados do satélite por países em desenvolvimento. Este acordo beneficiará também Angola, Botsuana, Lesoto, Moçambique, Essuatíni, Namíbia, Zâmbia e Zimbabwe.
+
+
+== Os satélites ==
+
+
+=== Primeira geração ===
+Os satélites de primeira geração (CBERS-1, 2 e 2B), lançados entre 1999 e 2007, tinham a forma de um paralelepípedo de 1,8 m x 2,0 m x 2,2 m com um painel solar de 6,3 m de comprimento, fixado em uma das suas faces. Uma fonte de alimentação de 1.100 Watts armazenados em duas baterias de Níquel-Cádmio de 30 A-h. Com massa de 1 450 kg, estabilizados nos três eixos por 16 pequenos motores de 1 Newton e mais 2 motores de 20 Newtons, movidos a hidrazina. A vida útil estimada para esses satélites é de dois anos.
+
+
+==== CBERS-1 ====
+
+O CBERS-1 foi o primeiro satélite desenvolvido dentro do acordo de cooperação entre a China e o Brasil.
+O CBERS-1 foi lançado pelo foguete chinês Longa Marcha 4B, do Centro de Lançamento de Taiyuan, em 14 de outubro de 1999.
+Apresenta uma órbita heliossíncrona com uma altitude de 778 km, faz cerca de 14 revoluções por dia e consegue obter a cobertura completa da Terra em 26 dias.
+
+
+==== CBERS-2 ====
+
+O CBERS-2 é tecnicamente idêntico ao CBERS-1. Sua órbita também é heliossíncrona, o que propicia ao CBERS-2 efetuar a cobertura de todo o planeta.
+Esse satélite foi lançado no dia 21 de outubro de 2003, do Centro de Lançamento de Taiyuan, na China. O horário do lançamento foi a 1:16 h de Brasília.
+Ele deixou de funcionar em 15 de janeiro de 2009. O CBERS-2 totalizou 27 mil órbitas completas.
+
+
+==== CBERS-2B ====
+
+O CBERS-2B tecnicamente construído como modelo de provas para CBERS-2. Foi aproveitado como solução intermediária enquanto o CBERS-3 não é lançado.
+
+
+=== Segunda geração ===
+Os satélites de segunda geração (CBERS-3 e 4), com previsão de lançamento entre 2013 e 2016, mantem a forma de um paralelepípedo de 1,8 x 2,0 x 2,2 m com um painel solar de 6,3 m de comprimento, fixado em uma das suas faces. Possuem uma fonte de alimentação mais potente, de 2 300 Watts e massa de 1 980 kg. São estabilizados nos três eixos por motores movidos a hidrazina. A vida útil estimada para esses satélites é de três anos.
+
+
+==== CBERS-3 ====
+
+O CBERS-3 estava previsto para entrar em órbita no final de 2013, visando dar continuidade à missão CBERS depois do encerramento das atividades do CBERS-2B, ampliando a participação brasileira no projeto para 50%. Entretanto, na fase final do lançamento, ocorrido em 9 de dezembro de 2013 a partir da base de lançamentos de Taiyuan no sul da China, ocorreu uma falha no último estágio do foguete cuja propulsão foi interrompida 11 segundos antes do previsto, esse fato impediu o satélite de atingir a órbita pretendida, causando a sua reentrada na atmosfera.
+
+
+==== CBERS-4 ====
+
+O CBERS-4 foi lançado no dia 7 de dezembro de 2014 por um foguete Longa Marcha 4B a partir da base espacial de Taiyuan.
+
+
+== Aplicações ==
+A família de satélites de sensoriamento remoto CBERS trouxe significativos avanços científicos ao Brasil.
+Suas imagens são usadas desde o controle do desmatamento e queimadas na Amazônia Legal, até o monitoramento de recursos hídricos, áreas agrícolas, crescimento urbano e ocupação do solo. Além de ser fundamental para grandes projetos nacionais estratégicos, como o SIVAM e a ocupação de espaço definitivo em diversos programas ambientais.
+
+
+=== Coleta de dados ===
+Os satélites CBERS carregam a bordo repetidores (transponders) para o Sistema Brasileiro de Coleta de Dados Ambientais (SBCDA). Este sistema conta com mais de 800 Plataformas de Coleta de Dados (PCDs) instaladas no território brasileiro, atuando em diversas aplicações, como o monitoramento das bacias hidrográficas, previsão de tempo e estudos climáticos, estudos sobre correntes oceânicas, marés, química da atmosfera, planejamento agrícola, etc.
+
+
+== Vida útil ==
+Vida Útil dos Satélites CBERS:
+
+
+== Referências ==
+
+
+== Ver também ==
+Spot (satélites)
+
+
+== Ligações externas ==
+Instituto Nacional de Pesquisas Espaciais (em português)
+CBERS - Satélite Sino-Brasileiro de Recursos Terrestres (em português)
+Reportagem sobre o CBERS publicada na revista Pesquisa FAPESP (em português)
+Catálogo de imagens CBERS (em português)
+Método alternativo de busca de imagens CBERS (não oficial) (em português)
+CBERS Program Update JACIE 2011 (em inglês)
+
+
+== Leitura adicional ==
+Fabíola de Oliveira (2009). Brasil-China: 20 Anos de Cooperação Espacial. [S.l.]: Cubo. 97 páginas. ISBN 978-85-60064-18-2

@@ -1,0 +1,184 @@
+IPv6 é a versão mais atual do Protocolo de Internet. Originalmente oficializada em 6 de junho de 2012, é fruto do esforço do IETF para criar a "nova geração do IP" (IPng: Internet Protocol next generation), cujas linhas mestras foram descritas por Scott Bradner e Allison Marken, em 1994, na RFC 1752. Sua principal especificação encontra-se na RFC 2460.O protocolo está sendo implantado gradativamente na Internet e deve funcionar lado a lado com o IPv4, numa situação tecnicamente chamada de "pilha dupla" ou "dual stack", por algum tempo. A longo prazo, o IPv6 tem como objetivo substituir o IPv4, que suporta somente cerca de 4 bilhões(escala curta)/mil milhões(escala longa) (4x109) de endereços IP, contra cerca de 340 undecilhões(escala curta)/sextilhões(escala longa) (3,4x1038) de endereços do novo protocolo.O assunto é tão relevante que alguns governos têm apoiado essa implantação. O governo dos Estados Unidos, por exemplo, em 2005, determinou que todas as suas agências federais deveriam provar ser capazes de operar com o protocolo IPv6 até junho de 2008. Em julho de 2008, foi liberada uma nova revisão das recomendações para adoção do IPv6 nas agências federais, estabelecendo a data de julho de 2010 para garantia do suporte ao IPv6. O governo brasileiro recomenda a adoção do protocolo no documento e-PING, dos Padrões de Interoperabilidade de Governo Eletrônico.
+
+
+== Motivações para a implantação do IPv6 ==
+
+
+=== O esgotamento do IPv4 e a necessidade de mais endereços na Internet ===
+O principal motivo para a implantação do IPv6 na Internet é a necessidade de mais endereços, porque a disponibilidade de endereços livres IPv4 terminou.
+Para entender as razões desse esgotamento, é importante considerar que a Internet não havia sido projetada para uso comercial. No início da década de 1980, ela era considerada uma rede predominantemente acadêmica, com poucas centenas de computadores interligados. Apesar disso, pode-se dizer que o espaço de endereçamento do IP versão 4, de 32 bits, não é pequeno: 4 294 967 296 de endereços.
+Ainda assim, já no início de sua utilização comercial, em 1993, acreditava-se que o espaço de endereçamento da Internet poderia se esgotar num prazo de 2 ou 3 anos. Mas, não por causa da limitada quantidade de endereços, e sim por conta da política de alocação inicial, que não era favorável a uma utilização racional desses recursos. Dividiu-se esse espaço em três classes principais (embora atualmente existam, a rigor, cinco classes), a saber:
+
+Classe A: com 128 segmentos/redes, que poderiam ser atribuídos individualmente às entidades que deles necessitassem, com aproximadamente 16 milhões de endereços cada. Essa classe era classificada como /8, pois os primeiros 8 bits representavam a rede, ou segmento, enquanto os demais poderiam ser usados livremente. Ela utilizava o espaço compreendido entre os endereços 00000000.*.*.* (0.*.*.*) e 01111111.*.*.* (127.*.*.*).
+Classe B: com aproximadamente 16 mil segmentos de 64 mil endereços cada. Essa classe era classificada como /16. Ela utilizava o espaço compreendido entre os endereços 10000000.0000000.*.* (128.0.*.*) e 10111111.11111111.*.* (191.255.*.*).
+Classe C: com aproximadamente 2 milhões de segmentos de 256 endereços cada. Essa classe era classificada como /24. Ela utilizava o espaço compreendido entre os endereços 11000000.0000000.00000000.* (192.0.0.*) e 110111111.11111111.11111111.* (213.255.255.*).Os 32 blocos /8 restantes foram reservados para Multicast e para a IANA (Internet Assigned Numbers Authority), entidade que controla a atribuição global dos números na Internet.
+O espaço reservado para a classe A atenderia a apenas 128 entidades, no entanto, ocupava metade dos endereços disponíveis. Não obstante, empresas e entidades como HP, GE, DEC, MIT, DISA, Apple, AT&T, IBM, USPS, dentre outras, receberam alocações desse tipo.
+As previsões iniciais, no entanto, de esgotamento quase imediato dos recursos, não se concretizaram devido ao desenvolvimento de uma série de tecnologias, que funcionaram como uma solução paliativa para o problema trazido com o crescimento acelerado:
+
+O CIDR (Classless Inter Domain Routing), ou roteamento sem uso de classes, que é descrito pela RFC 1519. Com o CIDR foi abolido o esquema de classes, permitindo atribuir blocos de endereços com tamanho arbitrário, conforme a necessidade, trazendo um uso mais racional para o espaço.
+O uso do NAT (Network Address Translation) e da RFC 1918, que especifica os endereços privados, não válidos na Internet, nas redes corporativas. O NAT permite que, com um endereço válido apenas, toda uma rede baseada em endereços privados, tenha conexão, embora limitada, com a Internet.
+O DHCP (Dynamic Host Configuration Protocol), descrito pela RFC 2131. Esse protocolo trouxe a possibilidade aos provedores de reutilizarem endereços Internet fornecidos a seus clientes para conexões não permanentes.O conjunto dessas tecnologias reduziu a demanda por novos números IP, de forma que o esgotamento previsto para a década de 1990, foi postergado para a década de 2010. Porém, a adoção mundial do IPv6 é lenta: de acordo com o Google, a adoção mundial do IPv6 foi de 2% em 2014, de 5% em 2015, de 8% em 2016, de 14% em 2017, de 20% em 2018, de 25% em 2019, de 30% em 2020, de 33% em 2021 e de 35% em 2022; de acordo com o APNIC, a adoção mundial do IPv6 foi de 2% em 2014, de 3% em 2015, de 5% em 2016, de 9% em 2017, de 16% em 2018, de 19% em 2019, de 24% em 2020, de 27% em 2021 e de 29% em 2022.
+
+
+=== Outros fatores motivantes ===
+O principal fator que impulsiona a implantação do IPv6 é sua necessidade na infraestrutura da Internet. É uma questão de continuidade de negócios, para provedores e uma série de outras empresas e instituições.
+Contudo, há outros fatores que motivam sua implantação:
+
+Internet das Coisas: Imagina-se que, em um futuro onde a computação seja ubíqua, a tecnologia estará presente em vários dispositivos atualmente ainda não inteligentes, que serão capazes de interagir autonomamente entre si - computadores invisíveis interligados à Internet, embutidos nos objetos usados no dia a dia - tornando a vida ainda mais líquida. Pode-se imaginar eletrodomésticos conectados, automóveis, edifícios inteligentes, equipamentos de monitoramento médico, etc. Dezenas, talvez mesmo centenas ou milhares de equipamentos estarão conectados em cada residência e escritório. O IPv6, com endereços abundantes, fixos, válidos, é necessário para fazer desse futuro uma realidade.
+Expansão das redes: Vários fatores motivam uma expansão cada vez mais acelerada da Internet: a inclusão digital, as redes móveis (3G, 4G, 5G), etc. São necessários mais IPs.
+Qualidade de serviço: A convergência das redes de telecomunicações futuras para a camada de rede comum, o IPv6, favorecerá o amadurecimento de serviços hoje incipientes, como VoIP, streaming de vídeo em tempo real, etc, e fará aparecerem outros, novos. O IPv6 tem um suporte melhorado a classes de serviço diferenciadas, em função das exigências e prioridades do serviço em causa.
+Mobilidade: A mobilidade é um fator muito importante na sociedade de hoje em dia. O IPv6 suporta a mobilidade dos utilizadores, estes poderão ser contactados em qualquer rede através do seu endereço IPv6 de origem.
+
+
+== Novidades nas especificações do IPv6 ==
+Espaço de Endereçamento. Os endereços IPv6 têm um tamanho de 128 bits.
+Autoconfiguração de endereço. Suporte para atribuição automática de endereços numa rede IPv6, podendo ser omitido o servidor de DHCP a que estamos habituados no IPv4.
+Endereçamento hierárquico. Simplifica as tabelas de encaminhamento dos roteadores da rede, diminuindo assim a carga de processamento dos mesmos.
+Formato do cabeçalho. Totalmente remodelados em relação ao IPv4: mais simplificado e eficiente.
+Cabeçalhos de extensão. Opção para guardar informação adicional.
+Suporte à qualidade diferenciada. Aplicações de áudio e vídeo passam a estabelecer conexões apropriadas tendo em conta as suas exigências em termos de qualidade de serviço (QoS).
+Capacidade de extensão. Permite adicionar novas especificações de forma simples.
+Encriptação. Diversas extensões no IPv6 permitem, à partida, o suporte para opções de segurança como autenticação, integridade e confidencialidade dos dados.
+
+
+== Formato do datagrama IPv6 ==
+Um datagrama IPv6 é constituído por um cabeçalho base, ilustrado na figura que se segue, seguido de zero ou mais cabeçalhos de extensão, seguidos depois pelo bloco de dados.
+
+Formato do cabeçalho base do datagrama IPv6:
+
+Possui menos informação que o cabeçalho do IPv4. Por exemplo, o checksum foi removido do cabeçalho, já que esta versão considera que o controle de erros das camadas inferiores é confiável.
+O campo Traffic Class (8 bits) é usado para assinalar a classe de serviço a que o pacote pertence, permitindo assim dar diferentes tratamentos a pacotes provenientes de aplicações com exigências distintas. Este campo serve de base para o funcionamento do mecanismo de qualidade de serviço (QoS) na rede.
+O campo Flow Label (20 bits) é usado com novas aplicações que necessitem de bom desempenho. Permite associar datagramas que fazem parte da comunicação entre duas aplicações. Usados para enviar datagramas ao longo de um caminho pré-definido.
+O campo Payload Length (16 bits) representa, como o nome indica, o volume de dados em bytes que pacote transporta.
+O campo Next Header (8 bits) aponta para o primeiro header de extensão. Usado para especificar o tipo de informação que está a seguir ao cabeçalho corrente.
+O campo Hop Limit (8 bits) tem o número de hops transmitidos antes de descartar o datagrama, ou seja, este campo indica o número máximo de saltos (passagem por roteadores) do datagrama antes de ser descartado. Esse campo substitui o TTL do IPv4.
+O campo Source Address (128 bits) indica o endereço de origem do pacote.
+O campo Destination Address (128 bits) indica o endereço de destino do pacote.
+
+
+== Fragmentação e determinação do percurso ==
+No IPv6, o responsável pela fragmentação é o host que envia o datagrama, e não os roteadores intermédios como no caso do IPv4. No IPv6, os roteadores intermédios descartam os datagramas maiores que o MTU da rede. O MTU será o MTU máximo suportado pelas diferentes redes entre a origem e o destino. Para isso o host envia pacotes ICMP de vários tamanhos; quando um pacote chega ao host destino, todos os dados a serem transmitidos são fragmentados no tamanho deste pacote que alcançou o destino.
+O processo de descoberta do MTU tem que ser dinâmico, porque o percurso pode ser alterado durante a transmissão dos datagramas.
+No IPv6, um prefixo não fragmentável do datagrama original é copiado para cada fragmento. A informação de fragmentação é guardada num cabeçalho de extensão separado. Cada fragmento é iniciado por uma componente não fragmentável seguida de um cabeçalho do fragmento.
+
+
+== Múltiplos cabeçalhos ==
+Uma das novidades do IPv6 é a possibilidade de utilização de múltiplos cabeçalhos encadeados. Estes cabeçalhos extra permitem uma maior eficiência, pois o tamanho do cabeçalho pode ser ajustado segundo as necessidades, e uma maior flexibilidade, porque podem ser sempre adicionados novos cabeçalhos para satisfazer novas especificações.
+As especificações atuais recomendam a seguinte ordem:
+
+IPv6
+Hop-By-Hop Options Header
+Destination Option Header
+Routing Header
+Fragment Header
+Authentication Security Payload Header
+Destination Options Header
+Upper-Layer Header
+
+
+== Blocos e alocações ==
+A responsabilidade de alocar e administrar o conjunto de endereços IPv6 foi delegada para a IANA em Dezembro de 1995. Desde então, a IANA distribui os blocos conforme necessário para os RIRs para subsequente delegação para outras entidades.
+
+
+== Endereçamento ==
+O endereçamento no IPv6 é de 128 bits (o quádruplo do IPv4), e inclui prefixo de rede e sufixo de host. No entanto, não existem classes de endereços, como acontece no IPv4. Assim, a fronteira do prefixo e do sufixo pode ser em qualquer posição do endereço.
+Um endereço padrão IPv6 deve ser formado por um campo provider ID, subscribe ID, subnet ID e node ID. O node ID (ou identificador de interface) deve ter 64 bits, e pode ser formado a partir do endereço físico (MAC) no formato EUI 64.
+Para se obter o node ID através do endereço físico no formato EUI 64, deve-se seguir os seguintes passos:
+
+Dividir o endereço físico (MAC) ao meio em dois grupos de 24 bits.
+Adicionar o número hexadecimal FFFE (de 16 bits) entre esses dois grupos de bits.
+Inverter o valor do sétimo bit da esquerda para a direita do número formado pelo segundo passo.Os endereços IPv6 são normalmente escritos como oito grupos de 4 dígitos hexadecimais. Por exemplo,
+
+2001:0db8:85a3:08d3:1319:8a2e:0370:7344Para facilitar a escrita, pode-se abreviar zeros à esquerda e sequências de zeros. Por exemplo,
+
+2001:0db8:85a3:03fa:0000:0000:0000:7344é o mesmo endereço IPv6 que o exemplo anterior:
+
+2001:db8:85a3:3fa::7344Existem no IPv6 tipos especiais de endereços:
+
+unicast - cada endereço corresponde a uma interface (dispositivo).
+multicast - cada endereço corresponde a múltiplas interfaces. É enviada uma cópia para cada interface.
+anycast - corresponde a múltiplas interfaces que partilham um prefixo comum. Um datagrama é enviado para um dos dispositivos, por exemplo, o mais próximo.Diferente do IPv4, no IPv6 não existe endereço broadcast, responsável por direcionar um pacote para todos os nós de um mesmo domínio.
+Com o IPv6 todas as redes locais devem ter prefixos /64. Isso é necessário para o funcionamento da autoconfiguração e outras funcionalidades.
+Usuários de qualquer tipo receberão de seus provedores redes /48, ou seja, terão a seu dispor uma quantidade suficiente de IPs para configurar aproximadamente 65 mil redes, cada uma com 
+  
+    
+      
+        
+          2
+          
+            64
+          
+        
+      
+    
+    {\displaystyle 2^{64}}
+   endereços (18 quintilhões). É preciso notar, no entanto, que alguns provedores cogitam entregar aos usuários domésticos redes com tamanho /56, permitindo sua divisão em apenas 256 redes /64.
+
+
+== Identificadores de Interface (IID) ==
+Os endereços IPv6 são divididos entre a identificação da rede e da máquina. De acordo com o CIDR padrão, os primeiros 64 bits são destinados a rede e os últimos 64 bits a máquina. Estes últimos são os identificadores de interface (IID). Dessa forma, são reservados 
+  
+    
+      
+        
+          2
+          
+            64
+          
+        
+      
+    
+    {\displaystyle 2^{64}}
+   (18.445.744.073.709.551.616) máquinas por rede, que é mais do que o suficiente para a demanda atual e futura.
+Os identificadores de interface (IID), utilizados para distinguir as interfaces dentro de um enlace, devem ser únicos dentro do mesmo prefixo de sub-rede. O mesmo IID pode ser usado em múltiplas interfaces em um único nó, porém, elas dever estar associadas a diferentes sub-redes.
+
+O IID é formado, normalmente,  a partir do endereço físico da máquina (MAC), por isso não é necessário o uso do DHCPv6, que se torna opcional se o administrador deseja ter mais controle sobre a rede.
+O IID baseado em um endereço MAC de 48 bits é criado da seguinte forma:
+
+Primeiramente adiciona-se os dígitos hexadecimais FF-FE entre o terceiro e quarto byte do endereço MAC (transformando em um endereço de 64 bits).
+Em seguida, deve-se complementar o sétimo bit, da esquerda para a direita, do endereço MAC (chamado de bit U/L - Universal/Local), isto é, se for 1, será alternado para 0, e se for 0, será alternado para 1.
+Caso a interface seja baseada em um endereço MAC de 64 bits, o primeiro passo é desnecessário.
+
+
+== Estruturas de endereços de transição ==
+Os endereços IPv6 podem ser mapeados para IPv4 e são concebidos para roteadores que suportem os dois protocolos, permitindo que nos IPv4 façam um "túnel" através de uma estrutura IPv6. Estes endereços são automaticamente construídos pelos roteadores que suportam ambos os protocolos. A coexistência é possível através de tunelamentos em ambos os seguimentos - IPv6 encapsulado em IPv4 e IPv4 encapsulado em IPv6, apesar do primeiro ser muito mais comum e dependente de serviços gratuitos de "Brokers". O Papel do "Broker" é exatamente ser a porta de entrada para o mundo IPv6 através da conexão em IPv4. Existem alguns tipos de tunelamento mais comuns como o TunTap e o 6to4. Como citado em artigo explicando os Prós e Contras dos métodos de coexistência e a transição suave entre as duas tecnologias:
+Para tal, os 128 bits do IPv6 ficam assim divididos:
+
+campo de 80 bits colocado a '0' (zero), 0000:0000:0000:0000:0000 ...
+campo de 16 bits colocado a '1' (um), ... FFFF ...
+endereço IPv4 de 32 bitsEndereços IPv6 mapeados para IPv4:
+
+::FFFF:<endereço IPv4>
+
+
+== Outras estruturas de endereços IPv6 ==
+Existem outras estruturas de endereços IPv6:
+
+Endereços de ISP - formato projetado para permitir a conexão à Internet por utilizadores individuais de um ISP.
+Endereços de Site - para utilização numa Rede Local.
+
+
+== Adoção do IPv6 no mundo ==
+Mesmo com a previsão e o pleno esgotamento de endereços IPv4 em diversas partes do mundo, a adoção do IPv6 se dá de maneira discrepante nos países do globo. A Google é apenas uma das empresas que coleta estatísticas sobre a adoção do IPv6 na Internet de maneira contínua, disponibilizando um gráfico da porcentagem de usuários que acessam o Google por meio do IPv6 e um mapa da adoção do protocolo por país.
+O país com a maior quantidade de usuários do Google que adotaram o IPv6 é a Bélgica, sendo 52% deles com acesso ao protocolo. A Akamai, outra empresa que disponibiliza estatísticas relacionadas a adoção do IPv6 aponta a Índia como o país com a maior implantação, contando com 62,4% de adoção. Em ambos os sites, as menores porcentagens de adoção estão em diversos países das regiões do Oriente Médio, norte e oeste da África, muitos contando com 0%.
+Apesar da implantação do IPv6 ser uma tendência devido ao esgotamento do IPv4, não é obrigação dos ISPs da maioria dos países dar o suporte a este protocolo de internet. A Bielorrússia foi o primeiro país a tomar um posicionamento legislativo, determinando que a partir de 1 de janeiro de 2020 todos os provedores seriam obrigados a dar suporte ao protocolo IPv6 e fornecer endereços IPv6 a todos os seus clientes. Pelas análises do Google, a porcentagem dos usuários da Bielorrússia que contam com o IPv6 para acessar o site são de apenas com 4.67%.
+
+Atualmente, a maioria dos servidores web e datacenters contam com o IPv4 juntamente ao IPv6. Porém, a tendência é que, com o aumento contínuo da adoção do protocolo mais recente, seja optado o uso apenas desse, possibilitando uma redução de custos de operação, diminuição da complexidade e eliminação de vetores de ameaça relacionados ao trabalho com dois protocolos.  O Escritório de Gestão de Orçamento (OMB) dos Estados Unidos planeja para o ano de 2021 um plano de implementação do IPv6, visando que, ao fim 2025, 80% das redes federais com IP habilitado utilizem apenas do protocolo IPv6. 
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Curso e-learning Introdução ao IPv6, do CGI.br / NIC.br
+Sítio sobre IPv6 do Comitê Gestor da Internet brasileiro
+Task Force IPv6 Portuguesa
+IPv6 na RCTS
+Sítio Internet sobre o IPv6 do LACNIC
+Projeto português da Escola Superior de Tecnologia e Gestão de Leiria
+Capítulo online sobre IPv6 do livro "Redes, Guia Prático"
+Estatísticas sobre a exaustão do IPv4
+Diferenças entre IPv4 e IPv6
+Migrações de Redes IPv4 para IPv6 - Projeto de graduação para redes legadas
+Visualização da adoção de IPv6
+Endereçamento IPv6 - Identificadores de Interface

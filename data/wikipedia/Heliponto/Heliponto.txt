@@ -1,0 +1,38 @@
+Um heliponto é um aeródromo destinado exclusivamente às operações de aterragem e decolagem de helicópteros.
+Diferente dos heliportos, um heliponto não conta com instalações complementares, como áreas de taxiamento, reabastecimento, pátios, hangares, oficinas, entre outros.
+
+
+== Classificação ==
+Por se tratarem de aeródromos, os helipontos são classificados segundo a mesma lógica, ou seja, como civis ou militares.
+Os helipontos também podem ser subclassificados como públicos ou privados. 
+Todo heliponto militar é público, sendo o seu uso permitido ou restringido de acordo com as prescrições da autoridade aeronáutica. 
+Já os helipontos civis podem ser ou públicos ou privados. E, ao contrário dos helipontos públicos, os helipontos privados não podem ser explorados para fins comerciais.
+
+
+== Estrutura ==
+Os elementos componentes de um heliponto são: area de Toque (AT) ou Touchdown and Lift-Off area (TLOF); área de Pouso ou Decolagem (APD) ou Final Approach and Take-Off area (FATO); área de Segurança (AS) ou Periférica
+O dimensionamento de cada um elemento é determinado pelo porte do helicóptero que se espera faça uso do heliponto e do nível de atividade do mesmo.
+
+
+== Legislação ==
+
+
+=== Brasil ===
+Em uma decisão inédita no Brasil, o município de São Paulo incluiu, em seu Plano Diretor Estratégico de 2002, um dispositivo que condiciona a instalação e operação de helipontos na cidade à apresentação preliminar de um "Estudo de Impacto de Vizinhança - EIV". São Paulo possui mais de 200 helipontos.
+
+
+== Ver também ==
+Aeródromo
+Aeroporto
+Helicóptero anfíbio
+Heliporto
+Porta-helicóptero
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«Plano Diretor Estratégico do município de São Paulo». Consultado em 8 de março de 2014 
+«Lista de aeródromos públicos do Brasil». Planilha (arquivo XLS) mantido pela ANAC. Os heliportos porventura existentes no Brasil constam nessa planilha. Consultado em 8 de março de 2014 
+«Lista de aeródromos privados do Brasil». Planilha (arquivo XLS) mantido pela ANAC. Os helipontos existentes no Brasil constam nessa planilha. Consultado em 8 de março de 2014

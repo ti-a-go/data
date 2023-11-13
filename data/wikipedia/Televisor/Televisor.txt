@@ -1,0 +1,93 @@
+Televisor, também chamado televisão (do grego τῆλε [tele] e do latim visione [visão]), é um sistema eletrônico de reprodução audiovisual de forma instantânea. Funciona a partir da análise e conversão da luz e do som em ondas eletromagnéticas e de sua reconversão. As câmeras e microfones captam as informações visuais e sonoras, que são em seguida convertidas de forma a poderem ser difundidas por meio eletromagnético ou elétrico, via cabos; o televisor capta as ondas eletromagnéticas e através de seus componentes internos as converte novamente em imagem e som.
+
+
+== História ==
+A invenção da primeira televisão, é da autoria de Philo Farnsworth, um jovem rapaz norte americano. Apesar de ser atribuída muitas vezes a invenção a Vladimir Zworykin, a primeira televisão funcional foi desenvolvida por Philo Farnsworth. Após ter desenvolvido o projecto funcional, a RCA que detinha o império nas comunicações rádio, queria também deter o monopólio da televisão. Este foi um problema para a RCA, pois não tinha investigadores com capacidades para desenvolver um projecto como este, até encontrar um cientista genial na época, Vladimir Zworykin, que já estaria a desenvolver um projecto semelhante, mas que apresentava demasiados problemas na transmissão de imagem. Nesta época, começa um processo judicial, para se saber a quem pertencia a patente da primeira televisão, e a RCA com os seus excelentes advogados conseguiram atrasar o processo de desenvolvimento de Philo Farnsworth, que tratando-se de um investigador com poucos recursos financeiros, começou a atrasar o seu projecto. Só ao fim de algumas dezenas de meses o tribunal atribuí a primeira patente como sendo de Philo Farnsworth no ano de 1922. Como Philo Farnsworth não tinha dinheiro para investir, depois de ter começado a se refugiar no álcool, e tendo a sua patente não renovada na década de 40, a RCA conseguiu ter acesso livre aos registos de Philo, e é dessa forma que, após a criação da NBC, a patente da primeira televisão é atribuída a Vladimir Zworykin, que tinha também ele feito uma patente em 1923.
+
+Em 1923, Vladimir Zworykin registra a patente do tubo iconoscópico, para a transmissão de imagens. Este dispositivo foi o precursor das câmeras televisivas. O primeiro sistema semimecânico de televisor analógico foi demonstrado por John Logie Baird, em 26 de janeiro de 1926, em Londres, e dois anos depois, em fevereiro de 1928, imagens em movimento foram transmitidas por Baird de Londres para Nova Iorque. Esse sistema era composto de um disco giratório perfurado, no qual luzes de néon se acendiam por detrás; respondendo ao sinal de uma estação de rádio que capturava as imagens através de um disco idêntico. Os ruídos provocados pelo aparelho dificultavam a emissão sonora, mas mesmo assim, foi o primeiro aparelho a reproduzir imagens em movimento com 32 linhas de resolução.O primeiro serviço analógico foi a WGY em Schenectady, Nova Iorque, inaugurado em 11 de maio de 1928. Os primeiros televisores eram rádios com um dispositivo que consistia num tubo de néon com um disco giratório mecânico (disco de Nipkow), que produzia uma imagem vermelha do tamanho de um selo postal. O primeiro serviço de alta definição apareceu na Alemanha em março de 1935, mas estava disponível apenas em 22 salas públicas. Uma das primeiras grandes transmissões televisivas foi a dos Jogos Olímpicos de Berlim de 1936. O uso do televisor aumentou enormemente depois da Segunda Guerra Mundial devido aos avanços tecnológicos surgidos com as necessidades da guerra e à renda adicional disponível (televisores na década de 1930 custavam o equivalente a sete mil dólares – cotação de 2001 – e havia pouca programação disponível).
+A primeira transmissão em cores ocorreu comercialmente em 1954, na rede norte-americana NBC. Um ano antes o governo dos Estados Unidos aprovou o sistema de transmissão em cores proposto pela rede CBS, mas quando a RCA apresentou um novo sistema que não exigia alterações nos aparelhos antigos em preto e branco, a CBS abandonou sua proposta em favor da nova.
+Em 1960, a japonesa SONY introduziu no mercado os televisores com transístores. Até então empregavam-se válvulas, tanto tubos a vácuo quanto tiratrons. O satélite Telstar transmitia os sinais através do Oceano Atlântico. A miniaturização chegou em 1979 quando a Matsushita registrou a patente do televisor de bolso com tela plana.
+Tendo início na década de 1920, o televisor moderno evoluiu ao longo das décadas e divide-se em três tendências distintas:
+
+Aparelhos televisores, somente;
+Sistemas integrados com aparelhos de DVD e/ou Vídeo-game, montados no próprio televisor (geralmente modelos menores com telas até 17 polegadas, pois a ideia é ter um sistema portátil completo);
+Sistemas independentes com tela grande (monitor de vídeo, rádio, sistema de som) para o usuário montar as peças como um home theater. Este sistema interessa aos videófilos e cinéfilos que preferem componentes que podem ser trocados separadamente.
+Televisores multimídia e interativos, com acesso à internet.Há vários tipos de telas ou ecrãs de projeção usados nos televisores modernos. A maior parte das televisões de tela grande (até mais de 100 polegadas) usa tecnologia de projeção. Quatro tipos de sistemas de projeção são usados nos televisores: tubos de raios catódicos (CRT), cristal líquido (LCD), diodo orgânico emissor de luz (OLED) e circuitos integrados (chips) de imagem refletida.[carece de fontes?] Avanços recentes trouxeram telas planas aos televisores que usam tecnologia de cristal líquido de matriz ativa ou tela de plasma. Televisores de tela grande e plana têm apenas quatro polegadas de espessura e podem ser pendurados na parede como um quadro. Os televisores de LCD e plasma possuem em média 7,5 cm de espessura e telas que variam de 3,5 a 65 polegadas. Em 2008, foi lançada a DTV portátil, com tela de 3,5 polegadas e sintonizador de TV digital. Muitas marcas implantaram decodificadores digitais nas TVs e utilizam de resoluções Full HD.
+
+
+== Tipos de televisores ==
+O aparelho televisor em sua forma original e ainda a mais popular, envolve a transmissão de som e imagem em movimento por ondas de radiofrequência (RF), que são captadas pelo equipamento. Neste sentido, pode ser considerado uma evolução do rádio.
+
+
+=== TV de CRT ===
+
+As televisões de CRT (acrônimo do termo em inglês cathode ray tube) funcionam através da interação química entre elétrons e o fósforo presente nas telas. Na sua traseira, encontram-se canhões formados por um cátodo e um aquecedor de tungstênio que, ao aquecer o sistema, induz a emissão de elétrons pelo cátodo. A nuvem de elétrons produzida é extraída, acelerada por um ânodo e orientada em um raio de elétrons, que percorrerá o comprimento do tubo, evacuado para evitar a interação entre os elétrons e as partículas de ar. Devido à sua carga, o raio de elétrons interage eletromagneticamente com os campos aplicados ao longo do tubo, defletindo sua trajetória. Em televisões e monitores, geralmente utiliza-se da deflexão magnética, uma vez que ela permite maiores desvios angulares e a produção de imagens mais brilhantes. Após canalizados, os elétrons chocam-se com a placa de fósforo na dianteira do equipamento, produzindo fosforescência que forma as imagens. As TV’s de tubo coloridas possuem três canhões que emitem elétrons capazes de acertar um dos três alvos coloridos na tela, nas cores azul, verde e vermelho (padrão RGB), formando todas as combinações de cores perceptíveis. Esses aparelhos foram os mais populares entre os anos 1920 e 2010, mas devido ao seu tamanho e resolução, foram rapidamente substituídos pelos equipamentos mais modernos.
+Novas tecnologias foram surgindo com o tempo:
+
+
+=== LCD TV ===
+Surgiu no início dos anos 2000. Um display de cristal líquido, acrônimo de LCD (em inglês liquid crystal display), painel fino usado para exibir imagens por via eletrônica. Utilizam as propriedades dos cristais líquidos e possuem uma luz de fundo gerada na parte de trás (backlight, que geralmente pode ser LED ou lâmpadas fluorescentes de cátodos frios). A tela de LCD é onde se formam as imagens e é composta de duas placas de vidro, com um cristal líquido entre elas. Ela possui um grid de pixels, onde cada pixel possui três subpixels, para as cores vermelho, verde e azul (RGB), cuja composição formam as demais cores que vemos. As duas placas de vidro possuem filtros polarizadores, de modo que a luz (que são ondas eletromagnéticas), ao passar pela primeira placa de vidro, terá a direção de seu campo elétrico alterada, portanto será polarizada (a luz passa a se propagar em um plano específico). Ao encontrar o cristal líquido, o plano da luz polarizada sofre um desvio de 90°, e depois passará pela segunda placa de vidro e pelo segundo polarizador, que tem direção de polarização de 90° em relação ao primeiro, causando a iluminação da TV ao atingir os pixels. Ao aplicar uma tensão elétrica, as moléculas de cristal líquido tendem a se orientar na direção do campo elétrico formado, não desviando a luz polarizada que saiu da primeira placa, de modo que não têm a orientação correta para passar pelo segundo polarizador, o que não ilumina a tela (TV desligada).
+
+Portanto, os cristais líquidos agem como filtros que controlam a luz polarizada, permitindo ligar ou desligar os pixels, controlando a passagem de luz em cada um dos pontos, e assim, controlando a imagem que é vista na tela. A televisão de LCD tem muitas vantagens em relação aos aparelhos antigos de tubos de raios catódicos, já que permite que sua espessura seja muito menor e sua eficiência maior, contudo, também tem algumas desvantagens, como o fato de que não produz a cor preta verdadeira, uma vez que a backlight nunca é desligada.
+
+
+=== TV a laser ===
+
+Consegue exibir cerca de 90% das cores, em comparação com os 30% a 40% das outras tecnologias, lançada em 2008.
+
+
+=== HDTV e UHDTV ===
+
+A televisão de alta definição apresenta uma resolução de tela superior ao formatos tradicionais.
+
+
+=== LED TV e OLED TV ===
+
+Utilizam diodos emissores de luz (LEDs) ou diodo orgânico emissor de luz (OLED) por trás de um display de cristal líquido (LCD). Por permitir o controle da intensidade luminosa por região da tela, proporciona tonalidades mais definidas das cores, ao contrário das LCD convencionais.A tecnologia OLED utiliza diodos emissores de luz (LEDs) nos quais a camada eletroluminescente emissiva é um filme de composto orgânico que emite luz em resposta a uma corrente elétrica. Um OLED típico é composto por uma camada de materiais orgânicos situada entre dois eletrodos, o ânodo e o cátodo, todos depositados sobre um substrato. As moléculas orgânicas são eletricamente condutoras como resultado da deslocalização dos elétrons pi causada pela conjugação sobre parte ou toda a molécula. Esses materiais possuem níveis de condutividade que variam de isolantes a condutores, sendo, portanto, considerados semicondutores orgânicos.
+
+A tecnologia OLED é considerada uma evolução das telas LED. Enquanto esta última conta com retroiluminação (feita por uma camada de cristal líquido na frente e uma iluminação traseira), a OLED dispensa o backlight e traz pixels que se iluminam sozinhos. Portanto, nas TVs OLED cada pixel é capaz de emitir a sua própria luz em resposta a uma corrente elétrica, e, por isso, cada pixel também pode ser desligado completamente. Diante disso, uma televisão OLED funciona sem luz de fundo, assim ela pode exibir níveis profundos de preto e pode ser mais fina e mais leve que uma televisão de cristal líquido (LCD). Em condições de pouca luz ambiente, como uma sala escura, uma tela OLED pode atingir uma taxa de contraste mais alta do que um LCD, independentemente de o LCD usar lâmpadas fluorescentes de cátodo frio ou luz de fundo LED. Espera-se que os OLEDs substituam outras formas de exibição em um futuro próximo. As únicas desvantagens das Smart TVs com tela OLED é o custo elevado e a vida útil um pouco reduzida em comparação às de LED.
+
+
+=== Smart TV ===
+
+Televisor interativo com acesso à internet e tecnologia Wi-Fi. Integração com smartphones e outros dispositivos móveis.
+
+
+=== Quantum dot TV ===
+
+A tecnologia de en [en] (Q-LED, QD-LED, QD-OLED etc.) utiliza nanocristais semicondutores que produzem as cores puras vermelho, verde e azul. Foi lançada no início de 2016 pela TCL. No final de 2016, a Samsung incorporou a tecnologia em seu modelo 65JS9000, de 65 polegadas.
+
+
+== Teledifusão ==
+Há vários tipos de sistemas de teledifusão:
+
+Teledifusão terrestre
+NTSC, PAL, PAL-M, PAL2, SECAM usando sinal analógico
+DVB, ATSC, ISDB usando sinal digital
+Sistemas de transmissão do som
+NICAM, MTS
+Via satélite, usando sinal digital ou sinal analógico.
+TV a cabo
+Há tanto o sistema analógico quanto o digital.
+Novas tecnologias: Sinal digital (DTV) -- televisor de alta definição (HDTV) -- pay-per-view -- Web TV—programação sob encomenda.
+
+
+== Ver também ==
+Televisão 3D
+Televisão aberta
+Televisão por assinatura
+Televisão por satélite
+Televisor portátil
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Barnouw, Erik: Tube of Plenty: The Evolution of American Television, Oxford University Press 1992
+Bourdieu, Pierre: Sobre a televisão, Jorge Zahar 1997
+
+
+== Ligações externas ==
+
+Museu Brasileiro da Rádio e Televisão

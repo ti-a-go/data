@@ -1,0 +1,109 @@
+4G é a sigla para a Quarta Geração (em inglês: Fourth Generation) de telefonia móvel. O 4G está baseada totalmente em IP, sendo um sistema e uma rede, alcançando a convergência entre as redes de cabo e sem fio e computadores, dispositivos eletrônicos e tecnologias da informação para prover velocidades de acesso entre 100 Megabit/s em movimento e 1 Gigabit/s em repouso, mantendo uma qualidade de serviço (QoS) de ponta a ponta (ponto-a-ponto) de alta segurança para permitir oferecer serviços de qualquer tipo, regularmente e independentemente da localização.
+
+
+== Processo de desenvolvimento ==
+No Japão está se experimentando com as tecnologias de quarta geração, com a NTT DoCoMo à vanguarda. Esta empresa realizou as primeiras provas com sucesso absoluto (alcançando 10 Mbps a 20 Mbps) e esperava lançar comercialmente os primeiros serviços de 4G no ano 2010.
+O conceito 4G vai muito além de telefonia móvel, já que não pode ser considerada uma evolução dos padrões de telefonia celular, tais como as existentes no mercado até 3G. As novas tecnologias de redes banda larga móvel (sem fio) permitirão o acesso a dados em dispositivos que operam com IP, desde handsets até CPEs (equipamentos para conversão de dados para uso em equipamentos finais tais como TVs e telefones). Atualmente há duas tecnologias que são mais exploradas na indústria: WiMAX e LTE (Long Term Evolution), ambas ainda passíveis de definições de uso por questões regulatórias por parte de governos e padronizações nas indústrias de hardware.
+Os grandes atrativos do 4G são a convergência de uma grande variedade de serviços até então somente acessíveis na banda larga fixa, bem como a redução de custos e investimentos para a ampliação do uso de banda larga na sociedade, trazendo benefícios culturais, melhoria na qualidade de vida e acesso a serviços básicos tais como comunicação e serviços públicos antes indisponíveis ou precários à população.
+4G está sendo desenvolvido prevendo oferecer serviços baseados em banda larga móvel tais como Multimedia Messaging Service (MMS), video chat, mobile TV, conteúdo HDTV, Digital Video Broadcasting (DVB), serviços básicos como voz e dados, sempre no conceito de uso em qualquer local e a qualquer momento. Todos os serviços deverão ser prestados tendo como premissas a otimização do uso de espectro, troca de pacotes em ambiente IP, grande capacidade de usuários simultâneos, banda mínima de 100 Mbps para usuários móveis e 1 Gbit/s para estações fixas, interoperabilidade entre os diversos padrões de redes sem fio.
+
+
+== Brasil ==
+A faixa de 700 MHz que hoje é destinada à televisão analógica aberta e que inicia o processo de desligamento em 2016 se encerrando em 2018, poderia ser utilizada, pois os canais que seriam afetados são poucos, e no UHF restaria ainda disponível a faixa de canais entre o 14 e 51 e para TV digital também seria usado a faixa do VHF do 7 ao 13.O governo brasileiro fez o leilão da faixa 2,5 giga-hertz (GHz), onde a cobertura será muito menor e mais cara porque precisará de muito mais antenas, e os celulares e tablets oriundos dos Estados Unidos e Europa não funcionarão aqui, a exemplo do Apple iPad 3, Apple iPad 4, Apple iPad mini e iPhone 5 que só funcionam em 700 MHz. Da Apple, somente o novos iPhone 6, iPhone 6 Plus, iPhone 5S (modelo A1457) e 5C (A1507) são compatíveis com o 4G brasileiro (banda 7). Fabricantes como a Qualcomm, líder em tecnologia 4G, recomendam o uso do espectro de 700 MHz na América latina. Dos modelos do Samsung Galaxy S5, lançado em abril de 2014, só o SM-900F funcionará no Brasil (2.5 GHz)O iPhone 5, iPad 3, iPad , Mini pode-rade funcionar com o processo de implantação do 700 MHz no 4G brasileiro. Liberar os canais de 52 ao 69 em UHF (TV aberta analógica) traria o 4G a um custo menor pois:
+
+Aparelhos como o iPad importados dos EUA e Europa funcionariam no Brasil;
+Custo menor para aumento da cobertura, já que a frequência 700 MHz tem um alcance até 4 vezes maior que o 2,5 GHz.Para acelerar a implantação da tecnologia 4G no Brasil, que deveriam estar plenamente instaladas em todas as cidades-sede da Copa do Mundo de 2014 até 31 de dezembro de 2013, as operadoras de telefonia e concessionárias de serviços de eletricidade estão transformando postes de luz convencionais em antenas 4G, evitando, assim, a construção de novas torres e diminuindo o impacto visual. Estas antenas também poderão operar a tecnologia 2G.A primeira capital brasileira a utilizar comercialmente a tecnologia 4G foi a cidade de Recife, no final do ano de 2012 e logo a seguir, em fevereiro de 2013, Curitiba foi a primeira cidade do sul do Brasil a receber esta tecnologia de internet móvel.Um estudo realizado pela OpenSignal, organização que usa apps de Android e iPhone para analisar conexões móveis, divulgou que o Brasil tem uma das piores redes 4G do mundo, ficando atrás de países como Espanha, Argentina e Itália. Ainda segundo o estudo, a Coreia do Sul tem o melhor sinal 4G, a frente de Japão e Hong Kong.Municípios brasileiros com cobertura 4G por estado
+ Acre
+Rio Branco - Bujari - Cruzeiro do Sul
+ Alagoas
+Arapiraca - Maceió
+ Amapá
+Macapá - Santana - Laranjal do Jari
+ Amazonas
+Iranduba - Itacoatiara - Manaus - Parintins - Careiro - Humaitá - Manacapuru - Manaquiri - Presidente Figueiredo - Rio Preto da Eva
+ Bahia
+Alagoinhas - Barreiras - Feira de Santana - Ilhéus - Itabuna - Juazeiro- Paulo Afonso - Salvador - Vitória da Conquista
+ Ceará
+Aquiraz - Caucaia - Fortaleza - Juazeiro do Norte - Maracanaú - Sobral
+ Distrito Federal
+[Todas as regiões administrativas do Distrito Federal]
+ Espírito Santo
+Cariacica - Domingos Martins - Serra - Vila Velha - Vitória
+ Goiás
+Anápolis - Aparecida de Goiânia - Goiânia - Luziânia - Rio Verde
+ Maranhão
+Açailândia - Bacabal - Imperatriz - Rosário - São José de Ribamar - São Luís
+ Mato Grosso
+Cuiabá - Rondonópolis - Sinop - Várzea Grande
+ Mato Grosso do Sul
+Campo Grande - Dourados - Fátima do Sul - Ponta Porã - Três Lagoas - Água Clara - Amambaí - Aquidauana - Aral Moreira - Bonito - Caarapó - Corumbá - Coxim - Ladário - Maracaju - Naviraí - Nova Alvorada do Sul - Nova Andradina - Ribas do Rio Pardo - Rio Brilhante - São Gabriel do Oeste - Sidrolândia
+ Minas Gerais
+Belo Horizonte - Contagem - Ipatinga - Juiz de Fora - Pouso Alegre - Sete Lagoas - Uberaba - Uberlândia - Vespasiano
+ Pará
+Belém - Ananindeua - Castanhal - Igarapé-açu - Marabá - Santarém - Bragança - Marituba - Benevides - Capanema - Abaetetuba - Bonito - Goianésia do Pará - Marapanim - Salinóplis  - Salvaterra - Santa Maria do Pará - Cametá - Parauapebas - Altamira
+ Paraíba
+Cabedelo - Campina Grande - João Pessoa
+ Paraná
+Cascavel - Curitiba - Foz do Iguaçu - Londrina - Maringá - São José dos Pinhais
+ Pernambuco
+Recife - Caruaru
+ Piauí
+Teresina - Altos - Barro Duro - Campo Maior - Lagoa do Piauí - Olho d'Água do Piauí - Palmeirais - Parnaíba - São Pedro do Piauí - Vera Mendes
+ Rio Grande do Norte
+Acari - Açu - Alexandria - Almino Afonso - Alto do Rodrigues - Angicos - Antônio Martins - Apodi -Areia Branca - Augusto Severo - Baía Formosa - Baraúna - Caicó - Canguaretama - Caraúbas - Carnaubais -Ceará-Mirim - Cerro Corá - Currais Novos - Extremoz - Felipe Guerra - Francisco Dantas - Frutuoso Gomes -Goianinha - Governador Dix-Sept Rosado - Grossos - Guamaré - Ipanguaçu - Ipueira - Itajá - Itaú -Janduís - Jardim de Angicos - Jardim de Piranhas - Jardim do Seridó - João Câmara - João Dias (Rio Grande do Norte) - José da Penha - Jucurutu - Lagoa Nova - Lajes (Rio Grande do Norte) - Lucrécia - Luís Gomes - Macaíba - Macau - Marcelino Vieira - Martins - Maxaranguape - Messias Targino - Monte Alegre - Mossoró - Natal - Nísia Floresta - Nova Cruz - Olho-d'Água do Borges - Paraná - Paraú - Parnamirim - Patu - Pau dos Ferros - Pedro Velho - Pendências - Pilões -Portalegre - Rafael Fernandes - Rafael Godeiro - Riacho da Cruz - Riachuelo - Rio do Fogo - Rodolfo Fernandes - Santa Cruz - Santa Maria - Santo Antônio - São Bento do Norte - São Francisco do Oeste - São Gonçalo do Amarante - São João do Sabugi - São José de Mipibu - São José do Campestre - São Miguel - São Miguel do Gostoso - São Paulo do Potengi - Senador Georgino Avelino - Serra Negra do Norte - Serrinha dos Pintos - Severiano Melo - Taboleiro Grande - Taipu - Tenente Ananias - Tibau - Tibau do Sul - Touros - Triunfo Potiguar - Umarizal - Upanema - Viçosa
+ Rio Grande do Sul
+Bento Gonçalves - Canela - Canoas - Caxias do Sul - Estrela - Farroupilha - Gramado - Lajeado - Novo Hamburgo - Passo Fundo - Pelotas - Porto Alegre - Rio Grande - Santa Cruz do Sul - Santa Maria - São Leopoldo - Viamão - Encantado - Feliz
+ Rio de Janeiro
+[Todos os municípios do estado do Rio de Janeiro]
+ Rondônia
+Ji-Paraná - Porto Velho
+ Roraima
+Boa Vista
+ Santa Catarina
+Florianópolis - Joinville - Campos Novos - Vidal Ramos
+ São Paulo
+[Todos os municípios do estado de São Paulo]
+ Sergipe
+[Todos os municípios do estado de Sergipe]
+ Tocantins
+Araguaína - Palmas
+
+
+== Portugal ==
+Desde Dezembro de 2011 três operadoras portuguesas disponibilizam comercialmente a tecnologia 4G em Portugal.[carece de fontes?]Segundo um estudo da DECO publicado em Novembro na Revista Proteste,  a rede 4G que a ZON Optimus (NOS) disponibiliza é a que apresenta melhor cobertura nos arredores das Zonas urbanas e rurais. Nas principais cidades a Zon Optimus (NOS) e a Meo (Ex-TMN) têm o melhor nível de sinal. A Vodafone é mais restrita apesar de estar bem implantada nos centros urbanos. A norte a rede 4G da Zon Optimus (NOS) é bastante abrangente, sendo até melhor que a própria rede 3G da operadora.
+A cobertura 4G permite velocidades 4x mais rápidas de acesso a Internet a descarregar ficheiros e 8 vezes mais rápida a fazer uploads. (comparando a rede 3G anterior).
+Possibilita uma utilização mais estável e uma utilização mais eficiente, com utilização de mais utilizadores em simultâneo sem sobrecarregar a rede, ideal para utilização de aplicações mais pesadas como VOIP, visualizar vídeos de alta definição.
+
+
+== Ver também ==
+Telefonia móvel de primeira geração (1G)
+Telefonia móvel de segunda geração (2G)
+Telefonia móvel de segunda geração e meia (2.5G)
+Telefonia móvel de terceira geração (3G)
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Como saber se minha região tem cobertura 4G?
+
+TIM:  Mapa de cobertura TIM
+VIVO (SP): Cobertura Vivo
+CLARO: Cobertura 4G Max Claro
+OI: Cobertura 4G Oi
+NEXTEL: Cobertura 4G.
+Claro Internet 4G Max
+Site Direito a Comunicação
+Site Teletime
+UTRA-UTRAN
+Prova de prototipo 4G
+4G VIETTEL
+Website da empresa NTT DoCoMo : HSDPA y 4G
+Direções de pesquisa para a quarta geração
+Redes móveis da próxima geração
+FAQ 4G
+Projeto Ambient Networks Um projeto de pesquisa financiado pela União Europeia para 'Sistemas sem fio e móveis além da 3G"
+«Descrição da 4G móvel». [ligação inativa] 
+Caribbean telecoms investe em redes sem fio de 4G- (27 de junho de 2006) - Caribbean Net News
+Desafios da migração para os sistemas móveis 4G

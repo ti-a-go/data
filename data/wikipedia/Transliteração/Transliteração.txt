@@ -1,0 +1,118 @@
+Transliteração é o processo de mapeamento de um sistema de escrita em outro. No caso da língua portuguesa, o processo de transliteração se dá quando se incluem palavras de idiomas escritos em outros alfabetos em textos em português, o qual utiliza uma versão do alfabeto latino com 26 letras e diacríticos. Por definição, palavras em todas as línguas que não utilizam o alfabeto latino devem ser transliteradas quando utilizadas em textos em português. Dentre os sistemas de escrita mais comuns que requerem transliteração para o alfabeto latino estão a escrita arábica (usada no árabe, persa, urdu, etc.); a hebraica (hebraico moderno, aramaico, iídiche), a cirílica (russo, mongol, tchetcheno), a devanágari (hindi, sânscrito, etc.).
+Uma transliteração pode ser prática ou oficial. As transliterações práticas têm como objetivo facilitar a leitura de palavras estrangeiras escritas em outros sistemas gráficos, as quais podem ou não ser regidas por convenções locais. Por exemplo, a palavra חנוכה, /ˡχanuka/ em hebraico moderno, é transliterada chanucá, chanukah, hannukah ou mesmo ranucá em textos escritos em português, haja vista que não existe uma convenção oficial para a transliteração do hebraico ao português. 
+Por sua vez, os sistemas de transliteração oficiais possuem convenções estabelecidas por órgãos específicos sobre como transpor letras que não têm correspondência direta na escrita de destino. O Romaji, por exemplo, é o método de transliteração do japonês para o alfabeto latino utilizado pelo governo japonês. O sistema de transliteração oficial do mandarim, conhecido como Pinyin, utiliza acentuação gráfica para representar os tons lexicais da língua, exemplo: mā (mãe), má (cânhamo), mǎ (cavalo), mà (xingar).
+
+
+== Transliteração, aportuguesamento e adaptações de caracteres latinos ==
+A transliteração é um processo relacionado, porém distinto, do aportuguesamento, no qual há, necessariamente, uma adaptação aos padrões fonético-fonológicos e morfológicos do português. Por exemplo, o topônimo Pequim é a forma aportuguesadas do nome da capita chinesa 北京  (AFI: /pèɪtɕíŋ/), uma vez que não só adere às regras ortográficas do português como adapta os sons do mandarim inexistentes nas línguas latinas (ex. /k/ para /tɕ/, representado pelo dígrafo <qu>) à fonologia do português. Por outro lado, o nome capital da Geórgia, Tbilisi, é uma transliteração do topônimo თბილისი do alfabeto georgiano ao alfabeto latino sem que haja aportuguesamento do nome, uma vez que /tb/ é um encontro consonantal inexistente no português.
+
+
+=== Adaptações puramente tipográficas ===
+Para línguas como o turco, o húngaro e o vietnamita, escritas no alfabeto latino, mas utilizando diacríticos nem sempre existentes no português, outras regras se aplicam. Nestes casos, é possível manter a acentuação e diacríticos (trema, til, cedilhas), ou por motivos técnicos de tipografia, se for possível reproduzir o caractere exato, é comum usar a letra mais semelhante (como S para Ş ou T para Ŧ).
+Há casos peculiares como o serbo-croata e do inuíte canadense, os quais podem ser escritos tanto no alfabeto latino quanto no cirílico para a primeira e no silabário inuíte para a segunda. Nesses casos, utiliza-se o sistema latino com ou sem diacríticos (comuns em serbo-croata), já que toda palavra tem grafia em duas escritas.
+
+
+== Padrões ortográficos ==
+O Brasil tem um padrão ortográfico de transliteração disseminado pelo Dicionário da Língua Portuguesa de Aurélio Buarque de Hollanda. É o padrão seguido pela imensa maioria das enciclopédias, dicionários e obras de referências redigidas originalmente em português brasileiro (ou seja, excluindo-se as obras traduzidas, como a Larousse e a Britannica). Por ele, é definido que a transliteração deve ser feita usando-se somente as letras do nosso alfabeto e a acentuação gráfica quando necessária, de forma a tornar a grafia a mais próxima possível da pronúncia original. No entanto, esse padrão muitas vezes é desobedecido, por desconhecimento ou preferência de padrões de outras línguas, como o inglês, o alemão e o francês.
+O espanhol tem um padrão relativamente rígido de transliteração. Ele também segue a mesma lógica de escrever como se pronuncia, mas obviamente utilizando as letras de acordo com o som que têm em castelhano. Esse padrão é usado para todas as línguas, de árabe a russo. Por causa disso, vemos nomes como "Ajmed", "Yibrán" e "Jaled", quando estamos acostumados a escrever "Ahmed", "Gibran" e "Khaled".
+No entanto, o padrão espanhol costuma tomar mais cuidado com a pronúncia original do que a grafia brasileira, que induz a erro. Pouca gente sabe, por exemplo, que os nomes russos "Vladimir" e "Boris" são pronunciados com as tônicas em "vlaDImir" e "boRIS", não como "vladiMIR" nem "BOris". Por isso, o acento em 'Vladímir' deve ser mantido, enquanto 'Boris' jamais deve ser acentuado (i.e., "Bóris").
+Como a ortografia da língua portuguesa se parece mais com a francesa para as consoantes (comparar sons de J, CH, R, QU, S e SS) e com espanhol e italiano para as vogais (A, E, I, O, U, semivogais I e U), os padrões de transliteração para português devem ser híbridos entre estas formas – mas, em geral, a forma francesa é a que mais se aproxima da nossa pronúncia. Basta constatar com exemplos como “Jaled” (esp.), “Haled” (it.) e “Khaled” (fr.), ou “Jruschov” (esp.), “Hruščov” (it.) e “Krouschov” (fr.). A única mudança necessária, no último caso, seria trocar o francês “ou” pelo “u” português. Também seria adequado utilizar "tch" no lugar de "ch".
+A consulta a diferentes grafias pelo Google muitas vezes não é recomendada, pois pode induzir a erros e estrangeirismos. Por motivos óbvios, grande parte do conteúdo disponível na internet é escrita em inglês, e nesses casos os nomes que precisam de transliteração seguem o padrão anglófono. Raramente esse padrão vai coincidir com a forma correta no idioma português, pois a ortografia inglesa tem pouco em comum com a portuguesa. Além disso, não custa lembrar que a forma usada pela maioria nem sempre é a correta.[carece de fontes?]
+
+
+=== Recomendações para a imprensa ===
+No Brasil, os órgãos de imprensa costumam publicar manuais de redação e estilo que trazem recomendações sobre os padrões de transliteração a serem adotados no texto jornalístico. Há variações entre eles, mas a maioria concorda com o princípio de que os nomes de outro alfabeto devem ser escritos pela ortografia brasileira (sem K, Y ou W, nem SH ou ZH) segundo o padrão que mais se aproxima da pronúncia original.
+Eis o que dizem os manuais de redação de quatro dos principais jornais brasileiros:
+
+Folha de S.Paulo – “russos - Translitere segundo a pronúncia aproximada. (...) Lembre-se de que muitos topônimos russos chegaram ao português através de outras línguas e não diretamente do russo. Assim, escreve-se Moscou e não Moskva, São Petersburgo e não Sankt Peterburg.
+chinês - Para a República Popular da China, existe uma transliteração oficial denominada Pinyin, que entrou em vigor em 1979. Ela substitui a velha Wade-Giles, com a vantagem de eliminar os hifens e apóstrofos.
+árabes – (...) A Folha faz algumas adaptações nas transliterações enviadas pelas agências. Substitua os YY e WW por II e UU, respectivamente, exceto quando a combinação resultar numa vogal geminada. Se isso ocorrer, elimine uma delas: Kuwait=Kuuait=Kuait. Substitua o SH por CH: Shatt al Arab=Chatt al Arab. Mantenha o H em qualquer situação que ele apareça.
+outras línguas - São sempre louváveis os esforços para escrever em português nomes de línguas grafadas em alfabetos não-latinos."
+A Folha de S.Paulo traz ainda muitos mais detalhes para árabe, chinês e russo, que podem ser consultados na íntegra na edição online do manual. No entanto, há três normas ortográficas gerais, que valem para todas as transliterações no jornal:
+
+“Use GU antes do E e I. [para o som de /G/ não virar /J/]
+Use SS em posição intervocálica. [para o som de /S/ não virar /Z/]
+Acentue os nomes e topônimos de acordo com as normas do português.”O manual de estilo das revistas da Editora Abril segue orientação semelhante à d’O Globo – isto é, grafar de acordo com a ortografia corrente em português (sem Y ou W, mas abrindo exceção ao K e acentuando quando necessário).
+
+
+== Transliteração de línguas específicas ==
+Algumas línguas e sistema de escrita específicos apresentam dificuldades particulares de transcrição, e são tratados em páginas separadas.
+
+Oriente Próximo Antigo
+Transliteração de escritas cuneiformes
+Hieróglifos egípcios
+hieróglifos Luwianos
+Línguas semíticas
+Alfabeto ugarítico
+Alfabeto hebraico
+Transliteração de hebraico para português
+Alfabeto árabe
+Transliteração de árabe para português
+Língua grega
+Alfabeto grego
+Transliteração de grego antigo para português
+Linear B
+Alfabeto cirílico
+Transliteração de cirílico para português
+Transliteração de russo para português
+Transliteração do ucraniano
+Transliteração do búlgaro
+Família brâmica
+Devanagari
+Pali
+Tocariano
+Língua japonesa
+Romaji Transliteração do japonês para a escrita latina
+Transcrição de português para japonês
+Cirilização do japonês
+Língua chinesa
+Pinyin
+Wade-Giles
+Bopomofo
+Penkyamp
+Língua coreana
+McCune-ReischauerDifere da transcrição, que mapeia os fonemas de uma língua para a escrita de outra. A maioria das transliterações mapeia as letras de uma escrita-fonte para letras de pronúncia similar na escrita-alvo.
+
+
+== Normas ISO de transliteração ==
+A Organização Internacional de Padrões (ISO) estabelece algumas normas oficiais de transliteração, mas todas orientadas para língua inglesa (não servem para português). As normas disponíveis para consulta no site da ISO www.iso.ch apenas mediante pagamento.
+
+ISO 9 Informação e documentação — Transliteração de caracteres Cirílicos nos caracteres Latinos — Linguagens eslavas e não-eslavas
+ISO 233:1984 — Transliteração de caracteres arábicos em caracteres latinos
+ISO 233-2:1993 — Transliteração de caracteres arábicos em caracteres latinos — Parte 2: transliteração simplificada
+ISO 259:1984 — Transliteração de caracteres hebraicos em caracteres latinos
+ISO 259-2:1994 — Transliteração de caracteres hebraicos em caracteres latinos — Parte 2: transliteração simplificada
+ISO 843 — Grego
+ISO 3602 — Japonês
+ISO 7098 — Chinês
+ISO 9984 — Georgiano
+ISO 9985 — Armênio
+ISO 11940 — Tailandês
+ISO 11941 — Coreano (sistemas diferentes para Coréia do Norte e do Sul)
+ISO 15919 — Alfabetos indianosOutras línguas com alfabeto próprio (artificial):
+
+Silábico Canadense (Canadá)
+Cherokee (EUA)
+
+
+== Bibliografia ==
+
+
+== Ligações externas ==
+Transliteration of Non-Roman Scripts, tabelas de transliteração de várias línguas orientadas ao inglês
+Dúvidas sobre transliteração em português, especificamente eslavas
+guia mais detalhado
+Importação-Exportação de Termos
+Empréstimos Lingüísticos: Tradição e Atualidade
+Aliança Cultural Brasil-Japão - Romaji, transliteração de japonês para latino
+Projeto Gutenberg – transliteração do grego
+Projeto Gutenberg – Perguntas Freqüentes dos Voluntários
+Yoga Nataraja - transliteração de devanagári (sânscrito)
+Eesti Keele Instituut - Collection of Transliteration Tables for many Non-Roman Scripts.
+United Nations Group of Experts on Geographical Names (UNGEGN) - Working Group on Romanization Systems.
+SIL International - Provides free fonts for transliteration and IPA.
+Automatic Cyrillic Converter
+Library of Congress: Romanization
+Transliteration history - history of the transliteration of Slavic languages into Latin alphabets.
+Transliteration of Indic Scripts Arquivado em 14 de abril de  2016, no Wayback Machine. - How to use ISO 15919
+Al's Hebrew Transliterator Arquivado em 6 de fevereiro de  2005, no Wayback Machine. - converts phonetic Hebrew (using Latin alphabet) into Hebrew & HTML unicode.«Transcrição fonética de palavras automática e pronúncia fonética». por Easy Pronunciation

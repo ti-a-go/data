@@ -1,0 +1,52 @@
+A decolagem (português brasileiro) ou descolagem (português europeu) é a fase inicial do voo de um avião em que o veículo adquire a velocidade necessária para obter a sustentação para alçar voo.
+A decolagem é a fase em que geralmente se utiliza a maior potência dos motores.
+A decolagem e o pouso são considerados os momentos mais críticos do voo. Nesses procedimentos são necessários cuidados adicionais da tripulação para evitar acidentes.
+
+
+== Variáveis envolvidas e limite de peso ==
+Na decolagem é necessário que os motores desenvolvam potência suficiente para vencer quatro variáveis:
+
+Inércia
+Atrito dos pneus com a pista
+Força da gravidade
+Resistência do arÉ o momento em que se aplica a potência máxima nos motores, estando a aeronave normalmente com seu peso máximo (Maximum Take-Off Weight). Este limite máximo de peso na decolagem é estabelecido pelo fabricante e certificado pelas autoridades aeronáuticas para cada modelo de aeronave.
+
+
+== Parâmetros de segurança ==
+Existem fatores que definem o momento em que a tripulação pode iniciar a decolagem ou abortá-la de imediato, em caso de falha crítica da aeronave. São definidos pela tripulação segundo a configuração da aeronave e as condições de funcionamento, como as condições da pista, pressão atmosférica, temperatura ambiente, versão e peso da aeronave.Os fatores que estão associados diretamente ao procedimento de decolagem, são:
+V1 - velocidade máxima durante a decolagem na qual o piloto pode parar com segurança a aeronave sem sair da pista. É também a velocidade mínima que permite ao piloto prosseguir em segurança para decolagem, mesmo que ocorra uma falha crítica entre V1 e V2.
+V2 - velocidade de segurança para a decolagem. Acima desta velocidade, a decolagem deve prosseguir e não poderá ser abortada, a menos que haja razões para crer que o avião não irá manter-se no ar.
+V2min - velocidade mínima para a decolagem.
+V3 - velocidade de retração dos flaps.
+VEF - velocidade em que ocorre uma falha crítica do(s) motor(es) durante a decolagem.
+VFTO - velocidade final na decolagem.
+VMCG - velocidade mínima de controle em solo com falha crítica de motor(es).
+VMCA - velocidade mínima de controle em voo com falha crítica de motor(es).
+VR - velocidade de rotação (início da decolagem), momento em que que o trem de pouso "de nariz" sai da pista.
+
+
+=== Relações entre os fatores ===
+V1 > VMCG
+VR ≥ V1 > VMCA
+V2 > VMCA > VR
+
+
+== Tipos de decolagem ==
+CATOBAR (decolagem assistida por catapulta e recuperação por arresto).
+CTOL (decolagem e aterrissagem convencionais).
+JATO (decolagem com propulsão extra fornecida por foguetes).
+STOBAR (decolagem curta e recuperação por arresto).
+STOL (decolagem e aterrissagem curtas).
+STOVL (decolagem curta e aterrissagem vertical).
+V/STOL (decolagem e aterrissagem vertical ou em espaço reduzido).
+VTOL (decolagem e aterrissagem verticais).
+VTOHL (decolagem vertical e aterrissagem horizontal).
+ZLTO (lançamento de aviões anexados a foguetes).
+
+
+== Ver também ==
+Aterragem
+VTOL
+
+
+== Referências ==

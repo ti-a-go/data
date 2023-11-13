@@ -1,0 +1,26 @@
+1,2-Dicloroetano, conhecido antigamente como dicloreto de etileno, abreviado como DCE, é um composto químico organoclorado importante como intermediário na produção do monômero cloreto de vinila, o principal precursor para a produção do polímero PVC. É um líquido incolor com um odor semelhante ao clorofórmio. 1,2-Dicloroetano é também usado geralmente como um intermediário para outros compostos químicos orgânicos e como um solvente. Ele forma azeótropos com muitos outros solventes, incluindo água (p.e. 70,5 °C) e outros clorocarbonos.
+
+
+== História ==
+Em 1794, nos Países Baixos, o físico Rudolph Deiman, o mercador Adriaan Paets van Troostwijk, o químico Anthoni Lauwerenburg e o botânico Nicolaas Bondt foram os primeiros a produzir 1,2-dicloroerano a partir de etileno e cloro gasoso, o que explica em partes o fato de que o DCE fosse conhecido como 'óleo neerlandês' antes da padronização da nomenclatura na química orgânica.
+
+
+== Produção ==
+Cerca de 20 milhões de toneladas de 1,2-dicloroetano são produzidos nos EUA, na Europa Ocidental e no Japão através da reação do eteno com o cloro em uma reação catalisada por cloreto de ferro(III):
+H2C=CH2  +  Cl2   →   ClCH2−CH2Cl
+O 1,2-dicloroetano também é produzido pela oxicloração do etileno catalisada por cloreto de cobre(II):
+2 H2C=CH2  +  4 HCl  +   O2   →   2 ClCH2−CH2Cl  + 2 H2O
+
+
+== Usos ==
+Aproximadamente 80% da produção mundial de 1,2-dicloroetano é usada na síntese de cloroeteno, precursor do cloreto de polivinila:
+Cl−CH2−CH2−Cl → H2C=CH−Cl + HCl
+O cloreto de hidrogênio produzido como sub-produto pode ser reutilizado na produção de mais 1,2-dicloroetano pelo mecanismo de oxialogenação.
+O DCE já foi usado como desengraxante e removedor de tintas, mas seu uso com esses fins foi banido em razão de sua toxicidade e possível ação carcinogênica. É um intermediário na produção de vários compostos orgânicos, como a etilenodiamina.
+
+
+== Segurança ==
+O 1,2-dicloroetano é tóxico(especialmente por inalação, devido à sua elevada pressão de vapor), inflamável e possivelmente carcinogênico. Sua solubilidade e longa meia-vida em aquíferos pobres em oxigênio dissolvido o tornam um poluente perene perigoso à saúde e difícil de ser removido por maneiras convencionais. O dicloroetano é instável na presença de alumínio metálico
+
+
+== Referências ==

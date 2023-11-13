@@ -1,0 +1,189 @@
+Niels Henrik David Bohr (dinamarquês: [ˈne̝ls ˈpoɐ̯ˀ] ( ouça); Copenhague, 7 de outubro de 1885 – Copenhague, 18 de novembro de 1962) foi um físico e filósofo dinamarquês que fez contribuições fundamentais para a compreensão da estrutura atômica e da mecânica quântica, pela qual recebeu o Prêmio Nobel de Física em 1922.
+Bohr desenvolveu um modelo atômico (átomo de Bohr), no qual propôs que os níveis de energia dos elétrons são quatizadas e que os elétrons se movem em órbitas estáveis ao redor do núcleo atômico, mas podem saltar de um nível de energia (ou órbita) para outro. Embora o modelo tenha sido, mais tarde, substituído por outros, seus princípios fundamentais permanecem válidos. Ele também concebeu o princípio da complementaridade, que defende que objetos têm certos pares de propriedades complementares que não podem ser todos observados ou medidos simultaneamente, como a dualidade onda-partícula. Essa noção de complementariedade dominava o pensamento de Bohr tanto na ciência quanto na filosofia.
+Bohr fundou o Instituto de Física Teórica na Universidade de Copenhague, hoje conhecido como Instituto Niels Bohr, que foi inaugurado em 1920. Bohr orientou e colaborou com físicos incluindo Hans Kramers, Oskar Klein, George de Hevesy, e Werner Heisenberg. Ele também previu a existência de um novo elemento semelhante ao zircônio, que recebeu o nome de háfnio (em homenagem à cidade de Hafnia, Copenhague em latim). Posteriormente, o elemento bóhrio foi nomeado em sua homenagem.
+Durante a década de 1930, Bohr ajudou os refugiados da Segunda Guerra Mundial. Depois que a Dinamarca foi ocupada pelos alemães, Bohr encontrou-se com Heisenberg, que havia se tornado o responsável pelo projeto de energia nuclear alemão. Em setembro de 1943 chegou a Bohr a notícia de que estava prestes a ser preso pelos alemães, fugindo assim para a Suécia. De lá, ele foi levado para a Grã-Bretanha, onde se juntou ao projeto britânico de armas nucleares Tube Alloys, e fez parte da missão britânica no Projeto Manhattan. Após a guerra, Bohr apelou para a cooperação internacional sobre energia nuclear, envolvendo-se na criação da CERN e tornando-se o primeiro presidente do Instituto Nórdico de Física Teórica em 1957.
+
+
+== Início de vida ==
+
+
+=== Primeiros anos e educação ===
+Bohr nasceu em Copenhague, Dinamarca, em 7 de outubro de 1885, o segundo dos três filhos de Christian Bohr, um professor de fisiologia na Universidade de Copenhague e descobridor do efeito de Bohr, e de Ellen Adler Bohr, descendente de uma rica família judia dinamarquesa, proeminente em bancos e em círculos parlamentares. Niels tinha uma irmã mais velha, Jenny, e um irmão mais novo, Harald. Jenny tornou-se uma professora, enquanto Harald tornou-se matemático e jogador de futebol, tendo jogado pela Seleção Dinamarquesa de Futebol nos Jogos Olímpicos de Verão de 1908, em Londres. Niels também era um amante do futebol, e os dois irmãos jogaram várias partidas pelo clube de futebol copenhaguense Akademisk Boldklub, com Niels na função de goleiro.
+Bohr foi educado na Escola Latina Gammelholm, tendo ingressado aos sete anos de idade. Em 1903, Bohr ingressou na Universidade de Copenhague como graduando de física. Ele foi ensinado por Christian Christiansen, o único professor de física da instituição à época; ele também estudou astronomia e matemática com Thorvald Thiele, e filosofia com Harald Høffding, que era amigo de seu pai.Em 1905, ocorreu uma competição patrocinada pela Academia Real Dinamarquesa de Ciências e Letras para investigar um método de medição da tensão superficial de líquidos, proposta em 1879 por John William Strutt, o Lord Rayleigh. O desafio envolvia medir a frequência de oscilação do raio de um jato d'água. Bohr fez uma série de experimentos utilizando o laboratório de seu pai na Universidade; a instituição em si não possuía um laboratório de física. Para completar seus experimentos, ele teve de fazer seus próprios instrumentos de vidro, fabricando tubos de teste com as seções transversais elípticas necessárias. Niels foi além da tarefa original, incorporando melhorias à teoria e ao método de Rayleigh ao considerar a viscosidade da água e ao trabalhar com amplitudes finitas, ao invés de apenas com aquelas de tamanho infinitesimal. Seu trabalho, enviado às vésperas do fim do prazo do concurso, venceu a competição. Ele mais tarde submeteu uma versão melhorada do artigo para a Royal Society em Londres, para publicação na revista da instituição, Philosophical Transactions of the Royal Society.Harald foi o primeiro dos dois irmãos a concluir seu mestrado, obtendo-o na área de matemática em abril de 1909. Niels levou outros nove meses para obter seu mestrado com a teoria eletrônica dos metais, um tópico designado por seu orientador, Christiansen. Bohr elaborou o tema de seu mestrado para produzir sua tese de doutorado em filosofia, sendo esta muito mais abrangente que sua dissertação. Ele pesquisou a literatura sobre o assunto, assentando-se em um modelo postulado por Paul Drude e elaborado por Hendrik Lorentz, no qual os elétrons de um metal são considerados como possuindo um comportamento semelhante ao de um gás. Bohr estendeu o modelo de Lorentz, mas continuou incapaz de entender fenômenos como o efeito Hall, concluindo que a teoria eletrônica não poderia explicar completamente as propriedades magnéticas dos metais. A tese foi aceita em abril de 1911, e Bohr defendeu-a em 13 de maio; Harald havia recebido seu doutorado no ano anterior. A tese de Bohr foi inovadora, porém atraiu pouco interesse fora da Escandinávia por ter sido escrita em Dinamarquês, um requisito da Universidade de Copenhague à época. Em 1921, a física neerlandesa Hendrika Johanna van Leeuwen demonstraria, de forma independente, um teorema a partir da tese de Bohr, hoje conhecido como teorema de Bohr–van Leeuwen.
+
+
+=== Família ===
+Em 1910, Bohr conheceu Margrethe Nørlund, a irmã do matemático Niels Erik Nørlund. Bohr renunciou sua filiação à Igreja da Dinamarca em 16 de abril de 1912, e ele e Margrethe casaram-se em uma cerimônia civil na prefeitura em Slagelse em 1 de agosto. Anos depois, seu irmão Harald também deixou à Igreja de forma similar antes de seu próprio casamento. Bohr e Margrethe tiveram seis filhos. O mais velho, Christian, morreu em um acidente de barco em 1934, e outro, Harald, morreu de meningite na infância. Aage Bohr tornou-se um físico de sucesso e, em 1975, foi laureado com o Prêmio Nobel de Física, como seu pai. Hans Bohr tornou-se um médico; Erik Bohr, um engenheiro de química; e Ernest, um advogado. Como seu tio Harald, Ernest Bohr foi um atleta olímpico, havendo jogado hóquei sobre a grama pela Dinamarca nos Jogos Olímpicos de Verão de 1948, realizados em Londres.
+
+
+== Carreira acadêmica ==
+
+
+=== Átomo de Bohr ===
+
+Em setembro de 1911, Bohr, apoiado por uma sociedade da Fundação Carlsberg, viajou à Inglaterra. À época, era o local onde estava sendo feito a maior parte do trabalho teórico sobre a estrutura de átomos e moléculas. Lá, conheceu J. J. Thomson do Laboratório Cavendish e do Trinity College, Cambridge. Bohr assistiu a palestras sobre eletromagnetismo promovidas por James Jeans e Joseph Larmor, e realizou algumas pesquisas em raios catódicos, mas não conseguiu impressionar Thomson. Ele encontrou maior sucesso entre físicos mais jovens como o australiano William Lawrence Bragg, e o neozelandês Ernest Rutherford, cujo modelo de 1911 de um átomo com núcleo central pequeno desafiava o modelo proposto por Thomson em 1904. Bohr recebeu um convite de Rutherford para conduzir um trabalho de pós-doutorado Universidade Victória de Manchester, onde Bohr conheceu George de Hevesy e Charles Galton Darwin (ao qual Bohr referia-se como sendo "o neto do verdadeiro Darwin").Bohr retornou à Dinamarca em julho de 1912 para seu casamento, e viajou pela Inglaterra e pela Escócia na sua lua de mel. Ao retornar, ele tornou-se um privatdocent na Universidade de Copenhague, dando palestras sobre termodinâmica. Martin Knudsen indicou o nome de Bohr a docente, sendo aprovado para o cargo em julho de 1913, e Bohr então começou a ensinar estudantes de medicina. Seus três artigos, que mais tarde ficariam conhecidos como "a trilogia", foram publicados na Philosophical Magazine em julho, setembro e novembro daquele ano. Ele adaptou a estrutura nuclear do modelo de Rutherford à teoria quântica de Max Planck e então criou o seu próprio modelo do átomo.Modelos planetários dos átomos não eram novos, mas o tratamento fornecido por Bohr era. Tomando como ponto de partida o artigo publicado por Darwin em 1912 sobre o papel dos elétrons na interação de partículas alfa com um núcleo, ele fez avanços na teoria de elétrons viajando em órbitas em torno do núcleo atômico, com as propriedades químicas de cada elemento sendo em grande parte determinadas pelo número de elétrons nas órbitas mais externas de seus átomos. Ele introduziu a ideia de que um elétron poderia "descer" de uma órbita de maior energia para uma de menor energia, emitindo um quantum de energia discreta durante o processo. Esse raciocínio tornou-se a base do que eventualmente veio a ser conhecido como a antiga teoria quântica.
+Em 1885, Johann Balmer descreveu o que ficou conhecido como a série de Balmer, uma lista das linhas espectrais do átomo de hidrogênio. Ele percebeu que os quatro comprimentos de onda λ em que essas linhas se encontravam (todas na região visível do espectro) obedeciam a seguinte fórmula:
+
+  
+    
+      
+        
+          
+            1
+            λ
+          
+        
+        =
+        R
+        
+          (
+          
+            
+              
+                1
+                
+                  2
+                  
+                    2
+                  
+                
+              
+            
+            −
+            
+              
+                1
+                
+                  n
+                  
+                    2
+                  
+                
+              
+            
+          
+          )
+        
+        
+        
+          para
+        
+         
+        n
+        =
+        3
+        ,
+        4
+        ,
+        5
+        ,
+        6
+      
+    
+    {\displaystyle {\frac {1}{\lambda }}=R\left({\frac {1}{2^{2}}}-{\frac {1}{n^{2}}}\right)\quad {\text{para}}\ n=3,4,5,6}
+  em que R é a constante de Rydberg, medida experimentalmente. A fórmula de Balmer foi corroborada pela descoberta de novas linhas espectrais, correspondentes a valores maiores de n; entretanto, por trinta anos,[carece de fontes?] ninguém conseguiu explicar por que ela funcionava. No primeiro artigo de sua trilogia,[carece de fontes?] Bohr foi capaz de derivá-la de seu modelo, explicitando a dependência da constante de Rydberg de outras constantes fundamentais:
+
+  
+    
+      
+        R
+        =
+        
+          
+            
+              
+                m
+                
+                  e
+                
+              
+              
+                e
+                
+                  4
+                
+              
+            
+            
+              8
+              
+                ϵ
+                
+                  0
+                
+                
+                  2
+                
+              
+              
+                h
+                
+                  3
+                
+              
+              c
+            
+          
+        
+      
+    
+    {\displaystyle R={\frac {m_{e}e^{4}}{8\epsilon _{0}^{2}h^{3}c}}}
+  em que me é a massa do elétron, e e é a sua carga; ε0 é a permissividade do vácuo, h a constante de Planck, e c a velocidade da luz. Além disso, o modelo de Bohr explicava a generalização da fórmula de Balmer em que o termo 1/22 é substituído por 1/m2, com m um inteiro menor que n.A primeira limitação do modelo foi a série de Pickering, composta por linhas que não eram compatíveis com a fórmula de Balmer. Quando confrontado sobre isso por Alfred Fowler, Bohr respondeu que elas eram causadas pelo hélio ionizado, isto é, átomos de hélio com apenas um elétron. O modelo de Bohr pôde ser adaptado para íons desse tipo. Muitos físicos mais velhos, como Thomson, Rayleigh e Hendrik Lorentz não gostaram da trilogia, mas a geração mais jovem, incluindo Rutherford, David Hilbert, Albert Einstein, Enrico Fermi, Max Born e Arnold Sommerfeld perceberam-na como um grande avanço. A aceitação da trilogia foi completamente devida à sua capacidade de explicar fenômenos que bloqueavam outros modelos e de prever resultados que foram verificados em seguida por experimentos. Hoje, o modelo de Bohr para o átomo tornou-se ultrapassado, mas ainda é o modelo mais bem conhecido do átomo, aparecendo frequentemente em livros-texto de física e química do ensino secundário.Bohr não gostava de ensinar estudantes de medicina. Ele decidiu retornar a Manchester, onde Rutherford lhe ofereceu um trabalho como leitor no lugar de Darwin, cujo mandato havia expirado. Bohr aceitou. Ele tirou licença da Universidade de Copenhague, começando por uma viagem de feriado a Tirol com seu irmão Harald e sua tia Hanna Adler. Nessa viagem, ele visitou a Universidade de Göttingen e a Universidade de Munique, onde conheceu Sommerfeld e conduziu seminários sobre sua trilogia. Enquanto estavam em Tirol, a Primeira Guerra Mundial eclodiu, dificultando enormemente a viagem de volta para a Dinamarca e a viagem subsequente de Bohr com Margrethe à Inglaterra, onde ele chegou em outubro de 1914. Eles ficaram até julho de 1916, quando ele já havia sido nomeado Presidente de Física Teórica da Universidade de Copenhague, uma posição criada especialmente para ele. Concomitantemente, sua documentação de licença expirou, então ele ainda tinha que dar aulas de física a estudantes de medicina. Novos professores foram formalmente introduzidos pelo Rei Cristiano X, que expressou seu prazer em conhecer um jogador de futebol tão famoso.
+
+
+=== Instituto de Física ===
+Em abril de 1917, Bohr começou uma campanha para estabelecer um Instituto de Física Teórica. Ele ganhou o apoio do governo dinamarquês e da Fundação Carlsberg, e contribuições significativas também foram feitas pela indústria e por doadores privados, muitos deles judeus. A legislação para o estabelecimento do Instituto foi aprovada em novembro de 1918. Hoje conhecido como o Instituto Niels Bohr, a instituição foi inaugurada em 3 de março de 1921, com Bohr como diretor. Sua família se mudou para um apartamento de primeiro piso. O instituto de Bohr serviu como um ponto focal para pesquisadores de mecânica quântica e assuntos relacionados entre os anos 1920 e 1930, período no qual a maioria dos físicos mais famosos do mundo passaram algum tempo em sua companhia. Entre os primeiros colaboradores estão Hans Kramers dos Países Baixos, Oskar Klein da Suécia, George de Hevesy da Hungria, Wojciech Rubinowicz da Polônia e Svein Rosseland da Noruega. Bohr tornou-se amplamente apreciado como seu anfitrião e colega eminente. Klein e Rosseland produziram a primeira publicação do Instituto antes mesmo de ele ser inaugurado.
+O modelo de Bohr funcionava bem para o hidrogênio, mas não era capaz de descrever elementos mais complexos. Em 1919, Bohr já estava se afastando da ideia de que elétrons orbitavam o núcleo e desenvolveu uma heurística para descrevê-los. Os elementos de terras raras colocavam um problema particular de classificação para os químicos, por eles serem quimicamente semelhantes. Um avanço importante ocorreu em 1924 com a descoberta por Wolfgang Pauli de seu princípio de exclusão, que fornecia uma base teórica firme para os modelos de Bohr. Bohr foi então capaz de afirmar que o então desconhecido elemento de número atômico 72 não era um elemento de terras raras, mas sim um elemento com propriedades químicas semelhantes às do zircônio. Ele foi imediatamente desafiado pelo químico francês Georges Urbain, que afirmava ter descoberto um elemento de terras raras de número atômico 72, que ele chamava de "céltio". No Instituto em Copenhague, Dirk Coster e George de Hevesy aceitaram o desafio de mostrar que Bohr estava certo, e não Urbain. Começar com uma ideia clara das propriedades químicas do elemento desconhecido simplificou em muito o processo de busca. Eles analisaram amostras do Museu de Mineralogia de Copenhague a procura de um elemento similar a zircônio e logo o encontraram. O elemento, que eles denominaram háfnio (Hafnia sendo o nome latino para Copenhague), acabou se mostrando mais comum que ouro.Em 1922, Bohr foi laureado com o Prêmio Nobel de Física "pelos seus serviços na investigação da estrutura de átomos e da radiação que emana dele". O prêmio, portanto, reconhecia tanto a sua trilogia quanto seu trabalho pioneiro no campo emergente da mecânica quântica. Para sua palestra do Nobel, Bohr mostrou à sua audiência uma compilação ampla do que era então conhecido sobre a estrutura do átomo, incluindo o princípio da correspondência, que ele havia formulado. Tal princípio afirmava que o comportamento de sistemas descritos pela teoria quântica reproduz a física clássica no limite de grandes números quânticos.A descoberta do espalhamento da luz por partículas carregadas por Arthur Holly Compton em 1923 convenceu a maioria dos físicos que a luz era composta por fótons, e que energia e momento linear eram conservados em colisões entre elétrons e fótons. Em 1924, Bohr, Kramers e John C. Slater, um físico norte-americano que trabalhava no Instituto em Copenhague, propuseram o que ficou conhecido como a teoria Bohr–Kramers–Slater; tais ideias eram mais qualitativas do que uma teoria física em si. A teoria BKS tornou-se a última tentativa de entender a interação entre a matéria e a radiação eletromagnética utilizando a antiga teoria quântica, na qual fenômenos quânticos eram compreendidos através da imposição de restrições quânticas a uma descrição ondulatória clássica do campo eletromagnético.A modelagem do comportamento atômico sob radiação eletromagnética incidente utilizando "osciladores virtuais" nas frequências de absorção e emissão, em vez das frequências aparentes (diferentes) das órbitas de Bohr, levou Max Born, Werner Heisenberg e Kramers a explorar diferentes modelos matemáticos. Isso acarretou o desenvolvimento da mecânica matricial, a primeira forma da mecânica quântica moderna. A teoria BKS também provocou a discussão de, e renovou atenção a, dificuldades nas fundações da antiga teoria quântica. O efeito mais controverso da teoria BKS – de que o momento e a energia não seriam necessariamente conservados em cada interação, mas somente de forma estatística – logo se mostrou em conflito com experimentos conduzidos por Walther Bothe e Hans Geiger. À luz desses resultados, Bohr informou Darwin que "não há nada mais a fazer se não dar aos nossos esforços revolucionários um funeral tão honroso quanto possível".
+
+
+=== Mecânica quântica ===
+A introdução do spin por George Uhlenbeck e Samuel Goudsmit em novembro de 1925 foi um marco importante. No mês seguinte, Bohr viajou a Leiden para a comemoração do cinquentenário do doutorado de Hendrick Lorentz. Quando seu trem parou em Hamburgo, ele se encontrou com Wolfgang Pauli e Otto Stern, que pediram sua opinião na teoria do spin. Bohr apontou sua preocupação teórica com a interação entre elétrons e campos magnéticos. Quando chegou a Leiden, Paul Ehrenfest e Albert Einstein informaram-lhe que Einstein havia resolvido esse problema usando sua teoria da relatividade. Bohr então fez com que Uhlenbeck e Goudsmit incluíssem essa resolução em seu artigo. Assim, quando Bohr encontrou Werner Heisenberg e Pascual Jordan em Gotinga na viagem de volta, ele tornou-se, em suas próprias palavras, "um profeta do evangelho do magneto eletrônico".
+
+Heisenberg foi pela primeira vez à Copenhague em 1924, e então retornou a Göttingen em junho de 1925, havendo desenvolvido os fundamentos matemáticos da mecânica quântica pouco tempo depois. Após mostrar seus resultados para Max Born em Göttingen, Born percebeu que eles poderiam ser melhor expressos utilizando matrizes. Esse trabalho atraiu a atenção do físico britânico Paul Dirac, que veio a Copenhague em setembro de 1926 e então permaneceu na cidade por seis meses. O físico austríaco Erwin Schrödinger também a visitou em 1926. A sua tentativa de explicar a física quântica em termos clássicos utilizando mecânica ondulatória impressionou Bohr, que acreditava que ela contribuir "tanto para a clareza e a simplicidade matemáticas que ela representava um avanço gigantesco em relação a todas as formas anteriores da mecânica quântica".Quando Kramers deixou o Instituto em 1926 para aceitar a posição de professor de física teórica na Universidade de Utrecht, Bohr organizou para que Heisenberg retornasse e tomasse o lugar de Kramers como palestrante (lektor) na Universidade de Copenhague. Heisenberg trabalhou em Copenhague como palestrante universitário e assistente de Bohr de 1926 até 1927.Bohr ficara convencido de que a luz se comportava tanto como onda quanto como partícula, e em 1927, experimentos confirmaram a hipótese de de Broglie de que a matéria (como elétrons) também se comportava como onda. Ele concebeu o princípio filosófico da complementariedade: que objetos poderiam possuir propriedades mutuamente exclusivas, tal como ser uma onda ou um fluxo de partículas, dependo do escopo experimental. Ele sentiu que seu princípio não foi completamente entendido por filósofos profissionais.Ainda em 1927, Heisenberg desenvolveu em Copenhague o seu princípio da incerteza, que Bohr passou a adotar. Em um artigo que ele apresentou em setembro do mesmo ano na Conferência Volta em Como, Heisenberg demonstrou que o princípio da incerteza poderia ser derivado de argumentos clássicos, sem a terminologia quântica ou matrizes. Einstein preferia o determinismo da física clássica em relação à probabilística da nova física quântica, para a qual ele mesmo havia contribuído. Problemas filosóficos que adviéramos aspectos inovadores da mecânica quântica tornaram-se objetos de discussão amplamente celebrados. Einstein e Bohr tiveram vários debates acerca dessas questões filosóficas ao longo de suas vidas.Em 1914, Carl Jacobsen, o herdeiro das cervejarias Carlsberg, legou sua mansão para ser usada vitaliciamente pelo dinamarquês que tivesse feito a contribuição mais proeminente para ciência, literatura ou arte, como uma residência honorária (em dinamarquês:  Æresbolig). Harald Høffding havia sido o primeiro ocupante, e após sua morte em julho de 1931, a Real Academia Dinamarquesa de Ciências deu a Bohr o cargo. Ele e sua família se mudaram para a residência em 1932. Ele foi eleito presidente da Academia em 17 de março de 1939.Em 1929, o fenômeno do decaimento beta incitou Bohr a novamente sugerir que a lei da conservação de energia fosse abandonada, mas o neutrino teorizado por Enrico Fermi e a descoberta subsequente do nêutron em 1932 forneceram uma explicação alternativa. Isso direcionou Bohr a criar uma nova teoria do núcleo composto em 1936, que explicava como nêutrons poderiam ser capturados pelo núcleo. Nesse modelo, o núcleo poderia ser deformado como se fosse uma gota de líquido. Ele trabalhou nessa teoria com um novo colaborador, o físico dinamarquês Fritz Kalckar, que morreu repentinamente em 1938.A descoberta da fissão nuclear por Otto Hahn em dezembro de 1938 (e sua explicação teórica por Lise Meitner) provocaram grande interesse entre os físicos. Bohr trouxe a notícia aos Estados Unidos, onde abriu a Quinta Conferência de Washington sobre Física Teórica, junto de Fermi, em 26 de janeiro de 1939. Quando Bohr disse a George Placzek que isso resolvia todos os mistérios dos elementos transurânicos, Placzek respondeu dizendo que ainda restava um: as energias de captura de nêutron do urânio não eram compatíveis com aquelas do seu decaimento. Bohr pensou nisso por alguns minutos e então anunciou a Placzek, Léon Rosenfeld e John Wheeler afirmando "eu entendi tudo". Baseando-se no seu modelo de gota líquida para o núcleo, Bohr concluiu que era o isótopo do urânio-235 e não o mais abundante urânio-238 que era primariamente responsável pela fissão com nêutrons térmicos. Em abril de 1940, John R. Dunning demonstrou que Bohr estava correto. Nesse meio tempo, Bohr e Wheeler desenvolveram um tratamento teórico que eles publicaram no seu artigo de setembro de 1939, intitulado "O Mecanismo da Fissão Nuclear".
+Em 1934, publicou o livro Atomic Theory and the Description of Nature, que foi reeditado em 1961.
+Em janeiro de 1937, Bohr participou na Quinta Conferência de Física Teórica, em Washington, na qual defendeu a interpretação de Lise Meitner e Otto Frisch, também do Instituto de Copenhaga, para a fissão do urânio. Segundo esta interpretação,  um núcleo atômico de massa instável era como uma gota de água que se rompe.
+Três semanas depois, os fundamentos da teoria da "gota líquida" foram publicados na revista Physical Review. A esta publicação seguiram-se muitas outras, todas relacionadas com o núcleo atómico e a disposição e características dos electrões que giram em torno dele.
+Um ano depois de se ter refugiado em Inglaterra, devido à ocupação nazi da Dinamarca, Bohr mudou-se para os Estados Unidos, onde ocupou o cargo de consultor do laboratório de energia atómica de Los Alamos. Neste laboratório, alguns cientistas iniciavam a construção da bomba atômica.
+
+Bohr, compreendendo a gravidade da situação e o perigo que essa bomba poderia representar para a humanidade, dirigiu-se a Churchill e Roosevelt, num apelo à sua responsabilidade de chefes de Estado, tentando evitar a construção da bomba atómica.
+Mas a tentativa de Bohr foi em vão. Em julho de 1945 a primeira bomba atómica experimental explodiu em Alamogordo. Em Agosto desse mesmo ano, uma bomba atómica destruiu a cidade de Hiroshima. Três dias depois, uma segunda bomba foi lançada em Nagasaki.
+Em 1945, finda a II Guerra Mundial, Bohr regressou à Dinamarca, onde foi eleito presidente da Academia de Ciências. Bohr continuou a apoiar as vantagens da colaboração científica entre as nações e para isso foi promotor de congressos científicos organizados periodicamente na Europa e nos Estados Unidos.
+Em 1950, Bohr escreveu a “Carta Aberta” às Nações Unidas em defesa da preservação da paz, por ele considerada como condição indispensável para a liberdade de pensamento e de pesquisa.
+Em 1957, Niels Bohr recebeu o Prêmio Átomos pela Paz. Ao mesmo tempo, o Instituto de Física Teórica, por ele dirigido desde 1920, afirmou-se como um dos principais centros intelectuais da Europa.
+Bohr morreu a 18 de Novembro de 1962, vítima de uma trombose, aos 77 anos de idade. Encontra-se sepultado no Cemitério Assistens, em Copenhaga.Participou da 5ª, 6ª, 7ª e 8ª Conferência de Solvay.
+Após ser laureado com o Nobel de Física de 1922, recebeu de presente da Cervejaria Carlsberg uma casa próxima à cervejaria, que possuía uma torneira com cerveja abastecida diretamente da cervejaria.
+
+
+== Concepções filosóficas ==
+Heisenberg disse que Bohr era "primeiramente um filósofo, não um físico". Bohr leu o filósofo dinamarquês do século XIX, adepto do existencialismo cristão, Søren Kierkegaard. Richard Rhodes argumentou em The Making of the Atomic Bomb que Bohr foi influenciado por Kierkegaard através de Høffding. Em 1909, Bohr deu a seu irmão a obra Estádios no Caminho da Vida de Kierkegaard como presente de aniversário. Em uma carta anexada, Bohr escreveu: "É a única coisa que tenho para mandar para casa; mas eu não acredito que seria muito fácil encontrar qualquer coisa melhor; ... eu até acredito que é uma das coisas mais encantadoras que eu já li." Bohr gostava da linguagem e do estilo literário de Kierkegaard, mas mencionou que ele tinha algumas discordâncias da filosofia de Kierkegaard. Alguns dos biógrafos de Bohr sugeriram que essa discordância tem origem na defesa de Kierkegaard do Cristianismo, enquanto Bohr era ateu.É disputado o quanto Kierkegaard influenciou a filosofia e a ciência de Bohr. David Favrholdt argumenta que Kierkegaard teve influência sobre o trabalho de Bohr, tomando a declaração de Bohr sobre sua discordância com Kierkegaard como evidência, enquanto Jan Faye argumenta que é possível discordar do conteúdo de uma teoria e ainda assim concordar com suas premissas e estruturas gerais. Quanto à natureza da física e da mecânica quântica, Bohr opinava que "Não existe mundo quântico. Isso é apenas uma descrição física abstrata. É errado pensar que o dever da física é descobrir como a natureza é. A física se preocupa com o que nós podemos dizer sobre a natureza".
+
+
+== CERN ==
+Niels Bohr é um dos pais fundadores do então Conselho Europeu para a Pesquisa Nuclear (CERN), a actual Organização Europeia para a Pesquisa Nuclear, conjuntamente com Pierre Auger, Raoul Dautry, François de Rose e Lew Kowarski pela França e Edoardo Amaldi pela Itália.
+O professor Victor Weisskopf do CERN, antigo aluno de Niels Bohr, disse no dia da sua morte que "as bandeiras do CERN estão a meia haste. O CERN perdeu um dos seus fundadores e o mundo perdeu um homem importante".
+
+
+== Ver também ==
+Átomo de Bohr
+Física atômica
+Instituto Niels Bohr
+Mecânica quântica
+Origem do CERN
+Raio de Bohr
+
+
+== Notas ==
+
+
+== Referências ==
+
+
+== Bibliografia ==
+
+
+== Ligações externas ==
+
+Niels Bohr em Nobelprize.org
+John J. O’Connor, Edmund F. Robertson: Niels Bohr. In: MacTutor History of Mathematics archive.
+Niels Bohr (em inglês) no Mathematics Genealogy Project
+«Perfil no sítio oficial do Nobel de Física 1922» (em inglês)

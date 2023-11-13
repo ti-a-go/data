@@ -1,0 +1,292 @@
+A Escala Richter, também conhecida como escala de magnitude local ou  
+  
+    
+      
+        
+          M
+          
+            L
+          
+        
+      
+    
+    {\displaystyle M_{L}}
+  , é uma escala logarítmica arbitrária, de base 10, foi utilizada para quantificar a magnitude de um sismo, desenvolvida nos anos 1930, a maioria das autoridades sismológicas agora usa outras escalas semelhantes, como a escala de magnitude do momento para relatar magnitudes de terremotos, mas grande parte da mídia ainda se refere a elas como magnitudes "Richter".A escala Richter foi construída calculando o logaritmo da amplitude horizontal combinada (amplitude sísmica) do maior deslocamento a partir do zero num tipo particular de sismógrafo de torção, o sismógrafo de Wood-Anderson.
+
+
+== Descrição ==
+Para acomodar a enorme variação na quantidade de energia que se liberta em sismos de magnitude diferente, a escala de Richter, tal como a escala de magnitude estelar usada em astronomia para descrever o brilho das estrelas e de outros objectos celestes, recorre a uma escala logarítmica, no caso de base 10.
+O logaritmo incorporado na escala faz com que os valores atribuídos a cada nível aumentem de forma logarítmica, e não de forma linear, evitando os grandes valores que daí resultariam. Em consequência, um sismo a que seja atribuída magnitude 5,0 na escala de Richter tem uma amplitude sísmica 10 vezes maior do que um de magnitude 4,0. Como corolário, uma diferença de três pontos na escala corresponde a um aumento de 1 000 vezes na amplitude do sismo.
+
+Magnitude, efeitos e frequência de ocorrência dos eventos
+
+A escala de magnitude local foi desenvolvida em 1935 por Charles Francis Richter com a colaboração de Beno Gutenberg, ambos investigadores do Instituto de Tecnologia da Califórnia (California Institute of Technology ou Caltech), com o propósito inicial de separar os sismos pequenos, que ocorrem em grande número, dos sismos mais intensos, menos frequentes.
+Richter reportou inicialmente valores com uma precisão de um quarto de unidade, mas mais tarde passou a utilizar uma escala decimal contínua, com a precisão de uma décima.
+Sendo uma escala baseada no rácio entre um valor base e o valor medido, Richter escolheu arbitrariamente como tremor de magnitude 0,0 um sismo que produziria um deslocamento horizontal máximo de 1 μm num sismograma traçado por um sismógrafo de torção Wood-Anderson localizado a 100 km de distância do epicentro. Esta opção visava prevenir a atribuição de magnitudes negativas. Contudo, a escala de Richter não tinha limite máximo ou mínimo, e actualmente os sismógrafos modernos, mais sensíveis que os existente à época, com frequência detectam movimentos que naquela escala teriam magnitudes negativas.
+A escala foi inicialmente destinada a estudar apenas os sismos com origem numa área específica do sul da Califórnia cujos sismogramas eram recolhidos por sismógrafos de torção do tipo Wood-Anderson.
+Utilizando valores facilmente medidos sobre o registo gráfico do sismógrafo (ver figura), o valor é calculado usando a seguinte equação:
+
+  
+    
+      
+        M
+        =
+        
+          log
+          
+            10
+          
+        
+        ⁡
+        A
+        +
+        3
+        
+          log
+          
+            10
+          
+        
+        ⁡
+        (
+        8
+        Δ
+        t
+        )
+        −
+        2
+        ,
+        92
+        =
+        
+          log
+          
+            10
+          
+        
+        ⁡
+        
+          (
+          
+            
+              
+                A
+                ⋅
+                Δ
+                
+                  t
+                  
+                    3
+                  
+                
+              
+              
+                1
+                ,
+                62
+              
+            
+          
+          )
+        
+        
+        
+      
+    
+    {\displaystyle M=\log _{10}A+3\log _{10}(8\Delta t)-2,92=\log _{10}\left({A\cdot \Delta t^{3} \over 1,62}\right)\,\!}
+  
+onde:
+
+  
+    
+      
+        A
+        
+      
+    
+    {\displaystyle A\,}
+   = amplitude das ondas sísmicas, em milímetros, medida directamente no sismograma.
+
+  
+    
+      
+        Δ
+        t
+        
+      
+    
+    {\displaystyle \Delta t\,}
+   = tempo, em segundos, desde o início do trem de ondas P (primárias) até à chegada das ondas S (secundárias).
+
+  
+    
+      
+        M
+        
+      
+    
+    {\displaystyle M\,}
+   = magnitude arbitrária, mas constante, aplicável a sismos que libertem a mesma quantidade de energia.A libertação de energia durante um sismo, que se correlaciona directamente com o seu poder destrutivo, corresponde à potência 3⁄2 da amplitude sísmica. Portanto, a diferença em magnitude de 1,0 é equivalente à multiplicação por um factor de 31,6 (
+  
+    
+      
+        =
+        (
+        
+          
+            10
+            
+              1
+              ,
+              0
+            
+          
+        
+        
+          )
+          
+            (
+            3
+            
+              /
+            
+            2
+            )
+          
+        
+      
+    
+    {\displaystyle =({10^{1,0}})^{(3/2)}}
+  ) na energia libertada pelo sismo. Pela mesma lógica, uma diferença em magnitude de 2,0 é equivalente à multiplicação por um factor de 1 000 (
+  
+    
+      
+        =
+        (
+        
+          
+            10
+            
+              2
+              ,
+              0
+            
+          
+        
+        
+          )
+          
+            (
+            3
+            
+              /
+            
+            2
+            )
+          
+        
+      
+    
+    {\displaystyle =({10^{2,0}})^{(3/2)}}
+  ) na quantidade de energia libertada.Devido às limitações do sismómetro de torção Wood-Anderson usado para desenvolver a escala, a magnitude original ML não pode ser calculada para tremores maiores que 
+  
+    
+      
+        
+          M
+          
+            L
+          
+        
+      
+    
+    {\displaystyle M_{L}}
+  = 6,8. Vários investigadores propuseram extensões à escala de magnitude local, sendo as mais populares a magnitude de ondas superficiais MS e a magnitude das ondas de corpo Mb.
+Em consequência dessa limitação, o sistema de vigilância sismológica internacional usa esta escala apenas para determinar a energia libertada por sismos de magnitude entre 2,0 e 6,9, com hipocentros a profundidades de 0 a 400 quilómetros. Quando um sismo tenha magnitude superior a 6,9, a escala de Richter deixa de ser aplicável, sendo nesses casos a magnitude avaliada utilizando a escala sismológica de magnitude de momento (
+  
+    
+      
+        
+          M
+          
+            
+              w
+            
+          
+        
+      
+    
+    {\displaystyle M_{\mathrm {w} }}
+  ).
+Apesar de ter gozado de ampla divulgação e uso, a escala sismológica de Richter apresenta múltiplas dificuldades na sua aplicação generalizada, o que tem levado à sua progressiva obsolescência face a novas escalas desenvolvidas sobre parâmetros físicos directamente mensuráveis.
+O maior problema com a magnitude local ML ou de Richter radica-se na dificuldade em estabelecer uma relação com as características físicas na origem do sismo. Para além disso, existe um efeito de saturação para magnitudes próximas de 8,3-8,5, devido à lei de Gutenberg-Richter de distribuição do espectro sísmico que leva a que os métodos tradicionais de avaliação das magnitudes sísmicas (ML, Mb, MS) produzam estimativas de magnitude similares para tremores que claramente são de intensidade diferente.
+Nas últimas décadas do século XX e inícios do século XXI, a maioria dos sismólogos passou a considerar obsoletas as escalas de magnitude tradicionais, sendo estas progressivamente substituídas por uma medida fisicamente mais significativa denominada momento sísmico, o qual é mais adequado para relacionar os parâmetros físicos, como a dimensão da ruptura sísmica e a energia libertada pelo sismo.Em 1979, os sismólogos Thomas C. Hanks e Hiroo Kanamori, investigadores do Instituto de Tecnologia da Califórnia, propuseram a escala sismológica de magnitude de momento (MW), que é umas das referências usadas na atualidade.
+
+
+== História ==
+A escala de Richter foi desenvolvida em 1935 pelos sismólogos Charles Francis Richter e Beno Gutenberg, ambos membros do California Institute of Technology (Caltech), que estudavam sismos no sul da Califórnia, utilizando um equipamento específico, o sismógrafo de torção Wood-Anderson.
+Após recolher dados de inúmeras ondas sísmicas geradas por sismos de magnitudes e características muito diferentes com epicentro na Califórnia, criaram um sistema para calcular as magnitudes dessas ondas. Dada a amostra utilizada para a sua criação, inicialmente esta escala estava destinada a medir unicamente os tremores que se produziram na Califórnia, sendo posteriormente generalizada para uso global.
+Inicialmente, a escala de Richter estava graduada de 0,0 a 9,0, já que sismos mais fortes pareciam impossíveis na Califórnia. Mas teoricamente não existia limite superior ou inferior para a escala, se consideradas outras regiões do mundo. Por isso fala-se actualmente em "escala aberta" de Richter. De acordo com o Centro de Pesquisas Geológicas dos Estados Unidos, aconteceram três terramotos com magnitude maior do que 9,0 na escala Richter desde que a medição começou a ser feita (ver Lista de sismos).
+A primeira escala Richter apontou a magnitude 0,0 para o menor sismo passível de medição pelos instrumentos existentes à época. Actualmente, no entanto, é possível a detecção de tremores menores do que os associados à magnitude 0,0, ocorrendo assim a medição de sismos de magnitude negativa na escala de Richter.
+Apesar da sua crescente obsolescência, as magnitudes dos sismos ainda são largamente reportadas na escala de Richter nos meio de comunicação social destinados ao grande público, embora sejam usualmente sejam na realidade dadas magnitudes momentâneas, numericamente quase com o mesmo valor que as Richter.
+Na maior parte dos usos a escala de Richter foi substituída pela escala de magnitude de momento, calibrada para dar valores geralmente similares para sismos de intensidade média (magnitudes entre 3,0 e 7,0). Ao contrário da escala de Richter, a escala de magnitude de momento é construída sobre os princípios propagação das ondas sísmicas e não é saturada nas altas magnitudes.
+
+
+== Efeito dos sismos ==
+Um sismo com magnitude inferior a 3,5 na escala de Richter é em geral apenas registado pelos sismógrafos, não sendo sentido. Para magnitudes entre 3,5 e 5,4 já pode ser sentido pelas pessoas e eventualmente produzir danos. Sismos com magnitudes entre 5,5 e 6,0 provocam danos menores em edifícios bem construídos, mas podem causar danos sérios em construções de baixa resistência às vibrações e oscilações.
+Os sismos com magnitudes entre 6,1 e 6,9 na escala de Richter podem ser devastadores numa zona de 100 km de raio em torno do epicentro. Os sismos com magnitudes entre 7,0 e 7,9 podem causar sérios danos numa grande área. Os terramotos com magnitudes acima de 8,0 podem provocar grandes danos em regiões localizadas a várias centenas de quilómetros de distância do epicentro.
+Sismos de magnitude 9,0 e superior são excepcionais com efeitos pouco conhecidos. O sismo mais intenso registado atingiu o valor de 9,5 e ocorreu em 22 de maio de 1960 no Chile.
+A magnitude é única para cada sismo, enquanto a intensidade das ondas sísmicas diminui em função da distância e das características das rochas atravessadas pelas ondas e as linhas de falha e outros acidentes tectónicos presentes no seu percurso. Assim, embora cada terramoto tenha uma única magnitude, os seus efeitos variam segundo a distância, as condições dos terrenos e das edificações, entre outros factores.A tabela abaixo descreve os efeitos típicos dos sismos de diversas magnitudes, próximo do epicentro. Os valores são estimados e devem tomar-se com extrema precaução, já que a intensidade e os efeitos não dependem apenas da magnitude do sismo, mas também da distância ao epicentro, a profundidade do hipocentro, o foco do epicentro e as condições geológicas (alguns terrenos podem amplificar as ondas sísmicas).
+
+
+=== Magnitude e intensidade ===
+A escala de Richter não permite avaliar a intensidade sísmica de um sismo num local determinado e em particular em zonas urbanas. Para tal, utilizam-se escalas de intensidade sísmica, tais como a escala de Mercalli.
+A escala de magnitude de momento (abreviada como MMS e denotada como 
+  
+    
+      
+        
+          M
+          
+            
+              w
+            
+          
+        
+      
+    
+    {\displaystyle M_{\mathrm {w} }}
+  ), introduzida em 1979 por Thomas C. Hanks e Hiroo Kanamori, substituiu a Escala de Richter para avaliar a magnitude dos sismos quanto à energia libertada.  Menos conhecida pelo público, a MMS é, no entanto, a escala usada para estimar as magnitudes de todos os grandes terramotos da actualidade. Assim como a escala de Richter, a MMS é uma escala logarítmica de base 10.
+A maior libertação de energia sísmica que pôde ser medida foi registada durante o terramoto ocorrido na cidade de Valdivia (Chile) em 22 de maio de 1960, o qual alcançou uma magnitude de momento (MW) de 9,5.
+A tabela que se segue lista o equivalente aproximado de energia, expressa em termos de equivalente de força explosiva de TNT. Note-se, contudo, que a energia sísmica é de libertação subterrânea e não sobre o terreno como ocorre com a maioria das explosões usadas como comparação. A maior parte da energia libertada por um sismo não é transmitida para a superfície do terreno, nem através dessa superfície; pelo contrário, é dissipada na crusta e nas estruturas subterrâneas que atravessa. Em contraste, a explosão de uma bomba atómica (ver rendimento das armas nucleares) no ar ou sobre a superfície pouco afectará o subsolo, provocando apenas um temor ligeiro, já que a sua energia será dissipada maioritariamente acima do solo.
+
+A tabela que se segue apresenta a equivalência entre as magnitudes avaliadas de acordo com a escala de Richter e seu equivalente em energia libertada.
+
+
+=== Erros comuns na utilização da escala de Richter ===
+Nos meios de comunicação social é comum encontrar a combinação dos termos próprios da medida de magnitude (energia) e intensidade (efeitos), e incluso confundir ambos os conceitos. É comum ouvir-se que o sismos foi de 3,7 graus, empregando o termo grau para expressar a magnitude, quando essa unidade é específica das intensidades avaliadas na escala de Mercalli, na qual não existem valores decimais.
+Outro erro comum na indicação da magnitude de um sismo é publicar que o sismo teve uma magnitude de 3,7 graus, que resulta igualmente confusa, pois seria o equivalente de dizer que o corredor de maratona percorreu uma distância de 2 horas e 15 minutos.
+Deveriam evitar-se estas formas, dizendo que o sismo teve uma magnitude de 3,7, ou alcançou os 3,7 na escala de Richter, ainda que esta segunda expressão não seja de todo correcta, pois desde há algum tempo a magnitude dos sismos se mede com a escala de magnitude de momento, coincidente com a escala de Richter somente em magnitudes inferiores a 6,9.
+
+
+== Notas ==
+
+
+== Ver também ==
+Terramoto
+Escala sismológica de Mercalli
+Escala sismológica de magnitude de momento
+Lei de Gutenberg-Richter
+Escala Medvedev-Sponheuer-Karnik
+Escala macrossísmica europeia (EMS-98)
+Engenharia sísmica
+Sismologia
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Monitor sísmico em tempo real em Incorporated Research Institutions for Seismology (IRIS)
+Catálogo sísmico do US Geological Survey
+USGS: Measuring the Size of an Earthquake

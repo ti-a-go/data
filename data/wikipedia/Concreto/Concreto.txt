@@ -1,0 +1,35 @@
+O concreto (português brasileiro) ou betão (português europeu) é o material mais utilizado na construção civil,  sendo composto por uma mistura de água, cimento e agregados.
+O cimento é o aglomerante do concreto que une os agregados. Estes podem ser agregados miúdos (areias naturais ou artificiais) ou agregados graúdos (pedras britadas ou seixos). Associando esses materiais de diferente maneiras pode-se ter:
+
+Pasta, Nata ou Calda: cimento + água;
+Argamassa: pasta + agregado miúdo;
+Concreto: argamassa + agregado graúdo;A estas associações, podem ser acrescidos aditivos e adições.
+Contrariando o que é comumente difundido, a adição de agregados de maiores dimensões para compor o concreto não tem a finalidade, apenas, de diminuir o custo do seu volume unitário. As razões, além da redução do custo, são também os ganhos significativos relacionados à sua funcionalidade e vida útil, uma vez que tais agregados garantem menos retração na cura (podendo ser 10 vezes menor que a retração apresentada pela pasta de cimento pura), evitando assim fissurações, e garantindo menor fluência (também podendo chegar a ser 10 vezes menor que a fluência apresentada pela pasta de cimento pura).Historicamente, os romanos foram os primeiros a usar uma  espécie de concreto para assentar seus tijolos cerâmicos maciços. Eles utilizavam, como cimento, pozolana natural e cal. Embora o primeiro uso seja muito antigo, o cimento e concreto ficaram esquecidos por conta da ruralização da Europa na Idade Média. O material só veio a ser novamente desenvolvido e pesquisado no século XIX.
+O concreto simples possui uma razoável resistência a compressão (esmagamento), entretanto uma baixa resistência a tração (cerca de 10% do valor da compressão). Como na maioria das estruturas é comum se encontrar os dois tipos de esforços, o uso do concreto se dá normalmente junto com um outro material (na maioria das vezes aço carbono).
+O tipo de armadura empregada caracteriza o concreto. Usualmente, chama-se de concreto armado, quando o aço é disposta nos locais apropriados (armadura passiva). Quando o aço colocado na estrutura sofre a aplicação de um alongamento (tracionado antes ou depois de concretado), recebe o nome de concreto protendido.Além disso, existem vários tipos de concretos especiais, como o concreto autoadensável, concreto leve, concreto pós-reativo, concreto translúcido, concreto colorido, concreto com fibras, que são utilizados de acordo com necessidades específicas de cada projeto.
+
+
+== Resistência ==
+Sua resistência e durabilidade dependem da proporção entre os materiais que o constituem. A mistura entre os materiais constituintes é chamada de dosagem ou traço.
+Na mistura para a composição do concreto, o cimento é o elemento fundamental de ligação (cola) entre os agregados. Essa cola é o elemento mais fraco da composição, portanto é ela que determina a resistência final do concreto. 
+
+A água utilizada contribui para a reação química que transforma o cimento Portland em uma pasta aglomerante. Se a quantidade de água for muito pequena, a reação não ocorrerá por completo e também a facilidade de se adaptar às formas ficará prejudicada, porém se a quantidade for superior à ideal, a resistência diminuirá em função dos poros que ocorrerão quando este excesso evaporar. A porosidade, por sua vez, tem influência na impermeabilidade e, consequentemente, na durabilidade das estruturas confeccionadas em concreto. A proporção entre a água e o cimento utilizados na mistura é chamada de fator água/cimento. As proporções entre areia e brita na mistura têm influência na facilidade de se adaptar às formas e na resistência.
+
+
+== Constituição ==
+Materiais constituintes do concreto:
+
+Aglomerante — cimento Portland;
+Agregado Miúdo — areia natural ou artificial (pó de pedra beneficiado), pó de pedra;
+Agregado Graúdo — pedra britada ou seixo natural;
+Água — pode ter parte ou totalidade substituída por gelo;
+Aditivo — plastificante, retardador de pega, aumenta fluidez;
+Adições — metacaulim, cinza volante, pozolanas, cal, pó de pedra;
+
+
+== Ver também ==
+Cimento
+Concreto armado
+
+
+== Referências ==

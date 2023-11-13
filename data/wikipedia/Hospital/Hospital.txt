@@ -1,0 +1,75 @@
+Hospital ou Nosocômio é um local destinado ao atendimento de doentes para proporcionar o diagnóstico, que pode ser de vários tipos (laboratorial, clínico, cinesiológico-funcional) e o tratamento necessário. Documenta-se o vocábulo português "hospital" no século XVI talvez por influência do francês "hôpital" do século XII derivados da forma culta do latim "hospitale" relativo a hospede, hospitalidade, adjetivo neutro substantivado de "hospitalis (domus) - (casa) que hospeda.Historicamente, os hospitais surgiram como lugares de acolhida de doentes e peregrinos, durante a Idade Média. A denominação "Hotel-Dieu", que foi empregada para um conjunto de instituições francesas do século VII, já traz em si a noção de hospedagem e o caráter religioso que caracterizou a origem dessa instituição na Europa. Acredita-se que o primeiro foi o "Hotel-Dieu", fundado em Paris nos anos 651 ou 829 (reconstruído?) de nossa era.
+Os hospitais públicos podem ser regionais e locais de acordo com a área de abrangência da população a ser assistida, são financiados e mantidos pelo Estado, sendo o custo menor para os doentes em comparação com os hospitais privados. No Brasil graças à concepção do Sistema Único de Saúde (SUS) é completamente gratuito.
+Os hospitais também podem ser classificados pelo tipo de serviços que prestam: cirurgias gerais e especializadas, acompanhamento de eventos naturais como o parto (maternidade), o envelhecimento (Asilos e hospitais geriátricos) ou ao caráter de urgência / emergência da demanda. Assim sendo hospital pode se constituir como de caráter específico, acompanhando as divisões da especialidade médica por sexo, idade e/ou por atenção à patologias específicas (hospital do câncer, hospital psiquiátrico, de oftalmologia etc.) ou constituir-se como um hospital geral.
+
+
+== Departamentos ==
+Trabalham em hospital profissionais de limpeza, administração, diretoria, recepção, e principalmente profissionais de saúde, como nutricionistas, médicos, cirurgiões-dentistas, enfermeiros, fisioterapeutas, farmacêuticos etc. O planejamento dos serviços a ser oferecidos e o estudo da relação da unidade hospitalar com as demais unidades de saúde é realizado por profissionais de saúde pública e autoridades sanitárias governamentais, política e juridicamente constituídas.
+Os principais departamentos de um hospital são o seu corpo clínico (diretoria médica) e o serviço de arquivo médico e estatística (SAME); o setor administrativo de manutenção e o setor financeiro. Num "Hospital Geral" os serviços oferecidos variam muito e também os departamentos que esses possuem. Eles podem ter serviços de atendimento à casos graves, tais como departamento de emergência, centro de trauma, unidade de queimados, cirurgia de emergência ou atendimento de urgência. Esses podem ser apoiados por unidades especialistas, tal como cardiologia, terapia intensiva, neurologia, ginecologia e obstetrícia e oncologia.
+Também existem as unidades de suporte, que auxiliam no tratamento e no diagnóstico médico. As mais comuns são farmácia, patologia e radiologia ou bioimagem.
+
+
+== História ==
+
+Para Foucault, o hospital como instrumento terapêutico é uma invenção relativamente nova, que remonta ao final do século XVIII. Segundo ele, a consciência de que o hospital pode e deve ser um instrumento destinado a curar aparece claramente em torno de 1780. Tal verifica-se através de diversos estudiosos e filantropos dessa época, como o inglês John Howard (1726–1790) conhecido como o reformador das prisões, e o médico francês Jacques-René Tenon (1724–1816) que em 1788 publicou o livro “Mémoire sur les Hôpitaux de Paris” (Memórias sobre os Hospitais de Paris) a pedido da Academia de Ciências, no momento em que se colocava o problema da reconstrução do Hotel-Dieu de Paris. Foram realizadas visitas, inquéritos e feitas comparações que determinam reformas e construções dos hospitais.
+A tarefa de descrever a origem do hospital que conhecemos ou a reconstrução sociológica da história dos hospitais, requer uma análise das condições políticas, econômicas e culturais da estrutura social, dos sistemas de valores, da organização da cidade, em relação às condições e necessidades da população nos diversos períodos históricos. Essencialmente nem tudo que foi chamado de hospital corresponde ao que conhecemos hoje. Rosen, por exemplo, nos explica que o termo hospital na França do século XVIII possuía uma conotação mais vasta, designava uma série de instituições caritativas criadas para atender os necessitados fossem eles doentes, inválidos ou dependentes. Uns se constituíam como algo próximo aos hospitais que conhecemos, outros, aos asilos.
+Foucault assinala ainda que, poder-se-ia dizer também que há milênios existem instituições (hospitais) destinadas à cura e que o que ocorreu no século XVIII foi a constatação de que os hospitais não curavam tão bem quando deviam. Considera ainda a existência dos hospitais marítimos e militares destinados, do ponto de vista da saúde, a controlar epidemias (com medidas tipo quarentena) e assegurar a manutenção da corporação.
+Feito essas considerações observe-se a relevância ou aproximação relativa de instituições em diversas épocas e culturas ao nosso objeto de estudo, o hospital nessa possível linha de evolução:
+
+
+====== Grécia antiga (1200–400 a.C.) ======
+Nos “Templos” ou “Clínicas” de Esculápio (de Asclépio, Grego: Ασκληπιεία). O atendimento individual ao cidadão grego com ervas, repouso, purgantes, banhos térmicos, rituais religiosos tipo consulta à oráculos, indução de sonhos reveladores, ("enkoimesis", Grego: ενκοίμησις), etc. e atividades de lazer (“kátharsis”), educação em teatro, realizados em construções (Anfiteatros) anexas às clínicas.
+Os Iatriões (lugar dos médicos, "latros") estavam no centro da cidade, com camas para doentes e banheiros, possuindo boa ventilação, iluminação, aparentemente cuidados destinados à evitar a contaminação. Pode ser considerada como um antecedente do ambulatório. Dessa época sobreviveu também o termo “Cline” (do grego κλίνη – cama, origem do termo clínico, clínica médica) e terapeutas (Médicos, do grego terapia θεραπεία - "servir a deus" - Asclépio). Os pacientes curados faziam doações denominadas “taxas”.
+Hipócrates (460–377 a.C.) introduz princípios de racionalidade médica e ética (legando os textos conhecidos como “Corpus Hipocraticus”) até hoje tido como referências (ver: Juramento de Hipócrates), mas não parece ter modificado a forma das instituições existentes.
+
+
+====== China (160 a. C. – 625 d. C.) ======
+Nesse período, na China sob a dinastia Han, a medicina possuía um caráter de serviço público, segundo as “Memórias Históricas” teriam existido hospitais ou estabelecimentos análogos e os médicos da corte procediam exames sistemáticos no pessoal do palácio e tornavam-se com frequência funcionários ou escreviam sobre medicina. A partir do ano 624 os estudos médicos foram sancionados por exames sob autoridade do T’ai-yi-chou (grande serviço médico) se constituindo como o mais antigo exemplo do controle do estado sobre a medicina.
+
+
+====== Roma (27 a. C. – 476 d.C.) ======
+No Império Romano (27 a.C. – 476 d.C.) das referências aos hospitais da antiguidade, existe apenas o Valetudinário, instituição romana destinada ao tratamento e recuperação das tropas. Durante o período de expansão do império, o Valetudinário não tem origem religiosa, pelo menos no princípio. Posteriormente, nesse mesmo império, entre os séculos I e II a.C., registram-se, pois, instituições análogas destinadas aos escravos. Registra-se também nesse período e a permanência das instituições (templos?) e casas de banho sobreviventes do mundo grego.Em 129 a 199 d.C., Galeno reafirma e desenvolve os princípios da medicina grega.
+Jesus Cristo é tido como um curandeiro, aumentando a concepção religiosa e espiritual da medicina, reafirmando os princípios éticos da caridade expresso nos textos bíblicos como “amor ao próximo”. A era dos milagres e expectativa de cura através de "auxílio divino" e penitências que desenvolveram-se a partir de então, tem várias interpretações, inclusive a de exacerbação da fé e rejeição ao racionalismo, típico da Idade Média considerada por alguns como a “idade das trevas”. Em 317 d. C. Constantino I (272 —337 d. C.) passa a adotar declarado e oficialmente lemas e símbolos cristãos e em 325 publica o édito que proibia as “casas de banho” e templos pagãos.Em 370 d. C. funda-se o primeiro hospital em Cesareia construído após proclamação de édito cristão, considerando-se seguindo a doutrina de Jesus Cristo.
+De 370 a 379 d. C., Basílio, o Grande, institui como norma a criação de hospitais como “sistema sanitários”, tendo o hospital de Roma como referência. Multiplicam-se os hospitais dos primeiros séculos da era cristã, juntamente com as numerosas ordens religiosas associadas, que sobreviveram por mais de 1500 anos.
+Em 475/476 d. C., Rómulo Augusto cria por édito as "xenodoquias" (do grego Xenos – Estrangeiro dochion- alojamento) para hospedagem dos forasteiros e participantes das típica vias de peregrinação dessa época (ver: o Caminho de São Tiago).
+
+
+====== Índia (século IV d. C.) ======
+São criados os hospitais budistas da Índia.
+
+
+====== Europa (séculos VII a tempos modernos) ======
+Em 650-656 dá-se a construção do Hotel-Dieu em Paris, sob a direção do Bispo de São Landry.
+No século XV dá-se o início do processo de separação do hospital medieval em duas instituições distintas: o hospital sensu stricto para o cuidado dos pacientes e a instituição de caridade, geralmente associada à recolha de órfãos, abrigos ou casas para os pobres.No século XV, dá-se o “Quattrocento Italiano”, no contexto de transformações da cidade-estado e suas instituições de bem-estar, surge uma nova arquitetura e tipologia do hospital, que o distanciou das instituições medievais. Um símbolo desta reforma é a utilização da cruz grega e formação de claustros nos espaços, o que permitiu a classificação e separação dos internos.Em 1498, é decretado o Decreto de D. Manuel I em Lisboa para criação da 1ª Santa Casa de Misericórdia em Portugal, modelo que se estende naquele pais e posteriormente na sua colônia do Brasil.
+O primeiro hospital do continente americano foi criado em 1524, na Cidade do México. Em 1540 é fundada a Santa Casa de Misericórdia de Olinda, primeiro hospital do Brasil.Nos séculos XVI e XVII dão-se as transformações dos leprosários medievais em hospitais gerais. O primeiro hospital no mundo muçulmano fora criado para tratar pacientes com hanseníase e isolá-los do resto da população, isso em torno do ano 700, o “Bimaristan” que foi fundado em Damasco durante o reinado do califa omíada Abd al-Malik Antes dessa forma de organização, eram relativamente comuns, as “colônias” ou associações de autoajuda entre leprosos banidos das cidades.
+No século XVIII dá-se o reconhecimento da importância da ventilação paradigma da aeração (miasmas - retorno ao conhecimento grego hipocrático da relação das enfermidades, dos lugares com os ares e as águas). Se caracterizam as soluções arquitetônicas com tipologia própria (Lazaretos pabellonarios), um dos princípios orientadores da reforma e reconstrução do novo Hôtel-Dieu de París, que incendiou em 1772.De 1789 a 1790, durante os sangrentos acontecimentos da Revolução Francesa, a ira popular tomou os hospitais que estavam sendo utilizados como prisões políticas. Posteriormente os hospitais tornaram-se um encargo da Administração Municipal e as ordens religiosas se limitaram ao serviço espiritual prestado aos doentes.
+Em 1822 proclama-se na Espanha, a "Ley General de Beneficencia", base para a futura legislação do século XIX, é a etapa final da Beneficência sob a administração de Carlos III.Em 1863 Henry Dunant inicia o movimento em Genebra que resultou no Comitê Internacional da Cruz Vermelha para proteger a vida e a dignidade de vítimas de conflitos internacionais e internos.
+Nos princípios do século XIX, os serviços médicos de cuidados de emergência pré-hospitalar foram iniciados para recuperar o maior número possível de combatentes, as ordens de Napoleão Bonaparte, Dominique-Jean Larrey (1766-1842) usa o termo “triagem”, como um sistema de classificação para tratar os feridos no campo de batalha. Cria-se o transporte por ambulância e introduz-se os princípios da saúde militar moderna.
+
+
+=== Revoluções da assepsia, higiene e anestesia ===
+Louis Pasteur (1822–1895), início das explicações do contágio, bacteriologia e fabricação das vacinas.
+Joseph Lister, (1827–1912), o cirurgião e pesquisador inglês que iniciou uma nova era no campo da cirurgia em 1865, utilizando o ácido carbólico (fenol) como agente antisséptico.
+Philipp Semmelweis (1818–1865) demonstrando a validade da lavagem das mãos como profilaxia.
+Joseph Priestley (1733–1804) descoberta do óxido nitroso viabilizado para uso médico como anestésico e analgésico por Thomas Beddoes e James Watt, que publicaram o livro “Considerations on the Medical Use and on the Production of Factitious Airs” (1794).Nessa perspectiva a história hospital é a sucessiva evolução e adaptação dos avanços da tecnologia médica. A microbiologia e história da higiene tem um valor especial para história do hospital porque até hoje as infecções hospitalares são um dos problemas dessa instituição.
+
+
+=== O hospital no sistema de saúde ===
+Em 1910, é publicado, por Abraham Flexner (1866-1959), o estudo “Medical Education in the United States and Canada – A Report to the Carnegie Foundation for the Advancement of Teaching” conhecido como o Relatório Flexner (Flexner Report) considerado o grande responsável pela mais importante reforma das escolas médicas de todos os tempos nos Estados Unidos da América (EUA), com profundas implicações para a formação médica por suas recomendações à especialização e exigência na formação médica de um ciclo clínico de mais dois anos, realizado no hospital devidamente equipado com laboratórios e instalações adequadas.Além do avanço tecnológico e especialização dos hospitais pode-se afirmar que as modernas discussões sobre o hospital se iniciam com o relatório Dawson elaborado por Bertrand Edward Dawson (1864 – 1945), em 1920, que deu origem ao sistema médico inglês de 1948 que articula “centros de saúde” a hospitais e tem sido considerado um dos primeiros documentos que sintetizaram um modo específico de pensar políticas públicas de saúde mediante a criação de Sistemas Nacionais. É comum a expressão modelo hospitalocêntrico em oposição a um modelo assistência que tem como centro a atenção primária, realizada em unidades elementares de saúde, como expressão de uma controvertida polêmica sobre a aplicação dos recursos da saúde pública.
+
+
+== Ver também ==
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+«Hospitais de Portugal» 
+Rede SARAH de Hospitais de Reabilitação Jul. 2011
+Santa Casa da Misericórdia do Rio de Janeiro Jul. 2011
+National Health Service History Jul. 2011
+Carnegie Flexner Report Jul. 2011
+ACSS Recomendações e especificações técnicas do edifício hospitalar Set. 2014
+Brasil, Ministério da Saúde. História e evolução dos hospitais PDFAbr. 2015

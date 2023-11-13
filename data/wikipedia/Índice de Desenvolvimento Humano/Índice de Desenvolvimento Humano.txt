@@ -1,0 +1,497 @@
+Índice de Desenvolvimento Humano (IDH) é um índice estatístico composto de expectativa de vida, educação (média de anos de escolaridade completados e anos esperados de escolaridade ao entrar no sistema educacional) e indicadores de renda per capita, que é usado para classificar os países em quatro níveis do desenvolvimento humano. Um país obtém um nível mais alto de IDH quando a expectativa de vida é mais alta, o nível de educação é mais alto e a renda nacional bruta per capita é mais alta. Foi desenvolvido pelo economista paquistanês Mahbub ul Haq e ainda foi usado para medir o desenvolvimento de um país pelo Gabinete do Relatório de Desenvolvimento Humano do Programa das Nações Unidas para o Desenvolvimento (PNUD).O Relatório de Desenvolvimento Humano de 2010 introduziu o Índice de Desenvolvimento Humano Ajustado à Desigualdade (IDHAD). Embora o IDH simples permaneça útil, "o IDHAD é o nível real de desenvolvimento humano (considerando a desigualdade), enquanto o IDH pode ser visto como um índice de desenvolvimento humano 'potencial' (ou o nível máximo de IDH) que poderia ser alcançado se não houvesse desigualdade." O índice é baseado na abordagem de desenvolvimento humano, desenvolvida por Mahbub ul Haq, ancorada no trabalho de Amartya Sen sobre capacidades humanas, muitas vezes enquadrado em termos de se as pessoas são capazes de "ser" e "fazer" coisas desejáveis na vida. Exemplos incluem — estar: bem alimentado, abrigado, saudável; fazendo: trabalho, educação, votação, participação na vida comunitária. A liberdade de escolha é central — alguém que escolhe estar com fome (por exemplo, quando jejua por motivos religiosos) é bem diferente de alguém que está com fome porque não pode comprar comida, ou porque o país está passando fome.O índice não leva em consideração diversos fatores, como a riqueza líquida per capita ou a qualidade relativa dos bens de um país. Essa situação tende a rebaixar a classificação de alguns dos países mais avançados, como os membros do G7 e outros.
+
+
+== Origem ==
+O IDH surge no Programa das Nações Unidas para o Desenvolvimento (PNUD) e no Relatório de Desenvolvimento Humano (RDH). Estes foram criados e lançados pelo economista paquistanês Mahbub ul Haq em 1990 e teve como objetivo explícito: "Desviar o foco do desenvolvimento da economia e da contabilidade de renda nacional para políticas centradas em pessoas."Para produzir os RDHs, Mahbub ul Haq reuniu um grupo de economistas bem conhecidos, incluindo: Paul Streeten, Frances Stewart, Gustav Ranis, Keith Griffin, Sudhir Anand e Meghnad Desai. Mas foi o trabalho de Amartya Sen sobre capacidades e funcionamentos que forneceu o quadro conceptual subjacente. Haq tinha certeza de que uma medida simples, composta pelo desenvolvimento humano, seria necessária para convencer a opinião pública, os acadêmicos e as autoridades políticas de que podem e devem avaliar o desenvolvimento não só pelos avanços econômicos, mas também pelas melhorias no bem-estar humano. Sen, inicialmente se opôs a esta ideia, mas ele passou a ajudar a desenvolver, junto com Haq, o Índice de Desenvolvimento Humano (IDH). Sen estava preocupado de que seria difícil capturar toda a complexidade das capacidades humanas em um único índice, mas Haq o convenceu de que apenas um número único chamaria a atenção das autoridades para a concentração econômica do bem estar humano.
+
+
+== Metodologia ==
+
+
+=== Após 2010 ===
+No Relatório de Desenvolvimento Humano de 2010 o PNUD começou a usar um novo método de cálculo do IDH. Os três índices seguintes são utilizados:1. Expectativa de vida ao nascer (EV) = 
+  
+    
+      
+        
+          
+            
+              E
+              V
+              −
+              20
+            
+            
+              83
+              ,
+              2
+              −
+              20
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {EV-20}{83,2-20}}}
+  
+2. Índice de educação (EI) = 
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    I
+                    A
+                    M
+                    E
+                    ×
+                    I
+                    A
+                    E
+                    E
+                  
+                  
+                    2
+                  
+                
+              
+              −
+              0
+            
+            
+              0
+              ,
+              951
+              −
+              0
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {{\sqrt[{2}]{IAME\times IAEE}}-0}{0,951-0}}}
+  
+
+2.1 Índice de Anos Médios de Estudo (IAME) = 
+  
+    
+      
+        
+          
+            
+              A
+              M
+              E
+              −
+              0
+            
+            
+              13
+              ,
+              2
+              −
+              0
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {AME-0}{13,2-0}}}
+  
+2.2 Índice de Anos Esperados de Escolaridade (IAEE) = 
+  
+    
+      
+        
+          
+            
+              A
+              E
+              E
+              −
+              0
+            
+            
+              20
+              ,
+              6
+              −
+              0
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {AEE-0}{20,6-0}}}
+  3. Índice de renda (IR) = 
+  
+    
+      
+        
+          
+            
+              l
+              n
+              (
+              P
+              I
+              B
+              p
+              c
+              )
+              −
+              l
+              n
+              (
+              163
+              )
+            
+            
+              l
+              n
+              (
+              108.211
+              )
+              −
+              l
+              n
+              (
+              163
+              )
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {ln(PIBpc)-ln(163)}{ln(108.211)-ln(163)}}}
+  
+Finalmente, o IDH é a média geométrica dos três índices anteriores normalizados:
+
+  
+    
+      
+        I
+        D
+        H
+        =
+        
+          
+            
+              E
+              V
+              ×
+              E
+              I
+              ×
+              I
+              R
+            
+            
+              3
+            
+          
+        
+        .
+      
+    
+    {\displaystyle IDH={\sqrt[{3}]{EV\times EI\times IR}}.}
+  Legenda:
+
+  
+    
+      
+        
+          E
+          V
+        
+      
+    
+    {\displaystyle \mathrm {EV} }
+   = Expectativa de vida ao nascer
+  
+    
+      
+        
+          A
+          M
+          E
+        
+      
+    
+    {\displaystyle \mathrm {AME} }
+   = Anos Médios de Estudo
+  
+    
+      
+        
+          A
+          E
+          E
+        
+      
+    
+    {\displaystyle \mathrm {AEE} }
+   = Anos Esperados de Escolaridade
+  
+    
+      
+        
+          P
+          I
+          B
+          p
+          c
+        
+      
+    
+    {\displaystyle \mathrm {PIBpc} }
+   = Produto Interno Bruto (Paridade do Poder de Compra) per capita
+
+
+=== Até 2010 ===
+Até 2009, para calcular o IDH de uma localidade, fazia-se a seguinte média aritmética:
+
+  
+    
+      
+        
+          I
+          D
+          H
+          =
+          
+            
+              
+                L
+                +
+                E
+                +
+                R
+              
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {IDH={\frac {L+E+R}{3}}} }
+   (onde 
+  
+    
+      
+        
+          L
+        
+      
+    
+    {\displaystyle \mathrm {L} }
+   = Longevidade, 
+  
+    
+      
+        
+          E
+        
+      
+    
+    {\displaystyle \mathrm {E} }
+   = Educação e 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathrm {R} }
+   = Renda)
+
+  
+    
+      
+        
+          L
+        
+        =
+        
+          
+            
+              
+                E
+                V
+              
+              −
+              25
+            
+            60
+          
+        
+      
+    
+    {\displaystyle \mathrm {L} ={\frac {\mathrm {EV} -25}{60}}}
+  
+
+  
+    
+      
+        
+          E
+        
+        =
+        
+          
+            
+              2
+              
+                T
+                A
+              
+              +
+              
+                T
+                E
+              
+            
+            3
+          
+        
+      
+    
+    {\displaystyle \mathrm {E} ={\frac {2\mathrm {TA} +\mathrm {TE} }{3}}}
+  
+
+  
+    
+      
+        
+          R
+        
+        =
+        
+          
+            
+              
+                log
+                
+                  10
+                
+              
+              ⁡
+              
+                P
+                I
+                B
+                p
+                c
+              
+              −
+              2
+            
+            
+              2
+              ,
+              60206
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {R} ={\frac {\log _{10}\mathrm {PIBpc} -2}{2,60206}}}
+   nota: pode-se utilizar também a renda per capita (ou PNB per capita).Legenda:
+
+  
+    
+      
+        
+          E
+          V
+        
+      
+    
+    {\displaystyle \mathrm {EV} }
+   = Expectativa de vida ao nascer;
+
+  
+    
+      
+        
+          T
+          A
+        
+      
+    
+    {\displaystyle \mathrm {TA} }
+   = Taxa de Alfabetização;
+
+  
+    
+      
+        
+          T
+          E
+        
+      
+    
+    {\displaystyle \mathrm {TE} }
+   = Taxa de Escolarização;
+
+  
+    
+      
+        
+          log
+          
+            10
+          
+        
+        ⁡
+        
+          P
+          I
+          B
+          p
+          c
+        
+      
+    
+    {\displaystyle \log _{10}\mathrm {PIBpc} }
+   = logaritmo decimal do PIB per capita.
+
+
+== Relatórios ==
+
+
+=== IDH ===
+
+
+=== IDHAD ===
+
+
+=== IDG ===
+
+
+== Críticas ==
+O Índice de Desenvolvimento Humano tem sido criticado por uma série de razões, incluindo pela não inclusão de quaisquer considerações de ordem ecológica, focando exclusivamente no desempenho nacional e por não prestar muita atenção ao desenvolvimento de uma perspectiva global. Dois autores afirmaram que os relatórios de desenvolvimento humano "perderam o contato com sua visão original e o índice falha em capturar a essência do mundo que pretende retratar." O índice também foi criticado como "redundante" e uma "reinvenção da roda", medindo aspectos do desenvolvimento que já foram exaustivamente estudados. O índice foi ainda criticado por ter um tratamento inadequado de renda, falta de comparabilidade de ano para ano, e por avaliar o desenvolvimento de forma diferente em diferentes grupos de países.O economista Bryan Caplan criticou a forma como as pontuações do IDH eram produzidas até 2009; cada um dos três componentes são limitados entre zero e um. Como resultado disso, os países ricos não podem efetivamente melhorar a sua classificação em certas categorias, embora haja muito espaço para o crescimento econômico e longevidade. "Isso efetivamente significa que um país de imortais, com um infinito PIB per capita iria obter uma pontuação de 0,666 (menor do que a África do Sul e Tajiquistão), se sua população fosse analfabeta e nunca tivesse ido à escola." Ele argumenta: "A Escandinávia sai por cima de acordo com o IDH, porque o IDH é basicamente uma medida de quão escandinavo um país é." As críticas a seguir são comumente dirigidas ao IDH: de que o índice é uma medida redundante que pouco acrescenta ao valor das ações individuais que o compõem; que é um meio de dar legitimidade às ponderações arbitrárias de alguns aspectos do desenvolvimento social; que é um número que produz uma classificação relativa; que é inútil para comparações inter-temporais; e que é difícil comparar o progresso ou regresso de um país uma vez que o IDH de um país num dado ano depende dos níveis de expectativa de vida ou PIB per capita de outros países no mesmo ano. No entanto, a cada ano, os estados-membros da ONU são listados e classificados de acordo com o IDH. Se for alta, a classificação na lista pode ser facilmente usada como um meio de engrandecimento nacional, alternativamente, se baixa, ela pode ser utilizada para destacar as insuficiências nacionais. Usando o IDH como um indicador absoluto de bem-estar social, alguns autores utilizaram dados do painel de IDH para medir o impacto das políticas econômicas na qualidade de vida.Gustav Ranis, e dois outros autores, criticam o índice pelo seu reducionismo e sugerem a inclusão de mais vectores do desenvolvimento humano. Para estes autores, o IDH é uma medida bastante incompleta do desenvolvimento humano, deixando de parte muitos aspectos da vida que são fundamentais: o bem-estar mental, a autonomia e emancipação dos indivíduos, a liberdade política, as relações sociais, o bem-estar das comunidades, as desigualdades (incluídas as de género), as condições de trabalho e lazer, a segurança política e económica, e o ambiente. Onze novas categorias de indicadores forneceriam um melhor retrato dos países alvo do IDH.
+
+
+== Ver também ==
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+«Regional and National Trends in the Human Development Index 1980-2011» (em inglês). - Evolução do IDH de 1980-2011 por país com Gráfico interativo 
+«2010 - Relatório de Desenvolvimento Humano» (PDF). - Relatório completo 
+2007 - UN Human Development Index Report (PDF)
+2006 - UN Human Development Index Report (PDF)
+2005 - UN Human Development Index Report (PDF)
+2004 - UN Human Development Index Report (PDF)
+Ranking decrescente do IDH dos estados do Brasil - 2005
+Ranking decrescente do IDH dos municípios do Brasil - 1991 e 2000

@@ -1,0 +1,22 @@
+Alfio Quarteroni (Ripalta Cremasca, 30 de maio de 1952) é um matemático italiano.
+
+
+== Obras ==
+com L. Formaggia, A. Veneziani (Herausgeber): Cardiovascular Mathematics, Springer 2009
+dieselben (Herausgeber): Complex systems in Biomedicine, Springer 2006
+com M. Emmer (Herausgeber): MATHKNOW, Springer 2009
+Numerical Models for Differential Problems, Springer  2009
+com R. Sacco, F. Saleri: Numerische Mathematik, 2 Volumes, Springer 2002 (inglês: Numerical Mathematics, Springer 2000, 2ª Edição 2007)
+com C. Canuto, M. Hussaini, T. Zang: Spectral methods. Evolution to complex geometries and applications to fluid dynamics, Springer 2007
+com C. Canuto, M. Hussaini, T. Zang: Spectral methods. Fundamentals in single domains, Springer 2006
+com C. Canuto, M. Hussaini, T. Zang: Spectral methods in fluid dynamics, Springer 1988
+com A. Valli: Numerical approximation to partial differential equations, Springer 1994, 2ª Edição 1997
+com A. Valli: Domain decomposition methods for partial differential equations, Oxford University Press 1999
+com F. Saleri: Wissenschaftliches Rechnen mit Matlab, Springer 2006 (inglês: Scientific calculation with Matlab and Octave, Springer 2006)
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Homepage in Lausanne

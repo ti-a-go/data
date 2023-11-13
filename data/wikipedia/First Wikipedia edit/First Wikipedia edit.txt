@@ -1,0 +1,20 @@
+The first edit in Wikipedia's database, to HomePage was made on January 15, 2001, and states in its entirety "This is the new WikiPedia!". In December 2021, co-founder Jimmy Wales announced that he would sell a website containing a re-creation of an earlier edit that he said he made and then later deleted, which contained the text "Hello, World!", to the highest bidder as a non-fungible token (NFT).
+
+
+== Background ==
+
+The concept of a collaboratively written, freely licensed hypertext encyclopedia was first posited in the 1990s; Richard Stallman proposed a "Free Universal Encyclopedia and Learning Resource" in 1998. In 2001, Larry Sanger conceived of Wikipedia as a source of volunteer entries from the general public that could then be "fed into" Nupedia, a collaborative encyclopedia founded by Jimmy Wales and written by "qualified volunteer contributors" with a multi-step peer review process. A message sent by Sanger to the Nupedia mailing list said "Humor me [...] go there and add a little article. It will take all of five or ten minutes". On January 13, 2001, Wikipedia's domain name was registered, and on January 15, 2001, Wikipedia was launched.
+
+
+== First edit ==
+
+Historically, the earliest surviving edit on Wikipedia's database was a January 16, 2001, revision of the page UuU, created as a list of countries starting with the letter U and oddly titled due to software considerations of the time. However, page histories during that time were unreliably stored by the UseModWiki software; in 2010, previously inaccessible records of early UseModWiki revisions were found in archives by Wikimedia developer Tim Starling. When these edits were imported into Wikipedia's database at 02:28, July 30, 2019 (UTC), its earliest recorded edit became the January 15, 2001, creation of HomePage with the text "This is the new WikiPedia!" by an anonymous person using the office.bomis.com server. On being informed of the importation of these edits, Wales said:
+
+For the record, these are the earliest edits that have been found, but not the earliest edits.  In the early days of Usemod wiki, I did a lot of deleting things *on the hard drive* (as this was the only way to really do that).  Those will never be found of course. The first words, soon deleted, were "Hello, World!"
+
+
+== Non-fungible token sale ==
+On December 3, 2021, Wales announced that he would be selling, through auction house Christie's, a non-fungible token (NFT) of a re-creation of what he claimed to be the first Wikipedia edit, made earlier than the "This is the new WikiPedia!" edit. Wales' edit, whose timestamp was listed as 18:29 UTC on January 15, 2001, was on the page HomePage. It consisted of the text "Hello, World!"; it was made as a test and subsequently erased. Previously, other tokens referencing "[pieces] of internet history" had been turned into "wildly expensive NFTs" – in June 2021, Sotheby's auctioned off a token referencing an animated GIF made from a text file of Tim Berners-Lee's original source code for some features of the World Wide Web; it sold for $5,434,500 USD.The product being sold was not actual ownership of the edit (as Wikipedia content is released under a copyleft license), but rather a "digital item" that records the purchaser's name alongside a URL of the edit and by itself confers the owner no special rights. However, plans were made to set up a website, "Edit This NFT", mirroring only the original page; the purchaser would be allowed to edit it. It sold for US$750,000. Numerous Wikipedia editors objected to the sale on various grounds. Some editors, including administrators, argued that Wales' use of his own user profile page to advertise the sale was a violation of Wikipedia guidelines against self-promotion. Other editors criticized the sale on the grounds that the artificial scarcity of NFTs is incompatible with Wikipedia's open-source free knowledge principles. They were broadly not opposed to Wales selling the iMac he used at the time, but objected to the NFT for representing what they perceived as monetization encroaching onto the platform.
+
+
+== References ==

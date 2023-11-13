@@ -1,0 +1,127 @@
+Motoplanador é um aeródino de asas fixas que pode decolar e voar com ou sem a propulsão de um motor. A definição do código esportivo da IGC (International Gliding Commission) da FAI é: "um aeródino de asa fixa equipado com um meio de propulsão (MoP), capaz de um voo elevado sustentado sem impulso a partir dos meios de propulsão."  Nos EUA, um motoplanador pode ser certificado para até dois ocupantes, até 850 kg de peso máximo e com uma proporção máxima de peso para a largura da asa ao quadrado de 3 kg / m2. Requisitos semelhantes existem nos regulamentos europeus JAA / EASA, com um peso máximo de 750 kg.
+Por ser equipado com motopropulsor pode decolar autonomamente, tal qual um avião, mas durante o voo este propulsor pode ser desligado, circunstância em que esse aeródino assume as mesmas características de um planador.Iniciado o voo planado, o grupo motopropulsor é recolhido para dentro de um compartimento no interior da fuselagem e é isolado do ambiente externo pela carenagem, de modo que não crie arrasto desnecessário, prejudicial à eficiência aerodinâmica do voo.
+O motoplanador apresenta algumas vantagens sobre o planador:
+
+Não necessita ser rebocado ou impulsionado por um agente externo para poder decolar.
+O vento relativo, necessário para o surgimento da força aerodinâmica de sustentação, pode ser obtido não apenas via planeio, mas também via grupo motopropulsor.
+Reduz-se o risco de pouso fora da pista.Quando não há condições para prosseguir com o voo planado, o grupo motopropulsor pode ser novamente ser acionado. O piloto pode então conduzir o motoplanador a uma pista e pousá-lo com segurança.
+
+
+== História ==
+em 1935, Sir John Carden sugeriu um motor auxiliar que poderia ser recolhido. Tal motor equipou o Carden-Baynes Auxiliary que realizou seu primeiro voo no dia 8 de Agosto daquele mesmo ano.
+O primeiro motoplanador a dar volta ao mundo, num voo realizado em 2001, foi um AMT-100 Ximango de fabricação brasileira, pilotado por Gérard Moss.
+
+
+== Tipos ==
+A maioria dos motoplanadores são equipados com uma hélice, que pode ser fixa, ajustável ou retrátil. No entanto, motoplanadores com a motores a jato são agora fornecidos por alguns fabricantes, alguns dos quais destinam-se a serem usados apenas como motores "sustentadores", ou seja, para sustentar o voo planado e não como aeronaves de decolagem autônoma.
+
+
+=== Hélice fixa ou embandeirada ===
+
+
+==== Turismo ====
+Planadores motorizados com hélices fixas ou embandeiradas são geralmente classificados como TMGs (Touring Motor Gliders - motoplanadores de passeio). Os TMGs podem decolar e voar como um avião ou desativar a propulsão motorizada e, voar como um planador.
+São equipados com motores montados na frente, semelhante a um pequeno avião. A grande envergadura do TMG proporciona um desempenho de planeio moderado, não tão bom quanto o de planadores não motorizados. No entanto, os TMGs são mais eficientes do que as aeronaves leves convencionais.
+A maioria dos TMGs são projetados com motores de 80 a 100 cv (75 KW) e tipicamente com velocidade de cruzeiro (com propulsão) a 85-100 nós (190 km/h). A maioria tem tanques capazes de manter entre 50 e 100 litros (13 a 26 galões) de combustível, oferecendo uma autonomia de até 450 milhas náuticas (aproximadamente 830 quilômetros). TMGs modernos, como o tcheco Phoenix Air Phoenix, são capazes de velocidades mais elevadas e maior alcance com propulsão motorizada.
+Alguns TMGs estão equipados com asas dobráveis para permitir que eles caibam em hangares para aeronaves de pequeno porte. Ganchos de reboque são desnecessários, uma vez que os aviões com capacidade de auto-lançamento não requerem acesso ao guincho ou ao plano de reboque para o lançamento como um planador convencional.
+Alguns TMGs, como o Europa ou o Phoenix, também podem ser fornecidos com asas ou pontas de asas intercambiáveis para que possam ser pilotados como um avião de turismo padrão, além de um TMG.A configuração do trem de pouso em TMGs geralmente incorpora duas rodas principais fixas, permitindo que possa taxiar no chão sem um caminhante de asa. Enquanto alguns TMGs têm apenas uma roda principal, com rodas de carrinho auxiliares nas asas para rodar, torna-se cada vez mais comum encontrar elas sendo fabricadas na configuração de trem de pouso com triciclos e convencionais (duas rodas principais fixas - isto é, um "arrastador de cauda").
+Uma vez que o arrasto adicional da hélice e do trem de pouso afetam sua performance de voo, os TMGs raramente são usados em competição.
+
+
+==== Hélice retrátil ====
+A hélice retrátil geralmente é montada num mastro que move-se para fora da fuselagem, atrás da cabine do piloto e da estrutura da asa. A fuselagem possui portas no compartimento do motor que se abrem e fecham automaticamente, como as portas do trem de pouso. O motor pode estar perto da parte superior ou inferior do mastro, e os projetos mais novos têm o motor fixado na fuselagem para reduzir o ruído e arrasto.
+Ao contrário dos TMGs, a maioria dos planadores motorizados com hélices retráteis também estão equipados com um gancho para o reboque aéreo ou lançamento do solo. Eles têm uma roda principal retrátil de um único eixo na fuselagem como a maioria dos planadores não motorizados, necessitando de assistência durante operações em solo. Os motores de dois tempos comumente usados não são eficientes em potência reduzida para o voo de cruzeiro e, em vez disso, devem usar um perfil de voo de "dente de serra" onde o planador sobe a toda a potência e, depois de desligar o motor e recolher a hélice, passa a executar o voo planado.
+
+
+===== Sustentadores =====
+Motoplanadores com motores sustentadores devem ser lançados como planadores comuns, mas podem subir lentamente para prolongar o voo uma vez que o motor é acionado. Normalmente, não possuem alternador nem motor de arranque, de modo que a partida do motor dá-se pela "rolagem de vento" da hélice em voo. A hélice pode ser um projeto rígido de 2 lâminas, ou pode ter mais de duas lâminas que se dobram no cubo quando o motor é recolhido. O cubo da hélice geralmente é conectado diretamente ao eixo da cambota, mas há pelo menos um exemplo de sustentador com uma correia de redução, o DG-1000T. Os motores de sustentação menores geralmente não estão equipados com um acelerador, mas, em vez disso, têm um cabo para abrir válvulas de descompressão em cada cilindro para permitir que o motor gire livremente para o arranque. Os motores sustentadores são geralmente de dois tempos com dois cilindros e refrigerados a ar na faixa de 18-30 cv (14-22 KW). São mais leves e mais simples de operar do que os propulsores dos planadores motorizados de decolagem autônoma.
+
+
+===== Decolagem autônoma =====
+Motoplanadores de propulsão retrátil e decolagem autônoma têm impulso suficiente e razão de subida inicial para decolar sem assistência, ou podem ser lançados como com um planador convencional. Os motores também possuem um motor de partida e uma bateria grande para permitir que o motor seja iniciado no chão e um alternador para mantê-la com  carga. Uma hélice de duas lâminas é normalmente acoplada ao motor através de um mecanismo de redução com correia. Em projetos mais antigos, o alinhamento da hélice deve ser verificado pelo piloto usando um espelho, antes de ser retraído na fuselagem. No entanto, em planadores de produção atuais, o alinhamento da hélice é totalmente automático.
+Outra solução é a hélice de uma única lâmina que oferece a vantagem de uma abertura menor na fuselagem para retrair o motor.
+Os motores de combustão interna podem se beneficiar da montagem na fuselagem, em vez do mastro da hélice. Isso permite que eles sejam conectados a um silencioso maior para reduzir o ruído quando operado, algo que é principalmente relevante para a operação europeia. Também permite que a tensão da correia seja aliviada quando o motor é retraído para prolongar a vida útil da mesma e dos rolamentos. A desvantagem deste arranjo é que os motores fixos baixos em fuselagens criam mais dificuldades no pré voo e serviço, e as correias de transmissão de energia altamente estressadas não devem ser dobradas ou torcidas.
+Motores para decolagem autônoma estão equipados com um acelerador que permite que a potência do motor seja ajustada para operações no solo. Os motores de decolagem autônoma estão tipicamente na faixa de 50-60 cv (38-45 KW). A maior potência de saída do motor requer refrigeração líquida com um radiador separado montado no mastro da hélice. Os motores comumente usados são motores de pistão de dois tempos, ou motores rotativos Wankel.
+
+
+=== Outros tipos ===
+
+
+==== Misto ("Cross-over") ====
+No Stemme S10, a hélice recolhe-se no cone do nariz, e é conectado ao motor traseiro por um eixo. Ele também tem duas rodas retráteis principais, permitindo que ele possa taxiar sem ajuda, e voar com baixo arrasto. Estas características o tornam um cruzamento entre os planadores de passeio e de motor retrátil com hélice. Ele não tem gancho de reboque, por isso deve decolar com auto propulsão. A variante S10-VT tem uma hélice de passo variável de  duas posições e turbocompressor no motor, que permite a aeronave alcançar altitudes de até 30.000 pés (9.000 m).No AMS-Flight Carat, a hélice dobra para frente, apontando para adiante como uma lança.
+
+
+==== Elétrico ====
+
+Embora a maioria dos planadores motorizados tenham motores de combustão interna abastecidos com gasolina, um número de motoplanadores com motores elétricos foram desenvolvidos, incluindo o Lange Antares 20E, Lange Antares 23E, Schempp-Hirth Arcus E, Pipistrel Taurus electro G2, Alisport Silent 2 Targa e, os relacionados Air Energy AE1 Silent, Yuneec Apis 2, Yuneec EViva, Alpaero Exel, Aériane Swift e Alatus AL12.   A empresa francesa Electravia propõe sistemas completos de propulsão elétrica para motoplanadores, como o ElectroLight2  que fez o seu primeiro voo no final de 2011.
+
+As vantagens do poder elétrico sobre a gasolina incluem:
+
+A transição mais rápida e mais fiável do voo propulsionado para o voo planado, como a eliminação do tempo e risco necessários para aquecer um motor a gasolina. Por exemplo, o Antares 20E faz esta transição em menos de 12 segundos.
+Menor arrasto e razão de subida com o mastro estendido e o motor desligado, como a ausência de radiador como necessário para esfriar um motor a gasolina. Para o funcionamento seguro, o procedimento de "motor  exposto mas desligado" é realizado planejando a religação no ar na eventualidade de um problema (até elétrico). A razão de subida reduzida de planadores com motores elétricos com "motor  exposto mas desligado" permite uma altitude mais baixa de um reinício no ar seguro.
+A eliminação da correia das e questões de confiabilidade associadas. Como um motor elétrico pode rodar em RPM mais baixas do que motores a gasolina típicos, pode montar-se em cima do mastro sem sistema de redução, eliminando questões de transmissão por correia.
+O barulho muito reduzido, permitindo a decolagem de posições onde outros aviões motorizados não se permitem.As desvantagens de planadores com motores elétricos atuais comparando com a gasolina incluem: 
+
+Reduzida extensão de cabragem (elevação do nariz), como a energia armazenada por peso de unidade de baterias disponíveis é muito menor do que a gasolina,
+Peso vazio aumentado (pela mesma razão que em cima),
+Maior preço. Enquanto os motores elétricos são comparavelmente mais baratos, as baterias de peso baixo convenientes para planadores motorizados são bastante caras em comparação com motores a gasolina.Os sistemas de motores sustentadores elétricos (que sustentam o voo mas não a auto decolagem) são opcionais para o DG Flugzeugbau DG-1000 e LAK-17B. É notável que, no LAK-17B, a corrente de ar guarda a hélice contra o nariz do planador quando esta não está na operação.
+
+
+==== Jato ====
+O primeiro motoplanador de decolagem autônoma com propulsão a jato produzido foi o Caproni Vizzola Calif. O motor a jato foi instalado dentro da fuselagem atrás da asa, com dutos de admissão e de escapamento fixos para a operação do motor. Desde então uma nova geração de "jatos" apresentou-se com o Schempp-Hirth Ventus-2, Jonker JS-1 Revelation e o HPH 304S, todos com motores a jato categorizados como sustentadores. 
+Entre os que decolam de forma autônoma, incluem-se o LET L-13 experimental,  uma versão do Alisport Silent Club e uma versão TeST TST-14 Bonus. 
+
+
+== Uso de motores em motoplanadores de decolagem autônoma ==
+Existe a possibilidade de o motor falhar ao ser acionado durante o voo e o piloto deve sempre considerar isto. A prática geralmente aceita é que deve-se aterrissar em um aeroporto conveniente ou área próxima fora do aeroporto, antes de estender a hélice e tentar acionar motor. Isto permite aterrissar no caso de o motor não  puder funcionar a tempo. Em competições de voo a vela, o ato de acionar um motor normalmente é pontuado como uma aterrissagem fora de local especificado de planador comum. Para descobrir o uso do motor, os gravadores de dados dos sistemas de navegação por satélite usados em motoplanadores devem ter um sensores de som que permitam o registro dos níveis sonoros junto com posição e altitude. Em muitas competições, as regras exigem que o piloto ligue motor no início do voo, antes de começar a prova, para assegurar a descoberta de um acionamento do motor depois de iniciado o voo.
+
+Os planadores são mais leves e, como não precisam de uma margem de segurança de uma partida com motor, podem seguramente procura correntes ascendentes em altitude mais baixa em condições menos rigorosas. Deste modo, os pilotos em planadores podem concluir voos de competição quando alguns concorrentes em motoplanadores não podem. Inversamente, pilotos de motoplanadores podem acionar o motor para estender o voo se as condições não propiciam ganho de altitude, enquanto planadores terão de aterrissar, longe do aeródromo, necessitando a recuperação pelo caminho usando reboque. 
+A presença de um motor pode aumentar a segurança do voo com planador, como uma propulsão motorizada aumenta a capacidade do piloto de evitar tempestades e aterrissagens fora de pista. Uma visão oposta consiste em que os motoplanadores estão contra o espírito do esporte e, o que é mais importante, que às vezes dão a pilotos uma falsa sensação de segurança. 
+Raramente motoplanadores turísticos são usados em competição, mas podem ser úteis no treinamento de voos "cross-country". Depois da decolagem o motor é desligado e o aluno passa a conduzir a aeronave como um planador. É possível praticar aterrissagens em campos pouco conhecidos enquanto o motor roda em baixa potência. Se o aluno escolher um campo impróprio ou julgar mal a aproximação, o instrutor pode aumentar a potência do motor e ganhar altitude com segurança. 
+
+
+== Certificações e licenças ==
+Na Europa, os motoplanadores categorizam-se em planadores com hélices/motores retratáveis, (que podem ser pilotados com uma licença padrão de piloto de planador) e motoplanadores turísticos (TMG - que necessitam uma extensão na licença padrão). No Reino Unido, onde o voo com planador é regulamentado pela British Gliding Association os pilotos de motoplanadores, como aqueles de planadores "puros", não têm de autorizar-se com a Civil Aviation Authority. 
+Na África do Sul, TMG é uma categoria independente abaixo de aviação recreativa, Parte 62, subdivisão 17. 
+Nos Estados Unidos, uma licença de piloto privado de planador permite ao piloto voar em planadores, motoplanadores de decolagem autônoma (inclusive motoplanadores turísticos e com motores retráteis ou hélices), e planadores com motores para sustentação. Um instrutor deve fornecer a instrução e assinar o diário de bordo do piloto para autorizar o método de lançamento, que pode ser pela corda de avião, lançamento de terra (manivelas, cabo, reboque de auto), ou, em caso de um motoplanador, decolagem independente. Nos EUA, os motoplanadores classificam-se como planadores e podem fazer-se funcionar por um piloto de planador sem a certificação médica necessária para pilotar um avião. 
+No Canadá, um certificado de piloto de planador permite pilotar planadores normais. Para pilotar motoplanadores (tanto motoplanadores com motores retráteis ou hélices) e motoplanadores com motores para sustentação é necessário uma licença de piloto de aeroplano. Um instrutor deve fornecer a instrução e assinar o diário de bordo do piloto para autorizá-lo a transportar passageiros. 
+
+
+== Imagens ==
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Ver também ==
+Aeronave de propulsão humana
+Aviação desportiva
+Aviação experimental
+Aviação privada
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Planeur-stflo - Le motoplaneur. (em francês) Acessado em 11/03/2018.
+Planeandpilotmag - A Jet-Powered Glider? Dan Johnson, 23 de Março de 2016, (em inglês) Acessado em 11/03/2018.
+Enciclopedia Treccani - Motoaliante. (em italiano) Acessado em 11/03/2018.
+ANAC - ANACpédia. Motoplanador. Acessado em 11/03/2018.

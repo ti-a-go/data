@@ -1,0 +1,28 @@
+O Protocolo de Internet versão 4 (IPv4) é a quarta versão do Protocolo de Internet (IP). Ele é um dos principais protocolos de padrões baseados em métodos de interconexão de redes na Internet, e foi a primeira versão implementada para a produção da ARPANET , em 1983. Ele ainda roteia a maior parte do tráfego da Internet de hoje, apesar da contínua implementação de um sucessor do protocolo, o IPv6. O IPv4 está descrito no IETF publicação RFC 791 (setembro de 1981), em substituição a anterior definição (RFC 760, de janeiro de 1980).
+O IPv4 é um protocolo sem conexão, para utilização de comutação de pacotes redes. Ele opera em um modelo de entrega por menor esforço, em que não garante a entrega, nem garante a sequência correta ou evita a duplicação de entrega. Estes aspectos, incluindo a integridade dos dados, são abordados por uma camada superior de protocolo de transporte, tais como o Protocolo de Controle de Transmissão (TCP).
+
+
+== Endereçamento ==
+O IPv4 utiliza endereços de 32 bits, o que limita o espaço de endereço para 4294967296 (232) endereços.
+O IPv4 reserva blocos de endereços especiais para redes privadas (~18 milhões de endereços) e multicast endereços (~270 milhões de endereços).
+
+
+=== Representações de endereço ===
+Os endereços IPv4 podem ser representados em qualquer notação de expressando um valor inteiro de 32 bits. Eles são mais frequentemente escritos no ponto-notação decimal, que consiste em quatro octetos do endereço expressa individualmente em decimal e números separados por períodos.
+Por exemplo, o endereço IP com quatro pontos 192.0.2.235 representa a versão decimal de 32 bits do número 3221226219, que no formato hexadecimal é 0xC00002EB. Ele também pode ser expresso em formato de hexadecimal com pontos, como 0xC0.0x00.0x02.0xEB, ou com valores de bytes como 0300.0000.0002.0353.
+Notação CIDR combina o endereço com o seu prefixo de roteamento em um formato compacto, no qual o endereço é seguido por um caractere de barra (/) e a contagem consecutiva de 1 bits do prefixo de roteamento (máscara de sub-rede).
+
+
+== Referências ==
+
+
+== Ligações externas ==
+https://www.iana.org — Internet Assigned Numbers Authority (IANA)
+http://www.networksorcery.com/enp/protocol/ip.htm — Cabeçalho IP Desagregação, incluindo opções específicas
+RFC 3344 — IPv4 Mobilidade
+O IPv6 vs. carrier-grade NAT/compressão mais de IPv4
+MADURO relatório sobre o consumo de endereço de outubro de 2003
+Oficial do estado atual do IPv4 /8 atribuições, mantida pelo IANA
+Dinamicamente gerados gráficos de endereços IPv4 consumo, com as previsões de esgotamento datas—Geoff Huston
+Endereçamento IP na China, e o mito da escassez de endereços
+Contagem regressiva dos restantes IPv4 endereços disponíveis (estimado)

@@ -1,0 +1,46 @@
+Monoplano - é uma configuração de aviões com somente um par de asas, em contraste do biplano ou o triplano.
+Um monoplano tem inerentemente a maior eficiência e menor arrasto de qualquer configuração de asa e é o mais simples de construir. No entanto, durante os primeiros anos de voo, essas vantagens foram suplantadas por seu maior peso e menor capacidade de manobra, tornando-o relativamente raro até a década de 1930. Desde então, o monoplano tem sido a forma mais comum de aeronave de asa fixa.
+
+
+== Histórico ==
+Embora as primeiras aeronaves bem-sucedidas fossem biplanos, as primeiras tentativas de máquinas voadoras mais pesadas que o ar foram monoplanos, e muitos pioneiros continuaram a desenvolver projetos de monoplanos. Por exemplo, o primeiro avião a ser colocado em produção foi o Santos-Dumont Demoiselle em 1907, enquanto o Blériot XI voou pelo Canal da Mancha em 1909. Ao longo de 1909-1910, Hubert Latham estabeleceu múltiplos recordes de altitude em seu monoplano Antoinette IV, chegando a atingir 1.384 m (4.541 pés). O monoplano Junkers J 1 foi o pioneiro na construção toda em metal em 1915.
+O termo equivalente da língua alemã é "Eindecker", como no caça Fokker Eindecker de asa média de 1915, que por um tempo dominou os céus no que ficou conhecido como o "Flagelo Fokker". O sistema de designação de aeronaves "Idflieg" do exército alemão antes de 1918 prefixava as designações de tipo de monoplano com um E, até a aprovação do caça Fokker D.VIII de sua antiga designação "E.V". No entanto, o sucesso do Fokker durou pouco e a Primeira Guerra Mundial foi dominada por biplanos. No final da guerra, o monoplano com asa em "parasol" tornou-se popular e designs bem-sucedidos foram produzidos na década de 1920.
+
+
+== Variantes ==
+As principais distinções em relação ao tipo de monoplano são referentes a como as asas são anexadas à fuselagem:
+
+asa-baixa - a superfície baixa da asa está nivelada com a parte inferior da fuselagem; Ex: Focke-Wulf Fw 190
+asa-média - a asa está montada na parte mediana da fuselagem; Ex: Brewster Buffalo
+asa-ombro - a asa está montada acima da parte mediana da fuselagem; Ex: General Atomics MQ-9 Reaper
+asa-alta - a superfície alta da asa está nivelada com a parte superior da fuselagem; Ex: Antonov 225
+parasol - a asa está montada acima da fuselagem (raro); Ex: RWD 8
+asa de gaivota - o encaixe está em alinhamento com o topo da fuselagem e o resto da asa está acima da fuselagem; Ex: PZL P.11
+asa de gaivota invertida - o encaixe está em alinhamento com a parte inferior da fuselagem e o resto da asa está abaixo da fuselagem; Ex: Vought F4U CorsairLouis Blériot voou sobre o Canal da Mancha em 1909 em um monoplano de asa-média desenvolvido por ele mesmo. O Fokker E.III de 1915 foi um caça monoplano, também de asa-média, bem sucedido.
+
+
+== Exemplos de layouts ==
+
+
+== Imagens de exemplo ==
+
+
+== Ver também ==
+Biplano
+Triplano
+Quadriplano
+Multiplano
+
+
+== Referências ==
+
+
+=== Bibliografia ===
+Angelucci, A.; and Matricardi, P.; World Aircraft: Origins–World War I, Sampson Low, 1977.
+Davilla, Dr. James J.; Soltan, Arthur (1997). French Aircraft of the First World War. Mountain View, CA: Flying Machines Press. p. 315. ISBN 978-1-89126-809-0 
+"High wing, low wing", Flight 20 March 1975, Pages 453–454
+King, Stephen H. (2004). Windkiller (em inglês). [S.l.]: Word Association Publishers. 372 páginas. ISBN 978-1-59571-010-9. Consultado em 7 de novembro de 2021 
+
+
+== Ligações externas ==
+«WEBX» (PDF). - configuração e desenho de aeronaves (acessado em 21 de Julho de 2010).

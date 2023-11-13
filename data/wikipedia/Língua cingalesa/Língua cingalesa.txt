@@ -1,0 +1,265 @@
+O cingalês (සිංහල, transl. siṃhala), também conhecido como sinhala ou singhala, é a língua oficial do Sri Lanka (antigo Ceilão). É a língua budista falada pelo grupo étnico majoritário do país, os cingaleses, e por minorias desse grupo em outros países, como a Índia e a Austrália. Pertence ao ramo das línguas indo-arianas e tem uma forte relação com o divehi, falado nas ilhas Maldivas. O cingalês é falado por cerca de 18 milhões de pessoas, estando 16 milhões concentrados no Sri Lanka e o restante espalhado em diásporas em outros países. Atualmente se encontra em estado potencialmente vulnerável de acordo com a UNESCO.O idioma cingalês é regulamentado pela organização literária cingalesa, Hela Havula [en]. A documentação dessa língua (e, consequentemente, de sua forma ancestral) é registrada a partir do século III a.C., época na qual se encontraram manuscritos similares aos do já extinto prácrito magadi.
+
+
+== Etimologia ==
+O primeiro elemento do nome do idioma (සිංහ siṁha ou sīha) em cingalês (originalmente, सिंहः em sânscrito) e o termo correspondente em prácrito ou Eḷu [en], "sīhala", significa "leão". Segundo a crônica Mahavamsa, Sīhabāhu ("braço do leão") era filho da princesa de Vanga [en] e de um leão. Depois de matar seu pai, ele se tornou rei de Vanga. Seu filho Vijaya, após ser banido do reino, migrou para Lanka e se tornou o progenitor dos cingaleses. Com base nesta evidência linguística e mitológica, somada à crença de que a ilha de Sri Lanka tinha uma abundância de leões no passado, pode-se supor que a primeira parte da palavra significa "leão". A tradição local associa o segundo elemento la ou com a raiz sânscrita lā- "agarrar" (traduzindo o nome como "apanhador de leão" ou "matador de leão") ou com o sânscrito loha, cingalês lē "sangue" (traduzindo como "sangue de leão"). Do ponto de vista linguístico, porém, nenhuma das interpretações é definitiva. A única certeza é que o nome "Sinhala" está relacionado com a palavra "leão".
+
+
+== Distribuição ==
+O cingalês tem uma forte relação com outras línguas indo-arianas, como o Hindi, o Bengali e o Sânscrito. É considerado uma língua budista em virtude da predominância da religião entre seus falantes, tendo sido um dos grandes responsáveis pelo desenvolvimento da escola budista Teravada. Existe também uma língua diretamente relacionada ao cingalês: a língua Vedda [en], falada por cerca de 300 pessoas na província de Uva (porém, ainda há debates sobre a classificação do idioma como um dialeto do cingalês ou uma língua crioula independente).A principal região onde a língua é falada é o país insular de Sri Lanka, onde se concentram mais de 80% dos seus falantes. Além do cingalês "tradicional" (tomado como base no aprendizado na língua e falado na capital do país, Colombo), a língua cingalesa possui algumas variações, ou dialetos, a depender da região da ilha de Sri Lanka:
+
+Dialeto Uva, da província de Uva (cidades como Monaragala e Badulla). Uma de suas peculiaridades é a diferença na partícula que indica plural; enquanto nos demais dialetos o plural é indicado por uma troca ou cancelamento de uma vogal, neste dialeto a indicação é através da nasal ṃ ao final da palavra;
+Dialeto das províncias do sul (cidades como Matara e Galle);
+Dialeto do interior, ou "up-country variation", em inglês (cidades como Kandy e Matale);
+Dialeto de Sabaragamu (cidades como Kegalle e Balangoda).O cingalês também tem minorias (cerca de 2 milhões de falantes) espalhadas por outros países, em especial em países próximos e no Oriente Médio.
+Além dessa separação, assim como em outras línguas do sudeste asiático, ocorre o fenômeno da diglossia: há uma diferença fundamental entre o cingalês falado e o cingalês literário. Este é considerado mais culto, geralmente sendo usado por pessoas de castas mais altas e em textos formais, como jornais e documentos oficiais.
+
+
+== História ==
+De acordo com o Mahavamsa, crônica épica cingalesa escrita em Páli, o então príncipe Vijaya migrou para a ilha após o banimento do reino de Vanga. Isso desencadeou uma migração em massa para a ilha, principalmente do leste da Índia, o que gerou um choque linguístico e cultural entre os diversos povos que passaram a habitar a região.
+O desenvolvimento (documentado) da língua se deu em quatro momentos na história:
+
+Cingala-Prácrito (séc. III a.C. - séc. IV);
+Proto-Cingalês (séc. IV - séc. VIII);
+Cingalês Medieval (séc. VIII - séc. XIII);
+Cingalês Moderno (séc. XIII - presente).
+
+
+=== Influência de outras línguas ===
+Além das palavras emprestadas do tâmil e de outras línguas dravídicas, o cingalês é caracterizado por uma forte influência das línguas europeias, em especial o inglês, o neerlandês e o português. Isso se deve ao forte processo de colonização que ocorreu na ilha a partir do século XVI.
+
+
+=== Línguas influenciadas ===
+Além da influência substancial na língua Vedda, atrelada ao cingalês desde a sua origem, o cingalês é uma das línguas que influenciou o Patuá macaense, junto ao português, o cantonês e o malaio. Atualmente, a língua crioula se encontra em risco crítico de extinção de acordo com a UNESCO, com sua fala restrita a algumas famílias da região de Macau (as quais somavam cerca de 50 indivíduos em 2000).A ilha de Sri Lanka é a região onde o cingalês exerce mais influência, tanto cultural quanto economicamente. Isso se espelha nas demais línguas faladas na ilha, como o Vedda, o inglês e o português. Há registro de uma população de aproximadamente 30 indivíduos que falam uma língua crioula de cingalês e português, o indo-português. Esta língua, utilizada originalmente para fins comerciais, também se encontra em estado crítico e está ameaçada de extinção de acordo com a UNESCO.
+
+
+== Fonologia ==
+
+
+=== Consoantes ===
+O cingalês tem as chamadas consoantes pré-nasalizadas [en], ou consoantes 'meio nasais'. Uma curta homorgânica nasal ocorre antes de uma consoante oclusiva, sendo mais curta do que uma sequência de consoante nasal mais consoante oclusiva. A nasal é silabada com o início da sílaba seguinte, o que significa que o peso moraico (que influência a tonicidade) da sílaba anterior permanece inalterado. Por exemplo, tam̆ba 'cobre' contrasta com tamba 'ferver'. A língua também conta com um conjunto de consoantes aspiradas, ou seja, com uma leve liberação de ar após a articulação da consoante. Embora essas consoantes sejam frequentemente substituídas pelas respectivas versões não aspiradas no cingalês falado, ainda há um conjunto de grafemas consonantais específico para esses fonemas (miśra).
+
+/f~ɸ/ e /ʃ/ são restritos a empréstimos, normalmente do inglês ou do sânscrito. Eles são comumente substituídos por /p/ e /s/ respectivamente no discurso coloquial. Alguns falantes usam a surda labiodental fricativa [f], como o "f" do português, e alguns usam a surda bilabial fricativa [ɸ] devido à sua semelhança com a nativa surda bilabial oclusiva /p/.
+
+
+=== Vogais ===
+As vogais do cingalês são dispostas em duplas, com cada vogal tendo uma versão longa e uma versão curta. Uma exceção é o a e o ə, que são alófonos. Neste caso, o /əː/ ("schwa" longo) é restrito a palavras emprestadas do inglês.
+
+
+=== Sílabas ===
+A estrutura silábica do cingalês é relativamente simples, em especial para o conjunto de palavras naturais do cingalês (නිෂ්පන්න niṣpanna). O caso mais frequente é CV (consoante-vogal); contudo, os casos V, VC e CVC também são possíveis—ou seja, o padrão é (C)V(C), para a maioria das palavras no léxico cingalês.
+
+
+=== Prosódia ===
+A prosódia na língua cingalesa aborda três temas: sílaba tônica, tons e ritmo de fala.
+
+
+==== Sílaba tônica ====
+O padrão de tonicidade é relativamente simples, atendendo a um ou a dois critérios:
+
+No cingalês moderno, é a primeira sílaba que recebe o acento tônico. Por exemplo,/'kə.rə.nə.va/ "fazer";
+/'am.ma/ "mãe";
+/'po.tak/ "um livro".É comum que haja mais de um acento tônico em uma palavra, principalmente com a ocorrência de uma vogal longa. Nesse caso, a vogal longa também recebe acento tônico. Por exemplo,/'haː.mu.du.ru.'voː/ "monge";
+/'maː.li.'gaː.və/ "castelo".
+
+
+==== Tons ====
+Os tons de fala do cingalês carregam um peso semântico, podendo indicar diferenças de significado e identificar algumas classes de palavras (em especial, os verbos).
+
+A diferença entre particípio finito e não finito se dá através do tom:/amma gedərə ævilla/ "a mãe chegou em casa". O particípio finito, que caracteriza um verbo cuja ação tem um fim bem definido (no caso, "chegar"), é marcado pelo tom descendente.
+/amma gedərə ævilla nidaː gatta/ "a mãe chegou em casa e dormiu". O particípio infinito, que caracteriza um verbo sem fim definido (no caso, "dormir"), é marcado pelo tom constante.A distinção dos verbos no imperativo e no infinitivo (remetendo, respectivamente, ao finito e ao infinito), também é aparente nos tons:/amma gedərə enḍə/ "mãe, venha para casa" é uma frase falada com um tom descendente, graças verbo "venha" no modo imperativo;
+/amma gedərə enḍə hadənəva/ "a mãe tenta vir para casa" tem tom constante, pois "tenta vir" é uma locução verbal no modo infinitivo.
+
+
+==== Ritmo de fala ====
+O ritmo de fala, neste caso, trata da variação de tons ao longo de uma frase inteira, e não apenas de palavras específicas. Nesta categoria, tons diferentes podem indicar conotações diferentes.
+
+Tom descendente: Assim como nos casos anteriores, uma frase que começa com um tom mais alto e termina com um tom grave expressa sentido de finalidade, como em /amma pansal gihilla/ "a mãe foi para o templo";Tom constante: Também seguindo o mesmo padrão dos exemplos anteriores, a manutenção do tom em uma frase indica que as ações contidas na frase não têm fim definido, como em /amma pansal gihilla baːvənaː kərənəva/ "a mãe foi para o templo e está meditando";Tom ascendente: A elevação de um tom grave para um tom mais agudo na frase indica surpresa, dando a entender que o locutor não esperava ou tem dúvidas acerca do ocorrido. Um exemplo é /amma pansal gihilla/ "a mãe foi para o templo". A diferença para o primeiro exemplo é que a pessoa está em dúvida ou incrédula.
+
+
+== Escrita ==
+A escrita cingalesa, සිංහල හෝඩිය "sinhala hodiya", é baseada na antiga escrita brami, assim como a maioria das escritas da Índia. A escrita cingalesa está intimamente relacionada com a escrita Grantha do sul da Índia; o alfabeto khmer, utilizado na Camboja, apresenta semelhanças devido aos elementos emprestados da escrita kadamba, também intimamente relacionada.O sistema de escrita cingalês é um abugida (escrito da esquerda para a direita, assim como no português), pois as consoantes são marcadas com caracteres, enquanto as vogais são indicadas com diacríticos (පිල්ල "pilla") nessas consoantes, ao contrário do português, onde tanto consoantes quanto vogais têm seus próprios caracteres, ou no urdu (um abjad), onde as vogais não são marcadas.A escrita completa consiste em cerca de 60 letras, 18 para vogais e 42 para consoantes. No entanto, apenas 57 (16 vogais e 41 consoantes) são necessários para escrever cingalês falado coloquial (suddha cingalês). O resto indica sons que foram fundidos no curso da mudança linguística, como os aspirados, e estão restritos a palavras emprestadas sânscrito e páli. Uma letra (ඦ), representando o som /ⁿd͡ʒa/, é atestada, embora nenhuma palavra usando essa letra esteja presente no léxico atual.
+O cingalês é escrito da esquerda para a direita e a escrita cingalesa é usada principalmente para o cingalês, assim como as línguas litúrgicas Páli e Sânscrito e a já extinta língua Eḷu. A sequência alfabética é semelhante à de outras escritas brâmicas, colocando as vogais à frente e depois as consoantes:
+
+
+=== Vogais e diacríticos ===
+Quando nenhum diacrítico é usado junto às consoantes, uma "vogal inerente", /a/ ou /ə/, é entendida a depender da posição da consoante na palavra. Por exemplo, a letra ක k sozinha indica ka, que corresponde a /ka/ ou /kə/. As demais vogais são escritas com diacríticos em diversas posições:
+
+කා /kaː/, කැ /kæ/, කෑ /kæː/ (após a consoante);
+කි /ki /, කී /kiː/ (acima da consoante);
+කු /ku/, කූ /kuː/ (abaixo da consoante);
+කෙ /ke/, කේ /keː/ (antes da consoante);
+කො /ko/, කෝ /koː/ (ao redor da consoante).Para /k/ sem uma vogal, um diacrítico de cancelamento de vogal (virama) chamado හල් කිරීම /hal kiriːmə/ "hal kirima" é usado: ක් /k /. Existem também alguns sinais diacríticos para consoantes, como /r/ (em circunstâncias especiais), embora a tendência atual seja soletrar palavras com a letra completa ර /r/, junto ao hal kirima. Uma palavra que ainda é escrita com um diacrítico "r" é "Sri", como em Sri Lankawa. Vários desses diacríticos ocorrem em duas formas, que dependem da forma da consoante. As vogais também têm letras independentes, mas são usadas apenas no início de palavras onde não há consoante precedente para adicionar um diacrítico.
+Dois diacríticos vocálicos, ◌ෟ "gayanukitta" e ◌ෳ "diga gayanukitta", são usados apenas em conjunto com os diacríticos relacionados ao ෙ "kombuva". Suas versões isoladas não tem uso no cingalês moderno. Há também dois caracteres considerados vocálicos, porém sem diacríticos correspondentes: ඏ "l, iluyana", e ඏ "ll, iluuyanna". Ademais, o cingalês tem um grafema específico que indica pontuação final (෴, kunddaliya); esse símbolo é atualmente obsoleto, com seu uso restrito a textos mais antigos.Além dos diacríticos vocálicos, o cingalês possui dois diacríticos não-vocálicos:
+
+◌ං "anusvaraya". Simboliza a nasal velar "ṃ", como em "Siṃhala".
+◌ඃ "visargaya". É a visarga, que simboliza a fricativa glotal desvozeada, /h/.
+
+
+=== Consoantes ===
+
+
+==== Śuddha ====
+O cingalês possui um conjunto de grafemas consonantais, o śuddha, do qual se usam todas as consoantes conhecidas no cingalês moderno. As duas exceções são as retroflexas ⟨ḷ⟩ e ⟨ṇ⟩, usadas apenas na literatura, para nomes antigos ou obsoletos.
+"w" também pode ser (e frequentemente é) usado no lugar de "v", sem prejuízo de sentido.
+
+
+==== Miśra ====
+O miśra é um subconjunto de vogais e consoantes do cingalês, que engloba consoantes aspiradas (tanto desvozeadas quanto vozeadas), retroflexas e sibilantes:
+
+
+=== Dígitos astrológicos ===
+Além dos símbolos para vogais e consoantes, o cingalês também conta com um conjunto de digitos astrológicos (Sinhala Lith Illakkam), utilizados primariamente em horóscopos. Esse sistema é uma versão menos obsoleta em relação ao sistema arcaico (Sinhala Illakkam), o qual não tinha um símbolo para o zero.
+
+
+=== Casos Especiais ===
+Algumas consoantes com diacríticos assumem formatos diferentes do habitual na escrita cingalesa, devido principalmente ao formato das consoantes:
+
+As exceções para o hal kirīma (diacrítico que anula a vogal) se repetem da mesma maneira na vogal ē (como කේ kē). Ademais, as vogais i e ī seguem três padrões distintos cada, a depender do formato da consoante:
+
+කි ki, මි mi, ජි ji;
+කී kī, මී mī, ජී jī.
+
+
+=== Braille ===
+Além do sistema de escrita visual, a língua cingalesa também conta com uma versão em Braille. O Braille cingalês [en] é uma versão adaptada do Braille Bharati [en], utilizado por falantes de línguas indianas como o tâmil e o guzerate. O sistema também foi implementado no Paquistão, no Nepal e em Bangladesh.
+
+
+== Gramática ==
+Apesar de haver diferenças perceptíveis na estrutura e vocabulário dos diferentes dialetos cingaleses, todos esses dialetos são mutuamente inteligíveis, e os sotaques e expressões podem se adequar com facilidade a cada variação regional. Sabendo disso, pode-se tomar como base o dialeto falado no sudoeste no país, aonde se concentram as cidades mais populosas, como Colombo e Sri Jayawardenapura Kotte. As discrepâncias são mais perceptíveis na comparação do cingalês coloquial com o cingalês literário; porém, pode-se usar a gramática coloquial como base para entender a linguagem escrita.
+
+
+=== Pronomes ===
+Os pronomes do cingalês (සර්වනාමය sarvanāmaya, literalmente "nome para todos"),por vezes categorizados junto aos substantivos, podem aparecer de diversas maneiras diferentes. Podem obedecer a quatro casos diferentes e variar em número, gênero e grau de respeito.
+
+
+==== Pronomes pessoais ====
+No cingalês, apenas as conjugações de primeira e segunda pessoa correspondem aos pronomes pessoais (පුද්ගලික සර්වනාම pudgalika sarvanāma); os pronomes em terceira pessoa são classificados junto aos pronomes demonstrativos.
+
+Há uma grande variedade de pronomes pessoais no cingalês, em especial na conjugação em segunda pessoa. Alguns são variações da mesma palavra, ou, como no caso de තූඹ tūm̆ba e උඹලා um̆balā, há a derivação por acréscimo de sufixo (neste contexto, o sufixo -lā denota plural).
+
+
+==== Pronomes demonstrativos ====
+Os pronomes demonstrativos (නිරූපණ සර්වනාමය, nirūpaṇa sarvanāmaya) são, de certa maneira, paralelos à conjugação em terceira pessoa, por isso a categorização é a mesma.
+
+
+==== Pronomes possessivos ====
+Os pronomes possessivos (සන්තක සර්වනාමය, santaka sarvanāmaya) geralmente terminam em "e longo" (ඒ), podendo assim ser distintos dos outros tipos de pronomes da língua.
+
+
+==== Pronomes interrogativos ====
+Os pronomes interrogativos da língua cingalesa (ප්රශ්නාර්ථ සර්වනාමය, praśnārtha sarvanāmaya), assim como nos casos anteriores, variam em pessoa, número, gênero e classe gramatical.
+
+Note que o grafema ද da, presente em todos os pronomes acima, geralmente é sufixado a outro pronome na frase, geralmente a última palavra.
+
+
+==== Pronomes relativos e distributivos ====
+O cingalês não possui termos específicos para pronomes relativos nem para os pronomes distributivos. Para suprir a função desses pronomes, ocorrem outros fenômenos na estrutura frasal da língua:
+
+Pronomes relativos: a função deles é cumprida por verbos conjugados no particípio em frases relativas, indicando "antecedência";
+Pronomes distributivos: essa forma pronominal, representada pelo "cada" na língua portuguesa, tem uma forma parecida no cingalês. Essa forma é එක එක (eka eka, literalmente "um um"). Um exemplo de frase com essa expressão é එක එක ලමයා (eka eka lamayā, "um por um (garoto)").
+
+
+=== Substantivos ===
+Os substantivos do cingalês (geralmente agrupados junto aos pronomes e adjetivos na categoria de "nomes") possuem duas subdivisões principais:
+
+Substantivos comuns (පොදු නාම පද podu nāma pada) são nomes que denotam coisas que podem ser listadas, ou seja, que não são necessariamente únicas. Exemplos: මෝරා mōrā (tubarão), මිනිසා minisā (homem), ජල jala (água) e රජ raja (rei).
+Substantivos próprios (නිසි නාම පද nisi nāma pada) são nomes que denotam coisas únicas, como pessoas ou lugares em particular. Exemplos: කොළඹ koḷam̆ba (Colombo, capital executiva do Sri lanka), ජෝන් jōn (João) e ඌව ūva (Uva, província cingalesa).Esses substantivos são flexionados atendendo a quatro critérios: número, gênero, pessoa e caso gramatical.
+
+
+==== Gênero ====
+No cingalês, há três gêneros (ලිඟු lin̆gu) diferentes, sendo eles masculino, feminino e neutro.
+O cingalês antigo contava com apenas dois gêneros, o masculino e o feminino. O gênero neutro entrou na língua através do contato com línguas como o hindi, o panjabi e o sindi, inicialmente classificado junto ao masculino. Atualmente, a tendência é utilizar esse gênero para descrever todos os objetos inanimados e, portanto, sem gênero definido.
+A distinção de gênero para seres vivos pode ocorrer de três maneiras diferentes, de maneira semelhante ao português:
+
+Uso de palavras diferentes. Exemplo: ගොණ goṇa (boi) e ගවයා gavayā (vaca);
+Terminações de palavra diferentes, ou seja, sufixos que indicam gênero. Exemplos de sufixo são ආ ā para o gênero masculino (ou seja, uma sílaba com o diacrítico ◌ා) e ඊ e para o gênero feminino (terminação em ෙ◌).
+Adição de palavras indicando masculino ou feminino, cumprindo função semelhante à dos artigos no português.
+A definição de gênero para objetos inanimados é mais complexa. O entendimento dessa distinção é atrelado à distinção de gênero em Sânscrito e em Páli (especialmente o sânscrito), de onde se originou essa distinção. Não há regras definidas nem fenômenos regulares, cabendo ao falante a distinção de forma natural, assim como nas línguas românicas.
+
+
+==== Número ====
+No cingalês, a flexão de número nos substantivos (බස basa) se dá entre duas formas: singular e plural. A adição de sufixos que denotam singular ou plural seguem uma concordância com o gênero e com o tipo de objeto ou substantivo:
+
+
+=== Verbos ===
+Os verbos no cingalês (ක්රියා kriyā) geralmente são separados em duas categorias principais, os verbos transitivos (සකමි ක්රියා sakami kriyā) e verbos intransitivos (අකමි ක්රියා akami kriyā). Ademais, os verbos podem ser flexionados seguindo alguns critérios, como tempo (කල් kal), modo (විදි vidi), número (අංකය amkaya), pessoa (පුරැෂ puræṣa) e voz (සාධන sādhana).
+
+
+==== Tempo Verbal ====
+A conjugação temporal do cingalês é baseada não só em tempo, mas também em continuidade (a partir da combinação com morfemas indicando particípio) e em ênfase.
+
+As conjugações verbais de tempo são feitas através de sufixação, com sufixos específicos e regulares para cada caso temporal:
+
+-වා -vā indica presente, como no verbo කනවා kanavā em මම ඇපල් කනවා mama æpal kanavā (eu como uma maçã);
+O sufixo de passado varia a depender do verbo, podendo ser -ව්වා -vvā como em මම බිව්වා mama bivvā (eu bebi), ou -ළා ḷā como no verbo tentar (කළා kaḷā) em මම මගේ උපරිමයෙන් උත්සාහ කළා mama magē uparimayen utsāha kaḷā (eu tentei meu melhor);
+O sufixo de futuro pode ser ou -න්නම් -nnami, ou -න්නෙමි -nnemi. Um exemplo de frase no futuro é මම වේගයෙන් දුවන්නෙමි mama vēgayen duvannemi (eu vou correr mais rápido).
+
+
+==== Modo Verbal ====
+Há quatro modos verbais na língua cingalesa: modo indicativo, modo optativo [en], modo imperativo e modo condicional.
+
+O modo indicativo (තෙකල් කිරිය tekal kiriya) é, como o nome sugere, a declaração ou indicação de um fato, de maneira "neutra".  Exemplos desse modo verbal podem ser encontrados nos verbos ගියෙමි (giyemi), කරමි (karami) e කීවෙහි (kīvehi); note que a partícula ද "da" no final indica dúvida:මම ගමට ගියෙමි mama gamaṭa giyemi, "eu fui para o vilarejo";
+මම ඊට කුමක් කරමිද mama īṭa kumak karamida, "o que eu faço sobre isso?";
+නුබ එසේ කීවෙහිද nuba esē kīvehida, "você disso isso?".O modo optativo (ආසි කිරිය āsi kiriya) expressa conotação de desejo, como na frase "que a força esteja com você". No cingalês, essa conotação é expressa diretamente no verbo, como em:වෙම්වා vemvā, em මම නිරෝගි වෙම්වා mama nirōgi vemvā, "que eu fique saudável";
+වෙහිවා vehivā, em නුබ බොහෝ කාලයක් ජීවත් වෙහිවා nuba bohō kālayak jīvat vehivā, "que você viva uma vida longa";
+පැරදේවා pæradēvā, em එතෙම යුද්ධයන් පැරදේවා etema yuddhayan pæradēvā, "que ele seja derrotado pela guerra".O modo imperativo (විදි කිරිය vidi kiriya) é usado para indicar uma ordem ou pedido. Exemplos desse modo podem ser encontrados nos verbos:වර vara, em මෙහෙ වර mehe vara, "venha aqui";
+දෙව deva, em ඔහුට රුපියලක් දෙව ohuṭa rupiyalak deva, "dê-lhe uma rupia";
+නොකරව් nokarav, em සොරකම් නොකරව් sorakam nokarav, "não roube" (literalmente, "roubo não-cometa").O modo condicional (අසබකව් කිරිය asabakav kiriya) expressa um fato de acordo com uma condição, ou denotando a incerteza do momento em que a ação foi feita. Nesse modo, geralmente número, pessoa e tempo verbal são indefinidos, deixando esses fatores a serem entendidos através do contexto da fala. Exemplo: මම නාවොත් පිටත්වණ්ට එපා mama nāvot piṭatvaṇṭa epā, "se eu não chegar, não comece" (literalmente, "eu se-não-chegar, começar não").
+
+
+=== Sintaxe ===
+Assim como as demais línguas indo-arianas, o cingalês utiliza a estrutura frasal sujeito-objeto-verbo (SOV). Por exemplo, uma frase como "eu comi arroz" seria traduzida, literalmente, para "eu arroz comi". Essa ordem é menos respeitada na prosa poética da língua, porém é necessária na língua falada e na literatura formal.
+
+Além dessa ordem primária, sempre se coloca o predicado na última posição da frase.Advérbios de tempo, como "hoje" ou "agora", são colocados antes do sujeito, justificando a frase 3 acima.
+O adjetivo é posicionado antes do nome que caracteriza, assim como o advérbio geralmente é colocados antes do respectivo verbo.
+Substantivos no caso vocativo são colocados em posição inicial da frase. Mutuamente, a posição em si pode indicar função de vocativo.
+Preposições são postas após os substantivos com os quais concordam.Interjeições ficam sempre no início da frase.
+
+
+== Vocabulário ==
+
+
+=== Lista de Swadesh ===
+A lista de Swadesh é um conceito comum no aprendizado básico de línguas. É uma lista de palavras, geralmente com 207 verbetes essenciais e seus significados em uma língua usada de referência.
+
+
+=== Sistema numérico ===
+O cingalês faz uso de um sistema decimal, similar ao das línguas Vedda e divehi:
+
+
+=== Hino nacional ===
+O Sri Lanka Matha é o hino nacional do Sri Lanka. Segue a primeira estrofe do hino:
+
+Transliteração para o alfabeto latino:
+
+Tradução para o português:
+
+
+== Menções ==
+A língua cingalesa já foi tema de duas questões em olimpíadas científicas, com ambas envolvendo seu sistema de escrita e sua estrutura frasal:
+
+Na fase regional da olimpíada australiana de linguística computacional (OzCLO) [en], em 2018, o quarto problema tratava de frases envolvendo cidades e distritos no cingalês.
+Na olimpíada norte-americana de linguística computacional (NACLO) [en], também em 2018, o problema K envolvia transliterações de lugares e pessoas no Sri Lanka.
+
+
+== Notas ==
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Gair, James Wells (1996). «Sinhala writing». Oxford University Press. The world's Writing Systems. pp. 408–412. Consultado em 21 de março de 2023 
+Fairbanks, Gordon (1968). «Colloquial Sinhalese Basic Course». Language Resource Center. Universidade Cornell. Consultado em 21 de março de 2023 
+Wasala, Asanka (2005). «Research Report on Phonetics and Phonology of Sinhala» (PDF). Language Technology Research Laboratory. Universidade de Colombo. Consultado em 21 de março de 2023 
+Gunasekara, Abraham Mendis (1999). «A comprehensive grammar of the Sinhalese language». Asian Educational Services. Consultado em 21 de março de 2023 
+Swadesh, Morris (1950). «Salish Internal Relationships». The University of Chicago Press Journals. Universidade de Chicago. pp. 157–167. Consultado em 24 de março de 2023 
+MacDougall, Bonnie Graham (1979). «Sinhala: Basic Course». United States Government Publishing Office. Consultado em 25 de março de 2023 
+
+
+== Ligações externas ==
+«Teclado digital de cingalês» (em inglês) 
+«Declaração Universal de Direitos Humanos» (em cingalês) 
+
+«Dicionário digital de cingalês» (em inglês)

@@ -1,0 +1,12 @@
+MusicBrainz é um banco de dados musical com conteúdo aberto. Assim como o projeto freedb ele foi fundado como uma resposta ao serviço CDDB.O sistema de identificação do MusicBrainz funciona analisando a impressão digital de cada música, em vez de outros parâmetros comumente utilizados, como: dados ID3, tamanho do arquivo, nome do arquivo e outros. A impressão digital é única para cada música e não varia, mesmo que a esta tenha sido gravada em outros formatos como MP3, Ogg Vorbis, Wave e outros. O algoritmo utilizado é semelhante ao de processos de hash como o MD5.
+Altamente o banco de dados do MusicBrainz é utilizado por sites como e BBC e Last.fm, este último utiliza o serviço no site Normalisr que gera estatísticas sobre as músicas ouvidas por intermédio do Last.fm.
+Diversos softwares utilizam o serviço para gerar as tags quando as músicas de um CD são convertidas em arquivos de áudio, bem como para identificar as informações de arquivos de audio já gravados.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+MusicBrainz Site Oficial
+Ashley Highfield speech given at IEA Future Of Broadcasting Conference BBC - Press Office
+Google Open Source Blog: musicbrainz

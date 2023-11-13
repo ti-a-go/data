@@ -1,0 +1,4 @@
+Webcast é a transmissão de áudio e vídeo utilizando a tecnologia streaming media. Pode ser utilizada por meio da internet ou redes corporativas ou intranet para distribuição deste tipo de conteúdo.
+Hoje as tecnologias mais conhecidas e difundidas para transmissão e distribuição de sinal streaming é Flash Media Adobe e o Red5.
+Muitas empresas e principalmente as grandes e multinacionais estão cada vez mais utilizando este tipo de solução, já que precisam comunicar com um grande número de filiais espalhadas pelo mundo de forma rápida, eficiente e barata.
+O concorrente direto do webcast streaming, utiliza como meio o satélite, com receptoras de sinal em cada ponto, fazendo com que o custo e complexidade de comunicação sejam multiplicados exponencialmente.

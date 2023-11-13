@@ -1,0 +1,25 @@
+Autogiro ou girocóptero é um tipo de aeródino cuja sustentação em voo é fornecida por asas rotativas. Ao contrário dos helicópteros, o rotor gira independentemente do motor, em autorrotação, como resultante aerodinâmica do movimento à frente. A propulsão é fornecida por uma hélice convencional movida por um motor.
+
+
+== História ==
+O primeiro autogiro foi o C.4, desenvolvido e construído por Juan de La Cierva, tendo feito o primeiro voo em 9 de janeiro de 1923, pilotado pelo inventor no Aeroporto de Madrid de Cuatro Vientos. A intenção de Juan era projetar uma máquina que fosse capaz de se manter no ar mesmo se o motor deixasse de funcionar. Para isso usou dos conceitos do avião que utiliza uma força horizontal para decolar, mas, com asas rotativas que girassem independentes do motor para manter a sustentação no ar.Após três dias do primeiro voo, o motor do C.4 sofreu uma pane durante um voo, mas o piloto de teste conseguiu manter a estabilidade e o controle do autogiro até o pouso. Esse incidente demonstrou a segurança dos conceitos adotados por Juan de La Cierva.
+
+
+== Inovação ==
+As aeronaves de asa rotativa não conseguiam manter a estabilidade no ar, até o voo do C.4. O problema, estava no fato de que durante uma volta completa das hélices, a sustentação era gerada somente em metade do percurso. A inovação de Cierva foi criar um rotor articulado, que mudava o ângulo das hélices a medida em que elas giravam. Dessa forma, elas passaram a criar sustentação durante todo o tempo, assim permitindo a estabilidade durante o voo. Esse conceito de rotor articulado foi de extrema importância para a criação dos helicópteros, anos mais tarde.
+
+
+== Ver também ==
+
+Aeronave
+Avrocar
+Carro voador
+Convertiplano
+Girodino
+Helicóptero
+Helimodelismo
+Ornitóptero
+Ultraleve
+
+
+== Referências ==

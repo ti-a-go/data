@@ -1,0 +1,19 @@
+iPad 2 é um dispositivo em formato tablet produzido pela Apple Inc. O aparelho foi anunciado em 2 de março de 2011, em uma conferência para imprensa, no Yerba Buena Center, em São Francisco. Foi lançado em Portugal no dia 25 de março de 2011 e no Brasil, foi lançado no dia 27 de maio de 2011 às 00:00.
+As especificações técnicas incluem redes sem fio Wi-Fi 802.11n e Bluetooth 2.1, tela touch de 9,7 polegadas, acelerômetro, bússola e giroscópio. O chip foi identificado pela Apple como A5, dual-core. Seu peso é de 607 gramas e sua espessura é de 0,88 cm. Bateria para 10 horas de vídeo e 1 mês de standby. Possui diferentes versões com espaços de 16, 32 e 64 GB. Ele é 33% mais fino que seu antecessor, o iPad. Conta com uma câmera frontal (usada para vídeo conferências) e uma traseira. Os preços continuam os mesmos da primeira geração. 
+No Canadá, o iPad 2 foi alvo de um golpe. Compradores adquiriam o produto, o tiravam da caixa, colocavam argila no lugar e devolviam para a loja no prazo da garantia. Já são mais de 10 o número de casos semelhantes no país.
+
+
+== Especificações do iPad 2 ==
+Físicas0.35 in de largura (8.8 mm)
+0.6 kg de peso
+9.7 in de telaProcessador e memóriaChip de 1 GHz Apple A5 (dual-core)
+Memória flash de 16, 32 ou 64 GBTela1024x768 pixeis de resoluçãoComunicaçãoBluetooth 2.1 + EDR
+Wi-fi - 802.11a/b/g/n
+3G (usando um GSM micro-SIM)
+GPS Assistido (apenas nos modelos 3G)SensoresAcelerômetro
+Bússola
+Tela multitoque
+GiroscópioBateria10 horas de autonomia, 1 mês em modo stand-by
+
+
+== Referências ==

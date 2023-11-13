@@ -1,0 +1,32 @@
+Turbidez, ou turvação, é uma propriedade física dos fluidos que se traduz na redução da sua transparência devido à presença de materiais em suspensão que interferem com a passagem da luz através do fluido. A complexidade das interações ópticas entre a luz incidente, as propriedades ópticas dos materiais dissolvidos e em suspensão e as características do fluido, em particular o seu índice de refração e cor, torna a turbidez numa propriedade visual essencialmente subjetiva, não se comportando como uma grandeza física diretamente mensurável.
+
+
+== Causas e importância ==
+Por definição, a turbidez é causada pela presença de materiais em suspensão, isto é de materiais que não estão dissolvidos no fluido, cuja presença altera as suas propriedades ópticas. A turvação pode assim ser causada por uma enorme variedade de matérias em suspensão, de origem orgânica ou inorgânica, variando em dimensão desde partículas coloidais até sólidos de dimensões macroscópicas.Nos produtos alimentares e em lagos e albufeiras ou noutras massas de água lênticas (paradas), a maior parte da turvação é devida a partículas coloidais. Pelo contrário, em fluidos em movimento, especialmente em condições de escoamento turbulento, como sejam rios em condições de cheia onde exista forte hidrodinamismo, a maior parte da turvação é devida a sólidos suspensos de dimensão apreciável (areia e silte) que em condições de menor dinamismo sedimentariam rapidamente.
+O parâmetro assume grande importância em limnologia e em oceanografia, por ser o principal fator na determinação da espessura da zona eufótica, e no estudo da qualidade das águas, em especial das águas para consumo humano.Também na indústria alimentar, em particular na produção de bebidas destiladas, cervejas, vinhos e sumos, a turvação é considerada uma característica importante no controlo de qualidade e na fixação das características finais do produto.
+Na indústria farmacêutica e na distribuição de medicamentos e de soluções e solventes destinadas a uso humano ou veterinário, a turvação dos produtos é também estritamente controlada, pois o seu aumento pode indicar a presença de contaminantes ou outros sólidos em suspensão, como os resultantes da precipitação a partir da solução, ou de colónias de microorganismos em suspensão.
+Tipicamente o crescimento de bactérias e leveduras em suspensão traduz-se num rápido aumento da turvação, razão pela qual este parâmetro é um excelente indicador da presença destes microorganismos em soluções aquosas, em particular em produtos alimentares.
+
+
+== Medição ==
+Não sendo uma grandeza física, a turvação não pode ser medida directamente recorrendo a uma única propriedade do fluido ou dos materiais nele suspensos, sendo antes avaliada pela comparação com padrões arbitrariamente estabelecidos por normas técnicas, os quais em geral diferem consoante o sector de actividade e o objectivo da medição.
+As primeiras técnicas de medição da turvação, desenvolvidas na indústria cervejeira, consistiam de uma escala com números progressivamente aumentados, semelhante às escalas optométricas usadas para determinar a acuidade visual, que se colocava por detrás de um recipiente transparente que continha o fluido a avaliar: o menor dos números discerníveis correspondia à turbidez do fluido. O método era subjectivo, dependendo da acuidade visual do observador, da cor e espessura do fluido e da cor e intensidade da iluminação, sendo apenas repetível pelo mesmo observador e nas mesmas condições de iluminação.
+Face às dificuldades colocadas pela aplicação da escala de medição directa, foram desenvolvidos métodos baseados: (1) na atenuação devido à absorção da luz pelo material em suspensão ao atravessar o fluido que o contém; e (2) no espalhamento da luz causado pela presença de material em suspensão no fluido a testar. Estas duas metodologias deram origem a um conjunto alargado de instrumentos, com destaque para as variantes do disco de Secchi e para os nefelómetros.
+Embora os métodos de determinação da turbidez por atenuação estejam hoje na quase totalidade obsoletos, deram origem, entre outras, às seguintes escalas, algumas das quais ainda aparecem rotineiramente referidas na literatura e nas especificações técnicas e regulatórias de alguns sectores de actividade económica, em particular na indústria agro-alimentar e das bebidas:
+
+JTU (Unidade de Turvação de Jackson) - método da vela de Jackson (Jackson candle method)
+Densidade ópticaPara permitir a comparabilidade das medições em 1926 foi desenvolvido um padrão constituído por diluições de formazina líquida em água destilada. A partir desse padrão foram construídas diferentes escalas, adaptadas à técnica de medição e às características dos produtos a testar. As escalas mais comuns são:
+
+NTU (Unidade Nefelométrica de Turbidez) - medição a 90°, em conformidade com as disposições dos EUA, o mesmo que FTU;
+FTU (Unidade de Turbidez Formazina) - usadas no tratamento de água, semelhante à anterior;
+FAU (Unidade de Atenuação de Formazina)  - medição da transmissão de luz (ângulo de 0°) de acordo com os requisitos da Norma ISO 7027;
+FNU (Unidade Nefelométricas de Formazina) - medição da luz difusa (90°) de acordo com os requisitos da Norma ISO 7027.
+A turbidez é em geral medida comparando o espalhamento de um feixe de luz ao atravessar a amostra com o espalhamento obtido, com o mesmo feixe e em iguais condições, ao atravessar uma suspensão padrão, sendo em geral expresso em Unidades Nefelométricas de Turbidez, ou UNT, por vezes convertidas no seu equivalente em mg/l de Si02, considerando para tal a turbidez que seria provocada pela presença daquela quantidade de sílica em suspensão.
+
+
+== Notas ==
+
+
+== Ligações externas ==
+Determinar a turvação de uma água
+"Turbidity" in USGS National Field Manual for the Collection of Water-Quality Data (TWRI Book 9)

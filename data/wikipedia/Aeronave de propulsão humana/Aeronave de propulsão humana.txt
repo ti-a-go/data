@@ -1,0 +1,103 @@
+Uma aeronave de propulsão humana é uma aeronave que pertence à classe de transportes por propulsão humana. As primeiras tentativas de voo humano com propulsão própria foram mal sucedidas devido à dificuldade em atingir uma elevada relação peso-potência. Protótipos usaram muitas vezes os princípios do ornitóptero, mas que eram demasiado pesados  e aerodinamicamente desadequados. 
+Aeronaves de propulsão humana já atingiram grandes distâncias, sendo a mais famosa a do MIT Daedalus, um ciclo-avião que em 1988 conseguiu um voo completamente autónomo entre as ilhas de Creta e Santorini, pilotado pelo ciclista grego Kanellos Kanellopoulos, numa distância superior a 100 km.
+
+
+== Primeiros voos ==
+
+
+=== Primeiros voos não oficializados ===
+Uma lista de tentativas e voos com algum sucesso:
+
+Um dos primeiros aparelhos foi o ciclo-planador Gerhardt Cycleplane, desenvolvido por W. Frederick Gerhardt em McCook Field, em Dayton, Ohio em 1923. O aparelho tinha sete asas com altura de 15 pés (4,6 metros). O piloto pedalava um rotor de bicicleta ligado ao propulsor. Nos primeiros testes o aparelho era elevado no ar por um automóvel e largado. Com Gerhardt como piloto, o Cycleplane era capaz de manter um voo estável com curta duração.Em 1934, o alemão Engelbert Zaschka construiu uma grande aeronave de propulsão humana, o Zaschka Human-Power Aircraft. Em 11 de julho de 1934, o Zaschka-HPA voou 20 metros no Aeroporto de Berlim-Tempelhof, sem ajuda na decolagem.
+O aparelho chamado HV-1 Mufli (Muskelkraft-Flugzeug) construído por Helmut Hässler e por Franz Villinger voou a 30 de agosto de 1935: uma distância de 235 metros em Halle an der Saale. 120 voos foram feitos, o maior dos quais sendo de 712 metros, em 1937.  Contudo era lançado usando uma catapulta e nesse sentido não é considerado de propulsão humana na totalidade.
+Em março de 1937 um grupo de Enea Bossi (projetista), Vittorio Bonomi (construtor), e Emilio Casco (piloto) entrou no desafio do governo italiano para o voo de um quilómetro, usando o Pedaliante.  A aeronave voou distâncias curtas, completamente sob tracção humana, mas não foram significativas para ganhar o prémio. Além disso, é discutido se levantou apenas com a força do pedal do piloto.Há argumentos contra a pretensão de Bossi, apresentados por Sherwin (1976). Na altura os voos de propulsão humana dependiam de significativa capacidade física do piloto, e não seriam alcançáveis por um humano vulgar.
+Tal como no HV-1 Mufli, tentativas adicionais foram feitas com ajuda de catapultas.
+
+Sendo catapultado a 9 metros o aparelho fez a distância requerida (1 quilómetro), mas o prémio foi negado devido ao método de lançamento.
+
+
+=== Royal Aeronautical Society e os Prémios Kremer ===
+Na Royal Aeronautical Society um grupo denominado "Man Powered Aircraft Group" foi formado em 1959 por membros do «Man Powered Group» da Faculdade de Aeronáutica da Universidade de Cranfield.
+Sob os auspícios da Royal Aeronautical Society, em 1959 o industrial Henry Kremer ofereceu os primeiros Prémios Kremer de 5 mil libras, para o primeiro aparelho a voar uma figura de "8", apenas com propulsão humana. Era condição inicial que o desenho, a construção, e piloto, fossem todos britânicos.
+A primeira descolagem e aterragem de uma aeronave de propulsão humana, reconhecida oficialmente foi feita em 9 de novembro de 1961 por Derek Piggott da Southampton University no SUMPAC no Aeródromo de Lasham. O melhor 40 tentativas foi 650 metros. A aeronave SUMPAC foi substancialmente refeita no Imperial College mas acabou destruída sem reparação em 1965.Outro aparelho, o Hatfield Puffin voou uma semana depois do SUMPAC, em 16 de novembro de 1961. O "Hatfield Man Powered Aircraft Club" era constituído por empregados de Havilland Aircraft Company e tinha apoio da empresa. A sua melhor distância foi 908 metros. «John Wimpenny said he was very pleased with the performance of the Puffin, which handled beautifully during the flight.» Este recorde durou 10 anos.Em 1972 o Woodford Essex Aircraft Group's Jupiter, desenhado e construído por Chris Roper, pilotado por John Potter voou mais de 1 km, e depois 1239 metros em junho de 1972. Roper teve problemas de saúde e o projeto foi continuado pela Royal Air Force RAF Halton - onde John Potter era oficial.
+
+
+== Gossamer Condor, Gossamer Albatross - canal da Mancha ==
+Em 1973, Kremer aumentou o prémio para £ 50 000, e abriu ainda a competição a todas as nacionalidades. Nessa altura as aeronaves de propulsão humana tinham voado apenas a direito ou quase, e ainda não se havia tentado fazer um percurso em "8".
+No início de 1977, a aeronave japonesa Stork completou três-quartos do percurso do "8".
+Em 23 de agosto de 1977, o Gossamer Condor 2 voou o primeiro "8" numa distância de 2 172 metros, ganhando o primeiro prémio Kremer. Foi construído por Paul B. MacCready e pilotado pelo ciclista Bryan Allen. Muito lento, movendo-se apenas a 18 km/h, conseguiu essa velocidade apenas com 0,35 hp (0,26 kW).O segundo prémio Kremer de 100 mil libras foi ganho em 12 de junho de 1979, de novo por Paul MacCready, quando Bryan Allen fez o Canal da Mancha no Gossamer Albatross, indo da Inglaterra à França, uma distância de 35,82 km, em 2 horas e 49 minutos.
+
+
+== O grupo do MIT ==
+Uma semana depois da passagem do canal da Mancha pelo Gossamer Albatross, que usou um propulsor do grupo do MIT, um grupo de estudantes do Massachusetts Institute of Technology fez o seu primeiro voo na aeronave Chrysalis, o que demonstrou total controlabilidade ao ser usado por 44 pilotos, incluindo pela primeira vez, pilotos femininos.
+Em 11 de maio de 1984, o terceiro prémio Kremer para velocidade foi ganho pelo grupo do MIT com o Monarch-B que voou num percurso triangular de 1,5 km em menos de 3 minutos (média de 32 km/h) - o piloto foi Frank Scarabino.
+Durante os 4 anos seguintes o grupo do MIT continuou a desenvolver os projetos:
+
+Monarch, Monarch-B, Light Eagle;
+MIT Daedalus aircraft:
+Daedalus-87;
+Daedalus-88.O recorde de distância atual reconhecido pela FAI foi obtido em 23 de abril de 1988 de Iraklion (Creta) a Santorini no MIT Daedalus-88 pilotado por Kanellos Kanellopoulos: uma distância recta de 115,11 km .
+
+
+== Outros registos ==
+
+
+=== Aeronave com passageiro ===
+O primeiro voo com passageiro ocorreu quando em 1 de outubro de 1984 Holger Rochelt levou a sua irmã Katrin no aparelho Musculair 1.
+
+
+=== Dirigíveis ===
+Alguns inventores construíram dirigíveis com propulsão humana. Ganhando sustentação por impulsão ao invés de ser por um aerofólio, muito menos esforço é requerido para mover a aeronave.
+
+
+=== Ornitópteros ===
+Em 2 de agosto de 2010, Todd Reichert (Univ. Toronto - Institute for Aerospace Studies) pilotou um Ornitóptero de propulsão humana, chamado Snowbird.  A aeronave com 32-metros de envergadura e massa de 42 kg foi construída com polímero de fibra de carbono reforçado e balsa.  Sustentou-se 20 segundos, e voou 145 metros com velocidade média de 25,6 km/h.
+
+
+=== Helicópteros ===
+O maior sucesso em sustentação humana simulando um helicóptero, foi da aeronave AeroVelo Atlas que conseguiu em 13 de Junho de 2013 manter-se mais de um minuto no ar até uma altura de mais de 3 metros, e sem se ter afastado mais de 10 metros do ponto de descolagem.
+
+
+=== Aeronaves noutros países ===
+Muitas aeronaves foram construídas e voaram em diversos países (aproximadamente cem aparelhos no total):
+
+Reino Unido, Japão, Estados Unidos, Alemanha, Grécia, Austrália, Nova Zelândia, África do Sul, Canadá, Singapura, Áustria.
+
+
+=== Novos prémios Kremer ===
+Com fundos adicionais do falecido Henry Kremer, a Royal Aeronautical Society anunciou 4 novos prémios:
+£ 50 000 - Kremer International Marathon Competition: «for a flight round a specified twenty six mile (marathon) distance course, in a time of under one hour»;
+£ 100 000 - Kremer International Sporting Aircraft Competition: «for a sporting aeroplane able to operate in normal weather conditions, as encountered in the United Kingdom»;
+£ 1 000 - Competição Escolar;
+£ 500 - Robert Graham Competition para estudantes em projeto ou engenharia.Estudantes do Virginia Polytechnic Institute desenharam um projeto como trabalho de um curso.[carece de fontes?] Outros da Pennsylvania State University desenharam o PSU Zephyrus como trabalho de curso.[carece de fontes?] Uma equipa de estudantes da University of Southampton desenhou e construiu o SUHPA.
+
+
+=== Taça Ícaro ===
+Em 2012, a Royal Aeronautical Society lançou a "Taça Ícaro" (Icarus Cup) para voo de propulsão humana.
+A primeira taça foi ganha pela Airglow, de John e Mark McIntyre, e é disputada todos os anos no Aeródromo de Lasham.
+
+
+== Ver também ==
+Transporte de tração humana
+Avião solar
+Veículo zero emissões
+Ornitóptero
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Reay, D. A. The History of Man-Powered Flight. Elsevier, 2014, (em inglês), ISBN 9781483145990 (19 de fevereiro de 2016).
+Cornelisse, Diana G. Splendid Vision, Unswerving Purpose: Developing Air Power for the United States Air Force During the First Century of Powered Flight. Wright-Patterson Air Force Base, Ohio: U.S. Air Force Publications, 2002. ISBN 0-16-067599-5.
+"Man powered flight advances" FLIGHT International, 16 March 1985
+Dr K Sherwin "Man-powered flying as a sport" FLIGHT International, 23 December 1971
+"America's man powered winner" FLIGHT International, 29 October 1977
+Taylor, John W. R. Jane's All The World's Aircraft 1962–63. London: Sampson Low, Marston & Company, Ltd, 1962.
+
+
+== Ligações externas ==
+Video of first human-powered aircraft (SUMPAC)
+"Cycleplanes and Their Possibilities" Flight 1913
+International Human Powered Vehicles Association (IHPVA)
+History of man-powered flight

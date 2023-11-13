@@ -1,0 +1,119 @@
+O iPhone 4 é um smartphone desenhado e desenvolvido pela Apple Inc., quarta geração do iPhone, e sucessor do iPhone 3GS, foi particularmente comercializado para chamadas de vídeo, e consumo de mídia, tais como livros e revistas, filmes, músicas e jogos, para web e acesso a e-mail. O produto foi anunciado em 7 de junho de 2010 na WWDC (Worldwide Developers Conference) 2010 no Moscone Center, São Francisco, e foi lançado em 24 de junho de 2010 nos Estados Unidos, Reino Unido, França, Japão e Alemanha.
+O iPhone 4 executa o sistema operacional iOS (sigla de iPhone/iPod-iTouch Operating System, o primeiro aparelho da Apple a ser lançado como iOS, antes iPhone OS, já que não só o iPhone o usa mas como o iPod touch, iPad e a Apple TV também o usa) da Apple, o mesmo sistema operacional usado nos iPhones anteriores, no iPad, e no iPod Touch. É principalmente controlado pelos dedos do usuário através da tela sensível ao toque. Sem modificação, o iPhone restringe os usuários de executar qualquer software que não seja explicitamente aprovado pela Apple e distribuído através da sua App Store.
+A diferença mais notável entre o iPhone 4 e seus predecessores é o novo design (material foi modificado passando de vidro Corning Gorila Glass para metal inoxidável com cantos de vidro na traseira do 5/5s e plástico policarbonáto do 3G/3GS no 5c, mas com a mesma base que foi usada em 2010 pelo iPhone 4), que incorpora um aço inoxidável que funciona como antena do aparelho. Ele usa o processador Apple A4 e tem 512 MB de eDRAM, o dobro do seu antecessor e quatro vezes maior do que o iPhone original. Sua tela de 3.5 polegadas (89 mm) LED backlit de cristal líquido é comercializado com o nome de "Retina Display" possui a resolução de 960 por 640 pixels. Muitos compradores do iPhone 4 relataram redução do sinal quando o telefone executava certas coisas, especialmente na mão esquerda. A empresa ofereceu aos clientes um processo livre até 30 de setembro de 2010, ou o reembolso no prazo de 30 dias após a compra. 
+Hoje, o iPhone 4 se encontra fora de linha e não é mais fabricado e comercializado. Estão a venda no site da Apple, o iPhone SE(3ª geração),iPhone 11 e modelos superiores.
+
+
+== Protótipo esquecido no bar ==
+Um protótipo de um iPhone 4 dentro de um estojo idêntico a um iPhone 3GS foi esquecido em um bar perto do campus da Apple, achado na mesa onde foi deixado foi encontrado por um homem em que citou que viu uma tela melhor (a Retina Display) e um design melhorado e um sistema diferente a um iOS naquela época (em 2010, antes de ser apresentado ao publico, era chamado de iPhone OS, o iOS citado era o próprio iOS 4) e depois vendeu ao site Gizmodo onde vazam as informações e o design do dispositivo.
+
+
+=== Lançamento ===
+O iPhone está disponível nos Estados Unidos, Reino Unido, França, Alemanha e Japão desde 24 de junho de 2010. Ele é vendido nas cores preta e branca, com memória de 16 GB ou 32 GB. A versão branca foi lançada oficialmente em Abril de 2011. Em Outubro de 2011 foi disponibilizada a versão de 8GB.
+O iPhone 4 já foi lançado também nos seguintes países e regiões: África do Sul, Arábia Saudita, Argentina, Austrália, Áustria, Bahrein, Bélgica, Brasil, Bulgária, Canadá, Chile, China, Colômbia, Coreia do Sul, Croácia, Dinamarca, Egito, Emirados Árabes Unidos, Eslováquia, Espanha, Estônia, Filipinas, Finlândia, Grécia, Guatemala, Holanda, Hong Kong, Hungria, Irlanda, Israel, Itália, Kuwait, Luxemburgo, Macedônia, Malásia, México, Montenegro, Noruega, Nova Zelândia, Omã, Peru, Polônia, Qatar, Rússia, Singapura, Suécia, Suíça, Tailândia, Taiwan, Tunísia, Turquia e Vietname.
+1,7 milhão de iPhones 4 foram vendidos em seus três primeiros dias de disponibilidade.
+
+
+==== Lançamento no Brasil ====
+O iPhone 4 começou a ser comercializado no Brasil em 17 de setembro de 2010 depois de ter recebido a homologação da Agência Nacional de Telecomunicações (Anatel) no dia 23 de agosto de 2010. O iPhone 4 é vendido no Brasil pelas operadoras: Oi, Claro, TIM e Vivo.
+
+
+==== Lançamento em Portugal ====
+Em Portugal, o iPhone 4 foi lançado pelas operadoras TMN, Vodafone e Optimus no dia 27 de Agosto de 2010.
+
+
+==== Relançamento na Índia ====
+Em Janeiro de 2014 a Apple teve uma atitude inédita para segurar as vendas no mercado indiano: a empresa relançou o iPhone 4 de 8GB, que já havia sido descontinuado pela empresa naquele país. Motivo do relançamento foi para atingir o mercado emergente e tentar, dessa maneira, atingir o público que é composto por, basicamente, smartphones Android e Windows Phone. Após as baixas vendas a Apple descontinuou o iPhone 4 em 7 de maio de 2014.
+
+
+=== Design ===
+O iPhone 4 apresenta uma estrutura remodelada, desenhado por Jonathan Ive. Mais concretamente, as protuberâncias do painel traseiro, assim como a banda entre a frente e a traseira foram substituídos por superfícies achatadas. O redesenho reflete o utilitarismo e a uniformidade dos produtos Apple Inc. já existentes, tais como o iPad e o iMac.  O único vestígio das gerações anteriores do iPhone é o layout geral do dispositivo, a estrutura metálica distintivo do iPhone 4 é mais uma reminiscência do 3G e 3GS. As dimensões do iPhone 4 foram reduzidas de seu antecessor. Trata-se de 3.5 polegadas (110 mm) de altura, 2,31 polegadas (59 mm) de largura, e 0,37 polegadas (9,4 mm) de profundidade, em comparação com o iPhone 3GS, que é 4,55 polegadas (116 mm) de altura, 2,44 polegadas (62 mm) de largura, e 0,48 polegadas (12 mm) de profundidade, tornando o iPhone 4 24% mais fino do que seu antecessor, o iPhone 3GS. Steve Jobs afirma que é "o mais fino smartphone no planeta". Os dispositivos de tamanho reduzido deve-se principalmente para as antenas sejam colocados externamente.
+O iPhone 4 é estruturado em torno de um aço inoxidável, que atua como a antena. O gabinete de aço inoxidável possui três fendas que dividem a banda em três seções, a seção da esquerda da faixa que funciona de antena para o Bluetooth, Wi-Fi e GPS, e à direita e a inferior funcionam como antena para conectividade GSM e UMTS. 
+
+Os componentes internos estão situados entre dois painéis de alumínio vidro, descrita pela Apple como "quimicamente reforçada a ser 20 vezes mais rígido e 30 vezes mais do que o plástico", teoricamente permitindo que ele seja mais resistentes e duráveis do que os modelos anteriores.
+
+
+=== Especificações ===
+
+
+==== Display ====
+O visor do iPhone 4 é projetado pela Apple Inc. e é fabricado pela LG, possui um LED backlit LCD capacitivo touchscreen com uma densidade de pixels de 326 pixels por polegada (ppi) em uma tela de 3,5 polegadas (8,9 cm) (960x640), cada pixel é de 78 micrómetros de largura. O monitor tem uma taxa de contraste de 800:1. A tela é comercializada pela Apple como "Retina Display", baseado na afirmação de que uma exposição de cerca de 300 ppi a uma distância de 12 polegadas (305 mm) de um olho é o valor máximo de detalhes que a retina humana pode processar. Com o iPhone deverá ser utilizado a uma distância de cerca de 12 centímetros dos olhos, uma resolução maior que alegadamente não ter nenhum efeito aparente na qualidade da imagem a que o potencial máximo do olho humano já foram cumpridos.
+A tela tem sido alvo de algumas críticas e controversas; a Apple alega que a resolução apresenta superior ao montante máximo de detalhes que a retina humana pode processar. Raymond Soneira, presidente da DisplayMate Technologies, informou em entrevista à revista Wired dizendo que as alegações feitas por Jobs é algo de exagero: "É razoavelmente perto de ser uma exibição perfeita, mas Steve empurrou-o um pouco longe demais". Soneira continuou a afirmar que a resolução da retina é maior do que alegado pela Apple, trabalhando a 477 ppi, 12 polegadas (305 mm) dos olhos.
+
+
+==== Câmera ====
+O iPhone 4 possui na frente um adicional VGA da câmera, e uma melhoria cinco megapixel voltados para câmera traseira integrada com um LED flash. A câmera traseira é capaz de gravar vídeos HD de 720p a 30 frames por segundo. Ambas as câmeras fazem uso da torneira para concentrar recursos, parte do iOS 4, para fotografia e gravação de vídeo. A câmera traseira possui 5x zoom digital.
+
+
+==== Conectividade ====
+Ao contrário do que Steve Jobs anunciou na WWDC 2010, recente Federal Communications Commission documentação revelou que o iPhone 4 contém uma Penta-Band 3G UMTS da antena, não é um Quad-Band 3G UMTS, como anunciado pela Apple. Segundo a documentação da FCC apresentado pela Apple, o rádio no interior do dispositivo de suporte; 800, 850, 900, 1900, 2100. A freqüência de 800 MHz, que é mais comumente usados em celulares japoneses, não é anunciado como sendo suportado pela Apple.
+Tal como acontece com muitos outros produtos fabricados pela Apple, o iPhone 4 também usa o conector dock de 30 pinos como sua porta de dados externo.
+
+
+==== Reprodução de áudio ====
+Resposta de frequência: 20 Hz a 20.000 Hz;
+Formatos de áudio suportados: AAC (8 a 320 Kbps), AAC Protegido (do iTunes Store), HE-AAC, MP3 (8 a 320 Kbps), MP3 VBR, Audible (formatos 2, 3, 4, Audible Enhanced Audio, AAX, e AAX+), Apple Lossless, AIFF e WAV;
+Limite máximo de volume configurável pelo usuário.
+
+
+==== Energia e bateria ====
+Bateria interna de íon de lítio recarregável;
+Carga via USB do computador ou adaptador de energia;
+Tempo de conversação:Até 7 horas em 3G;
+Até 14 horas em 2G;
+
+Tempo em espera: Até 300 horas;
+Uso da Internet:Até 6 horas em 3G;
+Até 10 horas em Wi-Fi;
+
+Reprodução de vídeo: Até 10 horas;
+Reprodução de áudio: Até 40 horas.
+
+
+==== FaceTime ====
+O iPhone 4 é o primeiro dispositivo que suporta FaceTime, uma aplicação de chamadas de vídeo (Como o Microsoft Skype) embutido que é capaz de usar qualquer dispositivo da Apple para se comunicar com outro iPhone 4 (Ou Mac) através de uma conexão Wi-Fi ou 3G.
+
+
+==== Giroscópio e acelerômetro ====
+O iPhone 4 introduz um sensor giroscópico, que permite três eixos aceleração angular em torno do X, Y e Z, permitindo o cálculo preciso de yaw, pitch and roll. O giroscópio complementa o acelerômetro, um sensor que tem estado presente desde o iPhone original, e detecta o dispositivo de aceleração, agitação, vibração e choque, ou queda de detectar uma aceleração linear ao longo de três eixos (X, Y e Z). O conjunto de dados a partir do acelerômetro e giroscópio oferece e precisa a informação detalhada sobre o eixo movimento do dispositivo de 6 a no espaço, os 3 eixos do giroscópio combinado com os 3 eixos do acelerômetro habilitar o dispositivo de reconhecer cerca de quão longe, rápido, e em que direção ele se mudou no espaço.
+
+
+==== Processador e memória ====
+O iPhone 4 é alimentado por Apple A4 chip, que foi projetado pela Intrinsity e, como todos os modelos anteriores do iPhone, fabricado pela Samsung. Este System-on-a-chip é composto por um Cortex-A8 CPU integrada com PowerVR SGX 535 GPU. A A4 Apple também é usada no iPad onde é cronometrado em sua velocidade nominal de 1 GHz. A velocidade de clock no iPhone quatro não foi divulgado. Todos os modelos anteriores do iPhone tem underclocked a CPU, que tipicamente se estende a vida da bateria e reduz a dissipação de calor. Observe que o iPhone 4 se torna um pouco mais quente que as gerações anteriores, reforçando a idéia de que pode ser executado a 1 GHz.
+O iPhone 4 tem 512 MB de eDRAM. O eDRAM adicionais defende o aumento da performance e multi-tasking.
+
+
+==== Armazenamento e Micro-SIM ====
+O iPhone 4 usa um cartão Micro-SIM, que é posicionado em uma bandeja ejetável, localizada no lado direito do aparelho. Todos os modelos anteriores usaram cartões regular Mini-SIM. Como nos modelos anteriores, todos os dados são armazenados na memória flash, 16GB ou 32GB, e não no SIM. Ao contrário das gerações anteriores, a capacidade de armazenamento não está impresso na parte traseira da unidade.
+
+
+==== Conteúdo da caixa ====
+iPhone 4;
+Fone de ouvido Apple com controle remoto e microfone;
+Cabo com conector de dock para USB;
+Adaptador de energia USB;
+Caixa;
+Documentação.
+Stickers.
+
+
+=== Acessórios ===
+
+
+==== Bumper ====
+Um iPhone 4 Bumper é um anel de borracha e plástico que envolve a borda do iPhone 4, com a finalidade de proteger o telefone. A parte interna é de borracha com a banda externa feita de plástico. O Adesivo para envolve em torno das bordas do dispositivo protetor das extremidades, e em menor extensão, a tela. O Bumper não cobrem a parte dianteira ou traseira do telefone.
+
+
+=== Ver também ===
+iPhone
+Apple Inc.
+Smartphone
+
+
+== Referências ==
+
+
+=== Ligações externas ===
+«Site oficial» (em inglês) 
+«Site oficial» 
+«iPhone Secrets» (em inglês) . Informações detalhadas sobre o iPhone.

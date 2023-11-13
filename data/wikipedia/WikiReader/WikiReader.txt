@@ -1,0 +1,45 @@
+WikiReader was a project to deliver an offline, text-only version of Wikipedia on a mobile device. The project was sponsored by Openmoko and made by Pandigital, and its source code has been released.The project debuted an offline portable reader for Wikipedia in October 2009. Updates in multiple languages were available online and a twice-yearly offline update service delivered via Micro SD card was also available at a cost of $29 per year. WikiReader versions of the English Wikipedia, Wikiquote, Wiktionary and Project Gutenberg can be installed together on a user-supplied 16 GB Micro SDHC memory card. Unlike Wikipedia itself, the device features parental controls.The device can also run programs written in the Forth programming language; a simple calculator program is included.In late 2014, the WikiReader website and project itself were shut down and abandoned for unknown reasons. Existing WikiReaders no longer receive updates to their database. Devices, professionally produced updates, and homegrown updates continue to be available from the secondary markets (e.g. eBay and Amazon), as well as from community efforts centered around the WikiReader subreddit.
+
+
+== Specifications ==
+Display: Monochrome Liquid Crystal Display (LCD), 240 × 208 pixels.
+Interface: Capacitive touchscreen with on-screen keyboard. Four hardware keys.
+CPU: Epson S1C33 E07 microcontroller with 8 KB + 2 KB internal memory
+Firmware: 64 KB Flash memory
+Memory: 32 MB SDRAM
+Storage: Removable microSD card (SD and SDHC supported; 512 MB, 2 GB, 4 GB, 8 GB, 16 GB supported)
+File formats supported: native format; a converter from MediaWiki's XML export format is available.
+Dimensions: 100 × 100 × 20 mm (3.9 × 3.9 × 0.8 inches)
+Weight: 120 grams (4.2 oz)
+Languages: English
+Warranty: 90 days
+Power: Two AAA batteries
+Battery life: 90 hours; equivalent to 1 year of normal use according to manufacturer
+
+
+== Limitations ==
+Text-only display: The WikiReader is strictly a "text only" display device.  The device therefore does not store or display any Wikipedia images.
+Tables: The WikiReader does not display article text which appears inside a table on Wikipedia.
+HTML "special characters": Certain Wikipedia article text encoded using HTML special characters is stripped from the WikiReader's output.
+Mathematical formulas: Original versions of the WikiReader do not display Wikipedia article information encoded as a formula using LaTeX markup. This has been addressed with an optional firmware update, which is pre-loaded on newer WikiReaders.
+Treatment of missing information: The WikiReader does not provide indications of sections where information has been removed from a Wikipedia article.  Images, tables, mathematical formulas and other information that was not encoded as plain text in the original Wikipedia article is deleted from the WikiReader's output.
+Search: The WikiReader's search capabilities are basic.  There is no full text search capability.  Only the titles of Wikipedia articles can be searched.  The WikiReader does support incremental search of article titles, beginning with the first characters of each title.  Search terms must be spelled correctly.  Wildcard searching is not supported.
+
+
+== Updated WikiReader images ==
+The last official WikiReader image was released by Pandigital in 2011. However, there exists an active fork of the original software capable of producing new images. There is also an active reddit community where new WikiReader images are shared and discussed.
+The latest update was released by this community in June 2021.
+
+
+== See also ==
+translatewiki.net, where WikiReader's interface is translated
+
+
+== References ==
+
+
+== External links ==
+
+WikiReader source code
+Offline Wikipedia Reader at Openmoko
+WikiReader – Offline Wikipedia "The Internet without the Internet" on YouTube by Techmoan

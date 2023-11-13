@@ -1,0 +1,15 @@
+GeoNames é uma base de dados geográfica livre e acessível através de Internet sob uma licença Creative Commons Atribução 3.0.
+
+
+== Base de dados e serviços de Internet ==
+A base de dados contém mais de 8 milhões de nomes geográficos correspondente a mais de 6,5 milhões de sítios existentes. Estes nomes estão organizados em 9 categorias e 645 subcategorias. Dados tais como a latitude, o comprimento, a altitude, a população, a subdivisão administrativa, e os códigos postais estão disponíveis em várias línguas e para cada localização.
+As coordenadas geográficas estão baseadas no sistema de coordenadas WGS 84 (Sistema Geodésico Mundial 1984).
+A informação é de acesso livre e de balde através de uma interface de Internet. É possível encontrar lugares com base num código postal, ou perto de um determinado lugar e encontrar ligações para a seção do artigo da Wikipedia.A interface é de tipo Wiki e os utentes podem acrescentar dados, melhorar ou corrigir os dados.
+
+
+== Web de Integração Semântica ==
+Cada recurso em GeoNames é representado como um lugar de recursos identificado por um identificador URI estável. Este id de URI oferece acesso, através da transferência de informação a uma página Wiki em HTML ou uma descrição dos recursos em RDF utilizando o dialeto GeoNames.
+Este dialeto descreve as propriedades dos caracteres GeoNames usando a OWL. As classes e códigos são também descritos na língua SKOS. Através da URL dos artigos na Wikipedia ligados na descrição RDF, os dados GeoNames ffan uma conexão aos dados DBpedia e outros RDF.
+
+
+== Referências ==

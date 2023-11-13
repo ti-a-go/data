@@ -1,0 +1,241 @@
+O solo, popularmente referido como terra, é uma mistura de material inconsolidado contendo uma fase sólida, composta por matéria orgânica, minerais e mineraloides (a matriz do solo), e uma fase porosa contendo gases (a atmosfera do solo), líquidos e coloides (a solução do solo) e uma grande diversidade de organismos (o édafon ou biota do solo).O solo cobre largas áreas da superfície terrestre emersa entre a litosfera e a atmosfera e é o produto da pedogénese, um processo que resulta da interacção da meteorização com os efeitos biológicos (bioquímicos e biofísicos) sobre um material de origem (a rocha-mãe), ao longo de largos períodos de tempo. As características específicas de cada solo são o resultado de factores ambientais como a rocha-mãe, o relevo, o clima e o bioma. O solo é um dos principais suportes da vida nas regiões emersas da Terra e sofre continuamente alterações por meio de numerosos processos físicos, químicos e biológicos, que incluem a meteorização com a consequente erosão associada. Dada a sua complexidade e interconectividade interna, os ecologistas encaram o solo como um ecossistema.
+
+
+== Descrição ==
+O solo corresponde à decomposição de rochas que ocorre por meio de ações ligadas à temperatura, como o calor, além de processos erosivos provenientes da ação dos ventos, chuva e seres vivos, tais como bactérias e fungos. Contudo, pode ser visto sobre diferentes óticas. Para um engenheiro agrônomo o solo é a camada na qual pode-se desenvolver vida (vegetal e animal). Para um engenheiro civil, sob o ponto de vista da mecânica dos solos, solo é um corpo possível de ser escavado, sendo utilizado dessa forma como suporte para construções ou material de construção. Para um biólogo, através da ecologia e da pedologia, o solo infere sobre a ciclagem biogeoquímica dos nutrientes minerais e determina os diferentes ecossistemas e habitats dos seres vivos.
+
+
+== Pedogênese ==
+
+Pedogénese é o processo químico e físico de alteração (adição, remoção, transporte e modificação do solo) que atua sobre um material litológico, originando um solo.
+Solos estão constantemente em desenvolvimento, nunca estando estáticos, por mais curto que seja o tempo considerado. Ou seja, desde a escala microscópica, diariamente, há alteração por organismos vivos no solo, da mesma forma que o clima, ao longo de milhares de anos, modifica o solo. Dessa forma, temos solos na maioria recentes, quase nunca ultrapassando idades Terciárias.
+Geralmente, o solo é descrito como um corpo tridimensional, podendo ser, porém, ao se considerar o fator tempo, descrito como um sistema de quatro dimensões: tempo, profundidade, largura e comprimento.
+Um solo é o produto de uma ação combinada e concomitante de diversos fatores. A maior ou menor intensidade de algum fator pode ser determinante na criação de um ou outro solo. São comumente ditos como fatores da formação de soloː clima, material de origem, organismos, tempo e relevo. Estes fatores são classificados em ativos e passivos em relação a adição ou recepção de energia no sistema, respectivamente. O clima e os organismos são classificados como fatores ativos e o material de origem, tempo e relevo como fatores passivos. Estes fatores atuam juntos na formação do solo e afetam as características do mesmo.
+Os processos de formação do solo também podem ser classificados em: processos gerais e específicos.
+
+
+== Processos gerais de formação do solo ==
+São processos que modificam o solo em razão dos fatores de formação do solo. Estes processos são:
+
+Adição: Qualquer adição de origem externa no solo. Ex: matéria orgânica, poeiras, cinzas, adubos, corretivos, gases, íons, sedimentos;
+Perda: Qualquer remoção ou perda de gases, material sólido, íons ou líquido do perfil do solo. Ex: Matéria Orgânica, evapotranspiração;
+Transformação: Processos de transformação dos compostos sólidos do solo. Essas transformações podem ser de ordem química, física e biológica;
+Translocação: processos relacionados a movimentação de material solido, líquido e gasoso dentro do perfil do solo.
+
+
+== Processos especificos de formação do solo ==
+
+São aqueles em que ocorre atuação de um ou mais dos processos gerais de adição, remoção, translocação ou transformação, de formação do solo. São processos específicos:
+
+Latossolização: Processo de formação do solo que se caracteriza a intensa remoção de sílica no processo de intemperismo, termo que substitui a designação laterização, o mesmo que ferrilitização. É um processo de acumulo de oxido de ferro no e alumínio no solo devido a perda de bases e silício na forma de sílica. Nesse processo são formados minerais secundários como: Caulinita, Gibbsita, Hematita e Goethita ;
+Lessivagem: Migração mecânica de argila do horizonte A para o B textural ou B nítrico É um processo de transporte de pequenas partículas minerais(argilas) em suspensão do horizonte A(ou E) para o horizonte B, produzindo horizontes Bt;
+Podzolização: Processo no qual ocorre a migração de alumínio (Al) e matéria orgânica,com ou sem ferro(Fe), para o horizonte B;
+Gleização: processo de formação do solo característico das condições de excesso de água (hidromorfismo). Nessa condições forma-se um horizonte glei típico dos Gleissolos. É um processo no qual ocorre redução química do ferro em condições anaeróbicas;
+Paludização: acúmulo de material orgânico em locais saturados com água (ambiente anaeróbico, desfavorável à degradação). Material orgâncio começa a se acumular; Quando grandes espessuras-turfeiras.; Horizonte hístico (H) - material orgânico em diferentes estágios de decomposição. Forma Organossolos;
+Vertissolização: formação de características vérticas geralmente presentes em solos com predomínio de esmectita. Forma Vertissolos. Slickensides no subsolo; fendas profundas no solo seco (Fendas - queda de material da superfície - expansão e mistura); microrrelevo de gilgai.
+
+
+== Funções do solo ==
+Principal substrato utilizado pelas plantas para o seu crescimento (H2O e nutrientes) e disseminação;
+Reciclagem e armazenamento de nutrientes e detritos orgânicos;
+Controle do fluxo da água e ação protetora da qualidade da água subterrânea;
+Habitat para a fauna do solo;
+Abrigar os seres vivos;
+Entre muitas e muitas funções.
+
+
+== A composição do solo ==
+O solo é a camada mais superficial da crosta, é composto por sais minerais dissolvidos na água intersticial, organismos e rochas em decomposição.
+Existem muitas variações de terreno a terreno dos elementos de um solo, mas basicamente figuram-se quatro camadas principais:
+
+A primeira camada é rica em húmus, detritos de origem orgânica. Essa camada é chamada de camada fértil. Ela é a melhor para o plantio, e é nessa camada que as plantas encontram alguns sais minerais e água para se desenvolver;
+A outra camada é a camada dos sais minerais. Ela é dividida em três partes:
+A primeira parte é a do calcário. Corresponde entre 7 e 10% dessa camada;
+A segunda parte é a da argila, formada geralmente por caolinita, caulim e sedimentos de feldspato. Corresponde de 20 a 30% dessa camada;
+A última parte é a da areia. Esta camada é muito permeável e existem espaços entre as partículas da areia, permitindo que entre ar e água com mais facilidade. Esta parte corresponde de 60 a 70% da camada em abertura com o Magma.A terceira camada é a das rochas parcialmente decompostas. Depois de se decomporem totalmente, pela ação da erosão e agentes geológicos, essas rochas podem virar sedimentos, ou seja, rochas sedimentares;
+A quarta camada é a de rochas que estão inicialmente começando a se decompor. Essas rochas podem ser chamadas de rocha matriz.
+
+
+== Classificação quanto à granulometria ==
+
+
+=== Solos arenosos ===
+São aqueles que têm grande parte de suas partículas classificadas na fração areia,formado principalmente por cristais de quartzo e minerais primários. Ele também possui consistência granulosa como a areia. Muito presente na região nordeste do Brasil, sendo permeável à água.
+
+
+=== Solos siltosos ===
+São aqueles que tem grande parte de suas partículas classificadas na fração silte, de tamanho entre 0,05 e 0,002 mm, geralmente são muito erosíveis. O silte não se agrega como as argilas e ao mesmo tempo suas partículas são muito pequenas e leves. São geralmente finos.
+
+
+=== Solos argilosos ===
+São aqueles que tem grande parte de suas partículas classificadas na fração argila, de tamanho menor que 0,002 mm (tamanho máximo de um colóide). Não são tão arejados, mas armazenam mais água quando bem estruturados. São geralmente menos permeáveis, embora alguns solos brasileiros muito argilosos apresentam grande permeabilidade - graças aos poros de origem biológica. Sua composição é de boa quantidade de óxidos de alumínio (gibbsita) e de ferro (goethita e hematita). Formam pequenos grãos que lembram a sensação táctil de pó-de-café e isso lhes dá certas caraterísticas similares ao arenoso.
+
+
+=== Latossolo ===
+Possui a capacidade de troca de cations baixa, menor que 17 cmolc, presença de argilas de baixa atividade (Tb), geralmente são solos muito profundos (maior que 2 m), bem desenvolvidos, localizados em terrenos planos ou pouco ondulados, tem textura granular e coloração amarela a vermelha escura.
+São solos zonais típicos de regiões de clima tropical úmido e semi-úmido, como Brasil e a África central. Sua coloração pode ser avermelhada, alaranjada ou amarelada. Isso evidencia concentração de óxidos de Fe e Al em tais solos. São profundos, bastante porosos e bem intemperizados.
+
+
+=== Solo lixiviado ===
+São aqueles que a grande quantidade de chuva carrega seus nutrientes, tornando o solo pobre ( pobre em potássio e em nitrogênio).
+
+
+=== Solos negros das Planícies e das Pradarias ===
+São aqueles que são ricos em matéria orgânica.
+
+
+=== Solo árido ===
+São aqueles que pela ausência de chuva não desenvolvem seu solo.
+
+
+=== Solos de montanhas ===
+São aqueles que o solo é jovem.
+
+
+=== Solo orgânico ===
+Composto de materiais orgânicos (restos de organismos mortos e em decomposição), além da areia e da argila. Este solo é o que mais favorece o desenvolvimento da vida das plantas, porém solos orgânicos tropicais como do Brasil, por exemplo, possuem baixa fertilidade. O húmus é o resíduo ou composto solúvel originado pela biodegradação da matéria orgânica, que o torna disponível para as plantas nutrientes minerais e gasosos como o nitrogênio (N).
+O solo orgânico favorece propriedades físicas e químicas do solo; favorece as propriedades físicas pois formam-se grânulos, deixando-o mais leve, menos pegajoso e mais trabalhável. A formação de grânulos também favorece a umidade e arejamento do solo, já que se formam espaços vazios entre os grânulos e estes, por sua vez, são preenchidos por ar e água. Favorecem as propriedades químicas, pois pode aumentar sua CTC, fixam nutrientes minerais e gasosos através de reações químicas e aumenta ou diminui o pH. Grandes quantidades de matéria orgânica no solo podem favorecer o aumento da acidez potencial, por liberação de H+.
+
+
+== Classificação taxonômica de solos ==
+A classificação taxonômica dos solos permite entender os processos que levam um solo a transformar-se em outro. Podem classificar-se os solos segundo uma característica marcante, como a fertilidade o que permite propor ações governamentais para a agricultura e assentamentos. Por outro lado, ao subdividir o solo pelo seu baixo teor de argila, podem entender-se os processos de lixiviação que podem estar destruindo aquele solo.
+A taxonomia dos solos é baseada nas características de cada país ou região, sendo, portanto, geralmente nacionais ou regionais.
+Os primeiros sistemas de classificação utilizados na pedologia exigiam apenas a observação do pesquisador. Eram geralmente associados aos processos mais marcantes da gênese pedológica, ou a rocha matriz ou até mesmo a cor do solo. Dessa forma, existiam os "solos de colúvio", ou os "solos de granitos" ou "solos roxos"
+Basicamente na Pedologia temos as unidades sistemáticas:
+
+Ordem
+Subordem
+Grande Grupo
+Subgrupo
+Família
+Série
+
+
+=== Primeira classificação ===
+Universalmente, a classificação utilizada na pedologia, desde seus primórdios, estava baseado em três ordens:
+
+zonal
+azonal
+intrazonalEsta organização baseava-se principalmente nos fatores de clima, tempo e relevo que se encontrava os solos:
+
+solos zonais são aqueles em relevos estáveis, em climas estáveis culminando em um formação antiga;
+solos azonais são aqueles que existem em ambientes instáveis, por exemplo, em aluviões e colúvios. São, portanto, sempre jovens;
+solos intrazonais são solos em que o relevo local ou material de origem prevalecem sobre o clima; são solos intermediários entre azonais e zonais (quando vistos sob o fator tempo).
+
+
+=== Horizonte diagnóstico ===
+Para se classificar um solo, deve-se ter em vista seu horizonte diagnóstico, dentro do solo (horizontes O, A e B juntos). Este é um horizonte do solo, com características pré-determinadas pela taxonomia a ser utilizada pelo pedólogo. Para tanto, devem-se pegar amostras de cada horizonte do solo e, em laboratório, ver qual horizonte diagnóstico determinada amostra representa.
+Os horizontes de solo, que compõem o perfil de um solo, são apenas horizontes delimitados de acordo com sentidos básicos do pesquisador (como visão e tato) e simples técnicas de campo. Já os horizontes diagnósticos exigem exames em laboratório.
+Por exemplo, ao se retirar a amostra do horizonte B, e, em laboratório ver que trata-se de um horizonte B textural, ou seja, com acúmulo de argila, sendo ainda um acúmulo iluvial, pois em campo o pedólogo viu que se tratava de um horizonte B abaixo de um horizonte Eluvial (horizonte E), ou um solo em vertente, próximo a uma latossolo, o pesquisador poderá inferir se é um solo do tipo Luvissolo ou Argiloso (sendo que no primeiro, as argilas devem ser 2:1 e no segundo 1:1).
+A seguir, na Classificação Brasileira, estão listados os solos do Brasil e brevemente seus horizontes (e algumas características) diagnósticas.
+
+
+=== Classificação brasileira ===
+A classificação brasileira de Solos, sempre em constante atualização, é chamada de SiBCS (Sistema Brasileiro de Classificação de Solos). É desenvolvida pela Embrapa, sendo a mais recente, publicada em 1999, com importante atualização em 2005.
+Nesta classificação, feita por profissionais do órgão e diversos voluntários acadêmicos, há 6 níveis categóricos (Ordem, Subordem, Grande Grupo, Subgrupo), sendo os níveis mais baixos (Família e Série) ainda discutidos.
+Existiam, no SiBCS 1999, 14 ordens de solo, mas em 2005, uma ordem foi extinta.
+As 13 ordens resultantes são:
+
+Argissolo
+Cambissolo
+Chernossolo
+Espodossolo
+Gleissolo
+Latossolo
+Luvissolo
+Neossolo
+Nitossolo
+Organossolo
+Planossolo
+Plintossolo
+VertissoloA ordem dos Alissolos foi retirada em 2005. Este solo era diagnosticado como possuidor de um horizonte B textutal rico em alumínios e argilas 2:1.Esta ordem foi excluída, pois classificar de acordo com a quantidade de alumínio foi considerado algo secundário, sendo possível, inclusive, tais teores de alumínio dos Argissolos ocorrerem em outros solos também.
+
+
+=== Classificação internacional dos solos ===
+A FAO (Food and Agriculture Organization das Nações Unidas) publicou 1998 a classificação dos solos como "World Soil Ressource Report 84“ (WRB), uma nova edição do sistema mais antigo "Soil Map of the World“ de 1988. Ela foi reconhecida como classificação internacional pelo Congresso da União Internacional dos Especialistas do Solo em 1998 em Montpel
+
+
+== Morfologia ==
+Quanto maior a atuação da pedogênese no solo, mais este se tornará um corpo individual, com características próprias. Para se determinar o tipo de solo, busca-se pesquisas teóricas e dois momentos empíricos:
+
+Análise de campo
+Análise de laboratório.A análise de campo é, sem dúvidas, um dos momentos mais importantes do estudo da pedologia, sendo o único momento em que o pesquisador poderá ver o solo como um corpo tridimensional, atrelado a paisagem. Em laboratório, na maioria dos processos, o solo deverá ser destruído de sua estrutura original (salvo preparação para micromorfologia). Informações como cor, influência do relevo e biomassa e estrutura de agregados se perderão.
+O principal objetivo do estudo em campo é descrever de forma padronizada a morfologia, ou seja, a "anatomia" do solo, a qual será melhor analisada junto aos resultados laboratoriais para se determinar o tipo de solo, sua gênese, etc.
+Geralmente os processos de descrição são bastante simples e não exigem equipamentos mais complexos do que pás, martelos de pedólogos, lupas, água para molhar a amostra e tabela de cor. Os sentidos usados pelo pedólogo geralmente são o tato (para se testar textura) e visão; há, contudo, alguns métodos descritivos, menos usuais e não aconselhados, que se utilizam do paladar (para determinar se a amostra é siltosa ou argilosa) e até olfato, para se determinar decomposição e presença de rochas argilosas.
+Nesta análise visual inicial, distinguem-se os horizontes do solo, detectando-se a translocação de argilas e matéria orgânica pela cor e consistência. Depois recolhem-se amostras que serão analisadas para determinar a composição em areia (grossa e fina), argila e silte. Essas partículas distinguem-se primeiramente pelo tamanho, mas suas propriedades são diferentes, por exemplo, as argilas adsorvem partículas.
+
+
+=== Perfil e horizontes ===
+
+Um solo possuí camadas horizontais de morfologia diferente entre si. Essas camadas são chamadas de horizontes. Essas camadas, apesar de todos as normas e técnicas, dependem para sua delimitação em campo estritamente dos sentidos do pedólogo.
+A soma destas camadas define o perfil do solo. Como a ação pedogenética, tal como perturbação de seres vivos, infiltração de água, entre outros, é variável ao perfil, é constante o desenvolvimento de alguns horizontes. Diz-se que quanto mais distante da rocha mãe, mais intensa e/ou antiga foi a ação pedogenética.
+
+Basicamente um perfil de solo apresenta os horizontes:
+
+O - O horizonte orgânico do solo e bastante escuro;
+H - Horizonte de constituição orgânica, superficial ou não, composto de resíduos orgânicos acumulados ou em acumulação sob condições de prolongada estagnação de água, salvo se artificialmente drenado;
+A - Horizonte superficial, com bastante interferência do clima e da biomassa. É o horizonte de maior mistura mineral com húmus;
+E - Horizonte eluvial, ou seja, de exportação de material, geralmente argilas e pequenos minerais. Por isso são geralmente mais claros que demais horizontes;
+B - Horizonte de maior concentração de argilas, minerais oriundos de horizontes superiores (e, às vezes, de solos adjacentes). É o solo com coloração mais forte, agregação e desenvolvimento;
+C - Porção de mistura de solo pouco denso com rochas pouco alteradas da rocha mãe. Equivale aproximadamente ao conceito de saprólito;
+R - Rocha matriz não alterada. De difícil acesso em campo.
+
+
+=== Textura ===
+A textura do solo depende da proporção de areia, do silte (ou limo), ou argila na sua composição.
+Isso influencia na:
+
+taxa de infiltração da água;
+armazenamento da água;
+aeração;
+facilidade de mecanização;
+distribuição de determinados nutrientes (fertilidade do solo).As percentagens de argila, silte e areia mudam bastante ao longo da extensão de um terreno. A maneira em que esses diferentes tipos de grãos se distribuem é de extrema importância na disseminação da água no solo. A textura modifica o movimento da água.
+No Brasil existe uma camada superficial que é arenosa e uma subsuperficial argilosa o que resulta em uma diferença quanto à porosidade. A água acaba penetrando mais facilmente na parte de cima e lentamente na camada inferior. Isso facilita a erosão em função do relevo e cobertura vegetal ou prejudica o desenvolvimento das raízes das plantas.
+
+
+=== Cor ===
+Como a cor é algo bastante subjetivo, geralmente em todo o mundo se utiliza uma tabela de cor padrão, chamada de Münsell. Esta tabela consiste em aproximadamente 170 cores arranjadas de formas diversas.
+Achando a cor do solo nesta tabela, anota-se os três elementos básicos que regem o sistema de cores Münsellː
+
+Matriz (Hue) - A cor pura, descrita entre vermelho (R), amarelo (Y), etc.;
+Valor (Value) - É o tom de cinza presente na cor ("claridade" da cor), variando entre branco ( valor 10) ou preto (valor 0);
+Croma (Chroma) - proporção da mistura da cor fundamental com a tonalidade de cinza. Variando também de 0 a 10.A cor implica diversas considerações imediatas sobre o solo. Geralmente, quanto mais escura, maior será o conteúdo de matéria orgânica. Já a presença de óxidos de ferro dão tons avermelhados para os solos. Cromas menos que 2 ou 3 podem indicar processo de gleização no solo. A cor Preto-azulado pode determinar magnésios.
+
+
+=== Estrutura ===
+As partículas da textura podem se encontrar agregadas (porém não como rochas). A estrutura é então referente ao tamanho, forma e aspecto destes agregados.
+
+
+=== Consistência ===
+Os agregados, por sua vez, têm diversos graus de adesão, podendo ser mais friáveis (macios) ou mais brandos (duros). A resistência desses agregados é conhecida como consistência, e, como depende da textura, porosidade e outros fatores, é também testada em amostrasː
+
+secas - para se determinar a dureza ou tenacidade;
+úmidas - para se determinar a friabilidade;
+molhadas - plasticidade e pegajosidade.
+
+
+=== Porosidade ===
+Poros são os "vãos" dentro do solo. O maior fator de criação de tais poros é o bioma compostos de insetos, minhocas, etc... Os poros ajudam a penetração de água e sua permeabilidade, que, por sua vez, transporta material para dentro do solo, dos horizontes mais superficiais para os mais profundos.
+São dois grupos de poros, com um intermediário:de acordo com o diâmetro dos poros.
+
+macroporos - geralmente maiores de 0,075mm. Esses poros perdem sua água após 48h de secagem natural e são os que mais determinam a permeabilidade e aeração do solo.
+mesoporos - intermediário entre macroporos e microporos (entre 0,030mm e 0,075mm).
+microporos - menores que 0,030mm, responsáveis pela retenção de água.
+
+
+== Fertilidade, erosão e a saúde de um solo ==
+O solo funciona como alicerce da vida terrestre. "O homem somente terá saúde se os alimentos possuírem energia vital. Os alimentos somente possuem energia vital se as plantas forem saudáveis. As plantas somente serão saudáveis se o solo for saudável". Os micro e macro nutrientes, assim como boa porção da água que plantas necessitam, estão nos solos.
+Além dos elementos inorgânicos, a fertilidade de um solo também é garantida pela vida existente no mesmo.
+Para essa vida existir, o equilíbrio do solo - corpo mediador entre litosfera, hidrosfera, biosfera e atmosfera - deve estar preservado e adequado. Quando isto ocorre, diz se que o solos está fértil. Se um dos elementos necessários à vida não estiver presente, ou estiver em número insuficiente para aquele bioma, o solo está infértil e deve ser artificialmente corrigido. Muitas vezes, é o próprio homem que torna seu solo infértil, através da erosão ou exploração acelerada.
+
+
+== Ver também ==
+
+
+== Referências ==
+
+
+== Bibliografia ==
+
+
+== Ligações externas ==

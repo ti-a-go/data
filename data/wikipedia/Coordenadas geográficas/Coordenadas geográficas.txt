@@ -1,0 +1,45 @@
+As coordenadas geográficas são pontos imaginários na superfície do globo terrestre, definidos pela intersecção de linhas também imaginárias, longitudinais e transversais em relação ao eixo de rotação da Terra. As linhas longitudinais são denominadas meridianos e têm como referência o Meridiano de Greenwich. As linhas transversais são denominadas paralelos e têm como referência a linha do equador. Os pontos são dados em graus e suas subdivisões minutos e segundos, que são a medida do afastamento do ponto em relação às suas respectivas linhas de referência. Essa rede de linhas imaginárias, através de suas intersecções, permite localizar com precisão qualquer ponto na superfície do globo terrestre. A identificação dos pontos é dada por uma longitude (leste ou oeste, dependendo da localização em relação ao Meridiano de Greenwich) e uma latitude (norte ou sul, dependendo da localização em relação à linha do equador).Esse sistema de divisão provém das teorias dos antigos babilônios, expandido pelo pensador e geógrafo grego Ptolomeu, nas quais um círculo completo é dividido em 360 graus (360°).
+
+
+== Localização absoluta ==
+Para localizar um lugar na superfície terrestre de forma exata é necessário usar duas indicações, cada uma composta de uma letra e de um número. Utilizando elementos de referência da rede cartográfica ou geográfica de indicação no mapa.
+O uso dos pontos cardeais (Norte, Sul, Leste e Oeste) como guia, não permitem localizar com exatidão um ponto na superfície terrestre porque é um instrumento para trabalhar em pequenas distâncias num plano de duas dimensões.
+O sistema de mapeamento da Terra por meio de coordenadas geográficas expressa posições horizontais no planeta mediante duas coordenadas do sistema esférico de coordenadas, alinhadas com o eixo de rotação da Terra. 
+
+
+=== Guias imaginárias ===
+As coordenadas geográficas baseiam-se em diversas linhas imaginárias horizontais e verticais traçadas sobre o globo terrestre:
+
+os paralelos são linhas paralelas ao equador que circundam a Terra — a própria linha imaginária do equador é um paralelo;
+os meridianos são linhas semicirculares, isto é, linhas de 180° que ligam os polos — eles vão do Polo Norte ao Polo Sul e cruzam com os paralelos.Cada meridiano possui o seu antimeridiano, isto é, um meridiano oposto que, junto com ele, forma uma circunferência. Todos os meridianos têm o mesmo tamanho. Convencionou-se que o meridiano de Greenwich, que passa pelos arredores da cidade de Londres, na Inglaterra, é o meridiano principal.
+A partir dos paralelos e meridianos, estabeleceram-se as coordenadas geográficas, que são medidas em graus, para localizar qualquer ponto da superfície terrestre.
+
+
+== Sistema das Coordenadas Geográficas ==
+Existem pelo menos quatro modos de designar uma localização exata para qualquer ponto na superfície do globo terrestre.
+Nos três primeiros sistemas, o globo é dividido em latitudes, que vão de 0 a 90 graus (norte ou sul) e longitudes, que vão de 0 a 180 graus (Leste ou Oeste). Para efeitos práticos, usam-se as siglas internacionais para os pontos cardeais: N=Norte/North, S=Sul/South, E ou L=Leste/East, O ou W=Oeste/West.Para as longitudes, o valor de cada unidade é bem definido, pois a metade do grande círculo tem 20003,93km, dividindo este último por 180, conclui-se que um grau (°) equivale a 111,133 km. Dividindo um grau por 60, toma-se que um minuto (') equivale a 1852,22 m (valor praticamente idêntico ao da milha náutica). Dividindo um minuto por 60, tem-se que um segundo (") equivale a 30,87 m.
+Para as latitudes, há um valor específico para cada posição, que aumenta de 0 na Linha do Equador até aos Polos, onde está o seu valor máximo (90° de amplitude do ângulo).
+
+
+=== Graus, minutos, segundos ===
+Neste sistema, cada grau é dividido em 60 minutos, que por sua vez se subdividem, cada um, em 60 segundos. A partir daí, os segundos podem ser divididos decimalmente em frações cada vez menores.
+
+
+=== Minutos decimais ===
+Neste sistema, cada grau é dividido em 60 minutos, que por sua vez são divididos decimalmente.
+
+
+=== Graus Decimais ===
+Neste sistema, cada grau é dividido em frações decimais.
+A forma de nomeação difere um pouco dos dois primeiros sistemas: a latitude recebe a abreviatura lat e a longitude, long. Há valores positivos e negativos. Os valores positivos são para o Norte (latitude) e o Leste (longitude) e não recebem um símbolo específico. Os valores negativos são para o Sul (latitude) e o Oeste (longitude), sendo acrescidos do símbolo -.
+
+
+=== Universal Transversa de Mercator ===
+
+Para efeitos de comparação, este sistema usa três dados ao invés de dois. O primeiro é o setor do globo terrestre, o segundo é a distância relativa ao centro do meridiano - sempre 500000,00 m - e o terceiro é a distância do Polo Sul (para locais no Hemisfério Sul) ou da Linha do Equador (para locais no Hemisfério Norte).
+
+
+== Ver também ==
+
+
+== Referências ==

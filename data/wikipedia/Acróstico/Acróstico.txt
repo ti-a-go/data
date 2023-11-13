@@ -1,0 +1,35 @@
+Na versificação, um acróstico é qualquer composição poética na qual certas letras de cada verso, quando lidas em outra direção e sentido, formam uma palavra ou frase.
+
+
+== Tipos de acróstico ==
+Em um acróstico (genérico), as letras que compõem a nova palavra ou frase podem estar em qualquer posição, dentro de cada verso. Exemplo:
+
+No entanto, existem alguns tipos especiais de acróstico em que as posições dessas letras são mais bem definidas. Alguns desses tipos são os abaixo enunciados.
+
+
+=== Acróstico propriamente dito ===
+Quando se juntam as letras iniciais de cada verso para formar a palavra ou frase desejada, tem-se o acróstico propriamente dito, que se lê na vertical, de cima para baixo ou no sentido inverso. Exemplo:
+
+No trecho de cordel do exemplo acima, o autor Leandro Gomes de Barros utilizou-se de um acróstico propriamente dito para firmar sua autoria.
+
+
+==== Abecedarius ====
+Um subtipo especial de acróstico propriamente dito é o abecedarius, também denominado acróstico alfabético. Nesse tipo de acróstico, a primeira letra de cada verso (ou de cada palavra de cada verso) forma com as demais primeiras letras (de cada verso ou palavra) uma sucessão que é idêntica à sucessão de letras do alfabeto ou abecedário.O búlgaro Constantino de Preslav escreveu um dos mais famosos abecedarius: a "Oração alfabética" (Азбучна молитва), um poema cristão escrito em versos dodecassílabos que se iniciam, cada um, com uma das letras do alfabeto glagolítico. A obra foi inspirada em uma similar, de autoria de Gregório de Nazianzo, que utilizava o alfabeto grego.
+
+
+=== Mesóstico ===
+Tipo de acróstico em que os ajuntamentos de letras ocorrem no meio dos versos. Exemplo:
+
+
+=== Teléstico ===
+Tipo de acróstico em que todos os ajuntamentos de letras ocorrem no fim dos versos.
+
+
+=== Acróstico cruzado ===
+Tipo de acróstico em que o nome ou frase é formado pelo ajuntamento da primeira letra do primeiro verso com a segunda letra do segundo verso, às quais se juntam a terceira letra do terceiro verso, também a quarta letra do quarto verso, e assim sucessivamente até o último verso.
+
+
+== Notas ==
+
+
+== Referências ==

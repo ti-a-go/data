@@ -1,0 +1,129 @@
+
+== Principais Funções do Operador de Tratamento de Água ==
+Controlar a entrada de água, abrindo e regulando válvulas e acionando bombas para abastecer o reservatório.
+Efetuar o tratamento de água, adicionando quantidades adequadas de cloro, sulfato de alumínio ou outros produtos químicos para depurá-la, desodorizá-la e clarificá-la.
+Bombear a água depurada, acionando os registros e válvulas para permitir a sua distribuição.
+Fazer a coleta de água para análises de PH, cor e turbidez, retirando amostras do reservatório e fazendo análise no laboratório com aparelhos apropriados, controlar o funcionamento da instalação, lendo as marcações dos contadores e indicadores do quadro de controle, para determinar o consumo de água e outros fatores. Na análise microbiológica de água é possível avaliar odor, gosto, cor, PH, bactérias heterotróficas, coliformes totais, escherichia coli, entre outros elementos que identificam a qualidade da água para o consumo humano.
+Efetuar a manutenção dos equipamentos, limpando depósitos e tanques de filtragem para conservando em perfeito estado de funcionamento.
+Executar trabalho em aparelhos especificados, digitalizados para automações.
+Efetuar outras atribuições afins.
+
+
+== Parâmetros de qualidade ==
+Os itens a seguir descrevem os parâmetros de qualidade e os padrões estipulados pela Portaria 518 do Ministério da Saúde.
+
+
+=== Características físicas e organolépticas ===
+Cor - padrão: máximo 15 Unidade Hazen. Uma água de boa qualidade deve se apresentar incolor. Se a água apresentar qualquer tipo de cor, esta se deve à presença de substâncias dissolvidas, ou finamente divididas (material em estado coloidal). Essas substâncias podem ou não ser prejudiciais à saúde. Acima de certo teor, a cor pode ser percebida visualmente. Para melhorar a capacidade de detecção, no entanto, são utilizados aparelhos chamados comparadores, que possibilitam medir a intensidade da cor aparente de uma amostra de água. Além de eventuais riscos sanitários, uma água com cor pode trazer transtornos para o usuário, como manchas em roupas, em louças sanitárias,etc.. O consumidor, por sua vez, da mesma forma que no caso da turbidez, tende a rejeitar uma água que apresenta algum tipo de cor visível. A presença de cor avermelhada na água que circula na rede de distribuição é normalmente devida ao arraste do material que está aderido às paredes da tubulação. Esse tipo de problema não representa maiores riscos sanitários, embora possa causar o já mencionado problema de manchas em roupas. Eventualmente, a água pode apresentar um aspecto leitoso, opaco. Isso ocorre devido à dissolução, sob forte pressão, de ar na água, não representando, portanto, nenhum risco para a saúde (as pessoas normalmente associam esse fenômeno à presença de cloro em excesso na água, o que não é verdade).
+Gosto e odor - padrão: não objetável: A água destinada ao consumo humano não deve apresentar gosto ou odor perceptíveis. Na verdade, a água tem um sabor característico, que se deve à presença de sais e gases nela dissolvidos. O senso comum, porém, classifica esse sabor como "sem gosto", pela comparação com outros sabores. Assim, qualquer sabor (ou odor) diferente daquele que é característico de águas "sem gosto" é considerado como objetável. Se a água apresenta gosto ou odor objetáveis, ela é suspeita e portanto não deve ser ingerida, até que se identifique qual é a substância que está provocando esse gosto ou odor e a sua concentração, para que se possa avaliar o risco sanitário que ela representa. Há várias substâncias que podem produzir gosto ou odor objetáveis na água, em concentrações muito abaixo daquelas que poderiam provocar algum prejuízo a saúde. É o caso, por exemplo, de substâncias produzidas por certos tipos de algas microscópicas, que vivem e se reproduzem em represas e lagos. Essas substâncias transmitem à água odor e gosto, que podem lembrar mofo, terra, peixe, grama, etc, dependendo do tipo de alga causadora, e são percebidas pelo paladar e olfato humanos em concentrações baixíssimas, da ordem de bilionésimos de grama por litro de água. Nessas concentrações, porém, elas não causam nenhum tipo de mal à saúde.
+Turbidez - padrão: máximo 1 NTU. A turbidez é uma medida da presença de material fino em suspensão na água. Além de torná-la esteticamente desagradável (o consumidor tende a rejeitar uma água turva), esse material pode também prejudicar a ação do cloro sobre microorganismos que eventualmente estejam presentes nessa água (os microorganismos ficam protegidos no interior das partículas, fugindo do contato com o cloro).
+pH - padrão: mínimo = 6,0 e máximo = 9,5. O pH é uma medida indireta do potencial que uma água tem de provocar danos (corrosão, incrustações) em tubulações e outras utilidades. Águas com pH muito baixo tendem a ser corrosivas (desgastam a superfície de tubulações de ferro ou cimento), enquanto que águas com pH muito alto tendem a ser incrustantes, isto é, favorecem a formação de depósitos em tubulações, podendo chegar a obstruir essas tubulações. Além dessas propriedades, o pH é utilizado também como indicador de estabilidade química da água. Oscilações fortes do pH podem significar alteração na composição química da água, o que obriga a uma análise mais completa da mesma.
+
+
+=== Características bacteriológicas ===
+Coliformes totais - padrão: ausentes em pelo menos 95% das amostras. Coliformes são um grupo de bactérias que normalmente vive no intestino de animais de sangue quente, embora alguns tipos possam ser encontrados também no solo, em vegetais ou outros animais (peixes, etc.). Sua presença indica que essa água possivelmente recebeu algum tipo de dejeto animal (incluindo aí dejetos humanos). Por esse motivo, aliado a outras vantagens, como baixo custo e relativa simplicidade do método de análise, adotam-se os coliformes como um parâmetro internacional de avaliação da potabilidade da água. A presença de bactérias coliformes numa água não significa necessariamente que, se essa água for ingerida por uma pessoa, ela irá ficar doente, pois elas em si não são patogênicas. O que ocorre é que, se elas estão presentes, deve-se contar com a hipótese de estarem presentes também bactérias ou vírus patogênicos (causadores de doenças como gastroenterites, hepatite, febre, cólera, etc.). Por esse motivo, uma água só é considerada segura se o exame bacteriológico indicar ausência de coliformes.
+Coliformes termotolerantes - padrão: ausentes em pelo menos 95% das amostras. Os coliformes termotolerantes são um subgrupo dos coliformes. Sua presença na água indica que essa água com certeza esteve em contato com dejetos animais, o que aumenta a probabilidade de estarem presentes bactérias ou vírus patogênicos. Em outras palavras, a presença de coliformes fecais na água, embora também não implique obrigatoriamente que uma pessoa irá desenvolver alguma doença se ingerir essa água, representa um risco maior para a saúde do que a presença de coliformes sem identificação (coliformes totais).
+
+
+=== Características químicas de componentes inorgânicos que afetam a saúde ===
+Arsênio - padrão: máximo 0,01 mg/l. A presença de arsênio em águas naturais é decorrente de poluição industrial ou água de irrigação contaminada por pesticidas orgânicos sintéticos. Tem potencial efeito crônico de intoxicação ao sistema nervoso e possivelmente cancerígeno, quando em teores excessivos.
+Cádmio - padrão: máximo 0,005 mg/l. Pode ocorrer na água, devido a depósitos naturais, resíduos de indústria metalúrgica, onde é empregado em ligas com cobre, chumbo e níquel, de galvanoplastia e de pigmentos, e à corrosão de tubos galvanizados. Tem efeitos nocivos ao sistema renal, onde tende a se acumular, e seus sais podem ainda causar cãibras, vômitos e diarréia.
+Cianeto - padrão: máximo 0,07 mg/l. Este composto ocorre geralmente em resíduos de processos de galvanoplastia, fabricação de aço, de plástico e de fertilizantes. Ao homem, em doses excessivas, pode acarretar danos ao sistema nervoso e a glândula tiróide.
+Bário - padrão: máximo 0,7 mg/l. Pode ter sua origem em depósitos naturais, em subprodutos de pigmentação, em vedantes epóxi ou em resíduos de carvão. Em concentração excessiva na água pode provocar efeitos nocivos ao sistema circulatório, por sua ação vaso-constritora, que causa aumento da pressão sangüínea.
+Chumbo - padrão: máximo 0,01 mg/l. Está presente em depósitos naturais ou em resíduos industriais, onde é utilizado na produção de soldas, encanamentos e ligas metálicas como latão. Em teores excessivos, pode provocar danos aos sistemas renais e nervoso pela sua toxicidade aguda e efeito cumulativo.
+Cromo total - padrão: máximo 0,05 mg/l. Pode ocorrer em depósitos naturais e em resíduos de galvanoplastia, de pigmentos e de mineração. Concentrações excessivas podem acarretar distúrbios nos sistemas circulatório e renal, no fígado e ulcerações intestinais.
+Selênio - padrão: máximo 0,01 mg/l. Ocorre em depósitos naturais e em resíduos de mineração, fundição e de óleo combustível. É largamente utilizado em processos de pigmentação, tinturas, fabricação de vidros e de semicondutores. No homem pode, em teores elevados, provocar danos ao fígado.
+Mercúrio - padrão: máximo 0,001 mg/l. Ocorre em depósitos naturais e em resíduos de mineração, fundição e de óleo combustível. É largamente utilizado em processos de pigmentação, tinturas, fabricação de vidros e de semicondutores. No homem pode, em teores elevados, provocar danos ao fígado.
+Prata - Ocorre geralmente em minérios, mas muitos de seus sais são insolúveis, e seus íons não estão presentes em quantidades significativas na água natural. Seus óxidos são utilizados para desinfecção da água. Contudo, em virtude de descolorir a pele em concentração elevada, limita-se a quantidade na água.
+Nitratos - padrão: máximo 50 mg/l. Sua presença indica o grau de poluição do aqüífero ocasionada por despejo de esgotos, restos de animais ou águas de escoamento agrícola rica em fertilizantes nitrogenados. Em teores elevados, na preparação de alimentos para crianças, pode causar a cianose, doença que atinge crianças, e que se caracteriza pela cor azulada da pele.
+
+
+=== Características químicas de compostos adicionados à água ===
+Flúor - padrão: 0,6 a 0,8 mg/l (São Paulo). O flúor é um elemento químico adicionado à água de abastecimento, durante o tratamento, visando à prevenção da cárie infantil. A concentração considerada ótima para que se tenha a proteção contra cáries é de 0,7 mg/l. Por isso, procura-se manter no tratamento da água uma dosagem que varia entre 0,6 e 0,8 mg/L. Teores excessivos de flúor na água, acima de 1.5 mg/l, não podem ser mantidos por longos períodos na água, em virtude do risco de causar uma alteração nos dentes, que se tornam amarelados e manchados. Essa alteração é conhecida como fluorose. Entretanto, pesquisas científicas apontam que o flúor é tóxico mesmo quando administrado em baixas quantidades, podendo causar distúrbios de atenção, concentração e memória. (para mais informações ver Intoxicação por flúor)
+Cloro - Indica a concentração de cloro residual livre na água. O cloro é adicionado à água durante o tratamento, pois sua presença, em concentração suficiente, é fundamental como agente bactericida. A ausência, ou concentrações muito baixas de cloro residual (abaixo de 0,2 mg/l), torna a água suspeita do ponto de vista bacteriológico.
+
+
+=== Características químicas de componentes que afetam a qualidade organoléptica ===
+Alumínio - padrão: máximo 0,2 mg/l. O alumínio é um elemento químico que aparece nas águas de abastecimento via de regra porque ele é adicionado, durante o tratamento, para remoção da sujeira da água. Quando ocorre algum tipo de problema no tratamento, o teor de alumínio pode se alterar. A fixação de um limite máximo para a presença de alumínio residual na água é mais devida aos problemas que ele pode causar no aspecto da água (aumento da turbidez) do que a riscos sanitários.
+Agentes tensoativos - São substâncias utilizadas na fabricação de detergentes. Sua presença na água é devida normalmente à contaminação por esgotos domésticos ou, em menor escala, a resíduos de indústrias. Em concentrações acima do padrão podem ocasionar o aparecimento de espuma e, eventualmente, gosto na água, mas não acarretam prejuízo à saúde se a água for ingerida.
+Cobre - padrão: máximo 2 mg/l. É freqüentemente encontrado em águas superficiais e subterrâneas em baixas concentrações, podendo ocorrer contaminações advindas de resíduos industriais da preservação de madeiras, da corrosão de tubulações e do emprego de seus compostos para controle de algas em reservatórios. Pode, em doses excessivas, causar irritações gastrointestinais.
+Cloretos - padrão: máximo 250 mg/l. Cloretos são sais inorgânicos, sendo que o mais comum é o cloreto de sódio, principal componente do sal de cozinha. A presença de cloretos nas águas naturais é devida à dissolução de sais minerais presentes no solo. Podem, porém, estar associados à contaminação por esgotos domésticos, que contém altos teores de cloretos.
+Dureza - padrão: máximo 500 mg/l de Carbonato de cálcio, CaCO3. A dureza é uma característica das águas que está relacionada principalmente com os teores de cálcio e magnésio presentes. Águas com altos teores de sais desses dois elementos geralmente apresentam valores altos de dureza. Neste caso, dependendo do valor atingido, é possível identificar uma água "dura" (aquela que apresenta dureza alta) pela dificuldade de se obter espuma quando se utiliza sabão. Não existe, entretanto, nenhum risco sanitário em se ingerir uma água com alto teor de dureza, a não ser o sabor desagradável sentido por pessoas não acostumadas com esse tipo de água. O limite estabelecido pela legislação se deve mais a problemas econômicos, como o aumento exagerado do consumo de sabões em lavanderias, e principalmente ao problema da formação de incrustações em tubulações, que esse tipo de água provoca quando aquecida, como no caso de caldeiras. Outros problemas podem ocorrer em determinados processos industriais que utilizam água, como na indústria de bebidas, etc.
+Ferro - padrão: máximo 0,3 mg/l. A presença de ferro na água distribuída é devida, normalmente, à dissolução do ferro das tubulações. Com exceção do problema do aparecimento de cor na água, que normalmente ocorre nestes casos, a presença de ferro, mesmo em teores acima do padrão, não representa riscos sanitários se a água for ingerida.
+Manganês - padrão: máximo 0,1 mg/l. Ocorre freqüentemente em águas superficiais, geralmente associado ao ferro, como resultante da decomposição de vegetais e matéria orgânica. Sua concentração é limitada porque o manganês pode alterar o aspecto da água (cor e turbidez) e, eventualmente, provocar um sabor desagradável (metálico). Concentrações acima do limite não trazem risco à saúde.
+Sólidos totais dissolvidos - padrão: máximo 1000 mg/l. São os sólidos remanescentes após a filtração, geralmente na forma de sais inorgânicos. Em quantidades excessivas podem tornar a água inadequada ao consumo humano, prejudicando o paladar, e causar efeitos laxativos.
+Sulfatos - padrão: máximo 250 mg/l. Ocorrem naturalmente em conseqüência da ação das águas sobre certos minerais. Também pode ocorrer como uma das fases de decomposição da matéria orgânica. Em concentrações elevadas pode ter efeito laxativo.
+Zinco - padrão: máximo 5 mg/l. Ocorre normalmente em águas naturais, podendo advir de resíduos de certas indústrias, como galvanoplastias, elétricas, de tintas e farmacêuticas, onde é largamente usado. É um elemento essencial ao crescimento e benéfíco ao metabolismo humano, porém em concentrações muito altas confere à água um sabor adstringente e uma certa opalescência.
+
+
+=== Características químicas de componentes orgânicos que afetam a saúde ===
+Pesticidas organoclorados - Os pesticidas organoclorados constituem um grupo de compostos orgânicos utilizados por várias décadas no controle de insetos, de fungos, pragas nas lavouras, etc.. Os padrões daqueles incluídos na Portaria 518 são apresentados a seguir:Aldrin - 0,03 µg/l
+Dieldrin - 0,03 µg/l
+Clordano - 0,2 µg/l
+DDT - 2 µg/l
+Endrin - 0,6 µg/l
+Heptacloro e Heptacloro Epóxido - 0,03 µg/l
+Hexaclorobenzeno - 1 µg/l
+Lindano - 2 µg/l
+Metoxicloro - 20 µg/lObservação: 1 µg/l corresponde a 0,001 mg/l
+Devido à sua alta persistência no ambiente (água, solo), ou seja, não se degradar facilmente, a fabricação e comercialização dessas substâncias está proibida na grande maioria dos países desde o começo da década de 1980. Entretanto, devido exatamente à sua difícil degradação natural,
+são encontrados ainda resíduos no solo e na água e, por isso, os pesticidas organoclorados são incluídos na legislação para análise obrigatória em águas de abastecimento. Sua presença na água consumida, em concentrações muito acima dos limites toleráveis (VMP) pode acarretar prejuízos à saúde que vão desde sintomas de envenenamento, como dor de cabeça, distúrbios gastrointestinais, etc., até danos ao fígado, rins e sistema nervoso, além de efeitos cancerígenos, dependendo do tipo de pesticida.
+
+
+=== Solventes orgânicos aromáticos ===
+São três os compostos desse grupo incluídos em normas ambientais e de potabilidade: o benzeno, o tolueno e o xileno (o subgrupo BTX).
+
+Benzeno - padrão: máximo 5 µg/l. A presença de benzeno em águas de abastecimento se deve à contaminação por resíduos de indústrias, principalmente de tintas, de plástico, de medicamentos, etc. O benzeno é considerado potencialmente cancerígeno.Hidrocarbonetos Aromáticos PolinuclearesDesse grupo de compostos, a Portaria 518 inclui o Benzo-a-pireno.
+
+Benzo-a-pireno - padrão: máximo 0,7 µg/l. Trata-se de uma substância também considerada causadora potencial de câncer, em concentrações relativamente baixas. Sua presença em águas de abastecimento normalmente se deve a contaminação por resíduos da queima de matéria orgânica, de derivados de petróleo, etc.FenóisPentaclorofenol e 2,4,6-Triclorofenol - padrões: máximo 9 µg/l e 0,2 mg/l. São largamente utilizado na manufatura de desinfetantes, resinas sintéticas, indústria química e medicinal, estando também presente em águas residuais industriais e de refinaria de petróleo. O maior problema causado pela presença de fenol na água é que, ao reagir com o cloro adicionado no tratamento, ele produz compostos chamados clorofenóis que, mesmo em baixas concentrações, produzem um gosto e cheiro característico na água (gosto "de remédio"). As concentrações que podem causar algum efeito à saúde são muito superiores àquelas que alteram o sabor e o odor da água, o que reduz muito os riscos de problemas sanitários ocasionados por essas substâncias.
+Trihalometanos - padrão: máximo 0,1 mg/l. Podem estar presentes na água tratada e a sua formação se dá pela reação do cloro com certos compostos orgânicos presentes em águas naturais. Embora não haja provas cabais dos efeitos maléficos à saúde humana, mas com objetivo preventivo, fixou-se o limite padrão, devido à suspeita de que, em teores excessivos, os THM possam ser cancerígenos.
+Solventes Halogenados - Os solventes halogenados constituem um grupo de compostos orgânicos muito utilizados na indústria, principalmente indústrias de plásticos, de tintas e corantes, etc. Aqueles incluídos na Portaria 518 e os respectivos padrões (VMP) são:1,1 - Dicloroetano - 30 µg/l
+1,2 - Dicloroetano - 10 µg/l
+Tetracloroeteno - 40 µg/l
+Tetracloreto de carbono - 2 µg/lEsses compostos, quando em concentrações excessivas, são potencialmente cancerígenos, sendo alguns deles também causadores de danos ao fígado e rins. São substâncias voláteis, isto é, desprendem-se na forma de gás, o que dificulta sua persistência por períodos longos nas águas superficiais e no solo. Nas águas subterrâneas profundas, entretanto, essa persistência é favorecida pelas condições de pressão e temperatura a que essas águas podem estar submetidas. Em função disso, as águas subterrâneas, especialmente nas regiões industrializadas, devem ser analisadas periodicamente para esse tipo de substâncias.
+
+Herbicidas Fenoxiácidos Clorados2,4-D (Ácido diclorofenoxi acético) - padrão (VMP): 30 µg/l. Os herbicidas são substâncias utilizadas na agricultura para controle de plantas daninhas. Sua utilização em quantidades muito acima do recomendado deixa resíduos no solo que, por ocasião das chuvas, são carreados para os rios e lagos, contaminando a água, da mesma forma que ocorre com os demais pesticidas empregados na lavoura. Ao contrário dos pesticidas organoclorados, entretanto, sua persistência no ambiente é pequena, e sua toxidez para mamíferos é também relativamente baixa.
+
+
+== Legislação ==
+Portaria 2914/2011 - Dispõe sobre os procedimentos de controle e de vigilância da qualidade da água para consumo humano e seu padrão de potabilidade. Com essa lei foram acrescentados novos parâmetros de controle e monitoramento da qualidade da água para consumo humano.
+Resolução CONAMA 357 de 17 de março de 2005 - Dispõe sobre a classificação dos corpos de água e diretrizes ambientais para o seu enquadramento, bem como estabelece as condições e padrões de lançamento de efluentes, e dá outras providências.
+Lei 6050 de 24 de maio de 1974 - Dispõe sobre a fluoretação da água em sistemas de abastecimento quando existir estação de tratamento.
+Portaria 635/BSB de 26 de dezembro de 1975 - Fluoretação
+Resolução SS-250 de 15 de agosto de 1995 - Secretaria de Estado da Saúde - Centro de Vigilância Sanitária - São Paulo - Define teores de concentração do íon fluoreto nas águas para consumo humano, fornecidas por sistemas públicos de abastecimento. O principal intuito da resolução SS é garantir que toda água destinada ao consumo humano atenda as exigências quanto a sua potabilidade.
+Resolução Conjunta SS/SMA 1 de 26 de agosto de 1997 - São Paulo - Dispõe sobre o teor mínimo de cloro residual livre na rede de abastecimento de água.
+Resolução SS 65 , de 12 de Abril de 2005 - Altera a redação do artigo 6º, da Resolução SS 65, de 12-04-2005, que estabelece as competências e procedimentos relativos ao controle e vigilância da qualidade da água para consumo humano no âmbito do Programa de Vigilância da Qualidade da Água no Estado de São Paulo
+Portaria GM/MS Nº 888, de 4 de maio de 2021 - altera o Anexo XX da Portaria de Consolidação GM/MS nº 5, de 28 de setembro de 2017, para dispor sobre os procedimentos de controle e de vigilância da qualidade da água para consumo humano e seu padrão de potabilidade.
+
+
+== Galeria de Imagens ==
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Referências ==
+
+
+== Ver também ==
+Ciclo urbano da água
+Estação de tratamento de águas residuais
+Companhia de Saneamento Básico do Estado de São Paulo
+
+
+== Ligações externas ==
+UFCG Saneamento
+[1] PORTARIA DO MS Nº 518

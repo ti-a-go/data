@@ -1,0 +1,78 @@
+O Let L-410 Turbolet é um avião bimotor, turboélice, não pressurizado, de asas altas, desenvolvido e produzido pela fabricante de aeronaves checa LET desde 1970. Comportando até dezenove passageiros, é utilizado para o transporte de curto alcance, principalmente na aviação comercial. É capaz de pousar em pistas curtas e não pavimentadas, operando sob condições extremas, entre -50 °C e +50 °C.Até 2016, 1 200 unidades haviam sido construídas, passando de trezentas e cinquenta as que estavam em serviço em mais de cinquenta países.
+
+
+== Projeto ==
+O desenvolvimento do L-410 foi iniciado nos anos 1960 pela fabricante Let Kunovice, estabelecida à época na então Checoslováquia. A companhia aérea soviética Aeroflot estava procurando por uma aeronave turboélice que substituísse o Antonov An-2. Após estudos preliminares de um modelo chamado L-400, uma nova versão foi introduzida e denominada L-410 Turbolet. O protótipo, designado XL-410, voou em 16 de abril de 1969, mas devido aos atrasos no desenvolvimento do motor checo Walter M601, este e toda a  primeira versão de produção foi equipada com os Pratt & Whitney Canada PT6-27. Suas hélices eram tri-pás, modelo Avia V508.  A versão seguinte foi apresentada como L-410M.
+Uma outra derivação produzida para a Aeroflot foi o L-410 UVP. Este possuía um melhor desempenho em decolagens e pousos devido a maior área de asa e cauda, com características STOL. Entretanto, devido a um aumento de seur peso vazio e uma alteração no centro de gravidade, este tipo pode carregar apenas 15 passageiros.
+O L-410UVP-E, a versão mais comum do L-410, possui um maior Peso Máximo de Decolagem (PMD) de 6.400 kg, motores M601E com mais potência, uma nova hélice penta-pá, designada V 510, e tanques na ponta das asas para um maior alcance. O primeiro voo desta versão ocorreu em 1984 e a produção iniciada em 1986.
+As versões L-410UVP-E9 e UVP-E20 variam entre uma e outra por pequenas mudanças devido a regulamentos de certificação. O último membro da família L-410 é o L-420 que usa uma nova versão do motor Walter, o M601F. Os L-410 UVP-E20 produzidos hoje são motorizados pelo motor derivado do M601, designado GE H80-200 e uma nova hélice penta-pá Avia AV-725.
+O L-420 foi aprovado pela Federal Aviation Administration em 11 de março de 1998 e o L-410 UVP-E20 em 30 de junho de 2015. O L-410 UVP-E20 foi certificado pela EASA em 4 de fevereiro de 2005 e as outras versões em 28 de março de 2007.Em 3 de setembro de 2013, a empresa russa UGMK (Iskander Machmudov) se tornou a dona da LET. Eles anunciaram que produziriam o L-410 também na Rússia, no mesmo ano.
+No dia 7 de julho de 2015, UGMK demonstrou o primeiro L-410NG fabricado naquele país.
+
+
+== Desenho ==
+O L-410 UVP-E é um avião de passageiros não pressurizado de asa alta e construído todo de metal, com hélices Avia V 510 penta-pá. É equipado com um trem de pouso retrátil. A aeronave utiliza dois circuitos hidráulicos: o principal e o de emergência. O sistema elétrico principal opera com 28V DC. O sistema de degelo utiliza sistemas pneumáticos no bordo de ataque e aquecimento elétrico nas hélices, no para-brisa e nos componentes do Sistema Pitot-estático. O Peso Máximo de Decolagem do L-410 UVP-E é 6.400 kg, com a possibilidade de um aumento para 6.600 kg nas versões E9 e E20, com capacidade entre 17 e 19 assentos. A velocidade de cruzeiro é  170 KIAS e o alcance máximo por volta de 770 nm. A aeronave é certificada para operação IFR, aproximação ILS CAT I e voos em condições de gelo.
+O L-410 UVP-E20 é certificado com base na FAR 23 tanto pela Emenda 34 como pela Emenda 41. É certificado pela União Europeia, Rússia, Estados Unidos, Brasil, Argentina, Chile, Peru, Venezuela, Cuba, Índia, Nepal, Filipinas, Coreia do Norte, Indonésia, África do Sul, Argélia, Austrália, Taiwan, Turquia, e muitos outros países aceitando algumas das certificações anteriores. A aeronave também foi aprovada para operação em outros países, tais como Quênia, Tanzânia, Uganda, Tunísia, Colômbia, Venezuela, Coreia do Sul.
+
+
+== Operadores ==
+Muitos dos L-410 foram entregues à extinta União Soviética e estados ex-soviéticos, permanecendo na Rússia, mas outros também foram vendidos para companhias aéreas na Ásia, África, América Central e América do Sul. Quarenta aeronaves estão em uso na Europa em operações comerciais ou páraquedismo.
+
+
+=== Civis ===
+Até julho de 2015, 178 Let L-410 estavam operando por companhias aéreas: 73 na África, 58 na Europa, 41 nas Américas e 6 na Ásia e Oriente Médio; os operadores com quatro ou mais aeronaves eram:
+19: Air-Tec Africa
+8: Orenburzhie Air Company
+7: es:Searca
+5: Kin Avia e Petropavlovsk-Kamchatsky Air Enterprise
+4: Air Express Algeria, Eagle Aviation, Solenta Aviation, 2nd Arkhangelsk United Aviation Division, Van Air Europe, Komiaviatrans, KrasAvia, Air Guyane Express e Comeravia
+
+
+==== Utilização no Brasil ====
+No Brasil, as seguintes empresas utilizaram o modelo: 
+
+Brava Linhas Aéreas (Antiga NHT) - companhia inoperante
+NOAR Linhas Aéreas - encerrou as operações
+Sol Linhas Aéreas - companhia inoperante
+TEAM Transportes Aéreos - encerrou as operações
+Litorânea Linhas Aéreas - encerrou as operações
+Cruiser Linhas Aéreas - encerrou as operações
+
+
+== Variantes ==
+L-410: Protótipo, três unidades produzidas.
+L-410A: Primeira série com motores turboélice Pratt & Whitney PT6A-27. Doze aeronaves produzidas.
+L-410AB: Versão com hélices quadri-pás.
+L-410AF: Versão para fotos aéreas entregue à Hungria.
+L-410AG: Com equipamentos modificados. Não foi construída.
+L-410AS: Aeronave de teste, entregue à União Soviética. Cinco aeronaves construídas.
+L-410FG: Versão para fotos aéreas baseada no L-410UVP
+L-410M: Segunda série com motores Walter M601A.
+L-410AM: Versão com melhores motores M601B, também conhecida como L-410MA ou L-410MU.
+L-410UVP: (Ukorochennaya vzlot-posadka, "decolagem e pouso curtos") Terceira série, completamente modificado. As principais alterações foram uma asa aumentada em 0.80m, motores M601B, e um estabilizador horizontal mais alto. O UVP possui características STOL.
+L-410UVP-S: Versão do UVP com a porta de entrada articulada para cima.
+L-410UVP-E: Remotorizado com M601E, hélices penta-pá Avia V510 e tanques adicionais na ponta da asa.
+L-410T: Versão de transporte do UVP com uma maior porta de carga (1,25 x 1,46 m), pode transportar 6 macas com um médico ou 12 pára-quedistas. Pode também transportar 1.000kg de carga.
+L-420: versão atualizada do L-410UVP-E - novos motores M601F, versão certificada do L-410 UVP-E20
+L-410NG: Nova versão com motores GE H85, um nariz maior e área traseira aumentada para acomodar mais bagagens. Novas asas e utiliza o conceito glass cockpit. A fuselagem será a mesma do clássico L-410 mas feita com novos materiais. Após o lançamento do protótipo, realizou seu voo inaugural em 29 de Julho de 2015. A potência será aumentada para 850 shp ao invés do motor anterior GE H80-200 com 800 shp, e a velocidade aumentada para 223kt (412 km/h). O Peso Máximo de Decolagem aumenta em 500 kg para 7,000 kg e o alcance vai para 1,350 nm, contra 820 nm (alcance atual). A capacidade de combustível aumenta de 1,300 kg para 2,450 kg e a autonomia de 5h para 9h. As certificações da FAA, EASA e russa estão pendentes ainda em 2017.
+
+
+== Ver também ==
+Aeronaves similares
+Antonov An-28
+Beriev Be-30
+CASA C-212 Aviocar
+de Havilland Canada DHC-6 Twin Otter
+Dornier Do 228
+Embraer EMB-110 Bandeirante
+Harbin Y-1
+Acidente no BrasilVoo NOAR Linhas Aéreas 4896
+
+
+== Ligações externas ==
+Sítio oficial
+«L410.cz» (em checo) 
+Fred George (17 de Junho de 2013). «Pilot Report: L410 UVP Turbolet». Aviation Week Network (em inglês) 
+
+
+== Referências ==

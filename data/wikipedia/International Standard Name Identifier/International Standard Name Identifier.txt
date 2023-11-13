@@ -1,0 +1,43 @@
+O International Standard Name Identifier (ISNI) é um identificador que identifica de forma exclusiva as identidades públicas dos contribuidores de conteúdo de mídia, tais como livros, séries de televisão e artigos de jornais. Esse identificador é composto de 16 dígitos. Ele pode ser opcionalmente exibido como dividido em quatro blocos.
+Ele foi desenvolvido sob os auspícios da Organização Internacional para Padronização (ISO) como Projecto de Norma Internacional 27729; o padrão válido foi publicado em 15 de março de 2012. O comité técnico da ISO 46, da subcomissão de 9 (TC 46/SC 9) é responsável pelo desenvolvimento da norma.
+O ISNI pode ser usado para desambiguar nomes que poderiam ser confundidos, links e dados sobre nomes que são coletados e utilizados em todos os setores da indústria de media.
+
+
+== Usos do ISNI ==
+O ISNI permite que uma única identidade (como um pseudônimo de autor ou a marca usada por um editor) para ser identificado através de um número exclusivo. Esse número exclusivo, em seguida, pode ser ligado a qualquer um dos inúmeros outros identificadores que são utilizados em toda a indústria de mídia para identificar nomes e outras formas de identidade.
+Um exemplo do uso de um número é a identificação de um artista musical, que é também um escritor, tanto de música e poemas. Onde ele ou ela pode, atualmente, ser identificado em vários bancos de dados diferentes usando vários sistemas de identificação públicas e privadas, sob o sistema ISNI, ele ou ela teria uma única ligação ao registo ISNI. Os vários bancos de dados diferentes, em seguida, poderiam trocar dados sobre determinada identidade, sem recorrer a métodos trocados, tais como a comparação de sequências de caracteres de texto. Um exemplo frequentemente citado em língua inglesa do mundo é a dificuldade quando a identificação de 'John Smith' em um banco de dados. Embora possa haver muitos registos de 'John Smith', nem sempre é claro que o registo refere-se ao 'John Smith' que é necessário.
+Se um autor tem publicado sob diversos nomes ou pseudônimos, cada nome, receberá os seus próprios ISNI.
+ISNI pode ser utilizado por bibliotecas e arquivos quando compartilhando as informações constantes no catálogo; para buscas mais precisas de informações on-line e em bancos de dados, e pode auxiliar o gerenciamento de direitos através das fronteiras nacionais e em ambiente digital.
+
+
+=== ORCID ===
+ORCID (Open Researcher and Contributor ID) identificadores que consistem num bloco reservado de identificadores para pesquisadores académicos ISNI e administrado por uma organização em separado. os investigadores Individuais podem criar e reivindicar os seus próprios identificadores ORCID. As duas organizações coordenam os seus esforços.
+
+
+== Governança ==
+ISNI é regida por uma "Agência Internacional', comumente conhecido como o ISNI-IA. Esta registrada no Reino Unido, não para o lucro da empresa foi fundada por um consórcio de organizações que consiste a Confédération Internationale des Sociétés dAuteurs et Compositeurs (CISAC), a Conferência da European National Librarians (CENL), a Federação Internacional de Direitos de Reprodução Organizações (IFRRO), o Internacional de Artistas de Banco de dados de Associação (IPDA), a Online Computer Library Center (OCLC) e ProQuest. Ele é administrado por diretores nomeados a partir destas organizações e, no caso de CENL, por representantes da Bibliothèque nationale de France e a British Library.
+
+
+== Atribuição ==
+ISNI-IA usa um sistema de atribuição composto por uma interface de usuário, dados de esquema, de desambiguação, algoritmos, banco de dados e que atenda os requisitos da norma ISO, enquanto também usando a tecnologia existente, sempre que possível. O sistema é baseado principalmente no Virtual Internacional de Arquivo de Autoridade (VIAF), que foi desenvolvido pela OCLC para uso na agregação de catálogos de bibliotecas.
+O acesso ao sistema de atribuição e de banco de dados, e por números que são gerados como saída do processo são controladas por organismos independentes, conhecidos como "agências de registo'. Estas agências de registo de lidar diretamente com os clientes, garantindo que os dados são fornecidos em formatos adequados e recompensing o ISNI-IA para o custo de manutenção do sistema de atribuição. Agências de registo são nomeados pelo ISNI-IA, mas vai ser gerido e financiado de forma independente.
+
+
+== Ver também ==
+Controle de autoridade
+ResearcherID
+
+
+== Referências ==
+
+
+== Mais leitura ==
+Smith-Yoshimura, Karen, Janifer Gatenby, Graça Agnew, Christopher Brown, Kate Byrne, Matt
+Carruthers, Pedro Fletcher, Stephen Hearn, Xiaoli Li, Marina Muilwijk, Mastigar Chiat Naun, João Riemer
+Roderick Sadler, Jing Wang, Glen Wiley, e Kayla Willey. 2016. Enfrentar os Desafios com
+Organizacional Identificadores e ISNI. Dublin, Ohio, EUA: a OCLC Research.
+http://www.oclc.org/content/dam/research/publications/2016/oclcresearch-organizational-identifiers-and-isni-2016.pdf.
+
+
+== Ligações externas ==
+Sítio oficial

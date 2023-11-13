@@ -1,0 +1,10 @@
+O Sistema Universitário de Documentação (SUDOC) é um projeto bibliotecário francês para unir os ficheiros de autoridade virtual dos seus catálogos.O SUDOC permite que as bibliotecas de universidades francesas e outras instituições de ensino superior na França possam identificar de maneira unificada os documentos que estão nos seus catálogos segundo a autoria e outros critérios. É mantido pela “Agência bibliográfica do ensino superior” (Agence bibliographique de l'enseignement supérieur) com sede em Montpellier.
+SUDOC faz parte do projeto da Base Virtual Internacional de Autoridade.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Sítio oficial
+Repertório das bibliotecas

@@ -1,0 +1,81 @@
+A rede de telefonia móvel celular é uma rede de telecomunicações projetada para o provisionamento de serviços de telefonia móvel, ou seja, para a comunicação entre uma ou mais estações móveis (telefone celular no Brasil ou telemóvel em Portugal). Historicamente, em 1990 a cidade do Rio de Janeiro é a primeira no Brasil a operar comercialmente o serviço de telefonia móvel celular.
+Desde o final da década de 1990, o crescimento da rede se deu pela popularização do modo pré-pago. Nessa modalidade, o usuário paga, não pela assinatura básica do serviço, mas pelo tempo de uso, na forma de créditos. O serviço de telefonia móvel pré-paga é uma invenção portuguesa: o primeiro cartão pré-pago do mundo foi lançado em Portugal, no dia 7 de setembro de 1995, pela empresa TMN.
+
+
+== Elementos da Rede de Telefonia Móvel Celular. ==
+Telefone celular ou telemóvel: do termo original em inglês cell phone (CELLular telePHONE ou mobile) é um terminal móvel que funciona através de um sistema de comunicação sem fio. As redes de telefonia celular tiveram início com a implantação da 1a. geração. O sistema analógico (AMPS) nos EUA, (VSF) na Inglaterra e (NMT) na Finlândia entre outros.  Esse sistema possuía uma baixa capacidade, uma vez que só permitia tráfego de voz, e era bastante vulnerável à clonagem.  A partir da 2a. geração, a comunicação é digital, permitindo voz e dados. Os sistemas mais conhecidos são:
+
+AMPS - analógico, 1G (1ª geração)
+TDMA - digital, 2G (2ª geração)
+CDMA - digital, 2G
+GSM - digital, 2G
+GPRS - digital, 2,5G
+EDGE - digital, 2,75G (há controvérsias sobre esta tecnologia ser 2 ou 3G em alguns países)
+UMTS - digital, 3G (3ª geração)
+EVDO - digital, 3G
+HSDPA - digital, 3G
+LTE - digital, 4G (4ª geração)Estação rádio-base (ERB): é um sistema rádio e antena de comunicação, que permite a cobertura de uma área específica, chamada de célula.
+Central de comutação celular (CCC): é uma central telefônica digital com funções específicas para o sistema móvel celular.
+
+
+== Gerações de Telefonia Móvel Celular ==
+Abaixo, estão listados alguns padrões de tecnologias de sistemas celulares existentes no Brasil. Uns encontram-se extintos e outros são exclusivos de certas operadoras.
+
+
+== Primeira Geração ==
+AMPS (Advanced Mobile Phone Service): Tecnologia analógica da primeira geração, desenvolvida pelos Laboratórios Bell da AT&T no início dos anos 80, que só permite transmissão de voz. Opera na faixa dos 800 MHz e, segundo o Relatório Anual de 2006 da Anatel, possui apenas 61.462 acessos, o que equivale a 0,06% do total de acessos de todo o Brasil.De Acordo com lei aprovada pela Anatel, as operadoras que trabalham com a tecnologia AMPS no Brasil tinham até o dia 31 de junho de 2008, para efetuar a desativação obrigatória das redes AMPS, cujo espectro após isso, será utilizado em outras tecnologias nas mesmas operadoras (tal como extensão de espectro para o 3G HSDPA).
+
+
+== Segunda Geração - 2G ==
+Da necessidade de sistemas digitais com maior capacidade, surgiram as tecnologias de segunda geração, que trazem as seguintes vantagens sobre os analógicos: codificação digital de voz mais poderosas, maior eficiência espectral, melhor qualidade de voz, facilidade na comunicação de dados e criptografia. Ainda na rede 2G, foi possível  navegar na internet com baixa velocidade (20kbits a 50kbits). As redes 2G utilizam frequências de operação de 900MHz, 1800MHz e 1900MHz. A mais difundida hoje é o GSM, que utiliza  tecnologia TDMA e CDMA. Ambas oferecem  segurança, boa qualidade de voz a um baixo custo e suporte um grande números de serviços, entre eles:  SMS, MMS, GPRS entre outros.
+
+TDMA (Time Division Multiple Access): Essa tecnologia de sistema de celular digital divide os canais de freqüência em até 6 intervalos de tempo diferentes e cada usuário usa um espaço específico, para impedir problemas de interferências. Opera em 850 MHz.
+CDMA (Code Division Multiple Access): Sistema digital que permite o acesso de muitos usuários simultaneamente em um único canal de estação rádio-base aumentando assim a capacidade da rede. Essa tecnologia compete diretamente com a GSM. A grande desvantagem é que os celulares que operam em CDMA são mais suscetíveis a clonagem. A última operadora a adotar essa tecnologia no Brasil foi a Vivo, que atualmente opera em GSM. CDMA Opera nas frequências de 850 e 1900 MHz.
+GSM (Global System for Mobile Communication): Desenvolvida na Europa e adotada em boa parte do mundo. Diferencia-se das outras tecnologias pelo uso de cartões de memória ("chips" ou SIM Cards) nos aparelhos, que possibilitam levar as características do assinante para outro aparelho ou rede GSM. O GSM opera nas faixas de 400, 450, 850, 900, 1800 e 1900 MHz.
+
+
+== Entre Segunda e Terceira Geração - 2,5G ==
+GPRS (General Packet Radio Service): O Padrão de Transmissão de Rádio por Pacote (GPRS) é a evolução da tecnologia GSM em 2,5G. Essa tecnologia oferece velocidades máximas de dados de 115 kbps e um throughput médio de 30 a 40 kbps.  Os dados são divididos em pacotes para transmissão, o que favorece os usuários pois provê uma conexão permanente de dados e assim os usuários não precisam entrar no sistema cada vez que desejarem ter acesso a serviços de dados. Outra vantagem é que os usuários só pagam pelos dados e não pagam pelo tempo de permanência no ar em que se faz a conexão e nem pelo tempo de carregamento. É o GPRS que permite a conexão da maior parte dos smartphones e celulares à internet. Atualmente, o GPRS é o padrão que oferece a maior cobertura móvel para aparelhos de mão com acesso à internet. A Oi, TIM, Claro, Brasil Telecom GSM, CTBC e Vivo, já operam no Brasil com sistemas GSM/GPRS.
+EDGE (Enhanced Data Rates for Global Evolution): A classificação da EDGE como uma tecnologia 2,5 ou 3G é bastante controversa. A EDGE é uma tecnologia de transmissão de dados e acesso à Internet de alta velocidade que transmite dados em velocidade de até 384 kbps na prática e taxa média entre 110 e 120 kbps. As taxas médias são rápidas o suficiente para permitir serviços de dados avançados, como streaming de áudio e vídeo, acesso rápido à Internet e download de arquivos pesados. A EDGE também suporta serviços "push-to-talk." Essa tecnologia às vezes é chamada de GPRS ampliada (E-GPRS; de Enhanced GPRS) porque aumenta em três ou quatro vezes a capacidade e o throughput de dados da tecnologia antecessora, a GPRS. A EDGE também é um serviço baseado em pacotes que oferece aos clientes uma conexão permanente para transmissão de dados. A Claro, TIM, Oi, CTBC, Vivo, e BrT GSM já operam com o EDGE no Brasil.
+CDMA-2000 1x ou 1xRTT (1xRadio Transmission Technology): É a evolução do cdmaOne, muitos o consideram como tecnologia de 2.75G ou 3G segundo o padrão da ITU-T por possuir taxas de transmissão superiores a 144 kbps. De qualquer forma, o CDMA2000 1X preparou o terreno para as altas taxas de velocidade de dados hoje disponíveis em todo o mundo e que oferecem aos consumidores e profissionais total conectividade sem fio. Sua velocidade teórica é de 153.6 kbps. A nomenclatura CDMA contida na sigla diz respeito apenas à técnica de modulação usada na interface aérea de sistemas celulares e não quer dizer que sejam totalmente compatíveis entre si. A operadora Vivo, é a única que utiliza a tecnologia 1xRTT no Brasil para uso móvel.
+
+
+== Terceira Geração - 3G ==
+A partir de 2003 entraram em operação as redes 3G (terceira geração) com tecnologia UMTS baseada no sistema Europeu, e com frequência de operação na faixa de 2,1 GHz. Passamos a ter velocidades entre 384 kbits a 2 Mbits, o que evidenciava cada vez mais a ênfase no tráfego de dados. Além do aumento da velocidade, mantivemos ainda total compatibilidade com as redes 2G.
+
+UMTS (Universal Mobile Telecommunications Service): É a evolução do GSM mas que ainda se baseia nessa tecnologia, embora o seu acesso por rádio seja diferente. Essa tecnologia usa uma técnica CDMA chamada Direct Sequence Wideband (DS-WCDMA), por isso é comum o uso intercalado de UMTS e WCDMA. embora a sigla UMTS se refira ao sistema inteiro. Opera principalmente em 2100 MHz mas em algumas regiões opera em 850  MHz ou 1900 MHz e mais recentemente em 1700 MHz. A UMTS é uma tecnologia baseada em IP que suporta voz e dados em pacotes oferecendo taxas máximas de transmissão de dados de até 2 Mbps e velocidades médias de 220-320 kbps quando o usuário está andando ou dirigindo. Tecnologia desenvolvida para prover serviços com altos níveis de consumo de banda, como streaming, transferência de grandes arquivos e videoconferências para uma grande variedade de aparelhos como telefones celulares, PDAs e laptops. A UMTS é compatível com a EDGE e a GPRS permitindo ao usuário sair de uma área de cobertura UMTS e ser automaticamente transferido para uma rede EDGE ou GPRS, dependendo de fatores como disponibilidade de rede e o consumo de banda do seu aplicativo. Assim, os usuários UMTS são sempre assegurados um nível de serviço de pacotes de dados em casa e em viagem.
+CDMA 1xEV-DO (Evolution, Data-Optimized): O CDMA 1xEV-DO é a tecnologia 3G do CDMA, que possui alta performance para transmissão de dados com picos de até 2,4 Mbps. Portadoras distintas são necessárias para dados e voz neste sistema. O enlace de subida permanece praticamente inalterado em comparação com o cdma2000, mas no enlace de descida os usuários são multiplexados em tempo. Essa tecnologia está sendo utilizada no Brasil para Telefonia fixa pela Embratel, cujo serviço foi herdado da antiga operadora Vésper, e pela operadora móvel Vivo em algumas cidades. A taxa de transmissão de dados teórica é de 2,4 Mbps e taxa de transmissão média de 300 a 500 kbit/s. Opera em 800 e 1900  MHz.
+CDMA 1xEV-DV (Evolution, Data and Voice): É a segunda etapa na evolução do CDMA 1xEV onde uma mesma portadora pode ser utilizada para voz e dados. A primeira, o 1xEV-DO como já vimos, uma portadora de 1,25 MHz é dedicada apenas para dados. Teoricamente, essa tecnologia utilizando as 2 portadoras, teria uma velocidade máxima de 4,8 Mbps. Esta tecnologia foi descontinuada pela Qualcomm, durante o desenvolvimento.
+HSDPA (High Speed Downlink Packet Access) / HSUPA (High Speed Uplink Packet Access): O HSDPA/HSUPA permite que as pessoas enviem e recebam e-mails com grandes anexos, joguem interativamente em tempo real, recebam e enviem imagens e vídeos de alta resolução, façam download de conteúdos de vídeo e de música ou permaneçam conectados sem fio a seus PCs no escritório – tudo usando o mesmo dispositivo móvel. HSDPA refere-se à velocidade com a qual as pessoas podem receber arquivos de dados, o "downlink". HSUPA refere-se à velocidade com qual as pessoas podem enviar arquivos de dados, o "uplink." Resumindo: o HSDPA seria um "EDGE" do UMTS. E a NTT Docomo está desenvolvendo o "Super 3G"(HSOPA)com velocidades de até 250 Mbps. Esta é uma tecnologia "3.5G", apesar de no exterior algumas operadoras informarem, incorretamente, que esta é uma tecnologia "4G'.
+
+
+== Quarta Geração - 4G + 5G ==
+Essa tecnologia já se encontra em operação na Europa, Ásia e Américas, utilizando-se as tecnologias LTE (Long Term Evolution) e Mobile-WiMAX. No Brasil, iniciou-se a operação comercial das redes 4G LTE em 2012, na faixa de 2,5 GHz, a qual já está instalada nas cidades-sede da Copa do Mundo FIFA 2014, atualmente em fase de ampliação da cobertura.
+O foco das redes 4G é integralmente para o tráfego de dados (pacotes), ao contrário dos sistemas anteriores, híbridos, que alternavam entre redes de pacotes ou de circuitos a depender da demanda, respectivamente, de dados ou voz. O propósito foi reduzir a complexidade na infraestrutura de rede existente nas arquiteturas anteriores. O LTE, especificamente, mantém compatibilidade com sistemas legados. No entanto, enquanto as redes 3.5G e 3G, em uso, atingem tipicamente velocidades máximas de 14 Megabits por segundo (Mbps), são esperados, em condições ideais, picos de até 120 Mbps nas redes LTE.
+É importante notar que, de acordo com a ITU (como definido originalmente na especificação IMT-Advanced), uma rede só poderia ser caracterizada como "4G" se fosse capaz de prover 100 Mbps a usuários em movimento e 1 Gbps para usuários parados. Por isso, tecnicamente falando, em princípio as redes LTE não seriam estritamente 4G. No entanto, a ITU posteriormente flexibilizou às tecnologias LTE e Mobile-WiMAX, devido a questões de marketing comercial e por características diferenciadas dessas tecnologias (como adoção de OFDM e MIMO, latência reduzida e maior patamar de velocidade, entre outras), a adoção do termo 4G para designá-las . Em seguida, criou a expressão "True 4G" exclusivamente para diferenciar as novas tecnologias que atinjam os requisitos necessários à especificação IMT-Advanced. Dessa forma, somente redes LTE Advanced e WiMAX-Advanced, sucessoras das tecnologias atualmente em uso, serão enquadradas como "True 4G" .
+Em decorrência, tornou-se usual às operadoras empregar comercialmente a sigla da tecnologia empregada na publicidade e nos seus produtos, acrescentando, por exemplo, "LTE" após "GG" (i.e., "4G+ LTE"), identificando mais precisamente o tipo de rede e tecnologia disponibilizados.
+5G -
+A ser implementado
+
+
+== Ver também ==
+Rede de Telefonia Fixa
+Telefonia e Telefone
+Telegrafia e Telégrafo
+Telecomunicações no Brasil e Telecomunicação em Portugal
+Rede de Telecomunicações
+Rede de Transmissão
+Princípios da Gerência de Redes
+Gerência de Redes de Telecomunicações
+OpenBTS
+
+
+== Referências ==
+
+Frequências usadas pelas operadoras no Brasil
+Celular na Rede
+
+
+== Ligações externas ==
+«Cobertura atualizada das operadoras de telefonia celular no Brasil, na página da ANATEL.» 
+«Mapas de cobertura de todas as redes de telefonia celular do mundo.» (em inglês)

@@ -1,0 +1,42 @@
+Um míssil (do latim missìlis,e: 'algo que é para ser lançado, atirado')  é um projétil guiado, dotado de autopropulsão e constituído de:
+
+Um propulsor, seja um foguete, um reator (geralmente estatorreator) ou ambos (um foguete dando a impulsão inicial, antes de ser substituído por um estatorreator);
+Um sistema de guiagem (comando), seja externo (mísseis teleguiados), ou interno (leme), ou independente (mísseis autoguiados);
+Uma carga útil, que pode ser uma carga militar (explosiva, incendiária, química, biológica, etc.), um sistema electrónico (UAV de reconhecimento, míssil científico ou experimental), um simples peso para equilibrar o artefacto (míssil alvo) ou para transportar uma massa inerte (míssil de propaganda transportando flyers).
+
+
+== Etimologia ==
+Na sua acepção inicial, o termo designava um projétil, qualquer que fosse, lançado por um objeto, como o canhão, a catapulta, o avião, que o dirigia até o alvo. Este sentido tornou-se obsoleto com o passar dos anos e a própria evolução da doutrina militar, conforme livros dos irmãos J. S. Vasconcelos. Embora ainda possa existir em obras do período entre as duas guerras mundiais e antes disso nos trabalhos de Sun Tzu, que usava o foguete como míssil autoguiado, com lemes, nas suas guerras, hoje é comumente entendido como um projétil comandado, nas diversas academias militares.
+
+
+== Desenvolvimento inicial ==
+
+Os primeiros mísseis a serem usados operacionalmente foram uma série de mísseis desenvolvidos pela Alemanha nazista na Segunda Guerra Mundial. Os mais famosos deles são a bomba voadora V-1 e o foguete V-2, ambos usando um piloto automático mecânico para manter o míssil voando ao longo de uma rota pré-escolhida. Menos conhecidos foram uma série de mísseis antinavio e antiaéreo, tipicamente baseados em um sistema simples de controle de rádio (orientação de comando) dirigido pelo operador. No entanto, esses sistemas iniciais na Segunda Guerra Mundial foram construídos apenas em pequenos números.
+
+
+== Visão geral ==
+Nos dias atuais, geralmente são considerados mísseis os projéteis guiados (comandados à distância) - qualquer que seja o sistema de propulsão e/ou comando de logística, necessário a sua operação tática, no campo de batalha. Também são considerados mísseis os projéteis impulsionados por qualquer propelente mesmo que sejam à base de pó - (pólvora, como o foram os primeiros, ou outro, desde que aceite o comando à distância, como existiram no Brasil canhões com essas características, com raias nos canos, os obuses e outros.
+
+Com exceção de alguns protótipos construídos à época da Segunda Guerra Mundial, todos os mísseis são guiados, desde Sun Tzu. Como foram os famosos V-2, que transformaram o espaço aéreo da Inglaterra num campo de batalha, onde aviões ingleses tentavam interceptar, dia e noite, os mísseis de Adolf Hitler.
+Projéteis não  guiados e que empregam propelente em pó são geralmente chamados foguetes, se não tiverem lemes que demarquem sua rota. Também se chama foguete o elemento propulsor usado em projéteis, mísseis, espaçonaves, e outros mais modernamente. Por extensão, também o veículo espacial que contém um explosivo e que é propelido pela descarga, na parte traseira, dos gases liberados pela combustão é denominado foguete.
+Mísseis balísticos (os da Primeira Guerra Mundial já levam esse nome),  são projéteis de longo alcance que, depois de lançados, prosseguem voando numa trajetória balística, acoplada ao aparato, tipo ao que se seguiu a chamada "Bazzoowka", que apareceu primeiro em 1917, na União das Repúblicas Socialistas Soviéticas e depois foi desenvolvida nos Estados Unidos.
+Podem ser guiados por dispositivo interno ou de terra (por rádio, radar, muitos tipos de Comando, seja esse incorporado ao míssil ou não). Os mísseis balísticos variam desde os mais simples aos mísseis balísticos intercontinentais (MBIC) equipados com várias ogivas nucleares. O MBIC moderno, o maior míssil atualmente utilizado, é considerado como a arma mais destrutiva já construída.
+
+
+== Ver também ==
+Lista de mísseis
+MIRV (Veículo de Reentrada Independente Multiplamente Orientável)
+Míssil balístico
+Missilismo
+Missilismo amador
+Missilmodelismo
+
+
+== Referências ==
+
+
+=== Bibliografia ===
+Princípios de Defesa Militar, dos irmãos J.S.Vasconcellos  Editora Biblioteca do Exército e Marinha do Brasil, 1939.
+
+
+== Ligações externas ==

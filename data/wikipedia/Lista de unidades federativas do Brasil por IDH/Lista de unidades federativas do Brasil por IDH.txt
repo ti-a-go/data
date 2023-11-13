@@ -1,0 +1,47 @@
+Esta página contém a lista das unidades federativas do Brasil por Índice de Desenvolvimento Humano Municipal (IDH-M), com valores publicados no Atlas de Desenvolvimento Humano 2013, feito pelo PNUD Brasil, Ipea e Fundação João Pinheiro com informações coletadas pelo Censo Demográfico de 2010 do Instituto Brasileiro de Geografia e Estatística (IBGE), Contém ainda a lista com os dados do estudo "Radar IDHM",  pela Pesquisa Nacional por Amostra de Domicílio (PNAD) Contínua do IBGE em 2021.O IDH-M é uma adaptação do IDH e foi criado em 2000 para avaliar o desenvolvimento humano dos municípios brasileiros. Ele segue as mesmas três dimensões do IDH (expectativa de vida, educação e renda), mas com indicadores específicos para cada uma delas.
+
+
+== Classificação das unidades da federação por IDH-M - 2021 ==
+ = aumento nos dados - comparado aos dados anteriores;
+ = dados mantiveram-se os mesmos da medição anterior;
+ = diminuição nos dados - comparada aos dados anteriores,
+
+
+== Divisões ==
+A atual divisão entre os estados é a seguinte:
+
+
+== Classificação das unidades da federação por IDH-M - 2010 ==
+ = aumento nos dados - comparado aos dados anteriores;
+ = dados mantiveram-se os mesmos da medição anterior;
+ = diminuição nos dados - comparada aos dados anteriores,
+
+
+=== Renda ===
+
+
+=== Longevidade ===
+
+
+=== Educação ===
+
+
+== Evolução dos estados ==
+Mapas
+
+
+== Ver também ==
+Lista de unidades federativas do Brasil por IDH (2000)
+Lista de unidades federativas do Brasil por expectativa de vida
+Lista de unidades federativas do Brasil por mortalidade infantil
+Lista de unidades federativas do Brasil por taxa de fecundidade
+Lista de unidades federativas do Brasil por segurança alimentar
+Lista de unidades federativas do Brasil por incidência da pobreza
+Lista de unidades federativas do Brasil por cobertura de esgotamento sanitário
+Lista de unidades federativas do Brasil por PIB per capita
+
+
+== Notas ==
+
+
+== Referências ==

@@ -1,0 +1,46 @@
+Uma ferrovia (chamada também de via férrea, caminho de ferro (português europeu) ou estrada de ferro (português brasileiro)) é um sistema de transporte baseado em trens  (comboio) correndo sobre trilhos (carris) previamente dispostos. O transporte ferroviário é predominante em regiões altamente industrializadas, como a Europa, o extremo leste da Ásia e ainda em locais altamente populosos como a Índia. As ferrovias são o meio de transporte terrestre com maior capacidade de transporte de carga e de passageiros. Em muitos países em desenvolvimento da África e da América Latina, as ferrovias foram preteridas pelas rodovias como tipo de transporte predominante. Exceto no Reino Unido onde foi inventado esse sistema, todos os países do mundo tiveram que ter o Estado patrocinando a criação de ferrovias.
+
+
+== Vias-férreas ==
+
+As vias-férreas são compostas por dois carris (português europeu) ou trilhos (português brasileiro) paralelos destinados à circulação de veículos especialmente projetados para tal, como comboios (português europeu) ou trens (português brasileiro), elétricos (português europeu) ou bondes (português brasileiro), automotoras (português europeu) ou litorinas (português brasileiro), montanhas-russas, etc.
+No caso de tráfego de comboios ou trens a vias denominam-se ferrovias ou caminhos de ferro. A distância entre as faces internas da cabeça dos trilhos de uma via-férrea é denominada bitola.
+Há vias-férreas com bitolas mistas ou vias algaliadas, contendo duas, ou três bitolas diferentes. Neste caso, usam-se três trilhos: um lateral, comum a ambas as bitolas, um interior para a bitola de 1 m ou outra, e o outro lateral para a bitola larga. Também existem vias-férreas algaliadas com quatro trilhos.
+
+
+=== Brasil ===
+
+As bitolas mais comuns no Brasil são a bitola métrica (1 000 mm de largura) e a bitola irlandesa (1 600 mm de largura). A bitola internacional com (1 435 mm de largura) representa atualmente uma parte mínima das ferrovias existentes mas será a bitola do projeto preliminar será a utilizada no TAV.
+No Brasil não existem trilhos de bitola mista em que uma das bitolas é a padrão (1 435 mm), pois este sistema constitui uma linha isolada, a Estrada de Ferro Amapá. No Brasil também existiram sistemas de 600 mm, 760 mm e 1 100 mm, mas atualmente ou não são operacionais ou totalizam menos de 30 km.
+
+
+=== Portugal ===
+
+Em Portugal existem a bitola ibérica, utilizada pela Infraestruturas de Portugal (IP), com 1 668 mm de largura; a bitola internacional, com 1 435 mm de largura, utilizada pelo Metropolitano de Lisboa, pelo Metro do Porto, pelo Elevador do Bom Jesus em Braga, e pelos elétricos do Porto; a bitola métrica, com 1 000 mm de largura, existe em linhas de montanha no norte de Portugal, também pertencentes à IP; e a bitola dos elétricos de Lisboa, com novecentos mm de largura, utilizada pela Companhia Carris de Ferro de Lisboa.
+No norte de Portugal existem algumas vias vias algaliadas, com a bitola ibérica e a bitola métrica.
+
+
+== Engenharia Ferroviária ==
+
+A maioria das linhas-férreas é formada por dois carris paralelos geralmente feitos de aço, dispostos perpendicularmente sobre travessas (português europeu) ou dormentes (português brasileiro) de madeira ou betão (português europeu) ou concreto (português brasileiro) assentes em balastro. As rodas dos trens ou comboios se encaixam nos trilhos, mantidos a uma distância específica constante, chamada bitola. A função das travessas é manter os carris na mesma bitola, para evitar distâncias irregulares.  Acidentes provocados pela saída das rodas dos carris são chamados descarrilamentos.
+O percurso das ferrovias é pontuado por estações, gares, ou terminais, dispostos em locais estratégicos, como concentrações populacionais (cidades, vilas, povoados) ou de produção (fazendas, indústrias, portos).
+
+
+== Túneis e pontes ferroviárias ==
+Devido o peso do trem e sua carga as ferrovias não possuem condições de subir e descer montanhas como os caminhões fazem nas rodovias, com isso a única solução é a criação de túneis e pontes de grande altura.
+
+
+== Ver também ==
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+A Estrada de Ferro Sorocabana e seus Trabalhadores
+História e imagens da Companhia Mogiana de Estradas de Ferro
+Inventário das estações brasileiras
+Infraestruturas de Portugal — Empresa gestora das infraestruturas ferroviárias portuguesas
+Sítio dos Comboios de Portugal, empresa operadora de caminhos de ferro de Portugal
+Alves, António. Carris de ferro em Portugal, Abril de 2009.

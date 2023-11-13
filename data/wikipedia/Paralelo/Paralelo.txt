@@ -1,0 +1,40 @@
+Paralelo (ou paralelo geográfico) é todo círculo menor na horizontal ao eixo terrestre e, portanto, paralelo à linha do equador. Sobre um determinado paralelo a latitude é constante, por isto a posição geográfica é dada em função da longitude. A posição dos paralelos é dada em graus e definida em relação à linha do equador, em que 0º representa a linha do equador, +90º (ou 90° Norte) representa o polo Norte e -90° (ou 90° Sul) representa o polo Sul.
+
+Paralelo geodésico de um lugar é aquele que é definido sobre um modelo geodésico da Terra, sobre o qual a latitude representada nos mapas (latitude geodésica) é constante.
+Paralelo astronômico de um lugar é a linha imaginária à superfície da Terra, sobre a qual a latitude astronômica é constante. Devido às irregularidades do geoide, os paralelos astronômicos são linhas irregulares, não coincidentes com qualquer paralelo geográfico.
+Os Paralelos mais conhecidos são o Trópico de Câncer e o Trópico de Capricórnio.
+
+
+== Extensão ==
+Apresenta-se aqui uma Tabela das extensões totais (circunferência) dos paralelos (N ou S) cujas latitudes são múltiplas de 10º, mais o Trópico de Câncer, o Trópico de Capricórnio, Círculo Polar Ártico, Círculo Polar Antártico. Informam-se também as extensões dos intervalos de 1° de longitude sobre cada um desses Paralelos.
+
+
+== Extremos ==
+Os paralelos que são quase totalmente marítimos ficam entre o sul da Terra do Fogo (latitude 57º Sul) e pouco ao norte do Círculo Polar Antártico (latitude 66º Sul); Nessas latitudes existem apenas pequenas ilhas ao sul do Oceano Atlântico, tais como: Ilhas Sandwich do Sul, as Órcades, Ilha Elefante, Ilhas Shetland do Sul, ilhas da Península Antártica.
+Além disso, todos os paralelos ao norte da latitude 83°40' N que passa por Kaffeklubben (extremo norte da Gronelândia) passam totalmente sobre o Oceano Ártico e suas plataformas de gelo, sem cruzar terra firme.
+O paralelo que passa por mais terras (valor absoluto) é o 30º Norte, que passa pelo norte da África, norte da Península Arábica, Irã, Paquistão, norte da Índia, China, norte do México, sul dos Estados Unidos.
+O paralelo que em termos relativos passa por mais terras (menos oceanos e mares) é o 46º 30' Norte, o qual, porém, mede cerca de 79,48% da circunferência do paralelo 30º. Passa pela França, norte da Itália, Balcãs, sul da Rússia, Casaquistão, Mongólia, norte da China, norte dos Estados Unidos.
+Não foram considerados na definição acima de paralelo "relativamente" mais terrestre alguns casos de paralelos de pequena extensão, nos extremos norte e sul do planeta:
+
+os paralelos ao sul do Paralelo 84 S são 100% terrestres, sobre a Antártida.
+nas proximidades do Paralelo 63 N há latitudes que são mais de 75% terrestres (norte da Sibéria, Escandinávia, Canadá, Alasca).O paralelo que apresenta trecho de maior extensão sobre um único país fica nas proximidades da latitude 59°45'N, cortando a Rússia entre as proximidades de São Petersburgo no oeste e o porto de Magadan no leste. Outros longos trechos de paralelos num único país ficam nos Estados Unidos, no Canadá, na República Popular da China, Austrália e Brasil.
+A linha do equador, maior dos paralelos, divide a terra em dois Hemisférios, o Sul e o Norte. No Hemisfério Norte ficam 69,72% das terras emersas, 90,94% da população mundial e aí se concentram 94% do PIB total do mundo.
+Um paralelo nas proximidades da Latitude 25,9° N divide a terra em duas calotas com iguais áreas de terras emersas. Não considerada a Antártida, esse paralelo divisor ao meio das terras ficaria nas proximidades da Latitude 29° N. A população total da terra é dividida em duas porções quase iguais por um paralelo nas proximidades da Latitude 27,5° N.
+
+
+== Referências ==
+
+
+== Ver também ==
+Círculo Polar Antártico
+Círculo Polar Ártico
+Elipsoide de referência
+Equador
+Latitude
+Linhas geográficas imaginárias
+Longitude
+Meridiano de Greenwich
+Observatório de Greenwich
+Trópico de Câncer
+Trópico de Capricórnio
+Trópico

@@ -1,0 +1,154 @@
+Dirigível é um aeróstato que pode ser controlado. Ao contrário dos aeródinos os dirigíveis sustentam-se através de uma grande cavidade que é preenchida com um gás menos denso que o ar atmosférico, como por exemplo o gás hélio ou mesmo o inflamável gás hidrogênio.
+
+
+== História ==
+
+A história dos dirigíveis se confunde com a da aviação. As primeiras experiências para tentar a conquista dos céus foram com balões de ar quente. Um dos pioneiros foi o padre jesuíta luso-brasileiro Bartolomeu de Gusmão que em 1709 conseguiu fazer um balão de ar quente, o Passarola, subir aos céus diante de uma corte portuguesa abismada. Esse evento teria ocorrido em 5 de agosto de 1709, quando o padre Bartolomeu de Gusmão realizou a primeira demonstração da Passarola no pátio da Casa da Índia, na cidade de Lisboa. O balão pegou fogo sem sair do solo, mas numa segunda demonstração elevou-se a 95 metros de altura. Tratava-se de um pequeno balão de papel pardo grosso, cheio de ar quente, produzido pelo "fogo de material contido numa tigela de barro incrustada na base de um tabuleiro de madeira encerada". O evento teve como testemunha o Núncio Apostólico em Lisboa (o futuro papa Inocêncio XIII).
+Os irmãos franceses Jacques e Joseph Montgolfier seriam, 74 anos depois, os primeiros a desbravarem os céus. Construíram seu balão utilizando o mesmo princípio de Bartolomeu de Gusmão, sendo o primeiro balão tripulado de sucesso no ano de 1783. O balão que possuía 32 m de circunferência e era feito de linho. Foi enchido com fumaça de uma fogueira de palha seca e elevou-se do chão cerca de 300 m, durante cerca de 10 minutos, voando uma distância de aproximadamente 3 quilômetros.
+
+Porém tais engenhos satisfaziam apenas parcialmente o desejo de voar, pois não permitiam o voo controlado. As experiências continuaram ao longo do século XIX. Alguns pioneiros da aviação procuraram adaptar motores a vapor (Giffard, 1855) e motores elétricos movidos a baterias (Renard e Krebs, 1884) para resolver o problema da dirigibilidade. Tais tentativas mostraram-se infrutíferas, pois o peso excessivo de tais motores tornavam os engenhos impraticáveis. Somente o desenvolvimento do motor a explosão, ao final do século XIX, permitiu resolver este problema a contento.
+Em 24 de setembro de 1852 em Paris ocorreu o primeiro voo de um balão dirigível, que também foi o primeiro voo de uma aeronave motorizada  (ver: Aeronave a vapor). Pilotando o seu Hippodrome, Jules Henri Giffard fez essa demonstração voando de Paris para Élancourt.
+Em 8 de novembro de 1881 o aeróstato Le Victoria, do estudioso da dirigibilidade aérea brasileiro Júlio César Ribeiro de Sousa, realizou um voo controlado em Paris. Ao testemunhar este voo, com vento contrário, o capitão Charles Renard diz: "como eu lamento que o inventor não seja um francês!".Em 9 de agosto de 1884 Charles Renard e o também capitão Arthur Constantin Krebs voaram no balão La France. Este acontecimento gerou polêmica, já que Júlio César Ribeiro de Sousa acusou os capitães franceses de aproveitarem suas ideias, não lhe dando o devido crédito, afirmando que o La France foi um plágio.Em outubro de 1892 o governo brasileiro concedeu um auxílio pecuniário para o político e inventor Augusto Severo de Albuquerque Maranhão fabricar o aeróstato dirigível de sua invenção. Augusto Severo chamou o dirigível de Bartholomeu de Gusmão. Introduzindo um conceito novo, o dirigível Bartolomeu de Gusmão era um aparelho semirrígido com um grupo propulsor integrado ao invólucro. O balão possuía aproximadamente 2 000 m3, medindo 60 m de comprimento. Foi trazido ao Brasil em março de 1893. A falta do material previsto para construção da estrutura fez com que Severo alterasse o projeto, construindo a parte rígida do aparelho em bambu. Tratava-se de uma estrutura complexa que deveria suportar o motor elétrico com as baterias e os tripulantes e, além disso, apresentar resistência suficiente para aguentar os esforços durante o voo. Em 1894 o dirigível Bartholomeu de Gusmão realizou as primeiras ascensões ainda como balão cativo e mostrou-se estável e equilibrado, demonstrando que a concepção proposta por Severo era adequada para o voo. Porém, no voo do dirigível livre das amarras, a estrutura em bambu não aguentou os esforços e se partiu.Em 1898 o brasileiro Alberto Santos Dumont mudou-se para a capital francesa com o propósito de se tornar aeronauta. Logo que chegou mandou fazer um pequeno balão esférico, de seda japonesa - o Brasil, com o qual voou com sucesso. Depois dessa experiência resolveu encarar o maior desafio daquele momento: conferir dirigibilidade ao engenho, para que não voasse apenas ao sabor do vento. Assim, em setembro daquele ano, Santos Dumont construiu seu primeiro dirigível, que chamou de Nº 1. Ele tinha um motor a explosão (foi o pioneiro ao desenvolver dirigíveis usando motor à gasolina, mais leve que os motores a vapor ou eletricidade empregados na época, contrariando as opiniões da época de que um balão de hidrogênio não poderia usar um motor assim) e possuía um balonete de ar para manter a pressão interna e o formato de charuto do balão.
+Com a força do motor o novo veículo podia se movimentar contra o vento. E, através de um sistema de pesos e contrapesos, mudava de direção. Para evitar que as fagulhas do motor entrassem em combustão com o hidrogênio Santos Dumont virou o cano de escape para baixo e pendurou-o bem distante do balão. O seu balão nº 2, de 25 metros de comprimento, era provido de um motor de 1,5 CV de potência, pesando 30 kg, o qual girava uma hélice a 1 200 rotações por minuto. O nº 2 deslocava-se de forma lenta mas controlada na direção em que o brasileiro lhe apontava.
+Em 2 de julho de 1900, o conde alemão Ferdinand von Zeppelin fez o voo inaugural do LZ-1, às margens do lago Constança, no sudoeste da Alemanha.
+No dia 19 de outubro de 1901, o cobiçado Prêmio Deutsch, no valor de 100 000 Francos, foi conquistado por Santos Dumont. Instituído pelo magnata do petróleo Henri Deutsch de la Meurthe, o prêmio Deutsch seria concedido àquele que, entre 1º de maio de 1900 e 1º de outubro de 1903, circundasse a torre Eiffel em um tempo máximo de 30 minutos, partindo e retornando do campo de Saint-Cloud, por seus próprios meios e sem tocar o solo ao longo do percurso.
+Em fins de 1901 Augusto Severo de Albuquerque Maranhão passou a dedicar-se à construção do novo dirigível que inventou, o Pax. Este novo dirigível era um desenvolvimento do seu anterior, o Bartholomeu de Gusmão, e Severo introduziu uma grande quantidade de inovações. No dia 12 de maio de 1902, tendo como mecânico de bordo o francês Georges Saché, o Pax iniciou seu voo saindo da estação de Vaugirard, em Paris. Elevou-se rapidamente, atingindo cerca de 400 metros. Realizou diversas evoluções que mostraram aos inúmeros espectadores que as ideias de Severo estavam corretas. Cerca de dez minutos após o início do voo, o Pax explodiu violentamente, projetando os dois tripulantes para o solo. Severo e Saché morreram na queda. Uma placa de mármore no número 81 da Avenue du Maine, em Paris, celebra hoje o local do acidente de Augusto Severo. O cineasta Georges Méliès produziu um filme em curta-metragem intitulado A Catástrofe do Balão "Le Pax" em homenagem a ambos. O Pax representava uma nova concepção de dirigível, pois até então os aparelhos eram compostos de duas partes distintas, unidas por cordas ou fios de arame: o invólucro contendo o gás e a barca contendo o motor, local em que viajava o aeronauta. A separação entre os dois corpos causava um movimento oscilatório durante o voo e provocava considerável perda de velocidade, energia e capacidade de manobra, além de representar um fator permanente de acidentes. Severo concebeu seu aparelho como um todo rígido, fazendo coincidir o eixo de resistência ao avanço com o eixo de propulsão, instalando a hélice propulsora na extremidade posterior do eixo longitudinal que atravessava o envelope contendo o gás, fazendo com que a barca e o invólucro constituíssem um mesmo corpo. Dessa maneira a oscilação era reduzida, diminuindo as perdas de velocidade, capacidade de manobra e superando uma das causas de frequentes acidentes.A primeira aeronave pilotada por uma mulher, o foi o dirigível N-9 de Santos Dumont. Este voo foi conduzido por Aída de Acosta, em 29 de Junho de 1903.Ferdinand von Zeppelin gastou sua fortuna na criação de dirigíveis com estrutura rígida para transporte de passageiros. Já estava na bancarrota quando, em 1908, ganhou fama com o LZ-4, ao cruzar os Alpes, numa viagem de 12 horas, sem escalas. Daí por diante, o conde von Zeppelin pôde contar com o dinheiro do governo alemão em suas façanhas e seus dirigíveis se transformaram em orgulho nacional. O conde von Zeppelin instituiu a primeira companhia aérea, a alemã Deutsche Luftschiffahrts-Aktiengesellschaft (DELAG), em 1909, com uma frota de cinco dirigíveis. Até 1914, quando iniciou a Primeira Grande Guerra, foram mais de 150 mil quilômetros voados, 1 600 voos e 37,3 mil passageiros transportados. Durante o conflito mundial, ao lado dos nascentes aviões, os dirigíveis alemães foram utilizados para bombardear Paris e a Inglaterra. Ao longo de sua vida, a Zeppelin construiu mais de 100 dirigíveis.
+
+
+== Os grandes dirigíveis ("zeppelins") ==
+
+Um dos ícones da história da aerostação e aviação foi o dirigível LZ 127 Graf Zeppelin, construído em 1928. O Graf Zeppelin possuía 213 m de comprimento e 5 motores, transportava de 20 a 24 passageiros e cerca de 36 tripulantes. O primeiro voo de longa distância aconteceria em outubro de 1928, ligando Frankfurt a Nova York em 112 horas. Caberia ao 127 Graf Zeppelin a primazia de ser o primeiro aparelho voador a dar a volta ao mundo. A epopeia, em sete etapas, seria feita em 1929, percorrendo 33 mil quilômetros.
+O Graf Zeppelin foi construído pela Deutsche Zeppelin-Reederei, empresa fundada por Ferdinand Von Zeppelin, em 1928, e percorreu mais de 500 mil quilômetros, transportando pelo menos 17 mil pessoas.
+O LZ 129 Hindenburg era o orgulho da engenharia aeronáutica alemã, e considerado o modelo mais espetacular fabricado pela Deutsche Zeppelin-Reederei. O Hindenburg foi o maior aparelho voador da história, com 245 m de comprimento e 41,5 m de diâmetro. Voava a 135 km/h com autonomia de 14 mil quilômetros e tinha capacidade para conduzir 50 passageiros e 61 tripulantes. O modelo explodiu em Nova Jérsia, nos Estados Unidos em 6 de maio de 1937, antes de pousar na base aérea de Lakehurst, Falecendo dos 97 ocupantes (36 passageiros e 61 tripulantes), 13 passageiros, 22 tripulantes e um técnico americano em solo, no total de 36 pessoas. O desastre marcou o fim da era dos dirigíveis rígidos.
+O LZ 127 Graf Zeppelin foi descomissionado em 1937, ficando em exposição pública até 1940, quando então ele e o novo LZ 130 Graf Zeppelin II, foram desmantelados. Assim como o hangar especificamente construídos para eles no aeroporto de Frankfurt.
+Depois de 1937, a companhia americana Goodyear continuou a fabricá-los nos Estados Unidos. Ao contrário dos dirigíveis rígidos alemães, esses outros modelos tinham um balão maleável, feito de derivados de borracha e inflado com gás hélio. Durante a Segunda Guerra Mundial, a Marinha dos Estados Unidos utilizou-os para acompanhar navios e detectar submarinos inimigos. Esses "blimps", como passaram a ser chamados, misturavam conceitos dos dirigíveis de Santos Dumont e do conde Zeppelin e foram os que resistiram ao tempo e ressurgiram na década de 1980 como instrumento publicitário.
+
+
+== Tipos ==
+
+
+=== Dirigível rígido ===
+Esta é a designação dos dirigíveis que possuem armações rígidas que contêm várias cavidades ou balões de gás não pressurizado para prover a elevação, por exemplo, os zeppelins. Dirigíveis rígidos não dependem de pressão interna para manter a sua forma.
+
+
+=== Dirigível não rígido ===
+Esta é a designação dos dirigíveis que usam uma quantidade de pressão excessiva para manter sua forma.
+
+
+=== Dirigível semirrígido ===
+Esta é a designação dos dirigíveis que fazem uso da pressão interna para manter a forma, mas possuem algumas armações articuladas em torno do fundo do balão para distribuir a suspensão da carga e manter a pressão do balão relativamente baixa (em relação aos não rígidos).
+
+
+=== Dirigível "metal-clad" ===
+Esta é a designação dos dirigíveis que possuem características dos dirigíveis rígidos e não rígidos, utilizando um balão de metal muito fino e hermético, em vez do balão de borracha fechado conforme o habitual. Só há dois exemplos de dirigíveis deste tipo, o balão de alumínio de Schwarz de 1897, e o ZMC-2, construído na mesma época.
+
+
+=== Dirigível híbrido ===
+Este é um termo geral para uma aeronave que combina características de ser mais pesada que o ar (avião ou helicóptero) e mais leve que a tecnologia aérea. Exemplos incluem helicópteros/dirigíveis híbridos pretendidos para aplicações de elevação de cargas pesadas e dirigíveis dinâmicos pretendidos para viajar a longas distâncias. Nenhum dirigível híbrido prático que pudesse transportar pessoas foi construído até então. Porém, foram propostos muitos modelos e alguns protótipos foram construídos.
+
+
+== Terminologia ==
+
+
+=== Aeróstato ===
+
+Aeróstato é a designação dada às aeronaves mais leves que o ar, onde se incluem os balões e os dirigíveis.
+
+
+=== Dirigível ===
+Originalmente chamados de "balões dirigíveis", da palavra dirigible, significando "controlável" ou "navegável". Isso foi resumido para "dirigível" e esse termo continuou sendo usado. No uso moderno, o termo "balão", geralmente se refere à aeróstatos sem motor.
+
+
+=== Airship ===
+Na língua inglesa, os termos: "airship", "air-ship", "air ship" e "ship of the air" foram usados nos primeiros anos da aeronáutica, designavam qualquer tipo de máquina voadora controlável ou "navegável". Em 1919 Frederick Handley Page se referia a eles como "ships of the air", e os menores como "air yachts". Na década de 1930, os grandes hidroaviões intercontinentais, também eram chamados de "ships of the air" ou "flying-ships". Hoje em dia, "airship" é usado apenas para balões controláveis e motorizados, com subtipos classificados como: rígidos, semirrígidos e não rígidos.
+
+
+=== Blimp ===
+Um "blimp" é um aeróstato não rígido. É um termo geralmente usado nos Estados Unidos, associado à tipos específicos de dirigíveis. Na Grã-Bretanha o termo se refere à qualquer aeróstato não rígido, incluindo balões de barragem e balões de observação, que tenham um formato comprido e flaps estabilizadoras na cauda.
+
+
+=== Zeppelin ===
+
+O termo "zeppelin" é uma "marca genérica", que originalmente se referia aos dirigíveis fabricados pela empresa alemã Luftschiffbau-Zeppelin GmbH, que foi pioneira no uso de grandes dirigíveis nos primeiros anos do século XX. As iniciais "LZ", de Luftschiff Zeppelin (Dirigível Zeppelin), normalmente eram usas como prefixo na identificação de seus modelos.
+Hoje em dia, em algumas culturas (línguas) os termos zeppelin e dirigível são usados com o mesmo significado, ou seja, um tipo específico de dirigível rígido.
+
+
+== Construção ==
+As duas principais partes constituintes de um dirigível, são o seu "envelope" de armazenamento de gás e a gôndola ou estrutura similar pendurada sob ele com capacidade de levar a tripulação e outros equipamentos. Os motores podem ser montados na gôndola ou em qualquer outra parte do "envelope".
+
+
+=== Estrutura ===
+A estrutura básica de um dirigível, pode ser: rígida, semirrígida ou não rígida, como já descrito.
+
+
+=== Envelope ===
+O "envelope" é a superfície externa, geralmente envolvendo uma ou mais bolsas de ar dentro dele.
+Aletas na traseira do envelope estabilizam o dirigível, permitindo que ele voe em linha reta. Em alguns desenhos menores, essas aletas são parte integrante da bolsa de gás e só assumem o seu formato quando infladas.
+Alguns poucos dirigíveis, do tipo metal-clad, tendo sido construídos exemplares rígidos e não rígidos. Cada um usando um "envelope" de metal fino no lugar do mais comum tecido emborrachado. Até onde se sabe, apenas quatro desse tipo de dirigível foram construídos, e desses, apenas dois efetivamente voaram: o Schwarz, primeiro dirigível de alumínio rígido de 1893, que foi danificado durante a preparação para seu segundo voo; e o ZMC-2, dirigível não rígido, construído para a Marinha dos Estados Unidos, tendo voado de 1929 a 1941, quando ele foi sucateado por ser muito pequeno para uso operacional em operações da patrulha antissubmarino; enquanto em 1929, o dirigível City of Glendale da empresa Slate Aircraft Corporation foi danificado na sua primeira tentativa de voo. Ambos os dirigíveis "não rígidos" tinham envelopes feitos de metal, enquanto eles mantinham seu formato quando estavam vazios, necessitavam de muito mais pressão durante o voo.
+
+
+=== Gás de sustentação ===
+Os primeiros dirigíveis usavam hidrogênio como seu gás de impulsão, que é o mais leve disponível. Normalmente, ele era gerado durante o processo de enchimento, reagindo ácido sulfúrico com limalhas de metal. O primeiro balão de hidrogênio de 1783 usava limalha de ferro na reação, enquanto o Nulli Secundus de 1907, usava limalha de zinco.
+Mais tarde, os Estados Unidos começaram a usar hélio, pelos fatos dele não ser inflamável e ter 92,7% da capacidade de impulsão do hidrogênio. Depois de uma série de desastres com dirigíveis na década de 1930, especialmente o desastre do Hindenburg, a partir do qual o hidrogênio deixou de ser usado.
+Dirigíveis térmicos usam um gás aquecido com gás de sustentação, geralmente ar, de maneira semelhante aos balões de ar quente. O primeiro desse tipo que voou em 1973, foi construído pela empresa britânica Cameron Balloons.
+
+
+=== Gôndola ===
+O termo "gôndola" nesse contexto, é usado para descrever o compartimento dos passageiros dos dirigíveis, que fica pendurado em baixo do centro do "envelope". As gôndolas podem ser pequenas para motores e trens de pouso, ou maiores, para comportar passageiros. As primeiras gôndolas eram estruturas abertas penduradas abaixo dos envelopes, as que vieram depois, eram fechadas e presas diretamente à estrutura interna. Um dirigível não rígido, carrega todos os passageiros numa gôndola, já um dirigível rígido pode carregar passageiros e cargas dentro do envelope. O grande dirigível Graf Zeppelin se caracterizava por uma pequena gôndola de passageiros na dianteira para favorecer a observação do solo. A maior parte dos aposentos da tripulação e espaço de carga ficavam dentro do envelope.
+
+
+=== Propulsão e controle ===
+Pequenos dirigíveis levam seus motores nas suas gôndolas. Quando existem vários motores em grandes dirigíveis, eles são colocados em naceles separadas. Para permitir impulso assimétrico ser usado para manobras, essas naceles são montadas nas laterais dos envelopes, distantes da linha central da gôndola. Isso também as mantem distantes do solo, reduzindo o risco de as hélices atingirem o solo durante a aterrissagem. Nessa disposição essas naceles são conhecidas em inglês como wing cars.Essas naceles de motor levavam uma tripulação durante o voo para fazer as manutenções necessárias, mas que também trabalhavam nos controles de direção e aceleração e etc. As instruções eram enviadas a eles da cabine de comando por intermédio de um sistema de comunicação, como num navio.Enquanto hélices giratórias e de elevação fornecem o "controle fino" de altitude, grandes mudanças de altitude eram normalmente obtidas liberando gás para perder altitude ou liberando lastro para ganhar altitude. Grandes dirigíveis, geralmente carregavam vários tanques de água na frente e atrás, permitindo o ajuste longitudinal e também a altitude. Alguns desenhos mais modernos bombeiam gás de cilindros de armazenamento para aumentar a altitude.
+
+
+== Imagens ==
+
+
+== Novos projetos ==
+A era dos grandes dirigíveis encerrou-se abruptamente em 6 de maio de 1937, quando o luxuoso Hindenburg, caiu em chamas durante o pouso em Nova Jérsia, nos EUA, matando boa parte da tripulação e alguns passageiros.
+Mas, passadas algumas décadas, eles podem estar prestes a alçar voo novamente. Os novos projetos, iniciados em várias partes do mundo, também herdaram características dos modelos originais. Mas são, de longe, máquinas muito mais avançadas.
+A primeira providência que todas as empresas tomam é usar o gás hélio no lugar do explosivo gás hidrogênio. A outra é incorporar os avanços tecnológicos dos aviões, como os modernos instrumentos computadorizados de orientação de voo.
+A própria companhia Zeppelin, agora denominada Luftschiffbau-Zeppelin GmbH (ZLT) também resolveu investir numa nova linha de dirigíveis no início dos anos 90. Em setembro do ano de 1999, realizou o voo de seu primeiro protótipo, o LZ N07. Seguindo a tradição da fábrica, o corpo do balão tem estrutura rígida, que combina tubos de alumínio com fibra de carbono, mas é bem menor que os do passado, com 68 metros de comprimento. A cobertura foi concebida com a ajuda de um computador e a gôndola de passageiros lembra a cabine de um jatinho, mas com muito mais espaço entre as 12 poltronas de passageiros. Os mecânicos trabalharam intensamente nos motores, projetados para se voltar para frente e, também, para baixo, de modo a estabilizar o dirigível enquanto ele é amarrado em seu mastro no solo. A importância desse detalhe está no fato de que os antigos zepelins requeriam 200 soldados para segurá-los nas pistas de pouso e decolagem.
+Também a Hamilton Airship, da África do Sul, está investindo no projeto de um dirigível transoceânico, o Nelson. Ele não tem gôndola: as cabines de comando e de passageiros ficam dentro do próprio balão. A ideia é levar 90 pessoas na rota Johannesburgo-Nova York.
+
+
+=== Transporte de cargas pesadas ===
+Duas empresas, a britânica ATG (Aviation Technology Group) e a alemã AG CargoLifter, apostam na ressurreição dos gigantes mais leves do que o ar como forma de se inserir no crescente mercado de transporte intercontinental de cargas pesadas.
+O Cargolifter CL 160, com 242 metros de comprimento, poderá carregar 160 toneladas e peças de até 50 metros de comprimento, numa imensa gôndola de carga. Com isso, resolverá problemas como o transporte de uma turbina de hidroelétrica, sem paralisar o tráfego nas rodovias. Impulsionado por cinco motores diesel, consome a quarta parte do combustível de um jato de carga. É claro que os jatos superam em muito sua velocidade de cruzeiro, que varia de 80 a 135 km/h. Mas nenhum transporte termina no aeroporto. Então, computando-se o tempo de retirada da carga para embarcar num caminhão ou trem, o CL 160 ganha a corrida. Este projeto terminou por falência financeira. Acredita-se que o seu súbito encerramento foi devido à disputas internas na Alemanha Federal, cujo Governo é um dos maiores acionistas da Airbus.
+Outro megaprojeto de dirigível voltado para transporte de cargas é o SkyCat 1000, da ATG, que mede 307 metros, mais que quatro Jumbos 747 alinhados. Foi pensado para carregar até mil toneladas de carga. Diferente dos dirigíveis tradicionais, seu envelope parece um pão achatado, com 136 metros de largura e 77 metros de altura. Suas seis turbinas de 15 mil hp o impulsionarão a máximos 110 Nós (203 km/h) numa altitude de cruzeiro de 2 700 metros. Com carga total, o SkyCat 1000 terá autonomia de 10 mil km, podendo cruzar o Atlântico Norte duas vezes sem reabastecimento.
+Uma empresa brasileira chamada Airship do Brasil também desenvolve projetos para dirigíveis para transporte de cargas pesadas, visando atender regiões com pouca infraestrutura.
+
+
+== No Brasil ==
+
+Em 1930, o LZ 127 Graf Zeppelin fez sua primeira viagem ao Brasil, chegando a cidade do Recife, no estado de Pernambuco, em 21 de maio. O primeiro brasileiro a viajar nele foi o engenheiro e escritor Vicente Licínio Cardoso. Este voo iniciou uma regular e bem sucedida rota comercial entre o Brasil e Alemanha. Inicialmente, devida a ausência de instalações adequadas no Campo dos Afonsos, na cidade do Rio de Janeiro, nestes primeiros anos de operação o Graf Zeppelin, atracava na cidade do Recife onde os passageiros eram desembarcados, e seguiam viagem para o Rio de Janeiro em aviões da empresa aérea Syndicato Condor. Até hoje a estação de atracação de dirigíveis em Recife, a Torre do Zeppelin foi preservada.
+Funcionários da empresa alemã Luftschiffbau-Zeppelin GmbH viajaram ao Brasil em 1933 para selecionar um local apropriado às operações de pouso, decolagem e armazenamento dos gigantescos zeppelins. Após realizarem um detalhado estudo climatológico, levando em consideração, principalmente, a velocidade e direção dos ventos, optou-se pelo uso de uma área próxima à Baía de Sepetiba, no estado do Rio de Janeiro. A área, que media 80 000 m², foi cedida pelo Ministério da Agricultura.
+No período de um ano foi erguido um enorme hangar para abrigo dos dirigíveis, que mais tarde recebeu o nome de Aeródromo Bartolomeu de Gusmão. Foi instalada também no local, uma usina produtora de gás hidrogênio para abastecimento dos dirigíveis, além de um ramal ferroviário que poderia transportar os passageiros do centro da cidade do Rio de Janeiro até o aeródromo.
+Em 26 de dezembro de 1936, a instalação foi inaugurada, contando com uma linha regular de transportes aéreos que fazia a ligação entre o Rio de Janeiro e a cidade de Frankfurt, na Alemanha, com escala em Recife. Em abril de 1936, o maestro Heitor Villa-Lobos embarcou no Hindengurg em direção a Europa.
+O hangar foi utilizado por pouco tempo, sendo que em 1938 suas atividades foram encerradas. Dos nove voos da linha aérea alemã ligando o Brasil à Europa nesse curto período, quatro dessas viagens foram realizadas pelo Hindenburg e as outras cinco pelo Graf Zeppelin.
+Em 1942, o Aeródromo Bartolomeu de Gusmão foi transformado na Base Aérea de Santa Cruz.
+
+
+=== Atualmente ===
+Atualmente no Brasil, dirigíveis a base de gás hélio são utilizados com fins publicitários e para realização de transmissões de TV em eventos esportivos.
+A mais famosa dessas aeronaves possui o nome de Ventura, sendo mais conhecido como "dirigível da Goodyear", por ser de propriedade dessa fabricante de pneus.
+O Brasil ganhou importância no cenário mundial dos dirigíveis com a empresa Space Airships do Brasil, que está desenvolvendo dirigíveis para transporte de grandes cargas. No Brasil essa empresa é a única homologada para operação de dirigíveis. A empresa dispõe também de um dirigível da classe "não-tripulado", que é a nova plataforma aérea da Space Airships e pode ser utilizada tanto como veículo de publicidade como para monitoramento aéreo.
+Em 1996 o CenPRA (Centro de Pesquisas Renato Archer) iniciou o Projeto Aurora, cuja meta é o desenvolvimento de veículos aéreos não tripulados (VANT 's ou drones). Estes veículos (dirigíveis) seriam empregados em diversas áreas: segurança pública, monitoramento ambiental e de trânsito, levantamentos agrícolas, telecomunicações, etc. As forças armadas brasileiras pretendem utilizar dirigíveis híbridos na vigilância das fronteiras e do mar territorial, para garantir a segurança da Amazônia Verde e da Amazônia Azul.Em 2002, o dirigível de reconhecimento aéreo Pax Rio, auxiliou no policiamento da cidade do Rio de Janeiro.As empresas Engevix e Airship do Brasil desenvolvem um projeto para construção de dirigíveis para transporte de carga. E, desta forma, criando uma alternativa para contornar as deficiências dos transportes terrestres do país.
+
+
+== Ver também ==
+
+Aviação
+Avião
+Balão
+LZ 129 Hindenburg
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«O dirigível "Hindenburg" incendiou-se em Lakehurst». Consultado em 18 de abril de 2014 
+«A Epopéia da Aviação: O Grande Projeto de Augusto Severo». Artigo do Jornal Brasileiro Tribuna do Norte. Consultado em 18 de abril de 2014 
+«Charutos voadores». Consultado em 18 de abril de 2014 
+«Voando para o Rio de Janeiro a bordo do Graf Zepelin». Vídeo de 1932. Consultado em 18 de abril de 2014

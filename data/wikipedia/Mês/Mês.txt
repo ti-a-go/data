@@ -1,0 +1,69 @@
+Mês é o tempo aproximado necessário à Lua para efetuar uma volta ao redor da Terra. Em anos normais, um mês tem em média 30 dias e 10 horas (730 h), e, em um ano bissexto, um mês tem em média 30 dias e 12 horas (732 h). Um mês corresponde a 1/12 de um ano.
+
+
+== História ==
+A marcação do tempo, nas sociedades humanas desde tempos imemoriais, baseou-se em duas unidades: na óbvia alternância entre dia e noite e na quase tão óbvia distinção entre a lua cheia e a lua nova. A alternância entre verão e inverno, ou entre estações secas e úmidas, só seria cuidadosamente determinada após a invenção da agricultura. Várias sociedades atuais, que vivem da caça e da pesca, não tem noções de tempo para além do mês e da estação, e consideram que períodos de cinco ou de cinquenta anos são designados pelas mesmas palavras, "um tempo longo".Todas culturas que desenvolveram a agricultura concluíram que o retorno das estações se dava após doze ou treze lunações, mesmo antes de conseguirem computar corretamente a duração do ano trópico. Os antigos gregos e romanos, e o Islão, calculam o tempo pelos movimentos da lua.Vários povos adotaram o calendário lunissolar, em que cada mês é baseado nas fases da lua (mês lunar) e o ano é baseado nas estações (ano trópico). Este calendário foi usado pelos gregos, romanos, chineses, tártaros, japoneses e judeus.O calendário romano, atribuído a Rômulo, tinha dez meses, de março a dezembro, com um total de 304 dias. Numa Pompílio reformou este calendário, acrescentando dois meses, Janeiro no início e Fevereiro no fim, com meses lunares de 29 ou 31 dias, sendo necessárias várias correções, até que Fevereiro passou a ser o segundo mês.Júlio César, diante de um erro acumulado, que fazia com que o início do ano, que deveria ocorrer no inverno, estava ocorrendo no outono, aplicou uma correção, de modo que 47 a.C., ou o ano 707 A.U.C., tivesse 445 dias. Para evitar erros futuros, as durações dos meses foram fixadas, e foi definida a correção do ano bissexto. O primeiro ano deste calendário novo foi 46 a.C., um ano bissexto.O sistema proposto por César continuou sendo usado após seu assassinato, porém de forma errada, pois, em vez de um ano bissexto a cada quatro anos, foi adotado um ano bissexto a cada três anos. Este erro foi descoberto 37 anos depois, e o calendário só voltou a seguir as regras atuais a partir de 7 a.C., um ano bissexto.
+
+
+== Quantidade de dias ==
+A quantidade de dias dos meses do ano varia entre 28 e 31, conforme o Calendário Gregoriano:
+
+
+== Nomes dos Meses ==
+O calendário que usamos foi uma evolução do antigo calendário romano e os nomes utilizados vieram dos deuses.
+Janeiro:
+O nome vem do deus romano Jano com duas faces que era um "porteiro celestial". A palavra ianua significa porta e o mês de janeiro representa justamente a entrada do ano.
+Fevereiro:
+O termo vem da palavra februum que significa purificar; neste mês acontecia um ritual de purificação romana.
+Março:
+O nome vem do deus da guerra Marte; neste mês começa a primavera no hemisfério norte, que é uma ótima época para iniciar campanhas militares.
+Abril:
+Neste mês existem duas versões aceitas. Uma delas é que o nome do mês vem de aperire que significa abrir, que lembraria o desabrochar das flores na primavera. Na outra o nome vem de aprilis, uma comemoração feita para a deusa Vênus.
+Maio:
+Era uma homenagem a duas deusas, Maia e Flora, que acreditavam serem responsáveis pela primavera e o crescimento das flores.
+Junho:
+Era uma homenagem a deusa Juno que era protetora da família e dos partos. Também pode ter derivado do clã romano junius.
+Julho:
+No calendário romano, o primeiro, esse mês era chamado quintilis, porque era o quinto mês. Séculos depois foi rebatizado em homenagem ao imperador Julius Caesar.
+Agosto:
+No primeiro calendário ele se chamava sextilis, porque era o sexto mês. Também foi rebatizado em homenagem ao imperador Augusto.
+Setembro a Dezembro
+Setembro vem da palavra septem, que significa sete, outubro vem de octo, que significa oito e assim por diante. Hoje o nome conserva a mesma posição que o mês tinha no calendário romano.
+
+
+=== Grafias na língua portuguesa ===
+Há duas formas de escrever os meses na língua portuguesa: tradicionalmente, no Brasil a primeira letra é minúscula e em Portugal e nos países africanos de expressão portuguesa era maiúscula. Com a adoção do Acordo Ortográfico, passou-se a grafar com letra minúscula em todos os países lusófonos.
+Por exemplo:
+
+Brasil: fevereiro
+Portugal e países africanos: Fevereiro (AO:1990: fevereiro)
+
+
+=== Nomes em diversas línguas ===
+Na maioria das línguas, principalmente nas europeias, os meses apresentam nomes similares aos do Português, sendo facilmente identificáveis mesmo por pessoas exclusivamente lusófonas. As grafias apresentam  similaridades, os sons se assemelham, mesmo quando as línguas usam escritas diferentes do Alfabeto latino.Isso ocorre na totalidade das línguas Latinas,  das Germânicas, em parte da Eslavas, em línguas da África e da Ásia influenciadas por colonização europeia; em outras como o Húngaro, o Estoniano, o Letão, o Grego; nas línguas do Cáucaso (Armênio, Georgiano, Azeri), algumas Línguas crioulas do Terceiro Mundo, as Línguas artificiais (ex. Esperanto). 
+São assim também as modernas formas de denominar os meses do Calendário Gregoriano em Hebraico, em Hindi e no Árabe do Egito, Sudão, Iêmem, Somália, embora cumpra-se lembrar que há os calendários Hebraico e Árabe-Islâmico com nomenclatura própria para o ano de 354 dias (6 meses de 30 dias, 6 de 29 dias).
+Porém, aqui se apresentarão, algumas línguas nas quais os nomes dos meses são diversas desse padrão Ocidental e Cristão, tendo denominações próprias:
+Algumas Eslavas como o Croata, o Checo, o Polonês, o Bielorrusso, o Ucraniano, o Cassúbio (pomerano eslavo), as Línguas sorábias e variantes antigas do Macedônio e do Búlgaro.
+As Línguas celtas como o  Galês, o Gaélico escocês, o Manês, o Irlandês, Cornualha (extinta), Bretão, etc.;
+Algumas línguas da África como o jeje, o Ndebele, o Suázi, o Venda, o Amárico, o Suaíle, o lingala, o sesoto, as Línguas bantas e outras;
+Línguas da Ásia Oriental como as chinesas Mandarim e Cantonês, o Japonês (duas versões), o Coreano, o Taiwanês;
+Outras da Ásia como as do Sudeste Asiático como Vietnamita e o Tailandês; também o Tibetano e mais para o oeste o Farso, o Curdo, o Pashto;
+Outras formas do Árabe da Argélia, Tunísia, Líbia, e algumas do Oriente Médio.
+Outras como o Finlandês e o Vöro (da Estônia), o Lituano, o Albanês, o Basco, o Cazaque, o Turco, o Sardo, o Maori (Nova Zelândia), o Limburguês, o Bengali, as formas arcaicas do Inglês e do Alemão, etc.
+
+
+== Mês Lunar ==
+Mês lunar é o mês baseado no ciclo da Lua. Um mês lunar corresponde em média a 29 dias, 12 horas, 44 minutos e 2,9 segundos. Esse tipo de mês também é conhecido como lunação.
+
+
+== Notas e referências ==
+
+
+=== Notas ===
+
+
+=== Referências ===
+
+
+== Ligações externas ==
+ O Wikcionário possui a entrada mês

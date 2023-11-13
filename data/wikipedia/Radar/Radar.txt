@@ -1,0 +1,186 @@
+O radar, do inglês radio detection and ranging (Detecção e Distanciometria por Rádio), é um dispositivo que permite detectar objetos distantes e inferir suas distâncias à antena direcional transceptora do rádio.
+Ondas eletromagnéticas são emitidas pela antena de forma direcional e refletidas por objetos distantes. De maneira mais simples, a detecção das ondas refletidas e o cálculo do tempo entre transmissão e recepção permitem determinar a localização do objeto. 
+Em radares mais sofisticados, outras propriedades das ondas eletromagnéticas são aproveitadas de forma a se melhorar a precisão de informações inerentes, ou a fim de se obterem demais informações concernentes aos alvos, a exemplo, suas velocidades.
+
+
+== História ==
+O radar tem suas raízes em uma série de pesquisas iniciais. Em 1887, Heinrich Hertz realizou experimentos de laboratório que comprovaram a existência das ondas de rádio e sua capacidade de serem refletidas. Esses experimentos foram realizados para testar a proposta de Maxwell de que havia diversas formas de radiação eletromagnética, das quais a luz era uma delas. Hertz e outros físicos subsequentes mostraram que essas ondas têm natureza semelhante à luz visível, pois também podem ser refletidas, refratadas e polarizadas. Ele descobriu que poderia interromper o efeito dessas ondas colocando uma placa de metal entre os espaços vazios e que uma placa posicionada ao lado do obstáculo refletiria as ondas. Para realizar as medidas descritas, Hertz criou um dispositivo que gerava uma onda de descarga de capacitor em uma vela de ignição, produzindo um arco. Essa energia foi transmitida através de uma antena e, através de outra antena, foi possível medir a quantidade de energia transferida. Infelizmente, Hertz não viveu para ver os frutos de seu trabalho, pois faleceu em 1894 aos 37 anos. No entanto, um dos seus méritos foi ter descoberto o conceito de "antena" para gerar ondas eletromagnéticas.Em 1895, Alexander Popov, um instrutor de física na escola da Marinha Imperial Russa em Kronstadt , desenvolveu um aparelho usando um tubo coerente para detectar raios distantes. No ano seguinte, ele adicionou um transmissor centelhador. Em 1897, ao testar este equipamento para comunicação entre dois navios no mar Báltico, ele notou uma interferência causada pela passagem de um terceiro navio. Em seu relatório, Popov escreveu que esse fenômeno poderia ser usado para detectar objetos, mas não fez mais nada com essa observação.
+No ano de 1902, Kennelly e Heaviside propuseram a ideia de que a camada superior da atmosfera era ionizada, o que significa que continha um grande número de partículas carregadas eletricamente. Essa teoria explicaria a transmissão de sinais de rádio além do horizonte, como foi testado por Marconi em 1901, através da reflexão desses sinais na camada ionizada. Posteriormente, em 1924, Appleton e Barnett da Inglaterra comprovaram a existência dessa camada através da reflexão de ondas de rádio. A diferença de frequência entre os dois sinais poderia ser interpretada como uma diferença de tempo e, utilizando a velocidade conhecida das ondas de rádio, a altura da camada de reflexão poderia ser calculada. Em 1925, Breit e Tuve da Carnegie Institution em Washington melhoraram esse método enviando pulsos de energia de rádio ao céu e medindo o tempo necessário para que os sinais refletidos retornassem à terra. Esse método revelou que a ionosfera, como era conhecida, era composta por diversas camadas com níveis variados de ionização, dependendo da hora do dia e da estação. Essas informações são atualmente utilizadas para selecionar o comprimento de onda mais adequado para a comunicação por ondas curtas.
+O primeiro radar foi construído em 1904, por Christian Hülsmeyer na Alemanha, naquela época não houve utilidade prática para o dispositivo, de baixa precisão, construção difícil, e sistema de detecção de eco ineficiente.Em 1922, A. Hoyt Taylor e L. C. Young do U.S. Naval Research Laboratory em Anacostia observaram que a transmissão de ondas de rádio de 5 m era afetada pelos movimentos de navios no rio Anacostia próximo. Eles sugeriram que tais variações nos sinais poderiam ser usadas para detectar os movimentos de navios. Em 1930, o Dr. Taylor conseguiu projetar equipamentos para detectar o movimento de aeronaves com ondas refletidas de 5 m. As descobertas de Taylor foram comunicadas ao Secretário de Guerra em 1932 e permitiram a aplicação de armas antiaéreas do Exército. O trabalho secreto continuou nos Signal Corps Laboratories, e em 1934, uma fonte de 0,5 W de ondas de 10 cm foi usada para confirmar o trabalho de Taylor. Foi nessa época que o Diretor dos Laboratórios Signal Corps, Major Blair, propôs um esquema para projetar uma sequência interrompida de trens de oscilações contra o alvo e tentar detectar os ecos durante os interstícios entre as projeções, que foi a primeira proposta nos EUA para um radar de onda pulsada.
+Em 1935, foi instalado o primeiro sistema de Radiotelemetria no navio Normandie com o objetivo de localizar e prevenir a aproximação de obstáculos.
+Em 1936, o Signal Corps começou a trabalhar no SCR 268, o primeiro radar antiaéreo do Exército dos EUA, que operava em um comprimento de onda de 3 m, posteriormente reduzido para 1,5 m. A Marinha projetou radares para uso a bordo operados a 50 cm e posteriormente 20 cm, com comprimentos de onda mais curtos melhorando a precisão da operação de localização de direção. Na Inglaterra, Sir Robert Watson-Watt do National Physical Laboratories também trabalhou independentemente nas mesmas linhas e conseguiu rastrear aeronaves em 1935. A Grã-Bretanha começou a trabalhar no radar de "alerta precoce" usando ondas pulsadas de 12 m. A primeira estação "Chain Home" foi instalada ao longo do estuário do Tâmisa em 1937, e quando a Alemanha ocupou a Tchecoslováquia em novembro de 1938, essas estações e outras foram colocadas em vigilância contínua e assim permaneceram durante a duração da guerra que se seguiu.No início da Segunda Guerra Mundial (1939), Watson-Watt, melhorou e desenvolveu novas tecnologias, utilizando o sistema de telemetria fixa e rotatória (ver: Tecnologia durante a Segunda Guerra Mundial). Em 1940, os radares terrestres britânicos foram usados para controlar 700 caças britânicos defendendo-se contra 2.000 invasores. Os radares foram muito importantes na previsão de ataques inimigos, pois os ingleses sabiam com precisão a distância, velocidade e direção do ataque, tendo tempo de dar o alarme para a população se proteger, diminuindo imensamente as baixas civis, apesar do bombardeio constante efetuado pelos alemães (ver: Chain Home).As Potências do Eixo, também estavam a desenvolver sistema similar, porém seu uso era diferente, os radares alemães, eram para aumentar a precisão de tiro, facilitando o direcionamento dos projéteis ao alvo.
+Durante a Segunda Guerra Mundial, o radar tornou-se uma ferramenta vital para as operações militares em todo o mundo. O desenvolvimento do radar permitiu que os militares detectassem aeronaves inimigas e mísseis, bem como monitorassem as condições climáticas e o movimento de tropas terrestres.
+Em meados da década de 1940, o desenvolvimento de sistemas de radar na Inglaterra e nos Estados Unidos ocorreu de forma independente. Em setembro de 1940, uma missão técnica inglesa visitou os Estados Unidos com o objetivo de trocar informações sobre o desenvolvimento de sistemas de radar nos dois países. Os britânicos perceberam os benefícios de operar com melhor resolução angular obtida em frequências de micro-ondas, especialmente em áreas navais e a bordo de aeronaves. Eles sugeriram aos americanos a criação de um radar de micro-ondas para uso a bordo de aeronaves e para controle de dispositivos antiaéreos. A missão apresentou aos americanos a válvula de potência magnetron, desenvolvida pelos físicos  John Randall e Henry Boot,  fornecendo informações técnicas para que os americanos pudessem fabricá-la.
+O magnetron operava com um comprimento de onda de 10 cm e uma potência de saída de 1 KW, e tinha um ganho 100 vezes maior do que outros dispositivos de micro-ondas existentes. O desenvolvimento do magnetron foi uma das contribuições mais significativas para a evolução do radar.Além dos desenvolvimentos feitos pelos Estados Unidos e Inglaterra, o radar também foi desenvolvido independentemente por outros países, como Alemanha, França, Rússia, Itália e Japão, no final da década de 1930. Todos esses países  efetuaram experimentos com radares de onda contínua (CW) de interferência de ondas, e embora França e Japão os tenham tornado operacionais, mostraram-se de uso limitado. Todos esses países eventualmente progrediram para a forma pulsada de radar devido às vantagens inerentes do sistema.Durante a guerra, reconheceu-se que operar com frequências mais altas era vantajoso, mas nenhum radar foi desenvolvido com frequências superiores a 600 MHZ, exceto pelos Estados Unidos e Inglaterra. O radar foi desenvolvido simultaneamente e independentemente em vários países, principalmente durante a Segunda Guerra Mundial. Não é possível apontar um único indivíduo como seu criador; o radar tem vários colaboradores em comum. Ele foi criado não apenas devido ao momento favorável da tecnologia de radiocomunicação, mas também à maturação da aviação no mesmo período e ao reconhecimento da ameaça militar que ela representava e da necessidade de se defender dela.
+
+
+== Funcionamento ==
+Um radar é composto por uma antena transmissora/receptora de sinais para Super Alta Frequência (SHF), a transmissão é um pulso eletromagnético de alta potência, curto período e feixe muito estreito. Durante a propagação pelo espaço, o feixe se alarga em forma de cone, até atingir ao alvo que está sendo monitorado, sendo então refletido, e, retornando para a antena, que neste momento é receptora de sinais.
+Como se sabe a velocidade de propagação do pulso, e pelo tempo de chegada do eco, pode-se facilmente calcular a distância do objeto.
+É possível também, saber se o alvo está se afastando, ou se aproximando da estação, isto se deve ao Efeito Doppler, isto é, pela defasagem de frequência entre o sinal emitido e recebido.
+
+
+== Construção física ==
+O equipamento de radar é composto de uma antena transceptora, da linha de transmissão, ou guia de onda, de um transmissor de alta potência e alta frequência, do sistema de recepção, decodificação, processamento e visualização das informações coletadas, além da mesa de interface entre equipamento e operador.
+
+
+=== Sistema de transmissão ===
+O sistema de transmissão é composto por 3 elementos principais: o oscilador, o modulador, e o próprio transmissor. O transmissor fornece radiofrequência para a antena em forma de pulsos eletromagnéticos modulados de alta potência que são disparados contra a antena parabólica que remete-os unidirecionalmente em direção ao alvo.
+
+
+=== Oscilador ===
+A produção do sinal do radar começa no oscilador, que é um dispositivo que gera radiofrequência num comprimento de onda desejado.
+A maioria dos radares usa bandas de frequências de rádio (MHz- milhões de Hertz até centenas de milhões) ou de micro-ondas (GHz- dezenas de bilhões de Hertz).
+O dispositivo precisa produzir uma frequência estável, pois o radar necessita de precisão para calcular o efeito Doppler.
+
+
+=== Modulador ===
+O modulador, pode variar o sinal em amplitude ou frequência, conforme o caso. Num radar de pulso, o sinal é ligado e desligado rapidamente no oscilador, neste caso, o modulador faz a mistura de um comprimento de onda secundário à frequência fundamental.
+Da estabilidade do sinal gerado no oscilador e da modulação dependerá a qualidade do eco captado após atingir o alvo.
+
+
+=== Transmissor ===
+A função do transmissor é amplificar o sinal gerado no oscilador e misturado no modulador. Dependendo do ganho, um transmissor pode amplificar a potência de 1 Watt para 1 Megawatt.
+Os radares, em geral, necessitam enviar pulsos de alta potência, que após se propagarem, atingem o alvo e refletem numa espécie de eco. O sinal refletido, bem mais fraco que o emitido, é captado pela antena e amplificado novamente.
+
+
+=== Antena ===
+Depois que o transmissor amplifica o sinal no nível desejado, ele envia para a antena, que em alguns radares tem a forma de um prato de metal (Antena parabólica).
+As ondas eletromagnéticas, depois de geradas e amplificadas, são levadas por guias de onda em direção ao foco do disco parabólico. Disparadas contra a parábola, se propagam para o ambiente.
+O extremo de saída da guia de onda é localizado no foco da parabólica. Semelhante às ondas luminosas no foco de num espelho parabólico, as ondas de radar se propagam em direção à parábola e por esta são emitidas em unidirecionalmente ao alvo.
+Normalmente as antenas são giratórias, para mudar a direção das emissões, permitindo que o radar faça uma varredura na área ao invés de sempre apontar para a mesma direção.
+
+
+=== Sistema de recepção ===
+O receptor do radar detecta e amplifica os ecos produzidos quando as ondas refletem no alvo. Geralmente a antena de transmissão e recepção é a mesma, principalmente nos radares pulsados.
+O sistema funciona da seguinte forma:
+
+O pulso gerado é disparado contra a antena que o envia ao espaço. O sinal bate no alvo e retorna em forma de eco. Neste momento é captado pela mesma antena, pois o transmissor está desligado. Pois, se estivesse ligado, devida  alta potência, o receptor não receberia o pulso refletido, e sim o pulso emitido.Para gerenciar a transcepção do radar, é utilizado um dispositivo que comuta o momento de transmissão e recepção. Determinando assim quando a antena está ligada ao transmissor ou ao receptor.
+O receptor, recebe o sinal fraco provindo do alvo em direção à antena e amplifica-o.
+Após a ampliação, o sinal é processado, demodulado, integrado e enviado para o monitor que é lido pelo operador de radar.
+
+
+=== Antena ===
+A antena recebe o eco radioelétrico do sinal emitido no momento em que está comutada para recepção. Pelo fato de ser parabólica, reflete a radiofrequência em direção ao seu foco. O sinal é captado por um dispositivo localizado no ponto focal, este pode ser um dipolo, ou um pré amplificador de baixo ruído numa cavidade ressonante, neste momento, a radiofrequência se propaga através da linha de transmissão (No caso do pré amplificador estar localizado no foco) ou pela guia de onda em direção a um pré-amplificador localizado distante da antena.
+
+
+=== Comutador ===
+O comutador (ou duplexador) possibilita ao sistema de radar emitir sinais e recebê-los na mesma antena. Em geral, atua como um relê entre a antena e o conjunto transmissor/receptor.
+Isso evita que o sinal de grande intensidade vindo do transmissor chegue ao receptor causando sobrecarga, pois o receptor espera por um sinal de retorno de baixa intensidade.
+O relê comutador conecta o transmissor à antena somente quando o sinal está sendo transmitido. Entre dois pulsos, o comutador desconecta o transmissor e liga o receptor à antena.
+Para o radar de pulso contínuo, o receptor e o transmissor operam ao mesmo tempo. Este sistema não opera com comutador. Neste caso, o receptor através de uma cavidade ressonante separa o sinal por frequências automaticamente.
+Como o receptor precisa interpretar sinais fracos ao mesmo tempo que transmissor está operando, os radares de onda contínua têm duas antenas separadas, uma de transmissão e outra para recepção desfasada da primeira.
+
+
+=== Receptor ===
+Muitos radares modernos utilizam equipamentos digitais, pois este permite o executar funções mais complicadas. Para usar este tipo de equipamento, o sistema necessita de um conversor analógico-digital para transitar de uma forma a outra.
+A entrada do sinal analógico pode ser de qualquer valor, de zero a dez milhões, incluindo frações destes valores. Todavia, a informação digital trabalha a valores discretos, em intervalos regulares, como 0 e 1, ou 2, porém nada entre estes. O sistema digital pode requerer uma fração de sinal para arredondar números decimais como 0,66666667, ou 0,667, ou 0,7, ou mesmo 1. Após o sinal analógico ser convertido para sinal discreto, o número será usualmente expresso na forma binária, com uma série de zeros e uns que representam o sinal de entrada. O conversor analógico-digital mede o sinal analógico de entrada muitas vezes por segundo e expressa cada sinal como um número binário.
+Uma vez que o sinal é digitalizado, o receptor pode executar complexas funções sobre este. Uma das mais importantes funções para o receptor é o filtro Doppler, baseado no efeito do mesmo nome. Ele é usado para diferenciar alvos múltiplos. Seguido do filtro Doppler, o receptor executa outras funções como maximizar a força do sinal de retorno, eliminar o ruído e a interferência do sinal.
+
+
+==== Visor ====
+O visor é o resultado final das etapas de conversão do sinal recebido pelo radar em informação útil. Antes, os sistemas de radares usavam apenas modulação em amplitude – o sinal de força, ou amplitude era função da distância da antena. Nestes sistemas, um ponto de sinal forte aparece no lugar da tela que corresponde o alvo distante. Mais usual e mais moderno é o visor de plano de indicação posicional (PPI). O PPI mostra a direção do alvo em relação ao radar (em relação ao norte) com um ângulo de medida de cima do visor, enquanto que a distancia do alvo é representado como a distância até o centro do visor. Em alguns sistemas de radares que usam PPI mostra a real amplitude do sinal, enquanto que outros processam o sinal antes de exibi-lo e mostram alvos em potencial em forma de símbolos.
+Alguns sistemas simples de radares, para assinalar a presença de um objeto e não sua velocidade ou distância, notificam o controlador com um sinal de áudio, como um beep.
+
+
+== Tipos de radar ==
+
+
+=== Radar de pulso simples ===
+Estes são os de funcionamento mais simples. Um transmissor envia diversos pulsos de rádio, e entre a emissão de dois pulsos o receptor detecta as reflexões do sinal emitido. O radar de pulso simples necessita de precisos contadores em seu alternador para impedir que o transmissor envie algum sinal enquanto o receptor está analisando o sinal de resposta, assim impede também que o receptor faça alguma leitura enquanto o transmissor está operando. Normalmente, a antena desse tipo de radar pode rotacionar, aumentando a área de rastreamento. Esse tipo de radar é eficaz para localizar um alvo, mas deixa a desejar em se tratando de medir sua velocidade.
+
+
+=== Radar de pulso contínuo (CW) ===
+Como o próprio nome diz, estes radares emitem um sinal de rádio contínuo. Esse tipo de radar requer duas antenas distintas, uma para o transmissor e outra para o receptor, para que o sinal emitido não interfira na leitura do sinal de retorno. A emissão de um sinal contínuo permite que esse radar distinga objetos parados de objetos que estão em movimento, através da analise da diferença do sinal de resposta, causada pelo “efeito Doppler”. Este tipo de radar, entretanto, não é bom na detecção da posição exata do alvo.
+
+
+=== Radar de abertura sintética ===
+
+Os radares SAR (Synthetic Aperture Radar) estão acoplados a uma aeronave ou a um satélite, e tem objetivo de localizar alvos em terra. Eles usam o movimento da aeronave, ou satélite, para “simular” uma antena bem maior do que ela realmente é. A habilidade destes radares diferenciarem dois objetos próximos depende da largura do sinal emitido, que depende do tamanho da antena. Como estas antenas devem ser transportadas por uma aeronave, normalmente estes radares são de antena pequena e sinal largo. Entretanto, o movimento da aeronave permite que o radar faça leituras consecutivas de diversos pontos; o sinal recebido é então processado pelo receptor, fazendo parecer que o sinal vem de uma antena grande, ao invés de uma pequena, permitindo que este tipo de radar tenha uma resolução capaz de distinguir objetos relativamente pequenos, como um automóvel.
+
+
+=== Phased-Array Radar ===
+Enquanto a maioria dos radares utiliza-se de uma única antena que pode rotacionar para mudar a direção do sinal emitido e assim obter uma leitura de uma área maior; este tipo utiliza-se de “diversas” antenas fixas que recebem sinais de diferentes direções, combinando-os como desejado para adquirir uma direção especifica. Estes radares podem “mudar a direção do sinal” eletronicamente, e de uma maneira muito mais rápida que radares convencionais, que o tem de fazer mecanicamente.
+
+
+=== Radares secundários ===
+São aqueles que, em vez de lerem sinais refletidos por objetos, lêem sinais de resposta, emitidos por dispositivos chamados transponders instalados nos veículos, aeronaves ou embarcações. Esses dispositivos respondem a sinais chamados interrogadores emitidos pelo transmissor do radar secundário, enviando sinais em resposta que podem conter informações codificadas, como por exemplo identificação e altitude da aeronave, posição, etc; são essenciais para o controle efetivo do tráfego aéreo, além de possibilitar a distinção de uma aeronave inimiga de uma aliada em seu emprego militar. A utilização deste tipo de dispositivo contorna algumas limitações de radares convencionais como baixa refletividade e falta de posicionamento vertical.
+
+
+== Emprego ==
+
+
+=== Marinha ===
+Na marinha, os radares são utilizados para a navegação, detectando e monitorando obstáculos ou outros navios que possam oferecer riscos até distâncias de 200 km, aproximadamente.
+No caso de navios de guerra, existem radares para a detecção, aquisição e seguimento de alvos, e também para o controlo de tiro de forma a aumentar a probabilidade de atingir o alvo com os projéteis disparados por peças de artilharia, metralhadoras, e para controlo de lançamento de foguetes, mísseis e torpedos.
+Existem os radares de defesa anti-aérea com alcance de até 200 km para detectar aeronaves inimigas orientando as defesas na sua direção. De igual forma os radares de aviso de superfície realizam a mesma função para alvos de superfície.
+Actualmente os navios de guerra possuem sistemas de combate que recolhem a informação obtida por todos os radares instalados a bordo, facilitando a apresentação dessa mesma informação aos operadores e aos decisores, podendo enviar automaticamente a informação para os sistemas de armas.
+Nos Porta-aviões, existem radares de controle de tráfego aéreo, semelhantes aos dos aeroportos para controlar o lançamento e recolha de aeronaves com segurança e em movimento.
+
+
+=== Aeronáutica ===
+O emprego de radares na aeronáutica se dá, principalmente, no Controle  e Vigilância do Tráfego Aéreo em Rota e em Terminal  Aérea. Para o Controle de Tráfego Aéreo em Rota ela emprega radares primários, bi e tridimensionais, instalados em locais que permitam um melhor desempenho, alcance e visualização, daí, serem colocados em cima de montanhas. Na área da Amazônia são instalados nas proximidades dos aeródromos para melhor proteção e apoio. Os radares de Terminal são, em sua maioria, instalados na área do aeroporto e são bidimensionais, isto é, só fornecem informação de azimute e distância, não informando a altitude. No controle do tráfego aéreo em geral são também instalados juntos com os radares primários, os radares secundários que passam a fornecer para o controle de tráfego aéreo a altitude das aeronaves, caso estas estejam munidas do equipamento *transponder*. Há locais que só dispõem de radares secundários. Hoje seu uso é obrigatório nas terminais de maior movimento de aeronaves. Há também os radares  instalados nos aeroportos que controlam o movimento no solo das aeronaves e são instalados em locais onde as condições meteorológicas se tornam adversas, como é o caso de Guarulhos em São Paulo. Nas bases aéreas também são instalados os radares de precisão (PAR), que levam as aeronaves  de um determinado ponto -em torno de 6 milhas náuticas da cabeceira da pista- até o seu ponto de toque na cabeceira da pista. Neste caso, a aeronave é guiada por um controlador militar habilitado em terra que dispõe de informações precisas de sua posição quer em altitude ou em distância. Várias aeronaves civis já se utilizaram destes radares no Brasil devido às condições severas de mau tempo reinante na área.
+
+A defesa aérea e vigilância utiliza radares mais específicos com detecção de alvos até 300 km para aviões em grande altitude, e alcance de até 30 km para aeronaves voando em baixa altitude.
+Os radares de direcionamento bélico são utilizados para orientar os mísseis balísticos no momento inicial de arremesso, para depois da decolagem, internamente estes artefatos possuem equipamentos de orientação autônomos para dirigi-los até seu alvo.
+Existem também radares de controle de tráfego e vigilância aérea de maior alcance, o sistema não se dá por uma única estação de vigilância e rastreamento, e sim por muitas interligadas e com os sinais processados de forma redundante pela somatória e processamento de todos os dados numa central, no Brasil, o SISCEAB (Sistema de Controle do Espaço Aéreo Brasileiro) possui um sistema que funciona desta forma, onde existem  conjuntos de radares com alcance de até 4 000 km, que interligados cobrem os 8,5 milhões de km² do território nacional.
+As aeronaves de combate possuem radares de interceptação, radares de ataque com pulsos eletromagnéticos de alta definição que permitem o voo em baixa altitude sem visão direta do solo, além de radares nos mísseis ar-ar e ar-terra, para busca de alvos por sistemas de detecção eletromagnética, pois os sensores de calor são obsoletos e fáceis de ser despistados.
+Existe também o radar meteorológico usados nos aviões, esse por sua vez tem a função de detectar no ar nuvens e até mesmo granizo, fazendo assim com o que os pilotos detectem essas formações e façam os desvios necessários em voo evitando assim uma possível entrada inadvertida em tempestades ou nuvens perigosas que podem gerar grande turbulência em voo. As informações são mostradas em uma tela na cabine de comando para os pilotos como manchas no formato da nuvem e através de cores mostrando a intensidade dessas nuvens. Formações de nuvens comuns e mais leves são vistas como manchas verdes e formações mais densas e perigosas são mostradas como manchas vermelhas. O alcance desses radares é ajustável, variando de 20 a 100 milhas náuticas nos radares mais modernos.
+
+
+=== Exército ===
+Na força terrestre, o exército, temos os radares de Patrulha aérea, com alcance de até 300 km, radares de aquisição de alcance até 100 km, de tiro e perseguição de mísseis terra-ar, anti-artilharia, para reconstituição das trajetórias dos projéteis, para localização das peças de artilharia com alcance de até 10 km, e, radares de vigilância terrestre para detectar alvos móveis e regulagem de tiro de alta precisão.
+Os radares de pequeno alcance estão sendo desenvolvidos para a guerra moderna, entre eles se destacam os Rasura com alcance de 5 km usados pela infantaria, o Rapace utilizado nos carros de combate blindados com alcance de até 5 km, além do Ratac utilizado pelas peças de artilharia para detectar alvos à 30 km.
+
+
+=== Meteorologia ===
+Redes de radares meteorológicos estão espalhadas por uma vasta área em vários países do mundo. Possuem longo alcance e hoje são de suma importância para o monitoramento da atmosfera, facilitando assim atividades como a agricultura, aeronáutica, entre outras. Eles detectam com precisão os movimentos das massas de ar, dando subsídios aos meteorologistas para prevenir desde geadas, vendavais e chuvas de granizo, até tempestades. O vapor de água praticamente não espalha as micro-ondas incidentes. Já as gotas de chuva, cristais de gelo, granizo etc espalham de forma muito eficaz as micro-ondas, por isso a detecção de chuva e neve é possível com o radar meteorológico. Gotas de nuvem que são muito menores que as gotas de chuva não são detectas em micro-ondas centimétricos, mas é possível a detecção da superfície da nuvem com radares operando em micro-ondas milimétricas. Poeira na atmosfera também reflete as ondas do radar, mas o retorno só é significativo se existir uma concentração de poeira e aerossol maior do que o usual, como emitidas por incêndio florestal ou por uma chaminé industrial. Os radares meteorológicos usam o efeito Doppler para determinar a velocidade radial do vento numa tempestade, e podem detectar se a tempestade é acompanhada de circulações e escoamentos convergentes associados aos tornados e ventanias descendentes de tempestades chamadas micro-explosões (downbursts).
+
+
+=== Aplicações científicas ===
+Cientistas usam o radar para várias aplicações espaciais. Os Estados Unidos, Reino Unido e Canadá, por exemplo, rastreiam objetos em órbitas ao redor da Terra. Isto ajuda os cientistas e engenheiros a vigiar lixo espacial (satélites abandonados, partes de foguetes abandonados, etc).  Durante viagens espaciais os radares também são utilizados para medir distâncias precisas, como nas missões da Apollo nas décadas de 1960 e 1970. A sonda espacial US Magellan mapeou a superfície do planeta Vênus com um radar de 1990 a 1994.
+
+
+=== Trânsito ===
+Autoridades em diversos países fazem uso da tecnologia dos radares para controlar a velocidade dos veículos nas vias públicas. Para esta finalidade existem basicamente dois tipos de radares.
+
+
+==== Radar fixo ====
+O primeiro e mais utilizado é o radar fixo, onde na via são instalados três sensores também chamados de laços detectores,formando um campo magnético. Estes sensores são ligados a um computador e a uma câmera que geralmente ficam alocados em um poste na lateral à pista. Quando o veículo passa pelo primeiro sensor, o campo magnético é interrompido até que o mesmo passe pelo segundo sensor, então o sistema automaticamente calcula a velocidade de acordo com este tempo de interrupção utilizando o efeito Doppler. Se a velocidade do veículo for superior a permitida então uma imagem é capturada pela câmera e armazenada no computador, de maneira a servir como prova da infração. Durante a noite, as câmeras funcionam com um sistema infravermelho o qual permite uma boa visualização da placa e do veículo mesmo com pouca luminosidade, sem que o infrator perceba que foi multado.
+
+Como o medidor de velocidade faz para distinguir qual veículo excedeu a velocidade se muitos passam ao mesmo tempo sobre a via?Os medidores de veículos automotores baseiam-se na medição do tempo de passagem de um veículo entre dois sensores instalados sob o asfalto. Como a distância entre esses sensores é fixa e conhecida, se medirmos o tempo de passagem de um determinado veículo sobre esses sensores, teremos a velocidade. Cada conjunto de sensores de uma faixa a identifica no sistema de processamento do medidor de velocidade de veículos automotores, ou seja, está associado a uma determinada faixa na via. Portanto, o sistema de medição, reconhece a faixa onde a velocidade limite da via foi ultrapassada e assim, o veículo infrator. O sistema fotográfico ou de registro de imagem, sempre é acionado quando em alguma faixa a velocidade limite é ultrapassada.
+No Brasil, o item 5.18 do Regulamento Técnico Metrológico aprovado pela Portaria Inmetro nº 115/98 estabelece que quando dois ou mais veículos com velocidades distintas entrarem na área de medição, o medidor de velocidade não deverá fornecer resultado de medida.
+
+
+==== Radar móvel ====
+O segundo tipo de radar utilizado no transito é o móvel, que pode funcionar de duas formas: a primeira é um modelo italiano que utiliza dois feixes de laser e em função do tempo de interrupção dos feixes o computador dispara a câmera, caso a velocidade medida for superior a permitida,e a segunda é um modelo holandês que emite uma micro-onda oblíqua em um ângulo de 20 graus em relação à pista; o computador então calcula o tempo que a onda leva para fazer o percurso, e quando é interrompida calcula a velocidade do veículo da mesma forma que os outros radares.
+Os dois modelos utilizam uma máquina fotográfica comum e filmes coloridos de 35 mm e 36 poses idênticos ao que usamos no dia-a-dia.
+Os radares móveis são capazes de monitorar até três faixas de trânsito ao mesmo tempo ,entretanto,não conseguem registrar a imagem de mais de um veiculo passando pelo ângulo de fiscalização no momento do disparo e durante a noite a câmera utiliza um flash para que a imagem do infrator seja capturada.
+
+
+== Ecolocalização ==
+A ecolocalização, também chamada de “biossonar”, é uma capacidade natural, encontrada em golfinhos e morcegos, de utilização de emissão de ondas ultrassons para locomoção e captura de presas.
+A partir do estudo da mesma, os seres humanos desenvolveram a “ecolocalização artificial”, com o advento do radar, sonar e aparelhos de ultrassonografia. Na realidade, nenhuma dessas “imitações humanas” se compara à qualidade e perfeição da ecolocalização animal.
+
+
+== Ver também ==
+Ciência militar
+Eco
+Ecolocalização
+Guerra aérea
+LIDAR
+Radar de abertura sintética
+Radar meteorológico
+Radar de penetração no solo
+Sonar
+Tecnologia militar
+Ultrassonografia
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+Tecnologia Radar
+Site do Inmetro

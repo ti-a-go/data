@@ -1,0 +1,32 @@
+O Consórcio de Bibliotecas Europeias de Investigação (em inglês Consortium of European Research Libraries, CERL) é um consórcio de bibliotecas de pesquisa, principalmente na Europa, que facilita o acesso para os historiadores com interesse na história do livro, fornecendo recursos online, incluindo o Base de dados do Património do Livro Impresso (HPB), o CERL dicionário de Sinônimos e o Portal CERL. A organização também realiza seminários e workshops e desde 1998, publicou um periódico chamado CERL Papers. Foi fundada em 1992 e, desde 1994, já foi registado no Reino Unido, como uma companhia limitada por garantia, com base em Londres. Sua reunião geral anual é geralmente realizada em novembro. É governada por um conselho de administração e uma equipa de gestão. O presidente foi Elmar Mittler, professor emérito alemão da biblioteca de ciência, até novembro de 2011, quando foi sucedido por Ulf Göranson , ex-chefe do bibliotecário na Universidade de Uppsala.
+
+
+== Herança do Banco de dados Livro Impresso ==
+O Banco de dados do Património do Livro Impresso, anteriormente a Base de dados de Livro Impresso à Mão, desde fevereiro 2014 continha quase 5 milhões de entradas para livros impressos durante a era de impressão à mão, desde a introdução da tecnologia de impressão para a Europa por volta de 1450 até meados do século XIX, com descrições de facilitar a comparação de versões variantes. Na época de 41 instituições contribuíram entradas, que são, principalmente, com base no exame do item, ao invés de incluir na retroconversão dos anteriores itens bibliográficos. A base de dados é atualizado continuamente, principalmente pelas instituições-membros.A base de dados HPB foi organizado pela OCLC a partir de setembro de 2007 até 2013, e que usa da OCLC FirstSearch e software Connexion. Desde setembro de 2013 foi hospedado pelo Gemeinsamer Bibliotheksverbund da Alemanha. O acesso é limitado para instituições membro e licenciados CERL.
+
+
+== CERL de dicionário de Sinônimos ==
+O CERL dicionário de Sinónimos, gerido pela Conversão de Dados do Grupo em Göttingen, índices locais, impressoras, editoras e autores de obras impressas entre c. de 1450 a 1850, e, portanto, serve em associação com o Integrado Arquivo de Autoridade para cruzar referências de nomes de impressões e catálogos. É automaticamente atualizada com a bases de dados de Material de Provas em Incunábulos e oferece links para informações sobre a proveniência fornecida pelas instituições membro CERL, refletindo agora dispersas coleções, e também inclui o material digitalizado, tais como imagens de marcas de impressora coletadas pela Vindel, Ronald McKerrow e Philippe Renouard e de marcas d'água. o Acesso ao dicionário de sinónimos é gratuito.
+
+
+== Portal CERL ==
+O Portal CERL foi desenvolvido pela Publicação Eletrónica do Centro de Biblioteca da Universidade de Uppsala , após a conclusão do Manuscritos do Projeto CERL. Ele permite que as pesquisas combinadas de ambos os manuscritos e livros impressos, no manuscrito em bases de dados, a HPB e adicionais bases de dados online relevantes, tais como o inglês de Título-Curto do Catálogo e da fotografia de bases de dados. O acesso ao portal é gratuito.
+
+
+== Provas materiais Incunábulos ==
+Provas materiais Incunábulos é uma base de dados de obras impressas do século XV (incunábulos), que se baseia na Incunábulos Título Curto o Catálogo da Biblioteca Britânica e combina-los com dados sobre as cópias individuais. O seu desenvolvimento foi inicialmente financiado pela Academia Britânica. Acesso à base de dados é gratuito.
+
+
+== Instituições participantes ==
+Desde setembro de 2016 o consórcio tinha 272 membros, principalmente na Europa mas também na América Central e do Sul e os EUA. Estes, os singulares (taxa integral) e membros especiais (que pagam uma taxa reduzida) tem direito a um voto na assembleia geral anual; grupos de não mais do que 16 bibliotecas de ação, um voto; e membros do grupo associado a um único membro não pode votar.
+
+
+== Referências ==
+
+
+== Fontes ==
+«Auf dem Weg zu einem europäischen Gesamtkatalog: Zur Tagung des Consortium of European Research Libraries (CERL) in München». Buchhandelsgeschichte. 1997/4 
+«Altbestandskatalogisierung als Gemeinschaftsaufgabe Europas: Bericht über die International Conference on Retrospective Cataloguing in Europe, 15th to 19th century materials, vom 28. bis 30. November 1990 in München». Zeitschrift für Bibliothekswesen und Bibliographie. 38 
+«Die Gründung der Eurodatenbank für Altbestandskatalogisierung in Europa: Bericht über die zweite International Conference on Retrospective Cataloguing in Europe, 15th to 19th century printed materials, vom 29. bis 30. Januar 1992 in München». Zeitschrift für Bibliothekswesen und Bibliographie. 39 
+«Das Consortium of European Research Libraries (CERL) und die Gründung einer Datenbank für frühe europäische Drucke (1450–1830)». Zeitschrift für Bibliothekswesen und Bibliographie. 41 
+Fabian, Claudia. «Die 'Hand Press Book Database' des Consortium of European Research Libraries». Von Gutenberg zum Internet: 7. Deutscher Bibliothekskongress, 87. Deutscher Bibliothekartag in Dortmund 1997. Col: Zeitschrift für Bibliothekswesen und Bibliographie Sonderhefte. 68. [S.l.: s.n.] ISBN 9783465029618

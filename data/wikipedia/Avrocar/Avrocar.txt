@@ -1,0 +1,43 @@
+Avro Canada VZ-9 Avrocar foi uma aeronave VTOL (Vertical Take-Off and Landing), mais conhecido como Avrocar. Foi um projeto secreto de um aeródino circular desenvolvido pela Avro Aircraft Ltd. do Canadá  durante a Guerra Fria a pedido do governo dos Estados Unidos.
+O Avrocar foi desenvolvido com o intuito de tirar proveito do efeito Coandă utilizando um único ´´turbo rotor`` para sustentação no ar e movimentação. Quando está no ar seu formato em disco lembra um disco voador.
+Originalmente projetado como uma aeronave semelhante a um caça , capaz de atingir velocidades e altitudes muito altas, o projeto foi repetidamente reduzido ao longo do tempo e a Força Aérea dos Estados Unidos acabou por abandoná-lo. O desenvolvimento foi então assumido pelo Exército dos EUA para um requisito de aeronave de combate tático, uma espécie de helicóptero de alto desempenho.  Em testes de voo, o Avrocar provou ter problemas de empuxo e estabilidade não resolvidos que o limitaram a um envelope de voo degradado e de baixo desempenho ; posteriormente, o projeto foi cancelado em setembro de 1961.
+Ao longo da história do programa, o projeto foi referido por vários nomes diferentes. Avro se referiu aos esforços como Projeto Y, com veículos individuais conhecidos como Spade e Omega. O Projeto Y-2 foi posteriormente financiado pela Força Aérea dos EUA, que o denominou WS-606A, Projeto 1794 e Projeto Silver Bug. Quando o Exército dos EUA juntou esforços, ele assumiu seu nome final "Avrocar" e a designação "VZ-9", parte dos projetos VTOL do Exército norte-americano na série VZ.
+
+
+== Concepção e desenvolvimento ==
+
+
+=== Origens ===
+O Avrocar foi o resultado final de uma série de projetos de pesquisa sobre céus azuis do designer "Jack" Frost , que ingressou na Avro Canada em junho de 1947, após trabalhar para várias empresas britânicas.  Ele estava com de Havilland desde 1942 e havia trabalhado no caça a jato de Havilland Hornet , de Havilland Vampire e na aeronave de Havilland Swallow , onde foi o projetista-chefe do projeto de pesquisa supersônica.Na Avro Canada, ele trabalhou no Avro CF-100 antes de criar uma equipe de pesquisa conhecida como "Special Projects Group" (SPG). Frost primeiro cercou-se de um grupo de engenheiros "independentes" com ideias semelhantes, depois providenciou um local de trabalho. Inicialmente abrigado na "Penthouse", um apelido zombeteiro para a ala executiva do Edifício Administrativo, o SPG foi posteriormente transferido para uma estrutura da Segunda Guerra Mundial em frente à sede da empresa, o Edifício Schaeffer, que estava protegido por guardas de segurança, portas trancadas e cartões especiais. Às vezes, o SPG também operava fora do Hangar Experimental, onde compartilhava espaço com outras equipes esotéricas do projeto Avro.[carece de fontes?]
+Na época, Frost estava particularmente interessado no projeto do motor a jato e nas maneiras de melhorar a eficiência do compressor sem sacrificar a simplicidade do motor a turbina. Ele achou o design de "fluxo reverso" de Frank Whittle muito complexo e estava interessado em maneiras de limpar o layout. Isso o levou a projetar um novo tipo de layout de motor com as latas de chama diretamente do lado de fora da borda externa do compressor centrífugo , apontadas para fora como os raios de uma roda. A energia para o compressor foi retirada de um novo tipo de turbina semelhante a um ventilador centrífugo, em oposição ao design semelhante a um catavento mais típico dos motores convencionais. A turbina acionava o compressor usando uma engrenagem, em vez de um eixo. O motor resultante foi organizado na forma de um grande disco, que ele chamou de "motor de panqueca". 
+
+
+=== Testes ===
+O primeiro Avrocar, 58-7055 , saiu da fábrica da Avro Malton em maio de 1959. De 9 de junho a 7 de outubro de 1959, foi testado em uma plataforma estática. Infelizmente, descobriu-se que o gás quente do escapamento se misturava às entradas de ar durante o voo, reduzindo o empuxo do motor. Além disso, o ventilador gerou elevação apenas de uma pequena área de sua superfície, reduzindo o empuxo geral disponível. Os dutos também provaram ter perdas maiores do que o esperado, e uma série de modificações não foram capazes de resolver esse problema em grande medida. Esses problemas reduziram a sustentação máxima em altitudes mais elevadas fora do efeito solo para 3.150 lb (1.430 kg), menos do que o peso vazio da aeronave a 4.285 lb (1.944 kg). Isso significava que a aeronave seria incapaz de pairar fora do efeito solo. Após esses testes, o veículo foi enviado à NASA Ames para um teste em túnel de vento.[carece de fontes?]O segundo, 59-4975 , foi concluído em agosto de 1959. Em 29 de setembro, a primeira tentativa de pairar foi feita com o Avrocar amarrado ao solo.  Depois que o veículo ficou no ar, uma oscilação incontrolável de rotação e inclinação começou, forçando cada uma das três rodas no solo por sua vez. O piloto, WD "Spud" Potocki, desligou imediatamente todos os motores. Mudanças foram feitas no sistema de estabilidade para fornecer mais autoridade de controle, enquanto novas amarras foram investigadas para melhorar a capacidade de controlar esses tipos de problemas.  À medida que os testes continuavam, ficou claro que o problema era inerente ao projeto, e os engenheiros começaram a se referir ao efeito como "calota", assim chamado por parecer semelhante a uma calota girada no solo.
+As investigações sobre o efeito revelaram o que estava causando o problema. Enquanto no efeito solo, o ar de alta pressão sob a nave ficou preso, enchendo toda a área e, assim, fornecendo uma base estável. Quando a nave saiu do efeito solo, o ar formou-se em uma única coluna estreita, descrita por Frost como "tronco de árvore". Em altitudes intermediárias, a nave faria a transição momentânea de um regime para outro, durante o qual um lado do veículo seria totalmente apoiado enquanto o apoio desaparecia sob o outro. Isso levou a um forte movimento de arremesso para o lado sem suporte. Assim que isso ocorresse, esse lado se aproximaria do solo e restabeleceria o ar de apoio, enquanto o outro lado seria então elevado acima desse limite. Este processo se repetiria, com a nave rolando de um lado para o outro. Foram efetuadas modificações para tentar resolver o problema. Eventualmente, uma série de 52 orifícios foram perfurados na parte inferior do veículo, localizados radialmente a um metro do centro. Eles deveriam fornecer um jato central para estabilizar a almofada de solo.
+
+
+== Imagens ==
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Referências ==
+
+
+== Ver também ==
+AVE Mizar
+Carro voador
+Ecranoplano
+Hovercraft
+VTOL

@@ -1,0 +1,83 @@
+A Agência Nacional de Aviação Civil (ANAC) é uma agência reguladora federal cuja responsabilidade é normatizar e supervisionar a atividade de aviação civil no Brasil, tanto no que toca seus aspectos econômicos quanto no que diz respeito à segurança técnica do setor. 
+A substituição de órgãos diretamente ligados ao governo por uma autarquia, em 2005, visou a uma administração mais autônoma e técnica da aviação civil nacional, buscada por meio de descentralização administrativa e menor influência política direta. Muitos especialistas defenderam a medida argumentando que ela influenciaria positivamente o setor atraindo investimentos, dada a criação de um ambiente econômico propício devido à criação e manutenção de regras novas e estáveis.Em maio de 2017, as companhias aéreas foram autorizadas a cobrar pelo transporte das bagagens despachadas dos passageiros. A mudança, instituída por resolução da ANAC, foi uma maneira de assegurar aos consumidores o direito a escolher os serviços que preferiam contratar, com maior transparência nas relações de consumo. A novidade representou o fim da venda casada da passagem aérea e da tarifa de bagagem, a qual era embutida no preço final do bilhete. O novo modelo, considerado racional e eficiente, desobriga o passageiro que embarca sem bagagem de arcar com os custos do transporte das malas daqueles que preferem despachá-las. Para avaliar os benefícios trazidos pela norma, a ANAC fará uma reavaliação da regra em 2021.
+
+
+== Responsabilidades ==
+A principal atribuição da Agência consiste na regulação das atividades de aviação civil, o que inclui, por exemplo, a manutenção da segurança de voo, a normatização e supervisão da infra-estrutura aeroportuária, a qualificação e certificação de pessoas, a certificação e validação de novas aeronaves, a monitoração, normatização administrativa e fiscalização das relações econômicas de consumo no âmbito da aviação civil. 
+Existem duas atividades que fazem parte do escopo da aviação civil mas não são atribuições da ANAC: A gestão do tráfego aéreo, realizada pelo Departamento de Controle do Espaço Aéreo (Decea); e a investigação de acidentes, cuja responsabilidade é do Centro de Investigação e Prevenção de Acidentes Aeronáuticos (Cenipa). Ambas atividades continuaram sendo realizadas por órgãos que são parte do Comando da Aeronáutica, subordinados ao Ministério da Defesa.
+As atividades finalísticas da ANAC se dividem em dois grandes campos: a Regulação econômica e a regulação técnica. 
+
+
+=== Regulação econômica ===
+Entre as atividades relacionadas com a regulação econômica tem-se a concessão da exploração de rotas e de infra-estrutura aeroportuária (slots nos aeroportos, por exemplo), o estabelecimento de acordos bilaterais com outros países, a fiscalização dos serviços aéreos e das concessões outorgadas, e - em conjunto com o Conselho Administrativo de Defesa Econômica, a coibição de práticas de concorrência abusiva.
+
+
+=== Regulação técnica ===
+No âmbito técnico, a Agência é responsável por assegurar que o transporte aéreo seja realizado dentro de padrões mínimos de segurança da aviação civil. 
+Em Língua portuguesa e no contexto da aviação, a palavra "segurança" engloba dois aspectos que são separados na terminologia inglesa: a segurança de voo, designada pela palavra "safety", e a proteção contra atos ilícitos ("security", em inglês).
+
+
+==== Safety ====
+No escopo da segurança de voo (safety), a OACI preconiza que sejam reguladas cinco grande áreas.  No Brasil, a ANAC é responsável por quatro grandes áreas:
+
+Aeronavegabilidade: Abrange regular as atividades de certificação de aeronaves, bem como a normatização e fiscalização dos padrões de manutenção de aeronaves e a gestão do Registro Aeronáutico Brasileiro (RAB).
+Certificação de pessoal: Visa estabelecer os padrões mínimos para a formação e qualificação do pessoal da aviação civil, a normatização relativa ao funcionamento de escolas de aviação, aeroclubes e centros de treinamento de aviação, bem como das perícias e habilidades necessárias para o desenvolvimento das prerrogativas profissionais aplicáveis. A emissão de licenças e habilitações para pilotos, comissários de voo, mecânicos de manutenção aeronáutica, etc. são as principais saídas do processo. A regulação também inclui requisitos de saúde física e mental dos profissionais de aviação, bem como do nível de proficiência em inglês dos pilotos.
+Operações de Voo: A atividade engloba tanto a certificação e fiscalização de empresa de transporte aéreo regular (empresas aéreas nacionais e internacionais que vendem passagens com data e hora pré-definidas) e não-regular (táxi aéreo e voos fretados) quanto a autorização e fiscalização de operadores agrícolas e de operações mais especificas, como as operações experimentais, as competições e shows aéreos e operações com carga externa, além da certificação e fiscalização de  operações aéreas executadas por órgãos civis de segurança pública, como por exemplo da Polícia Federal, Polícias Civis Estaduais, IBAMA, Receita Federal, etc.
+Aeródromos: Regular os aeródromos inclui atividades como supervisionar suas condições de pista e pátio, bem como o trabalho das pessoas físicas e jurídicas que administram efetivamente as pistas de pouso, os aeroportos privados, os aeroportos públicos, os helipontos e os heliportos. No caso específico dos grandes aeroportos, como o de Guarulhos ou o Galeão, uma das atividades da ANAC é supervisionar o trabalho da Infraero ou concessionárias, bem como as condições de operação das empresas aéreas e empresas de suporte as operações que ali operam.
+
+
+==== Security ====
+As atividades de security visam a prevenção contra atos ilícitos em aeroportos e aeronaves, principalmente os atentados terroristas envolvendo a aviação.
+
+
+== Histórico ==
+A agência foi criada pela lei federal nº 11.182 de 27 de setembro de 2005 e instalada através do decreto federal nº 5.731  de 20 de março de 2006.
+A ANAC assumiu as atribuições de vários órgãos pertencentes ao Comando da Aeronáutica: o Departamento de Aviação Civil (DAC) e seus Serviços Regionais de Aviação Civil (SERAC), o Instituto de Ciências da Atividade Física da Aeronáutica (ICAF), o Instituto de Aviação Civil (IAC) e a Divisão de Certificação de Aviação Civil do Instituto de Fomento e Coordenação Industrial (IFI). 
+Assim como as demais agências reguladoras federais brasileiras, a ANAC é um órgão civil da administração federal indireta. Entretanto, inicialmente a ANAC possuiu em seus quadros técnicos apenas militares da aeronáutica, pertencentes ao Departamento de Aviação Civil (DAC) e demais órgãos militares que desempenhavam funções no escopo da aviação civil que foram atribuídas à ANAC. 
+O decreto federal 5.731 (Art. 12,  § 1o ) determinou que estes militares deveriam retornar a Força Aérea Brasileira em um prazo máximo de de 5 anos. 
+Para compor seus quadros de servidores civis, em fevereiro de 2007 a ANAC publicou edital para a realização de seu primeiro concurso público. Outros concursos públicos foram realizados em 2009, 2012 e 2015.Desde sua criação, em 2005, a agência teve seis diretores presidentes: Milton Zuanazzi, Denise Abreu, Solange Paiva Vieira, Carlos Eduardo Pellegrino (interinamente), Marcelo Pacheco dos Guaranys, José Botelho de Queiroz (interinamente) e José Botelho de Queiroz.Entre março de 2006 e agosto de 2011, a ANAC permaneceu vinculada ao Ministério da Defesa. Com a Lei nº 12.462 de 4 de agosto de 2011, a ANAC passou a ser vinculada a então recém-criada Secretaria de Aviação Civil da Presidência da República (SAC): através da alteração da Lei de Criação da ANAC, foi estabelecida a vinculação financeira (Art. 8º inciso XXXIX ) e a vinculação administrativa (Art. 8º inciso XL) da ANAC para com a SAC, apesar desta alteração não ter sido um ato jurídico perfeito, pois falhou em alterar a redação do Artigo 1º da Lei de Criação da ANAC, equivocadamente mantendo no texto legislativo a vinculação da ANAC para com o Ministério da Defesa. Em maio de 2016, com a reforma ministerial efetuada pelo Presidente da República à época, a ANAC passou a ser vinculada ao Ministério dos Transportes, Portos e Aviação Civil. Em janeiro de 2019, com a nova reforma ministerial proposta pelo então recém empossado Presidente da República, o antigo Ministério dos Transportes, Portos e Aviação Civil passou a ser denominado Ministério da Infraestrutura. Apesar de estas duas últimas reformas ministeriais terem alterado o órgão do poder executivo federal ao qual a ANAC é vinculada, a Lei de Criação da ANAC não foi atualizada para refletir a vinculação funcional.
+
+
+== Aspectos legais e organização interna ==
+A Agência Nacional de Aviação Civil (ANAC) é uma agência reguladora federal. O órgão tem o status legal de autarquia especial, vinculada ao Ministério da Infraestrutura, o que significa que, legalmente, o órgão possui mais autonomia administrativa e financeira do que um órgão diretamente ligado à administração direta do governo federal. Uma de suas prerrogativas é a de se normatizar internamente, estabelecendo seu próprio organograma de forma autônoma. 
+A Agência Nacional de Aviação Civil se organiza a partir de uma Diretoria Colegiada com quatro Diretores e um Diretor-Presidente. Seus membros são indicados pelo Presidente da República, e submetidos a sabatinas pelo Senado Nacional. Se a indicação for aceita pelo Senado, passam a exercer um mandato normalmente de cinco anos. Ligados as Diretorias, existem assessorias e superintendências. 
+Existem superintendências que realizam as atividades-meio essenciais ao funcionamento da agência, como gestão de pessoal, de licitações e de contratos com empresas terceirizadas. 
+As superintendências que efetivamente desempenham a atividade de regulação são aquelas relacionadas às áreas-fim da agência. No passado, cada superintendência de área finalística (aeronavegabilidade; operações aéreas e certificação de pessoas; infraestrutura aeroportuária;  serviços aéreos e regulação econômica) estava diretamente ligada a uma diretoria. Atualmente, todas as superintendências estão subordinadas a diretoria-colegiada como um todo. A ANAC é composta pelas seguintes superintendências: 
+
+Áreas Finalísticas:
+Superintendência de Ação Fiscal (SFI)
+Superintendência de Padrões Operacionais (SPO)
+Superintendência de Infraestrutura Aeroportuária (SIA)
+Superintendência de Aeronavegabilidade (SAR)
+Superintendência de Acompanhamento de Serviços Aéreos (SAS)
+Superintendência de Regulação Econômica de Aeroportos (SRA)
+Áreas de Suporte:
+Superintendência de Planejamento Institucional (SPI)
+Superintendência de Tecnologia da Informação (STI)
+Superintendência de Gestão de Pessoas (SGP)
+Superintendência de Administração e Finanças (SAF)
+Em termos de estrutura física, a ANAC possui unidades em diversas localidades do território nacional. A sede está localizada em Brasília. Além da sede, a ANAC conta com 3 grandes representações regionais no Rio de Janeiro, em São Paulo e em São José dos Campos. 
+A sede e as representações regionais possuem servidores responsáveis por processos de normatização, de certificação de empresas e de pessoas, de planejamento e suporte, de julgamento de multas e autos de infração e de representação perante outros órgãos relacionados a aviação civil, em âmbito nacional e internacional.
+Existem também os Núcleos Regionais de Aviação Civil (NURACs), com servidores que atuam tanto na prestação de serviços a aeronautas e proprietários de aeronaves quanto na realização de atividades de fiscalização e auditoria em empresas de transporte aéreo, concessionárias de aeroportos, empresas de manutenção de aeronaves e demais empresas de serviços relacionados a aviação civil. 
+Os NURACs estão localizados em Belo Horizonte (Pampulha e Confins), Campinas, Cuiabá, Curitiba (Afonso Pena e Bacacheri), Fortaleza, Guarulhos, Manaus, Natal, Porto Alegre, Recife, Rio de Janeiro (Galeão e Santos Dumont), São Paulo (Congonhas) e Salvador.
+
+
+== Ver também ==
+Agência Nacional de Transportes Aquaviários
+Agência Nacional de Transportes Terrestres
+Aviação
+Aviação civil
+Organização de Aviação Civil Internacional
+Departamento de Aviação Civil
+Instituto de Fomento e Coordenação Industrial
+SESCINC
+SAC/PR
+Autoridade Nacional de Aviação Civil
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+Sítio oficial (em português)

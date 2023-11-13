@@ -1,0 +1,131 @@
+Um avião ou aeroplano é qualquer aeronave que necessita de asas fixas e motores para se sustentar no ar. Pode possuir um ou mais planos de asa, sendo estas fixas em relação ao corpo da aeronave, ou seja, que dependem do movimento do veículo como um todo para gerar sustentação aérea. Essa definição de asa fixa também se aplica aos que possuem asas dobráveis, pois estas também só geram sustentação ao se deslocar todo o veículo.
+Duas características comuns a todos os aviões são a necessidade de um fluxo constante de ar pelas asas para a sustentação da aeronave e a necessidade de uma área plana e livre de obstáculos onde eles possam alcançar a velocidade necessária para decolar e alçar voo, ou diminuí-la, no caso de uma operação de pouso. A maioria dos aviões, portanto, necessita de um aeroporto, dispondo de uma boa infraestrutura para receber adequada manutenção e reabastecimento, e para o deslocamento de tripulantes, carga e passageiros. Enquanto a grande maioria dos aviões pousa e decola em terra, alguns são capazes de fazer o mesmo na água (hidroaviões), outros são capazes de decolar e pousar tanto na água quanto em terra (aviões anfíbios) e alguns até mesmo sobre superfícies congeladas.
+O avião é considerado o segundo meio de transporte mais seguro que existe, perdendo apenas para o elevador. É atualmente, também, o meio de transporte civil e militar mais rápido do planeta (sem considerar os foguetes e os ônibus espaciais). Aviões a jato comerciais podem alcançar cerca de 900 km/h, e percorrer um quarto da esfera terrestre em questão de horas, e mesmo pequenos aviões monomotores são capazes de alcançar facilmente velocidades em torno de 175 km/h ou mais em voo de cruzeiro. Já aviões supersônicos, que operam atualmente apenas para fins militares, podem alcançar velocidades que superam em várias vezes a velocidade do som (número de Mach - Ma) (1 Ma (343 m/s)).
+
+
+== História ==
+
+
+=== Antecedentes ===
+O sonho de voar remonta, para o ser humano, desde a pré-história. Muitas lendas, crenças e mitos da antiguidade envolvem ou possuem fatos relacionados com o voo, como a lenda grega de Ícaro. Acredita-se que Arquitas de Tarento, filósofo e matemático da Grécia Antiga tenha construído uma máquina voadora por volta do ano 400 antes de Cristo.
+Leonardo da Vinci, entre outros inventores visionários, desenhou um avião, no século XV. Com o primeiro voo feito pelo homem (Jean-François Pilâtre de Rozier e François Laurent d'Arlandes) num aeróstato (aeronave mais leve que o ar), um balão, o maior desafio tornou-se a criação de um aerodino (máquina mais pesada do que o ar), capaz de alçar voo por meios próprios.
+Anos de pesquisas por muitas pessoas ávidas do tão sonhado voo produziram resultados fracos e lentos, mas contínuos. Em 28 de agosto de 1883, John Joseph Montgomery tornou-se a primeira pessoa a fazer um voo controlado em uma máquina mais pesada do que o ar, em um planador. Outros aviadores que fizeram voos semelhantes naquela época foram Otto Lilienthal  (ver: Lilienthal Normalsegelapparat), Percy Pilcher e Octave Chanute.
+
+
+=== Primeiros voos motorizados ===
+
+No começo do século XX foi realizado o primeiro voo numa máquina mais pesada do que o ar, capaz de gerar a potência e sustentação necessária por si mesmo. Porém, isto é um facto polémico, já que Santos Dumont é creditado no Brasil e em diversos países como o responsável pelo primeiro voo num avião.
+Todavia, em outras partes do mundo, o crédito à invenção do avião é dado aos irmãos Wilbur e Orville Wright de origem estadunidense, sendo a exceção a França, onde o crédito é dado a Clément Ader; os voos deste, efetuados em 9 de outubro de 1890, no entanto, são ignorados pelo resto do mundo por terem sido realizados em segredo militar e só revelados muitos anos depois.Apesar de não ser reconhecido como o "pai da aviação", o nome dado por Ader à sua invenção, "avion" (avião em francês), é usado em todas as línguas latinas para designar o aparelho mais pesado que o ar.
+
+
+=== Uso militar ===
+
+As guerras na Europa, em especial, a Primeira Guerra Mundial, serviram como palco de testes para o uso do avião como armamento (ver: Aviação na Primeira Guerra Mundial). Primeiramente visto por generais e comandantes como um "brinquedo", o avião provou ser uma máquina de guerra capaz de causar sérios estragos nas linhas inimigas. Na Primeira Guerra Mundial, grandes ases surgiram, dos quais o maior foi o alemão Barão Vermelho. Do lado aliado, o ás com a maior quantidade de aeronaves abatidas foi René Fonck, da França.
+Após a Primeira Guerra Mundial, os aviões passaram por inúmeros avanços tecnológicos. Os primeiros voos comerciais foram realizados entre os Estados Unidos e o Canadá em 1919. Naquele ano, os britânicos John Alcock e Arthur Whitten Brown realizaram a primeira travessia transatlântica em um avião. Associando-se a Artur Sacadura Cabral, Gago Coutinho realizou em 1921 a primeira travessia aérea do Atlântico Sul. João Ribeiro de Barros foi o primeiro nas Américas a realizar uma travessia aérea transatlântica, em 28 de abril de 1927. Charles Lindbergh tornou-se a primeira pessoa a cruzar o Oceano Atlântico num voo solo sem escalas, em 20 de maio de 1927. O motor a reação estava em desenvolvimento na década de 1930, sendo que aviões a jato militares já estavam operando na década de 1940.
+Aviões a jato fazem uso de motores para gerar o impulso necessário para fazer o avião decolar. Os aviões desempenharam um papel fundamental na Segunda Guerra Mundial, tendo presença em todas as batalhas mais importantes e conhecidas da guerra, especialmente nas batalhas do Pacífico e no Dia D. Também constituíam parte essencial de várias das novas estratégias militares da época, como a Blitzkrieg alemã (ataque rápido e de surpresa) ou os porta-aviões americanos e japoneses. Neste período surgiram outras inovações, como o Horten Ho 229, a asa voadora dos irmãos Horten.
+Em outubro de 1947, o americano Chuck Yeager, no seu Bell X-1, foi a primeira pessoa a ultrapassar a barreira do som. O recorde mundial de velocidade para um avião de asa fixa tripulada é de 7 297 km/h (5,91 Ma), da aeronave X-15. Durante o bloqueio de Berlim, aviões, tanto militares quanto civis, continuaram a alimentar Berlim Ocidental com suprimentos, em 1948, quando o acesso a suprimentos via ferrovias e estradas à cidade, completamente cercada pela Alemanha Oriental, foi bloqueado por ordem da União Soviética.[carece de fontes?]
+
+
+=== Uso civil ===
+
+O primeiro jato comercial, o De Havilland Comet, foi introduzido em 1952, e o primeiro jato comercial de sucesso, o Boeing 707, ainda na década de 1950. O Boeing 707 iria desenvolver-se posteriormente no Boeing 737, a linha de aviões de passageiros mais usada do mundo, no Boeing 727, outro avião de passageiros bastante usado, e no Boeing 747, o maior avião comercial do mundo até 2005, quando foi superado pelo Airbus A380.
+Em 1962, o North American X-15 pilotado por Robert White tornou-se o primeiro avião a chegar à termosfera, a uma altitude de 95 936 m (315 000 ft). O X-15 também foi a primeira aeronave hipersônica, conseguindo atingir uma velocidade cinco vezes maior que a do som. O primeiro avião supersônico comercial do mundo foi o Tupolev Tu-144, sendo também o maior avião supersônico já construído. Seu primeiro voo foi em 31 de dezembro de 1968.
+Em 1988, como parte do programa espacial soviético para transporte do ônibus espacial Buran  e de carga, é lançado o Antonov An-225, o maior avião já construído, capaz de transportar 250 toneladas.
+
+
+== Sustentação ==
+
+Um avião alça voo devido às reações aerodinâmicas que acontecem quando ar passa em alta velocidade pela asa. Quando isto acontece, ele é forçado a passar por baixo e por cima desta ao mesmo tempo. O comprimento da asa é maior na parte superior graças a uma curvatura e, em razão disto, o ar em velocidade não possui pressão suficiente para retornar ao perfil desta curvatura, gerando uma zona de baixa pressão na parte superior posterior da asa. Estando a pressão na parte inferior bem maior, em razão desta face não possuir um perfil curvado, mas mais próximo de uma reta, a asa se vale da diferença de impacto gasoso do ar atmosférico (maior em baixo, menor em cima) para adquirir sustentação.
+Algumas explicações invocam uma interpretação errada a partir do Princípio de Bernoulli, afirmando que o fluxo de ar na parte de cima de uma asa é mais rápido que na parte de baixo. A verdade é que ambos os fluxos possuem velocidades praticamente iguais, porém com direções diferentes. Ensaios exaustivamente repetidos mostram que uma molécula de ar que flui na parte inferior de uma asa a percorre muito mais rápido que uma mesma molécula na parte superior, obviamente pelo fato lógico de se deslocar numa trajetória mais direta e não curva, como acontece na superfície superior. Embora muito presente em quase todas as explicações sobre aerodinâmica, a teoria do ar mais rápido em cima da asa é uma explicação errada e ilógica, pois não há fonte energética que acelere o ar acima de uma asa. Trata-se apenas de uma questão de perfil de asa e aerodinâmica. É claro que o efeito do impacto das moléculas de ar de forma mais drástica na parte inferior da asa permite que esta, livre e em suas condições normais, tenda sempre à subir, nunca a descer.
+Os aviões necessitam de uma velocidade elevada para que a diferença entre a pressão do ar sob e sobre a asa seja suficiente para a sustentação da aeronave. Devido a essas altas velocidades, um avião precisa percorrer uma certa distância em solo antes de alcançar a velocidade suficiente para a decolagem, o que justifica a necessidade de uma pista de pouso e decolagem em terreno longo e plano para a atingir. Para aeronaves maiores e mais pesadas, maior terá de ser o comprimento da pista e a velocidade necessária para a decolagem, dado o maior esforço necessário. A pista também atende ao propósito inverso: permite que a aeronave toque o solo em alta velocidade e tenha espaço para frenar com segurança, transitando suavemente entre veículo aéreo para terrestre novamente.
+
+
+== Tipos de aviões ==
+
+Quanto ao número motores, os aviões classificam-se em monomotores, bimotores, trimotores, quadrimotores. Alguns modelos, como o Antonov 225 e o experimental Hughes H-4 têm seis e oito motores, respectivamente. Quanto à velocidade, os aviões pode ser subsônicos e supersônicos.
+Quanto ao tipo de motores e propulsão, os aviões podem ser a hélice acionada por um motor de combustão interna, turboélice, a jato e hélice acionada por motor elétrico. Entre o século XIX e o século XX realizaram-se algumas experiências com aeronaves a vapor.
+
+
+=== Aviões a hélice acionada por motor de combustão interna ===
+
+Antes dos adventos do turbojato e turboélice, que se difundiram a partir da década de 1940, os aviões utilizavam motores de combustão interna para acionar diretamente o eixo da hélice, criando o empuxo necessário para a movimentação da aeronave, como o Junkers Ju 49.
+
+
+=== Aviões turboélice ===
+
+Aviões turboélices são aqueles que fazem uso de motores à reação (jato) para impulsionar uma turbina ligada ao eixo da hélice. Em particular os turboélices são relativamente silenciosos, mas possuem velocidades, capacidade de carga e alcance menores do que os similares a jato. Porém, são sensivelmente mais baratos e econômicos do que os aviões a jato, o que os torna a melhor opção para pessoas que desejem possuir um avião próprio ou para pequenas companhias de transporte de passageiros e/ou carga.
+
+
+=== Aviões a jato ===
+
+O primeiro avião com um propulsor a jato, denominado termojato, foi o Coandă-1910, criado pelo romeno Henri Coandă. Aviões a jato possuem muito mais força e criam um impulso muito maior do que aviões que fazem uso de turbo-hélices. Como consequência, podem carregar muito mais peso e possuem maior velocidade do que turbo-hélices. Um porém é a grande quantidade de som criada pelo motor a reação; isto torna aviões a jato uma fonte de poluição sonora.
+Grandes widebodies (fuselagem larga), como o Airbus A340 e o Boeing 777, podem carregar centenas de passageiros e várias toneladas de carga, podendo percorrer uma distância de até 16 mil quilómetros - pouco mais de um terço da circunferência terrestre.
+Aviões a jato possuem altas velocidades de cruzeiro (700 a 900 km/h) e velocidades de decolagem e pouso (150 a 250 km/h). Numa operação de aterrissagem, devido à alta velocidade, o avião a jato faz grande uso dos flaps para permitir uma aproximação em velocidade mais baixa (pois estes aumentam a superfície das asas e consequentemente a sustentação), e do reverso, equipamento que inverte o sentido do fluxo de ar com o intuito de diminuir a velocidade da aeronave após tocar o solo.
+A evolução dos aviões turbojato são os que utilizam motores turbofan. Em um turbojato, todo o ar comprimido mistura-se ao combustível, é comprimido na câmara de combustão e aciona uma turbina que gera todo o empuxo. Em um turbofan, os gases a alta pressão produzidos pelo motor a reação são usados também para acionar um segundo compressor, que impulsiona o ar pressurizado diretamente para o bocal de saída, gerando um empuxo adicional pela velocidade do ar expelido.
+
+
+=== Aviões a eletricidade ===
+
+Os  aviões movidos a eletricidade utilizam motores elétricos que impulsionam hélices que geram o empuxo. Entre os dispositivos desenvolvidos para armazenar e fornecer a eletricidade necessária, estão as células solares, que convertem a luz solar diretamente em eletricidade, as células de combustível, que extraem seus reagentes de uma fonte externa, e as baterias, que podem reter uma carga elétrica significativa, embora seu peso ainda limite a autonomia. Aeronaves totalmente elétricas, que utilizam a energia de baterias ou células de combustível, operam sem emitir poluentes. O modelo experimental Solar Impulse utiliza células solares para gerar a energia elétrica para seus motores. A aeronave híbrida elétrica emprega motor de combustão interna para acionar um conjunto gerador/motor elétrico, o que possibilita um aumento da autonomia.
+
+
+=== Aviões supersônicos ===
+
+Aviões supersónicos, como o Concorde e caças militares, fazem uso de motores especiais, que geram potência necessária para quebrar a barreira do som. Além disso, o desenho do avião supersónico apresenta certas diferenças com o desenho de aviões subsónicos, devido à compressão do ar em altas velocidades não só asa, também à fuselagem tem desenho diferente em relação aos aviões subsônicos além da clara necessidade de reduzir o arrasto do aparelho com o ar.
+Nos caças, a área das asas são reduzidas, visando o menor arrasto (que permite alcançar velocidades extremas), necessitando de uma velocidade muito maior para compensar essa perda de sustentação. A velocidade de decolagem de certos caças chega à 220 km/h.
+Em porta-aviões, usa-se uma espécie de catapulta linear, movida à pressão do vapor proveniente do próprio motor da embarcação. Essa catapulta fica abaixo da pista, ficando visível apenas um gancho no chão da pista, que encaixa no trem de pouso dianteiro da aeronave e a impulsiona fazendo-a atingir a velocidade necessária para decolagem em uma pista curta. À primeira vista, a parte visível desse sistema se assemelha a um trilho. No pouso a velocidade é igualmente alta. Então o caça faz o uso de um gancho de retenção (localizado na parte traseira do avião), que prende-se à cabos de aço esticados na pista, ajudando a parar rapidamente.
+O voo em velocidade supersónica gera mais poluição sonora devido à onda de choque. Isto limita os voos supersónicos a áreas de baixíssima ou nenhuma densidade populacional. Quando passam numa área de maior densidade populacional, os aviões supersónicos são obrigados a voar em velocidade subsónica. Algumas aeronaves são capazes de voar em velocidades hipersónicas, geralmente, velocidades que superam cinco vezes a velocidade do som. O corpo sustentante é um exemplo deste tipo de aeronave.
+
+
+== Projeto e construção ==
+
+Pequenos aviões, para um ou no máximo dois passageiros, podem ser construídos em casa, por aviadores que possuem muito conhecimento técnico na área de física e aerodinâmica. Outros aviadores com menos conhecimentos fazem seus aviões usando kits de pequenas aeronaves, com peças pré-fabricadas, e montando a aeronave em casa.
+Aviões produzidos desta maneira, porém, são os menos conhecidos. Dada a sua delicadeza, aviões construídos para exploração econômica de sua operação precisam passar por um processo minucioso e demorado de planejamento, por motivos de segurança impostos pelo órgão de aviação ou de transportes do país à companhia construtora. Isto pode durar até quatro anos, em pequenos turbo-hélices, a 12 anos, em aviões com o porte do A380. A Federal Aviation Administration, por exemplo, exige que a asa fixada à fuselagem consiga gerar seis vezes mais força de sustentação em relação ao seu peso (força exercida pela força de gravidade na aeronave).
+Neste processo, estabelecem-se em primeiro lugar os objetivos da aeronave. Uma vez completos, a empresa construtora usa um grande número de desenhos e equações, tudo calculado em teoria, estimando o comportamento da aeronave. Os computadores são atualmente muito utilizados por companhias construtoras de aviões como um meio de desenho e planejamento do avião. Pequenos protótipos, ou certas partes do avião são, então, testados em túneis de vento, para verificar a aerodinâmica da aeronave.
+Quando o avião é aprovado neste processo, constrói-se um número limitado destes aviões, para o testar como um todo no solo. Atenção especial é dada aos motores e às asas.
+Depois de aprovado, pelo processo acima indicado, a companhia construtora é autorizada por um órgão competente de aviação ou transportes em geral a fazer um primeiro voo. Quando o comportamento da aeronave não apresenta suspeitas de falhas, os voos de teste continuam até que o avião tenha cumprido todos os requisitos necessários. Então, o órgão público competente de aviação ou transportes do país aprova o projeto do avião e a companhia passa à produção em massa da aeronave.
+Nos Estados Unidos, este órgão é a Federal Aviation Administration (FAA), e na União Europeia, a Joint Aviation Authorities (JAA) e a European Aviation Safety Agency (EASA). Estas três são as entidades de regulamentação de aeronaves mais importantes do mundo. No Canadá, o órgão público encarregado de regulamentar e autorizar a produção em massa de aeronaves é o Transport Canada Civil Aviation (TCCA). No Brasil, o órgão é a Agência Nacional de Aviação Civil (ANAC).
+No caso do comércio internacional de aviões, uma licença do órgão público de aviação ou transportes do país onde a aeronave está a ser comercializada também é necessária. Por exemplo, aeronaves da Airbus precisam ser certificadas pela FAA para serem vendidas nos Estados Unidos, enquanto aeronaves da Boeing precisam ser aprovadas pela JAA para serem comercializadas na União Europeia.
+
+
+=== Produção industrializada ===
+
+São relativamente poucas as companhias que produzem aviões em larga escala. Porém, a produção de um avião por uma dada companhia é um processo que envolve outras dezenas, ou talvez centenas, de outras empresas e fábricas, que produzem partes determinadas da aeronave. Por exemplo, uma empresa pode ser responsável pela produção do trem de pouso, enquanto outra é responsável pelo radar, e outra ainda pelo motor ou reator. A produção de tais peças não se limita a apenas algumas cidades de um dado país; no caso de grandes companhias de manufatura de aeronaves, tais peças podem vir de diversas partes do mundo.
+Uma vez fabricadas, as peças são enviadas para a fábrica principal da companhia aérea, onde está localizada a linha de produção. As diferentes peças juntam-se umas às outras, no final, produzindo a aeronave. No caso de grandes aviões, podem existir linhas de produção dedicadas especialmente à montagem de certas partes de grande porte da aeronave, como as asas e a fuselagem.
+Quando pronto, um avião passa por uma rigorosa inspeção, em busca de falhas e defeitos, e sendo aprovado nesta inspeção, o avião é testado por um piloto, em um voo de teste, de forma a assegurar que os controles da aeronave estejam em ordem. Com este teste final, o avião está pronto para receber os "retoques finais" (configuração interna, pintura, etc), e pronto a ser enviado aos seus clientes.
+
+
+== Componentes ==
+Um avião é composto basicamente de corpo principal e asas, a relação do comprimento do corpo para a envergadura das asas varia de acordo com a aeronave, em geral, aeronaves mais rápidas costumam ter um maior comprimento em relação a envergadura, os primeiros aviões eram construídos basicamente de madeira. Após a Segunda Guerra Mundial se popularizaram  as aeronaves feitas de metal. Mais recentemente também foi adicionado compósito ao material das aeronaves.
+
+
+=== Corpo ===
+O corpo da aeronave é composto basicamente de:
+
+Fuselagem - Um corpo longo, geralmente cilíndrico, em grande parte das aeronaves pressurizado, que contém a cabine de pilotagem, as cabines de passageiros, compartimento de carga e trens de aterrissagem. Alguns aviões podem possuir mais de uma fuselagem, como o North American F-82 Twin Mustang. A estrutura pode ser no formato de treliça, geodésica ou monocoque.
+
+
+=== Asas ===
+
+As asas geralmente se expandem lateralmente, são as asas que proveem a sustentação e o controle do avião no ar. Aviões costumam ter asas rígidas mas flexíveis, para melhor suportarem as turbulências. Também existem aeronaves cujas asas são de geometria variável, que alteram o ângulo em relação à fuselagem (ângulo de enflechamento). São geralmente utilizadas em aviões supersônicos, diminuindo o arrasto em altas velocidades, com um maior ângulo de enflechamento, e aumentando a sustentação em baixas velocidades – como no pouso e decolagem – com um menor ângulo de enflechamento.
+Aerofólio — O aerofólio é o formato do corte da asa, variam de acordo com o tipo e o propósito do avião, o formato mais comum de aerofólio em aviões é o Clark Y.
+Asa principal — Provê a sustentação da aeronave, além se servir de suportes para partes auxiliares como motor, trem de pouso, flaps, spoilers, etc.
+Flap — São dispositivos hipersustentadores que ficam na parte de trás das asas principais para aumentarem a sustentação da asa.
+Flap Krueger — superfície montada na parte inferior da asa. É articulado no bordo de ataque, aumentando a curvatura da asa e a sua sustentação. Seu efeito é similar ao dos slats.
+Spoiler — Posicionam-se na parte de cima da asa principal, serve para diminuir a sustentação do avião.
+Componente posicionado na ponta da asa principal, serve para diminuir o arrasto induzido.
+Slat — Dispositivo de sustentação auxiliar do bordo de ataque da asa, se move para frente para permitir a passagem de ar.
+
+
+=== Empenagem ===
+
+Apesar de darem sustentação, as asas  não garantem sozinhas a estabilidade do avião, a empenagem é o conjunto de asas auxiliares geralmente composto por estabilizadores e lemes que ficam na cauda para auxiliar a navegação do avião na estabilidade vertical e horizontal.
+Alguns aviões possuem uma asa principal o grande suficiente para não precisarem de estabilizadores ou lemes, algumas outras, possuem estabilizadores na parte da frente das aeronaves, nesse caso, dá o nome dessas peças de canards.
+
+
+== Segurança ==
+
+Estatísticas mostram que o risco de um acidente aéreo é muito pequeno. É mais provável sofrer um acidente indo até ao aeroporto de carro do que durante o voo. Por que, entretanto, tantas pessoas demonstram medo só de entrar em um avião? Talvez isso se deva ao fato de, no caso de um acidente, o risco de mortalidade em acidentes aéreos ser extremamente alto, no caso deste dado acidente ocorrer em pleno voo. Erros mínimos e/ou tempo adverso podem causar sérios acidentes, especialmente nos dois momentos críticos de um voo, as operações de pouso e decolagem, dada a delicadeza de tais operações. Aviões por vezes são alvos de terroristas ou outros atos criminosos causados por terceiros, fazendo com que muitos tenham medo de voar por temerem serem vítimas de tais ocorrências, embora a parcela de acidentes aéreos causados por ataques terroristas ou outros atos criminosos causados por terceiros em um dado período seja pequena em comparação ao número total de acidentes no mesmo período.A maioria dos acidentes em aviões ocorre devido a falha humana durante o voo, devido ao erro dos pilotos ou de algum órgão de controle (torre de controle, por exemplo). Em seguida, a falha mecânica é a maior causa de acidentes aéreos, que também pode envolver um componente humano (como por exemplo, negligência da companhia aérea em realizar a manutenção adequada dos aviões). Tempo adverso é a terceira maior causa de acidentes.[carece de fontes?]
+
+
+== Ver também ==

@@ -1,0 +1,147 @@
+Calendário judaico ou hebraico (do hebraico: הלוח העברי) é o calendário utilizado dentro do judaísmo. 
+O calendário judaico é um calendário do tipo lunissolar cujos meses são baseados nos ciclos da lua enquanto o ano é adaptado regularmente de acordo com o ciclo solar, por isso, ele é composto alternadamente por anos de 12 ou 13 meses e pode ter de 353 a 385 dias.
+O povo de Israel utiliza o calendário lunissolar há mais de 3 milênios para determinação das datas de aniversário, falecimento, casamento, festividades, serviços religiosos e outros eventos da comunidade.
+
+
+== Origem ==
+De acordo com evidências arqueológicas, os hebreus adotaram o calendário lunar cananeu, provavelmente na Idade do Bronze ou no início da Idade do Ferro, com um ano composto de doze meses de trinta dias, com cinco ou seis dias intercalares, para sincronizar o ano com as estações. De acordo com A Bíblia Hebraica, ou Tanach, a contagem dos meses se dava a partir das fases da lua desde o Êxodo. O calendário de Gezer e inferências bíblicas indicam que os hebreus usavam meses lunares antes do cativeiro na Babilônia.  O calendário religioso se iniciava no equinócio vernal, e o calendário civil, como no calendário egípcio, no equinócio de outono. O primeiro mês do calendário religioso e o sétimo do calendário civil era Abibe (Nissan).Provavelmente o calendário lunissolar foi adotado pelos judeus a partir do calendário grego, antes dos judeus serem dominados pelos gregos. Neste calendário lunissolar, torna-se necessário o uso do mês intercalar, adicionado durante a estação da primavera.
+
+
+== Os meses no calendário judaico ==
+Mês em hebraico - חודש, deriva do radical da palavra 'novo' חדש. Isto se dá porque o primeiro dia de cada mês é sempre o primeiro dia de lua nova. Isso é uma determinação encontrada na Torá (no livro de Shemot). Esta é uma regra lógica já que é a única fase da lua que pode ser determinada com precisão sem a necessidade de nenhum instrumento ou conhecimento maior de astronomia. No auge da lua nova, ela desaparece completamente e, no dia seguinte, vemos uma pequena listra branca ao olharmos para o ocidente poucos minutos após o pôr do sol - o que determina precisamente o primeiro dia do mês judaico.
+Nos tempos bíblicos a determinação do começo do mês era realizada pela observação direta de testemunhas designadas para este fim, método seguido pelos caraítas até os dias de hoje, os quais determinam o primeiro mês do ano como Abibe. Hoje em dia segue-se um cálculo o qual já leva em conta outros parâmetros religiosos adicionados por rabinos da época do Talmud.
+O ciclo lunar é de aproximadamente 29 dias e meio, o que gera uma alternação de meses com 29 ou 30 dias. A duração média de um mês hebreu é de 29.5305941358 dias, muito próximo ao mês sinódico (entre duas luas novas).
+
+
+=== Os nomes dos meses judaicos ===
+
+
+=== Início dos meses judaicos ===
+Durante o século XXI da Era Cristã (calendário gregoriano), os meses judaicos começam no seguinte período:
+
+
+=== Meses de Cheshvan e Kislev ===
+No calendário judaico atual, os meses são fixados por um cálculo complexo que leva em conta mais uma série de fatores, como por exemplo, a determinação talmúdica de que o primeiro dia do ano não pode cair nem num domingo, nem numa quarta-feira nem numa sexta-feira - ou outras regras ligadas ao horário exato da lua nova. Para uma maior flexibilidade no calendário, foi determinado que os meses de Cheshvan e de Kislev, de acordo com o ajuste necessário para o começo do ano seguinte, podem ter ou 29 ou 30 dias.
+Com base nesta determinação:
+
+ambos meses terem somente 29 dias ocorre exclusivamente nos anos comuns deficientes (com 353 dias) e anos embolísticos deficientes (com 383 dias)
+30 de Cheshvan ocorre exclusivamente nos anos comuns completos (com 355 dias) e anos embolísticos completos (com 385 dias)
+30 de Kislev ocorre nos anos comuns regulares (com 354 dias), anos comuns completos (com 355 dias), anos embolísticos regulares (com 384 dias) e anos embolísticos completos (com 385 dias)
+
+
+== Anos ==
+O ano judaico deve ser periodicamente ajustado ao ciclo solar devido à determinação da Torá de que o mês de Nissan deve cair sempre na primavera (de Israel-hemisfério norte), ou mais precisamente, de acordo com a determinação dos rabinos da época do Talmud - o equinócio da primavera tem que estar dentro do mês de Nissan. O ciclo de ajustes é de dezenove anos.Para este ajuste, precisamos determinar a diferença de dias entre um ano solar (aproximadamente 365 dias e 6 horas) e o período de 12 meses lunares (aproximadamente 354 dias e 9 horas): ele equivale aproximadamente a 10 dias e 21 horas. Ou seja, a cada 2 ou 3 anos é necessário acrescentar um mês de 30 dias (Adar I). Isso gera dois tipos de anos:
+
+
+=== Anos comuns ===
+Os anos são classificados como comuns ou normais quando eles são formados por 12 meses.
+Os anos comuns, devido a variação de dias dos meses de Cheshvan e Kislev, podem contar com 353, 354 ou 355 dias.
+
+
+=== Anos embolísticos ===
+Anos embolísticos ou longos têm uma duração de 383, 384 ou 385 dias Esses anos ocorrem sete vezes dentro de um ciclo de 19 anos, nos anos 3º, 6º, 8º, 11º, 14º, 17º e 19º e têm um mês a mais (a maioria dos estudiosos designam erroneamente Adar II como o mês complementar, na realidade, o mês complementar exato é Adar I).
+
+
+=== Classificação dos anos judaicos conforme a quantidade de dias ===
+As variações dos anos comuns ou normais (com 353, 354 ou 355 dias) e embolísticos ou longos (com 383, 384 ou 385 dias) são chamadas chaserah, kesidrah e shelemah, traduzindo respectivamente, deficiente, regular e completo.
+
+353 dias: 5761, 5773, 5777, 5781, 5797, 5804, 5808, 5824, 5835, 5851, 5859354 dias: 5762, 5766, 5769, 5772, 5775, 5778, 5786, 5789, 5792, 5796, 5799, 5802, 5813, 5816, 5819, 5823, 5826, 5829, 5840, 5843, 5846, 5849, 5853, 5856355 dias: 5764, 5767, 5770, 5780, 5783, 5785, 5788, 5791, 5794, 5800, 5805, 5807, 5810, 5811, 5815, 5818, 5821, 5827, 5830, 5832, 5834, 5837, 5838, 5842, 5845, 5848, 5854, 5857383 dias: 5765, 5768, 5784, 5790, 5793, 5801, 5812, 5817, 5820, 5828, 5831, 5839, 5844, 5847384 dias: 5782, 5806, 5809, 5833, 5836, 5860385 dias: 5763, 5771, 5774, 5776, 5779, 5787, 5795, 5798, 5803, 5814, 5822, 5825, 5841, 5850, 5852, 5858
+
+
+=== A datação do ano atual e de anos anteriores/posteriores ===
+Para o cálculo do ano judaico, basta acrescentar 3760 ao ano do calendário gregoriano. A partir do início do ano civil judaico, que ocorre entre setembro/outubro, acrescenta-se 3761 até 31 de dezembro deste mesmo ano.
+Fórmula e exemplo:
+ano (calendário gregoriano) + 3760 (a partir de 1º de janeiro até o término do ano civil judaico) ⇔ 2023 + 3760 = 5783
+ano (calendário gregoriano) + 3761 (a partir do início do ano civil judaico até 31 de dezembro) ⇔ 2023 + 3761 = 5784
+
+
+== Cálculo do calendário ==
+Para desenvolvermos um cálculo exato do calendário judaico devemos definir 3 características do ano requerido:
+
+se este ano tem 12 ou 13 meses (chamaremos Shaná Meuberet o ano com 13 meses).
+em que dia da semana cai o primeiro dia do ano, o Rosh Hashaná.
+se os meses de Cheshvan e Kislev têm 29 ou 30 dias.
+
+
+=== Shaná Meuberet ===
+Para determinar se este ano é uma Shaná Meuberet (tem 13 meses), recorremos à tabela de 19 anos. Existe um ciclo de 19 anos onde 7 deles serão Shaná Meuberet: Neste ciclo os anos 3, 6, 8, 11, 14, 17 e 19 terão 13 meses, enquanto os demais serão anos comuns com 12 meses.
+O cálculo deste ciclo começa no início da contagem de anos judaica, que segundo a tradição judaica é o dia da criação do primeiro homem, Adão. Portanto no ano de 2012, por exemplo, o ano judaico é 5772 (3760 anos a mais que a contagem cristã), se dividirmos 5772 por 19 (o ciclo de anos mencionado anteriormente), receberemos 303 ciclos completos, e um resto de 15, o que indica que estamos no 15º ano do ciclo de Shaná Meuberet, ou seja, é um ano comum com 12 meses. Devemos prestar atenção no detalhe de que quando o número for divisível por 19, como por exemplo o ano de 5776 (2016 no calendário gregoriano), o resto será zero o que significa que estamos no 19º ano do ciclo e ele será de 13 meses segundo a tabela pré-estabelecida.
+A necessidade destes 7 anos com 13 meses no ciclo de 19 anos provém do fato que o calendário judaico é um calendário lunissolar, ou seja, seus meses são fixados a partir do ciclo da lua (aproximadamente 29,53 dias), porém o ano deve ser ajustado regularmente a translação da Terra em torno do sol (aproximadamente 365,242 dias). A diferença entre um ano solar e 12 meses lunares é de aproximadamente 10.88 dias, em 19 anos está diferença será de aproximadamente 206 dias que equivale a 7 ciclos da lua.
+
+
+==== A quantidade de anos de 13 meses que se passaram desde o início da contagem de anos judaica ====
+Segundo nosso cálculo anterior, no ano de 2012, por exemplo, se passaram 303 ciclos de 19 anos, que somam um total de 2121 meses acrescentados, mais 5 meses deste atual ciclo. Ou seja, desde o princípio da contagem do calendário judaico se passaram 2126 meses acrescentados.
+Este dado nos ajudará se quisermos reconstituir todo o calendário ou calcular o calendário de anos anteriores.
+
+
+==== O total de ciclos da Lua passados desde o início da contagem judaica ====
+Sabendo a quantidade de anos que se passaram desde o início da contagem do calendário judaico, por exemplo no dia 16 de setembro de 2012, se passaram exatos 5772 anos. Multiplicamos este número por 12 recebemos um resultado de 69264 meses. Somando os 2126 meses acrescentados obtemos 71390, que é a quantidade de meses desde o início da contagem judaica de anos até o final do ano de 5772.
+
+
+==== Os anos novos ====
+Ao longo do calendário judaico, são celebrados quatro vezes o começo de um ano novo, cada um com seu propósito. Eles podiam ser de ordem triburária, quando ainda existia o Templo de Jerusalém, religiosa, ou, somente histórico. São eles:
+
+1º de Tishrei, o ano novo civil: ocorre no mesmo dia que Deus teria criado Adão.
+15 de Shvat, ano novo das árvores: era o dia da contagem do dízimo das frutas. Apesar do dízimo não ser mais contado, esta festividade ainda é celebrada em Israel.
+1º de Nissan, o ano novo religioso (ou eclesiástico): considera-se esta data como o marco zero do calendário judaico, pois foi nesse dia, no ano de 2448, que Deus ensinou Moisés como realizar a contagem dos dias e meses.
+1º Elul, o ano novo do gado: não é celebrado desde a destruição do Templo e era relacionado a coleta de impostos.
+
+
+=== O dia da semana que cai Rosh Hashaná ===
+
+
+==== Lua nova (Molad) ====
+princípio de cada mês judaico deveria ser no dia da lua nova, e assim era fixado o mês na antiguidade enquanto existia o tribunal central judaico (san'hedrin) no Templo de Jerusalém. Porém depois de começar a fixar o calendário somente pelo cálculo alguns fatores foram incluídos, como citaremos na continuação e, consequentemente, alguns meses podem começar no dia posterior à lua nova ou molad.
+
+Antes da análise do cálculo do molad, vale a pena definir alguns conceitos: na tradição judaica, com origem no Talmud, a hora se divide em 1080 partes em lugar de dividi-las em minutos e segundos. Para facilitar o cálculo que necessitamos, usaremos esta divisão, pois o número 1080 é divisível por 1, 2, 3, 4, 5, 6, 8, 9 e 10. O ciclo da Lua, como citamos anteriormente, é de 29,53 dias. Se fizermos o cálculo usando horas e 1080 partes de hora chegamos a conclusão que o ciclo da Lua é formado de 29 dias, 12 horas e 793 partes.
+Com base nisso, o molad de cada mês será 1 dia da semana, 12 horas e 793 depois do molad do mês anterior. Por exemplo: Se o molad do mês de Tishrei do ano de 5768 caiu numa quarta-feira às 10 horas e 468 partes, o mês seguinte (Cheshvan) cairá numa quinta-feira às 23 horas e 181partes. Portanto se multiplicarmos este número por 12 receberemos: 12 dias da semana, 144 horas e  9516 partes, que ao simplificarmos reduzindo cada 1080 a 1 hora, cada 24 horas a 1 dia e desprezando cada 7 dias pois formam uma semana receberemos: 4 dias 8 horas 876 partes, para um ano de 12 meses e acrescentando o número de 1 dia, 12 horas e 793 partes, receberemos: 5 dias, 21 horas e 589 partes para um ano de 13 meses. Por exemplo: sabendo o molad do ano de 5768, como citamos anteriormente, e somando 5 dias, 21 horas e 589 partes (pois este ano tinha 13 meses), receberemos um resultado de: terça-feira, 7 horas e 1057 partes. Este é o dia da semana e o horário exato da lua nova, molad, do ano de 5769.
+Portanto com base nos cálculos que fizemos podemos determinar o molad de qualquer ano - podemos calcular a partir do início da contagem, ou a partir do molad de um ano conhecido.
+
+
+==== Motivos para adiar por um dia Rosh Hashaná em relação ao molad ====
+Existem basicamente dois motivos pelos quais se adia Rosh Hashaná:
+
+Os sábios da época da Mishná determinaram por diferentes motivos que Rosh Hashaná não deveria cair no domingo, nem na quarta-feira e nem na sexta-feira.
+Quando o molad cai depois de 3 quartos do dia, ou seja depois de 18 horas, Rosh Hashaná é adiado.Por exemplo, vimos que o molad do ano de 5768 era na quarta-feira às 10 horas e 468 partes, ele não entra na segunda regra, mas entra na primeira - portanto Rosh Hashaná neste ano caiu na quinta-feira. Para isso teve-se que acrescentar 1 dia no ano anterior, o que é feito no mês de Cheshvan, ou seja no ano de 5767 tanto o mês de Cheshvan quanto o de Kislev tiveram 30 dias. E este dia foi descontado do ano de 5768 no mês de Kislev, ou seja, neste ano tanto o mês de Cheshvan quanto o de Kislev tiveram 29 dias.
+
+
+=== Resumo ===
+Com os cálculos que fizemos podemos definir se:
+
+o ano que buscamos tem ou não um mês complementar
+Cheshvan e Kislev têm ambos 29 ou 30 dias
+Cheshvan e Kislev são distintos com 29 e 30 dias respectivamenteAssim sendo, podemos determinar se este ano é comum (com 353, 354 ou 355 dias) ou embolístico (com 383, 384 ou 385 dias) e construir um calendário completo.
+
+
+== Os dias no calendário judaico ==
+Os dias, em conformidade com os relatos da Criação em Gênesis, começam após o pôr do sol e terminam ao pôr do sol.Exemplo:
+10 de Adar de 5767
+
+O calendário judaico apresenta esta data em sua totalidade, 10 de Adar de 5767, e os judeus têm em mente que sua duração é após o pôr do sol até ao pôr do sol.
+Um calendário comparativo judaico/gregoriano simples apresenta esta data da seguinte forma: 10 de Adar de 5767 ⇔ 28 de fevereiro de 2007.
+Por questão de praticidade, um calendário comparativo simples leva em conta somente o dia de sua maior duração (período da meia-noite ao pôr do sol). Há diversos calendários e sites especializados que indicam a hora do pôr do sol e outras informações mais detalhadas.
+Com base nas informações apresentadas, vemos que 10 de Adar de 5767, quando comparado com o calendário gregoriano, começou exatamente após o pôr do sol de 27 de fevereiro de 2007 e terminou no pôr do sol do dia 28 de fevereiro de 2007.
+
+
+=== Os dias da semana ===
+
+
+== Ver também ==
+Festividades judaicas
+
+
+== Notas e referências ==
+
+
+=== Notas ===
+
+
+=== Referências ===
+
+
+== Ligações externas ==
+Calendário hebraico perpétuo
+Calendário judaico detalhes dos pontos de vista de diversas ramificações sobre a história do Calendário hebraico.
+Calendário judaico - uma explanação científica no site da NASA.
+Site Caraíta em Espanhol- com informações sobre Calendário baseado em Abib.
+Conversor de datas para vários calendários, incluindo este

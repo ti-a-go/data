@@ -1,0 +1,42 @@
+O Flickr é um site da web de hospedagem e partilha de imagens como fotografias, desenhos e ilustrações, além de permitir novas maneiras de organizar as fotos e vídeos. Caracterizado como rede social, o site permite aos usuários criar álbuns para armazenar suas fotografias e contatar-se com usuários de diferentes locais do mundo. No início de 2005 o site foi adquirido pela Yahoo! Inc.
+Por seu alto nível de interatividade com os usuários, é um dos componentes mais exemplares da Web 2.0. O site adota o popular sistema de categorização de arquivos por meio de tags (etiquetas) e também é considerado um flog.
+
+
+== História ==
+O site foi desenvolvido pela Ludicorp em Vancouver, Canadá, onde a empresa foi fundada em 2002. A empresa lançou-o em 10 fevereiro de 2004.Em março de 2005, a Yahoo! Inc. adquire a Ludicorp e o Flickr. Durante a semana de 28 de junho todo o conteúdo do site foi migrado dos servidores do Canada para os Estados Unidos, resultando a partir daí a que todo o conteúdo seja sujeito às leis federais dos Estados Unidos.
+Em 16 de maio de 2006, o Flickr alterou a classificação de seu site de Beta para Gamma: tal mudança reflete um vocabulário comum para designar atualizações de versões de software, refletindo um novo desenho e estrutura para o site.
+Em 20 de abril de 2018 foi adquirido pelo SmugMug.
+
+
+== Organização ==
+O Flickr organiza e classifica as fotos predominantemente por meio de categorias - apelidadas de tags (ou etiquetas) no contexto do sítio. Tais tags (os quais são considerados uma forma de metadata) são atribuídas às respectivas fotografias pelos próprios usuários que as carregaram no sítio. Com isso, a busca de imagens se torna um processo fácil e ágil. O site também provê uma lista das "tags" mais utilizadas nas fotos. Ele também permite que os usuários organizem suas próprias fotos através de álbuns (em inglês "set"), e os agrupe em coleções.
+O Organizr é uma ferramenta para organização de fotos, grupos, coleções e suporte a localização no mapa do Yahoo! Maps (chamado de Geotagging, ou Georreferência), semelhante ao Google Maps. Esta aplicação foi feita em programação AJAX (programação), de fácil manuseio e com uma grande rapidez é possível organizar as fotos e adicioná-las ao mapa global.
+
+
+== Arquitetura do software ==
+Cal Henderson, um dos desenvolvedores do Flickr, apresentou a arquitetura do site do Flickr em 2005 para a Associação PHP de Vancouver, Canadá.
+A plataforma consiste em:
+
+Linguagem PHP é a parte central e lógica do site
+Smarty Template Engine
+PEAR para XML & Email
+Perl para "controle"
+ImageMagick para processamento de imagens
+MySQL 4.0 como banco de dados
+Java
+Apache Web Server 2
+Macromedia Flash
+
+
+== Ver também ==
+del.icio.us
+digg
+Yahoo! Fotos
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Página do Flickr
+Blog do Flickr

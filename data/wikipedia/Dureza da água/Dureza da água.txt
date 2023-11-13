@@ -1,0 +1,41 @@
+Dureza da água é a propriedade relacionada com a concentração de íons  de determinados minerais dissolvidos nesta substância ou mais especificamente as águas duras contém sais de cálcio e de magnésio em concentrações relativamente elevadas. A dureza da água é predominantemente causada pela presença de sais de cálcio e magnésio, de modo que os principais íons levados em consideração são os de cálcio (Ca2+) e magnésio (Mg2+). Eventualmente também o zinco, estrôncio, ferro ou alumínio podem ser levados em conta na aferição da dureza.
+
+
+== Dureza geral ==
+A dureza da água é composta de duas partes, a dureza temporária e a dureza permanente. A dureza temporária é gerada pela presença de carbonatos e bicarbonatos, que podem ser eliminadas por meio de fervura da água. A dureza permanente é devida a cloretos, nitratos e sulfatos, que não são susceptíveis à fervura.
+À somatória da dureza temporária e permanente dá-se o nome de "dureza geral" (ou total) da água.
+
+
+== Medição ==
+A dureza da água é medida geralmente com base na quantidade de partes por milhão, ppm,  de carbonato de cálcio (CaCO3), também representada como mg/l de Cálcio CaCO3. Quanto maior o valor de "ppm", mais "dura" será considerada a água.
+Existem ainda outras unidades utilizadas em maior ou menor frequência para se descrever a dureza da água, como o grau alemão, comum em conjuntos de teste rápido, o inglês, o francês ou o americano, dentre outros. A tabela abaixo mostra a relação entre algumas dessas unidades.
+Os métodos para determinar a dureza da água usam técnicas de titulação úmida.
+
+
+== Classificação e propriedades ==
+Embora não haja uma convenção formal, a título de praticidade, a água pode ser classificada quanto a dureza de acordo com a tabela seguinte.
+
+
+=== Água "dura" ===
+Para efeito de potabilidade, são admitidos valores relativamente altos de dureza. No Brasil, a portaria Min. da Saúde N.º 2.914 de 14 de dezembro de 2011 (Anexo X), estabelece o VMP (Valor Máximo Permitido) de 500mg/L de concentração total de Cálcio e Magnésio para que a água seja admitida como potável. Este parâmetro remete a um padrão organoléptico da água, já que o sabor eventualmente pode ser considerado uma característica desagradável de águas muito duras.Para um número vasto de aplicações, como combate a incêndio, regar o jardim, lavagem das ruas ou manter o barco a flutuar, a água teria de ser muito dura antes de causar problemas. Para outros usos, tanto domésticos como industriais, no entanto, a água dura pode causar alguns inconvenientes. O principal deles refere-se à menor capacidade de precipitar sabão da água dura.
+Uma forma muito simples e antiga de identificar a dureza da água é o teste da espuma. Se o sabão ou pasta de dentes fizer muita espuma na água é porque é água mole (macia ou branda, em português de Portugal). Mas se, ao contrário, fizer pouca espuma é porque é água dura. Por isso, para o uso em banho, lavagem de louças e roupas, fazer a barba, lavar o carro e muitos outros usos, a água dura não é tão eficiente como a mole (macia ou branda, em português de Portugal). Calcula-se que 10 mg/l de CaCO3 provoca o desperdício de 190 gramas de sabão puro, por cada metro cúbico de água.
+A água dura pode ser indesejável para alguns processos industriais levedar certos tipos de cerveja, embora se diga que o típico Uísque Bourbon do Kentucky deve em parte o seu sabor à elevada concentração de cálcio na água existente no subsolo da região onde é produzido.Alguns produtos químicos presentes na água dura, tais como os silicatos e o carbonato de cálcio, são também inibidores de corrosão eficientes, e podem prevenir danos em canalizações ou contaminações por produtos de corrosão potencialmente tóxicos.
+A água dura pode causar depósitos de calcite em caldeiras, máquinas de lavar e canos. A água suave também tem um sabor mais "doce" do que a dura.
+Outro inconveniente de uma água demasiado dura é a incrustação dos íons carbonato e hidrogenocarbonato nos permutadores de calor (em casa, este fenómeno nota-se especialmente nas máquinas de lavar e caldeiras de aquecimento).
+Para contornar este problema, e falando especialmente de empresas têxteis, onde o consumo de água é elevado, foi necessário estabelecerem-se em zonas onde a água é considerada macia, principalmente no Vale do Ave (Braga, Guimarães e Famalicão). No entanto, é necessário por vezes proceder a algumas correções da dureza: poderá ser feita através da adição de cal (método mais barato) ou através do uso de resinas permutadoras de íons, que os sequestram, impedindo desta forma a sua deposição nas canalizações e nas máquinas. Em casa, é vulgar o uso de Calgon, constituindo essencialmente por EDTA (ácido etilenodiaminatetracético), que é o sequestrante, ou ligando mais utilizado e mais eficiente hoje em dia.
+De acordo com o regulamento do SIDVA (Sistema Integrado de Despoluição do Vale do Ave), os valores máximos admissíveis para a dureza de uma água para a indústria têxtil são de 70 mg/l.
+
+
+== Ver também ==
+pH
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«Características Químicas da Água» 
+«Determinação da dureza total» 
+«Determinação da Dureza em águas» (PDF). UTFPR - Depto. de Química e Biologia 
+«Métodos de "amaciamento" da água» (em inglês) 
+«Dureza da água em Portugal»

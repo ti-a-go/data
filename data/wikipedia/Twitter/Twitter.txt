@@ -1,0 +1,174 @@
+X, anteriormente conhecido como Twitter e inicialmente chamado de Twttr: "gorjear", é uma rede social e um serviço de microblog, que permite aos usuários enviar e receber atualizações pessoais de outros contatos em textos de até 280 caracteres (25 mil para assinantes do X Premium) conhecidos como posts (anteriormente "tweets"), por meio do website do serviço, por SMS e por softwares específicos de gerenciamento.
+As atualizações são exibidas no perfil de um usuário em tempo real e também enviadas a outros usuários seguidores que tenham assinado para recebê-las. As atualizações de um perfil ocorrem por meio do site do X, por RSS, por SMS ou programa especializado para gerenciamento. O serviço é gratuito pela internet, entretanto, usando o recurso de SMS pode ocorrer a cobrança pela operadora telefónica.
+O Twitter, como era conhecido, foi criado em março de 2006 por Jack Dorsey, Evan Williams, Biz Stone e Noah Glass e foi lançado em julho de 2006 nos Estados Unidos. A ideia inicial dos fundadores era que o Twitter fosse uma espécie de "SMS da internet" com a limitação de caracteres de uma mensagem de celular. Inicialmente chamada Twttr (sem vogais), o nome da rede social, em inglês, significa gorjear. A ideia é que o usuário da rede social está "piando" pela internet. Desde sua criação, o X ganhou extensa notabilidade e popularidade por todo mundo. Algumas vezes é descrito como o "SMS da Internet". Linda Yaccarino é a atual CEO da empresa.
+No dia 12 de setembro de 2013, por meio do perfil da empresa no próprio X, foi informado que ela havia enviado à SEC (CVM dos Estados Unidos) documentos confidenciais para sua abertura de capital na Bolsa de Valores, operação também conhecida como IPO (Oferta Pública Inicial, em inglês). No dia 7 de novembro de 2013, a Twitter Inc. fez sua estreia na Bolsa de Nova Iorque. Todas as 70 milhões de ações colocadas no mercado foram vendidas. Seu valor chegou a subir até 90% de alta em relação ao valor estipulado inicialmente na abertura do pregão. Na ocasião, a empresa captou US$ 1,82 bilhão no mercado e foi avaliada em US$ 24,57 bilhões.No dia 23 de janeiro de 2015 duas novidades foram inseridas. O "Enquanto você estava fora" é um resumo das principais notícias e/ou posts de quem você segue. Já o "Digits" é feito para desenvolvedores e vai auxiliar no acesso a sites pelo celular. Ainda em 2015, o X anunciou que irá liberar as mensagens diretas entre pessoas que não se seguem. Para isso, o usuário terá que liberar o outro contato por meio das configurações da conta.Em 24 de julho de 2023, o Twitter mudou seu logotipo do pássaro azul e nome para o símbolo X, estilizado 𝕏.
+
+
+== Ferramentas ==
+
+
+=== Repost ===
+O Repost (anteriormente "Retweet") é uma função do X que consiste em replicar uma determinada mensagem de um usuário para a lista de seguidores, dando crédito a seu autor original. Na página de início do site existe um botão chamado repostar, que faz o envio automático da mensagem para todos seguidores da pessoa. Antigamente, os usuários realizavam isto de forma manual, acrescentando um RT ao lado da @alcunha de quem escreveu.
+
+
+=== Lista ===
+Lista, anteriormente Twitter List ou Lista do Twitter, é um recurso disponível no X que permite ao usuário criar listas compartilháveis de usuários. O que dinamiza a leitura dos posts já que se torna possível ler o conteúdo postado por grupos de seguidores.
+
+
+=== Trending Topics ===
+Os Trending Topics (TTs) ou Assuntos do Momento são uma lista em tempo real das frases mais publicadas no X pelo mundo todo. Valem para essa lista os marcadores, também conhecidos por hashtags (#) e nomes próprios.O recurso de Trending Topics usa por padrão a abrangência total, mas também é possível filtrar por países como Argentina, Austrália, Brasil, Canadá, Estados Unidos, Itália, Alemanha, Espanha, Reino Unido, Portugal e outros, ou cidades como Londres, Los Angeles, Miami, Nova Iorque, Rio de Janeiro, São Paulo e outras.
+
+
+=== API ===
+Sorteios, promoções e até mesmo uma análise mais aprofundada da opinião dos usuários a respeito da sua marca ou serviço já podem ser feitas através de APIs desenvolvidas. Um fator que influência na alta taxa de empresas com seu desenvolvimento voltado ao X é a documentação que é fornecida pela equipe de desenvolvedores do serviço.
+Em 13 de fevereiro de 2023, a API deixou de ser totalmente livre e passou a ter planos pagos. Os planos foram disponibilizados como uma forma de combater spamming e bots na plataforma, entretanto, é possível usar um plano gratuito de apenas um token por conta, também possuindo um limite mensal de 1.500 posts (cerca de 50 posts por dia).
+
+
+=== Aumento de caracteres ===
+Em 26 de setembro de 2017, a empresa disponibilizou, em caráter de testes, o limite de 280 caracteres para cada post. A mudança foi aplicada em definitivo a partir de 7 de novembro do mesmo ano.
+
+
+=== Fleets ===
+Em março de 2020, a rede social lançou a função Fleets, semelhante ao stories do Instagram. Como no Instagram, as mensagens eram apagadas após 24 horas. Em 14 de julho de 2021, a ferramenta teve seu fim decretado pois, de acordo com a empresa, o Fleets não correspondeu às expectativas de engajamento, e foi desativada em 3 de agosto do mesmo ano.
+
+
+=== X Premium ===
+Em 3 de junho de 2021, o Twitter anunciou um serviço de assinatura paga conhecido como Twitter Blue. Após a mudança  de nome do Twitter para X, a assinatura foi renomeada para X Blue e em 5 de agosto de 2023, foi renomeada para X Premium. A assinatura fornece recursos premium adicionais ao serviço, que atualmente incluem:
+Desfazer post, que atrasa a postagem de um post em até um minuto para permitir que o usuário o retire antes de ser postado.
+Marcadores, que permitem aos usuários salvar posts individuais em pastas.
+Modo leitor, que converte sequências de posts em uma visualização semelhante a um artigo.
+Uma seleção de temas de cores e ícones de aplicativos para o aplicativo móvel do X.
+Suporte ao cliente dedicado.
+Fotos de perfil NFT, adicionadas em 20 de janeiro de 2022. Elas são exibidas em uma moldura em forma de hexágono, em vez de circular como outras fotos de perfil.
+Um recurso de edição planejado para posts estava em desenvolvimento em abril de 2022.
+Personalização da barra de navegação.
+Posts de até 25.000 caracteres.
+Capacidade de participar de pesquisas.
+As postagens podem aparecer na linha do tempo "Para você".
+Selo azul.
+Postar vídeos mais longos e 1080p para upload de vídeos.
+Adicionar texto em negrito e itálico aos posts.
+Rankings priorizados nas conversas e na busca.
+Editar posts.Acesso antecipado a novos recursos.Acesso ao X Pro, anteriormente conhecido como TweetDeck.Chamadas de áudio e vídeo.
+
+
+== Estimativas de usuários (ou utilizadores) ==
+A estimativa do número de usuários é baseada em pesquisas independentes já que a empresa não informa oficialmente número de contas ativas. Em novembro de 2008, Jeremiah Owyang estimou que o X possuía entre 4 a 5 milhões de usuários. Já em maio de 2009, outro estudo analisou mais de 11 milhões e meio de contas de usuários. Um estudo da Universidade de Harvard concluiu que apenas 10% dos usuários produzem 90% do conteúdo.Em fevereiro de 2009, o blog "Compete.com" elegeu o X em terceiro lugar como rede social mais usada (Facebook em primeiro lugar, seguido do MySpace).Posteriormente, em 14 de setembro de 2010, o X divulgou em seu próprio site o número total de usuários registrados: 175 milhões.Atualmente, a rede social conta com 284 milhões de usuários registrados, porém, pouco mais de 24 milhões dos 284 milhões de usuários do X nunca postaram, repostaram ou curtiram uma mensagem publicada no microblog. As informações são da própria empresa e estão em um documento enviado à SEC (equivalente nos Estados Unidos à brasileira CVM) em 11 de janeiro de 2015.
+Em 2022, o GOR (Global Overview Report) do X indica que a rede social conta com 436 milhões de utilizadores, sendo que em Portugal, 13,8% da população do país aderiu à plataforma, totalizando 1,4 milhões de pessoas. O Brasil conta com a segunda maior comunidade do X, logo a seguir aos Estados Unidos, com 8,28 milhões de usuários ativos.
+
+
+== Conectividade com outras redes sociais ==
+O X permite um excelente intercâmbio de informações com diversas redes sociais, entre elas o Facebook, em que é possível com que tudo que o usuário poste no X seja postado em sua conta do Facebook também e vice-versa, o Spring.me e o Skoob, que permitem que o usuário envie mensagens pré-programadas para o X através deles, e o Tumblr que dá a opção de que o usuário escolha a mensagem que será enviada para o X.
+Com a criação do X também surgiram diversas redes sociais dependentes dele que permitiam o envio de fotos e vídeos, como o Twitpic e o Twitvid. Outros, como o TwitDraw, permitiam que o usuário começasse um desenho e seus seguidores o completassem, e o Fun140 e LOLquiz que hospedam testes cujo resultado é enviado diretamente para o X.
+Websites como o Yfrog e Flickr também permitem o envio de mensagens para o X.
+
+
+== Usos e manifestações sociais ==
+Em março de 2009, o X foi uma das principais ferramentas de divulgação do Pillow Fight Day - uma guerra pública de travesseiros acontecida em várias cidades do mundo. Rio de Janeiro, São Paulo, Brasília, Santos, Fortaleza, Araraquara, Belém, Belo Horizonte, Bragança Paulista, Campo Grande, Curitiba, Florianópolis, Goiânia, Guarulhos, Manaus, Natal, Porto Alegre, Recife, Ribeirão Preto, Salvador, Santa Maria, São João Del Rei, São Luís, Sorocaba, Uberaba, Uberlândia e Vitória foram algumas cidades brasileiras em que houve a manifestação.
+Se destacou na mídia o uso do X durante as manifestações políticas ocorridas na Moldávia em reação ao resultado das eleições legislativas no início de 2009. A ferramenta também esteve presente no debate político e na movimentação da oposição durante a Eleição presidencial do Irã em 2009. Durante o Apagão elétrico de 2009, as primeiras informações das regiões atingidas pelo blecaute foi fornecida através dos usuários do X, através de postagens via celular, e lida por emissoras de rádio que faziam plantão naquele momento.
+Em janeiro de 2010 foi realizada a primeira conexão e acesso pessoal à Internet de origem espacial, utilizando o X. O astronauta Timothy Creamer, escreveu "Hello Twitterverse" no serviço de microblogging, diretamente da Estação Espacial Internacional (ISS).Devido ao sucesso do X, um grande número de serviços semelhantes foram lançados. Alguns são disponibilizados em países específicos, outros unem outras funções, como a partilha de arquivos que era oferecido pelo Pownce.
+
+
+=== Publicidade ===
+O X também tem sido constantemente utilizado por grandes empresas para a divulgação de suas marcas, através de constantes atualizações, sempre ligando o consumidor a uma página onde possa encontrar mais informações sobre o serviço ou produto oferecido. Além disso, o X tem se mostrado um ótimo instrumento para o fortalecimento das marcas no ambiente virtual, pois agrega seguidores que recebem as atualizações enviadas pelas empresas, porém ainda é uma ferramenta que deve ser melhor explorada para esse fim.No artigo publicado em 14 de abril de 2009, no The New York Times, a jornalista Claire Cain Miller afirmou que a utilidade mais produtiva do X tem sido para aquelas empresas que desejam ouvir os clientes e oferecer reações imediatas às opiniões deles. A Dell, por exemplo, percebeu que os clientes estavam reclamando de que o apóstrofo e as teclas de retorno estavam próximas demais no laptop Dell Mini 9. O problema foi reparado. Na Starbucks, os clientes costumavam reclamar deixando notas em uma caixa de sugestões. Agora, eles podem também enviar a reclamações ou sugestões via X.
+No Brasil, o destaque da mídia para ações publicitárias no X tem sido para a venda de um apartamento realizada pela construtora Tecnisa. O perfil da empresa no X foi criado em 20 de fevereiro de 2008, mas, somente em 13 de julho de 2008, começou a ser utilizado para uma divulgação. Tratava-se do lançamento do Acquaplay, em Santos.
+Em 23 de fevereiro de 2009, Romeo Busarello, diretor de marketing da empresa chegou a afirmar: "usamos para comunicar lançamentos e novidades (…) Tenho consciência de que não vou vender um apartamento via Twitter [X]." Porém, cerca de 4 meses depois, a construtora concluiu a primeira venda por meio do X. A promoção realizada na rede social oferecia R$ 2 000,00 em vale-compras, além de armários e cozinhas planejados, somente para as compras geradas por meio desta forma de contacto. A oferta levou o consumidor a efetivar a compra de uma unidade de três suítes no empreendimento Verana, localizado no Alto da Lapa, em São Paulo, ao custo de R$ 500 000. "Provavelmente este é o produto mais caro vendido pelo Twitter [X] no mundo. E, com certeza, é a primeira venda concretizada por uma empresa do segmento da construção civil, utilizando redes sociais. Esta conquista inédita fortalece nossa estratégia de divulgação on-line dos imóveis. Afinal, conseguimos um excelente resultado com um baixo investimento", afirmou Busarello.
+A Google e a Microsoft entraram em um acordo com o X para que os posts postados diariamente pelos milhões de usuários da rede social, apareçam nos resultados dos buscadores, tanto da Google, quanto da Microsoft, no caso o Bing. A Google está pagando US$ 15 milhões e a Microsoft US$ 10 milhões e serão os primeiros a fazer experiências com os dados coletados. A Yahoo também pode vir a fazer parte desse acordo.
+
+
+== X na lusofonia ==
+Segundo o grupo de pesquisa norte-americano Web Ecology, a língua portuguesa é a segunda mais utilizada pelo X. Um estudo da Semiocast, no entanto, mostra que a língua portuguesa é a terceira mais utilizada, atrás do inglês e do japonês.Em maio de 2011 Rosana Hermann lançou um livro pela editora Panda Books, intitulado Um passarinho me contou – Relatos de uma viciada em Twitter. O livro é baseado em histórias vividas por ela desde a sua entrada na rede social em abril de 2007.Em junho de 2011, o X terminou de ser traduzido para o português e os usuários ganharam a opção de usar a rede social nesta língua. A tradução foi feita em conjunto com os usuários, que acessavam um painel onde havia cada uma das frases a ser traduzidas, e outros usuários votavam nas melhores traduções.
+
+
+=== X em Portugal ===
+Após uma década de presença em Portugal, surge a oficialização da delegação portuguesa do X. Com uma equipa exclusivamente dedicada àquela rede e liderada por Francisco da Silva, a empresa lusa é desde 2014 responsável pela venda de publicidade e pela assessoria em campanhas de empresas nacionais no X, que conta com 288 milhões de utilizadores mensalmente activos em todo o mundo.
+Em Portugal não são públicos os dados de utilização desta rede social, mas é visível a crescente popularidade entre adolescentes e jovens adultos, por um lado, e "influencers" como figuras públicas, políticos e jornalistas, por outro. No entanto, Katie Lampe, directora de vendas do X para a Europa, Médio Oriente e África, revelou em Lisboa que mais de metade dos utilizadores portugueses daquela rede acede à sua conta pelo menos uma vez por dia, e que o mobile representa 80% dos acessos.Com isto uma tradução para português europeu está a ser feita internamente por a pequena equipa portuguesa. A tradução irá ficar pronta a médio prazo (2015), afirma Francisco da Silva em Mensagem Privada via X.
+
+
+=== Perfil do usuário brasileiro ===
+De acordo com uma pesquisa realizada pela agência Bullet, a maioria (61%) dos usuários do X no Brasil é composta por homens na faixa de 21 a 30 anos, solteiros, localizados principalmente nos estados de Minas Gerais, do Paraná, do Rio de Janeiro, do Rio Grande do Sul e de São Paulo. Na maior parte, são pessoas com ensino superior completo e renda mensal compreendida entre R$ 1 000,00 e R$ 5 000,00.[carece de fontes?]Ainda segundo a pesquisa, esse público gasta cerca de 50 horas semanais conectados à Internet. Cerca de 60% dele é considerado formadores de opinião: possuem um blog; conhecem a ferramenta através de amigos ou posts em outros blogs.
+Sobre o uso da ferramenta por empresas, a pesquisa informa um cenário muito favorável. A maioria (51%) dos usuários consultados disseram considerar interessantes os perfis corporativos, desde que sejam utilizados com relevância. Aproximadamente 50% dos usuários nunca participaram de ações promocionais. Ainda assim, consideram uma experiência interessante. Cerca de 30% já participaram de alguma ação publicitária e 70% seguem ou já seguiram algum perfil corporativo.
+Na pesquisa, foram consultados 3268 brasileiros por meio do site da Bullet e o Migre.me, no período de 27 a 29 de abril de 2009.
+Em janeiro de 2012, o X ganha uma nova versão.
+Em fevereiro de 2014, o X passa a ser reformulado, ficando mais moderno, e a opção conectar é extinta, dando lugar as notificações, a rede passa a ficar quase idêntica ao Facebook, a partir de 11 de abril, é alterada a opção do perfil, até ser oficializada no final de maio.
+
+
+== Política de verificação de contas ==
+
+O X possuí 3 tipos de selos de verificações de perfis, o azul, o dourado, e o cinza.Para que um perfil seja verificado com o selo azul, é necessário pagar o X Premium (anteriormente Twitter Blue), que custa entre R$ 440,00 e R$ 629,00 (por ano) ou R$ 42,00 e R$ 60,00 (por mês), e é o único método de consegui-lo. Qualquer perfil que obtenha os requisitos abaixo pode ter o selo azul:
+Possuir um nome de usuário e uma foto de perfil;
+A conta deve estar ativa nos últimos 30 dias para se inscrever no X Premium;
+A conta deve ter mais de 30 dias de criação antes de se inscrever no X Premium;
+A conta deve possuir um número de telefone confirmado;
+A conta não pode ter sido alterada recentemente;
+A conta não pode ter violado as regras de falsificação de identidade e spam.É possível perder o selo azul se:
+
+Violar as regras do X;
+Alterar o nome de usuário, a foto de perfil, ou o username (@) resultará em uma perda temporária do selo azul.Para obter o selo dourado ou de organização, é preciso que a conta seja pertencente a uma empresa ou organização conhecida e autêntica, além disso, para manter o selo, é preciso pagar R$ 5 300,00 por mês. É possível também que empresas que possuem o selo dourado adicionar contas afiliadas, que custa R$ 260,00 por membro por mês.Para obter o selo cinza, é preciso que a conta seja pertencente a um membro de algum governo, alguns exemplos são Presidentes, Senadores e Ministérios.
+Em 11 de abril de 2023, Elon Musk, o então CEO do Twitter, anunciou que os antigos verificados (chamados de legacy verified account), iriam perder o selo azul em 20 de abril de 2023, se não pagassem o Twitter Blue (atual X Premium). Com isso, vários usuários perderam o seu selo azul, agora, só sendo obtido através do X Premium.
+
+
+== Sede ==
+A sede do X, conhecida como X Headquarters, está localizada em San Francisco, California, nos Estados Unidos. A empresa foi fundada em 2006 por Jack Dorsey, Biz Stone e Evan Williams, e sua sede está situada em um edifício de escritórios no bairro de SoMa (South of Market). O endereço exato da sede do X é 1355 Market Street, Suite 900, San Francisco, CA 94103. O edifício é conhecido como Market Square.A sede do X é um local de trabalho moderno e vibrante, refletindo a cultura e os valores da empresa. Ela foi projetada com espaços abertos, áreas de convivência, salas de reuniões e escritórios, oferecendo um ambiente colaborativo para os funcionários. Há também instalações recreativas, como salas de jogos e áreas de descanso, que proporcionam um ambiente descontraído. Além disso, a sede do X abriga equipes de diferentes departamentos, incluindo engenharia, marketing, design, recursos humanos e suporte ao cliente. É nesse local que muitas das decisões estratégicas e operacionais do X são tomadas, e onde os funcionários trabalham para desenvolver a plataforma.
+
+Tamanho e layout: A sede do X ocupa vários andares do edifício Market Square em San Francisco. O espaço total da sede é de aproximadamente 24 000 metros quadrados. O layout é projetado para incentivar a colaboração e a comunicação entre os funcionários, com espaços abertos e áreas de convivência para encorajar interações informais.Design e decoração: O design da sede do X reflete a identidade visual da empresa. As cores e o estilo do logotipo do X são incorporados à decoração do espaço, com ênfase nas cores preto e branco. O ambiente é moderno e possui uma estética contemporânea.Características especiais: A sede do X conta com várias características especiais, como salas de reuniões temáticas, espaços de trabalho flexíveis e ambientes criativos. Além disso, há áreas de lazer e relaxamento, como uma sala de jogos, sala de ioga e espaços ao ar livre para os funcionários desfrutarem.
+
+
+== Controvérsias ==
+ 
+
+
+=== Viés político ===
+O X é acusado de possuir forte viés de esquerda, e frequentemente apoia pautas de esquerda e extrema-esquerda. Segundo o ex-CEO, Jack Dorsey, a rede social é tão liberal que seus funcionários conservadores não se sentem seguros para expressar suas opiniões.
+
+
+=== Limite de caracteres ===
+No início do funcionamento do site, algumas empresas mundiais proibiram o uso do X, alegando que a então limitação de 140 caracteres seria prejudicial para um jornalismo de qualidade. Além disso, o escritor, roteirista, jornalista, dramaturgo e vencedor de um prêmio Nobel de Literatura, José Saramago fez uma dura crítica ao X dizendo: "Os tais 140 caracteres reflectem algo que já conhecíamos: a tendência para o monossílabo como forma de comunicação. De degrau em degrau, vamos descendo até o grunhido.Em resposta ás críticas, em 2018 o número e caracteres dobrou de 140 para 280. E em 2022 passou ao limite de 4 000 caracteres.. Em outubro de 2023, o atual limite é 25 mil caracteres para assinantes do X Premium.
+
+
+=== Veiculação de notícias falsas e uso político violando regras da plataforma ===
+Escrevendo para o The Intercept Brasil em janeiro de 2021, Tatiana Dias responsabilizou o X pelo Colapso dos hospitais de Manaus, pois a empresa, assim como fez em relação a Donald Trump, demorou para tomar alguma atitude contra a disseminação de informações falsas, assim como também deixou que deputados bolsonaristas incentivassem a população de Manaus a saírem do lockdown: "Mas eu tendo a concordar com o meu colega Sam Biddle, do Intercept norte-americano: a remoção de Trump foi o ápice de quatro anos de covardia corporativa. As empresas têm regras claras, mas falham miseravelmente em aplicá-las".Na reportagem publicada pelo Aos Fatos em junho de 2021, foi mostrado que a rede social, mesmo afirmando que tinha reforçado as regras contra desinformação, ainda permite que circulem postagens com evidente desinformação. Mesmo sendo apontadas as fontes de desinformação, o X enviou uma nota a Aos Fatos dizendo que a "maior parte dos tweets [posts] [destacados pela reportagem] não viola sua política de informações enganosas sobre a Covid". Um dos posts citados foi o de Allan dos Santos do Terça Livre, que segue em circulação a mais de uma semana, mesmo sendo comprovado que a informação da postagem é falsa. Após a reportagem, o X removeu algumas publicações, mas manteve outras. Em 2021 foi noticiado também na imprensa alemã que o PT pagava influencers para fazer propaganda do partido o que ajudou o candidato em 2018 a alcançar o segundo turno.
+
+
+=== Invasão de crackers ===
+Em agosto de 2009, o X foi alvo do primeiro ataque de crackers. Quem tentava acessar ou logar no site, encontrou o site e sua conta sob o controle dos invasores, o que permaneceu por duas horas até sair do ar.
+Na madrugada do dia 18 de dezembro de 2009, ao clicar no X, o usuário era redirecionado para página com aviso de grupo chamado "Exército Cibernético do Irã". O site saiu do ar por cerca de uma hora, informa o portal da rede de TV norte-americana CNN. Em seu blogue oficial, o X disse que "os registros DNS (sigla em inglês para Sistema de Nomes de Domínios, que é um mecanismo que traduz o nome dos sites nos números que identificam as páginas) ficaram temporariamente comprometidos, mas agora foram consertados". A rede social não deu mais detalhes sobre o assunto.Coincidência ou não, o caso do Irã com X é antigo. O Governo do Irã foi envolvido no caso, pois em junho de 2009, através do X, ocorreram manifestações contra a reeleição de Mahmud Ahmadinejad, por conta das graves denúncias de fraude eleitoral, provocando inúmeras reações negativas internas e externas. O X foi bloqueado diversas vezes no país.
+Em 25 de março de 2010, a Polícia anunciou a prisão do "Hacker-croll", no centro da França, um pirata virtual que roubou as senhas de vários famosos no X, entre eles, o grupo musical britânico Duran Duran, o "presidente de uma grande empresa pública francesa" e o então presidente dos Estados Unidos, Barack Obama. O jovem de 25 anos foi detido após uma investigação conjunta entre autoridades da França e dos Estados Unidos, diz o jornal Le Parisien. A prisão do jovem só foi facilitada após criar blogues no qual narrava o sucesso das invasões, não só no X, mas também em outras redes sociais como o Facebook e em contas pessoais de e-mail.Às vésperas de 7 de setembro de 2010, hackers brasileiros aproveitaram uma falha de XSS para criar um worm que se espalhava automaticamente através de um link. Clicando no link o usuário enviava suas informações aos hackers que tratavam de manipular essas informações e forçar o envio de uma mensagem contendo o mesmo link no X do usuário. As mensagens enviadas variaram desde morte a fotos sensuais de artistas conhecidos.
+
+
+=== Casos de suicídios ===
+Em agosto de 2009, a publicitária brasileira de ascendência japonesa Marisa Toma, mais conhecida como Ematoma, de 33 anos, foi encontrada morta dentro do apartamento onde morava na Grande São Paulo. Segundo investigações, Marisa Toma cometeu suicídio, ao golpear faca no próprio peito. Antes de se matar, deixou recado suicida no X que recebe nome ematoma, Não deixou recado os motivos pelo suicídio, mas nas últimas semanas, ela estava deprimida. Era proprietária do site Objetos de Desejo. Depois que a morte dela foi divulgada, o perfil @ematoma saiu do ar.
+No dia 11 de fevereiro de 2010, o famoso estilista britânico, que assumiu a homossexualidade, Alexander McQueen, foi encontrado morto enforcado na sua residência em Londres. Segundo legistas, a morte ocorreu na véspera, no dia 10 de fevereiro. Uma semana antes, dia 2 de fevereiro, a mãe do estilista, Joyce McQueen, morreu e avisou no dia seguinte através do X: “Estou avisando todos os meus seguidores que minha mãe morreu ontem, e que se ela não tivesse dado à luz, vocês também não me teriam. Descanse em paz”, seguido de “Mas a vida deve seguir em frente!!!!!!!!!!!!!!!”. Desde então, nunca conseguiu superar a perda da mãe e entrou em depressão. No dia 7 de fevereiro, postou no X: "Noite de domingo, tem sido uma semana terrível, mas meus amigos têm sido ótimos, agora preciso de alguma forma me recompor.". Desde então não saiu da residência e se matou três dias depois. Após o anúncio da morte, o perfil do estilista do X foi retirado do ar no mesmo dia.
+
+
+=== Casos de preconceito ===
+Na eleição presidencial no Brasil em 2010, a candidata Dilma Rousseff obteve uma média de 70% de votos na região nordeste do país. Isso incentivou, logo após a divulgação dos resultados do pleito em 31 de outubro de 2010, uma série de mensagens preconceituosas contra nordestinos, considerados "culpados" pelo sucesso da candidata (apesar de uma análise criteriosa demonstrar que ela se elegeria mesmo sem os votos da região).Um dos casos de mais destaque foi o de Mayara Petruso, estudante de direito de São Paulo, que escreveu: "Nordestisto (sic) não é gente, faça um favor a Sp, mate um nordestino afogado!". Diante das denúncias e publicações da imprensa, no dia 3 de novembro a OAB de Pernambuco entrou com notícia-crime no Ministério Público Federal em São Paulo contra a autora das citadas mensagens. Mayara foi condenada, no dia 16 de maio de 2012, a 1 ano, 5 meses e 15 dias de reclusão pela juíza da 9ª Vara Criminal Federal de São Paulo. A pena, entretanto, foi convertida em multa de 500 reais e prestação de serviços comunitários, uma vez que Mayara não possuía antecedentes criminais e já havia sofrido "forte punição moral".No dia 4 de novembro, a ONG SaferNet entrou com mesmo processo no MPF, identificando 1 037 perfis de usuários que postaram mensagens preconceituosas contra nordestinos. Boa parte deles foi listada no Tumblr "Diga Não à Xenofobia". Os casos de preconceito no X acabaram repercutindo no exterior, com publicação de uma matéria no jornal The Telegraph, do Reino Unido.
+
+
+=== UberTwitter e Twidroyd ===
+Em 18 de fevereiro de 2011, o X suspendeu os aplicativos mobile UberTwitter e Twidroyd por violarem as normas de privacidade e de marca registrada. O X bloqueia centenas de aplicativos que violam as políticas do site, mas para este caso, o X tomou uma atitude diferente ao compartilhar esse fato com a mídia pois a suspensão afeta um grande número de usuários. O UberTwitter se manifestou em sua página oficial dizendo ter mudado algumas normas para voltar ao normal. Logo em seguida, o site e o X da empresa passa a se chamar "UberSocial". Já a partir de 21 de fevereiro de 2011 os aplicativos voltaram ao normal.
+
+
+== Aquisição por Elon Musk ==
+
+Em abril de 2022 foi anunciado que a rede social seria comprada por Elon Musk, CEO da SpaceX e da Tesla, Inc., por 44 bilhões de dólares e, com isso, a empresa deixaria de ser negociada na bolsa de valores. Contudo, em julho de 2022, Musk anunciou a desistência da compra. Em 12 de julho, o Twitter entrou com uma ação contra Musk, após o anúncio de desistência da compra.
+Em outubro de 2022, reverteu sua decisão e decidiu manter a proposta inicial de 44 bilhões de dólares (cerca de 235 bilhões de reais), legalmente, Musk tinha até o dia 28 de outubro para confirmar a aquisição caso quisesse evitar um julgamento movido pela empresa. Documentos internos obtidos pela mídia detalhavam planos de cortar aproximadamente 75% do quadro de funcionários da empresa, caso a aquisição ocorresse. A informação foi posteriormente desmentida por Musk.O Governo dos Estados Unidos, através do Comitê de Investimento Estrangeiro nos Estados Unidos (CFIUS), estaria considerando fazer revisões de segurança nacional nos empreendimentos de Musk, incluindo o acordo de aquisição do Twitter, o que poderia acabar vetando a compra.Em 26 de outubro, Musk visitou a sede da empresa, em São Francisco, na ocasião, registrada em vídeo, entrou carregando uma pia.
+Em 27 de outubro, afirmou através de um comunicado direcionado a usuários e anunciantes da rede social, que havia adquirido a plataforma, horas mais tarde, fontes próximas ao assunto confirmaram que Musk estaria no controle da empresa e que seu, até então, diretor-presidente, Parag Agrawal, o diretor financeiro, Ned Segal, a chefe de assuntos jurídicos e de políticas, Vijaya Gadde e o conselheiro geral, Sean Edgett, haviam sido demitidos.
+
+
+== Ver também ==
+Vine
+Identi.ca
+Microblogging
+SMS
+X Pro
+Twitpic
+Web 2.0
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+Sítio oficial (em alemão, em inglês, em castelhano, em português brasileiro, em francês, em italiano e em japonês)

@@ -1,0 +1,110 @@
+O Grande Colisor de Hádrons (português brasileiro) ou Grande Colisor de Hadrões (português europeu) (em inglês:  Large Hadron Collider) - LHC da Organização Europeia para a Pesquisa Nuclear, é o maior acelerador de partículas e o de maior energia existente do mundo. Seu principal objetivo é obter dados sobre colisões de feixes de partículas, tanto de prótons a uma energia de 7 TeV (1,12 microjoules) por partícula, ou núcleos de chumbo a energia de 574 TeV (92,0 microjoules) por núcleo. O laboratório localiza-se em um túnel de 27 km de circunferência, bem como a 175 metros abaixo do nível do solo na fronteira franco-suíça, próximo a Genebra, Suíça.
+
+
+== História ==
+O LHC começou a ser construído em 1998 com a colaboração de mais de 100 países, conta com um túnel de 27 km de circunferência, ao custo de aproximadamente 7,5 bilhões de euros em 2010, está funcionando desde 10 de Setembro de 2008. A primeira colisão entre prótons ocorreu em 30 de Março de 2010.
+
+
+=== Interrupção no funcionamento ===
+Em 19 de setembro de 2008, ocorreu um incidente no setor 3-4 do LHC que resultou em grande vazamento de hélio no túnel. Segundo uma nota de imprensa publicada pelo CERN no dia seguinte, foram feitas investigações preliminares que apontaram como provável causa do problema um defeito na ligação elétrica entre dois ímãs, o que causou a falha mecânica.A Organização informou na nota que o setor teria de ser objeto de reparos, o que interromperia o funcionamento do LHC por, no mínimo, dois meses. Os reparos demorariam apenas alguns dias, mas o setor onde ocorreu o incidente deve ser esfriado para tornar possível a manutenção, consequentemente levando mais tempo.
+
+
+=== O retorno ao funcionamento ===
+Depois de ficar desligado por quatorze meses, o LHC foi religado na sexta-feira, dia 20 de Novembro de 2009, segundo James Gilles, porta-voz do CERN.
+Os primeiros testes duram apenas uma fração de segundo, onde as partículas somente podem dar meia-volta ou uma volta em torno do anel do acelerador. A circulação de partículas no gigantesco equipamento começará em um primeiro momento em baixa energia, com 450 GeV, e quando os cientistas injetarem feixes em direções opostas se produzirão, a essa velocidade, as primeiras colisões.
+A partir de então, o experimento consistirá em ir aumentando progressivamente a potência da circulação dos prótons, até chegar ao momento mais esperado e temido por alguns: as primeiras colisões de partículas a velocidade próxima à da luz, cujos primeiros cálculos apontam para que possa ocorrer dois meses após seu religamento.
+Nesse momento, serão recriados os instantes posteriores ao Big Bang, o que dará informações chaves sobre a formação do universo e confirmará, ou não, a teoria da física baseada no Bóson de Higgs.Em 2016, os operadores de máquinas focaram no aumento da luminosidade para colisões próton-próton. O valor de cálculo foi atingido primeiro 29 de junho. Em 2017, a luminosidade foi aumentada ainda mais e atingiu o dobro do valor de design. O número total de colisões também foi maior do que em 2016. A operação física de 2018 começou em 17 de abril e parou em 3 de dezembro, incluindo quatro semanas de colisões entre chumbo e chumbo.  Em 2022 o LHC está saindo da hibernação gradualmente com feixes de prótons em energia relativamente baixa, mas eles aumentarão para uma energia recorde planejada de 13,6 trilhões de elétron-volts.Nos próximos anos, o maior acelerador de partículas do mundo será superalimentado, aumentando o número de colisões de prótons por segundo em um fator de dois e meio. Quando o trabalho estiver concluído em 2026, os pesquisadores esperam desbloquear algumas das questões mais fundamentais do universo. Quando foi desativado em dezembro de 2018, o LHC gerava cerca de 300 gigabytes de dados a cada segundo, totalizando 25 petabytes (PB) por ano.
+
+
+=== Run 3: terceira rodada operacional (2022) ===
+No Run 3, todos os experimentos do LHC estarão analisando territórios anteriormente inexplorados em várias frentes.
+
+
+== Características ==
+Instalado no túnel do anterior LEP (ver foto à direita), e depois de ter sido completamente esvaziado antes de ser preparado como LHC, tem forma circular e um perímetro de 27 quilômetros. Ao contrário dos demais aceleradores de partículas, a colisão será entre prótons (português brasileiro) ou protões (português europeu), e não entre pósitrons e elétrons (como no LEP), entre prótons e antiprótons (como no Tevatron) ou entre elétrons (português brasileiro) ou electrões (português europeu) e prótons (como no HERA). O LHC irá acelerar os feixes de prótons até atingirem 7 TeV (assim, a energia total de colisão entre dois prótons será de 14 TeV) e depois fá-los-á colidir em quatro pontos distintos. A luminosidade nominal instantânea é 1034 cm−2s−1, a que corresponde uma luminosidade integrada igual a 100 fb−1 por ano. Com esta energia e luminosidade espera-se observar o bóson de Higgs e assim confirmar o modelo padrão das partículas elementares.
+Sua construção e entrada em funcionamento foram alvo de um filme da BBC sobre um possível fim do mundo, e gerou alguma polêmica na Europa.
+
+
+== Constituição ==
+Possui um túnel a 100 metros ao menos debaixo da terra na fronteira da França com a Suíça, onde os prótons são acelerados no anel de colisão que tem cerca de 8,6 km de diâmetro.
+Amplificadores serão usados para fornecer ondas de rádio que são projetadas dentro de estruturas repercussivas conhecidas como cavidades de frequência de rádio. Exatamente 1232 ímãs bipolares supercondutores de 35 toneladas e quinze metros de comprimento agirão sobre as transferências de energias dentro do LHC.
+Os detectores de partículas ATLAS, ALICE, CMS e LHCb, que monitorizam os resultados das colisões, possuem mais ou menos o tamanho de prédios de cinco andares (entre 10 e 25 metros de altura) e 12 500 toneladas. O LHC custou cerca de três bilhões de euros ao contribuinte europeu.
+
+
+== Objetivos ==
+Um dos principais objetivos do LHC é tentar explicar a origem da massa das partículas elementares e encontrar outras dimensões do espaço, entre outras coisas. Uma dessas experiências envolve a partícula bóson de Higgs. Caso a teoria dos campos de Higgs estiver correta, ela será descoberta pelo LHC. Procura-se também a existência da supersimetria. Experiências que investigam a massa e a fraqueza da gravidade serão um equipamento toroidal do LHC e do Solenoide de Múon Compacto (CMS). Elas irão envolver aproximadamente 2 mil físicos de 35 países e dois laboratórios autónomos — o JINR (Joint Institute for Nuclear Research) e o CERN. Com o LHC também haverá pesquisas de novos eventos físicos.
+
+
+== Experiências não-LHC ==
+Enquanto a maioria dos esforços do CERN se concentram no LHC, continuam a fazer-se experiências com outros aceleradores e instalações o que ainda constituir uma atividade importante da organização. Trata-se de experiências com alvo fixo, onde um feixe de partículas é atirado contra um alvo que tanto pode ser um sólido como um líquido ou um gás.Detalhes sobre ACE, ALPHA, ASACUSA, ATRAP,  CAST, COMPASS, CLOUD, DIRAC  no wikilink do artigo principal
+
+
+== O LHC ==
+
+
+=== Em números ===
+Alguns valores relativos às características do LHC para permitir fazer-se uma ideia da sua enormidade e do que esses valores representam à escala 'humana' !
+
+Referência CERN- Public:
+
+
+=== Dos extremos ===
+A maior máquina do mundo.A circunferência exacta do LHC é de 26 659 m e contém 9 300 ímãs (magnetos). Além de ser o maior acelerador de partículas do mundo, unicamente uma oitava parte do seu sistema de criogenia já seria o maior 'frigorífico' do mundo!
+
+O mais frioTodos os magnetos são pré-refrigerados a -193,2 °C (80 K) utilizando 10 080 t de nitrogênio líquido, antes de ser cheio com 60 t de hélio líquido que os levam a -271,3 °C (1,9 K), quase o zero absoluto.
+
+O circuito mais rápido do mundoÀ sua velocidade máxima o trilião de protões lançados a 99,93 % da velocidade da luz, vão efectuar 11 245 vezes a volta do acelerador por segundo. Dois feixes de protões viajando cada uma energia máxima de 3,5 TeV, permitem assim a colisões frontais a 4 TeV, o que dará lugar a cerca de 600 milhões de colisões por segundo.
+
+O espaço mais vazio do sistema solar.Para evitar colisões com as moléculas de gás presente no acelerador, os feixes viajam num cavidade tão vazio como o espaço interplanetário, ao que se chama o 'ultravazio'. A pressão interna do LHC é de 10−13 atm, o que é seis vezes inferior à pressão existente na Lua.
+
+Os pontos mais quentes da galáxia no anel mais frio do universoO LHC é a máquina das temperaturas extremas. Quando dois feixes de protões entram em colisão, geram num espaço minúsculo, temperaturas mais de 100 000 vezes superiores às existentes no centro do Sol.
+Por outro lado, o sistema de distribuição criogénica mantém-no quase no zero absoluto.
+
+Os maiores e os mais sofisticados detectores.Para seleccionar e registrar os dados, no sentido de informação, dos acontecimentos (eventos) mais interessantes entre os milhões de colisões, os físicos e engenheiros construíram aparelhos gigantescos que medem os traços das partículas com uma precisão do mícron. Detectores como ATLAS e CMS estão equipados com sistemas electrónicos de lançamento de acções que medem o tempo de passagem de uma partícula a 1 x 10−12 do segundo. Estes sistemas também registam a posição das partículas ao 1 x 10−6 do metro. Tal rapidez, precisão e sensibilidade para pequenos eventos é necessária para se poder ter a certeza que um acontecimento registrado nas diferentes 'camadas' do detector é sem dúvida o mesmo.
+
+O mais potente supercomputador
+A aquisição de dados de cada uma das grandes experiências do LHC poderiam encher 100 000 DVD de dupla camada de uma capacidade unitária de 8,5 GB por ano. A fim de permitir a cerca de 7 000 físicos do mundo inteiro a participar à análise desses dados durante os próximos quinze anos, a duração prevista do LHC, dezenas de milhares de computadores dispersos pelo mundo serão utilizados no quadro de uma rede informática descentralizada e chamada a 'Grelha'.
+Referência CERN- Public:
+
+
+=== E preços ===
+Este comparativo mostra diferentes despesas com outros projectos não forçosamente científicos e onde se vê que o seu custo é equivalente a três arranha-céus ou a duas estações de F1. Aliás o orçamento de uma grande equipa de F1 é equivalente ao custo total do material das experiência ATLAS ou CMS
+
+
+=== E datas ===
+A ideia do Grande Colisor de Hadrões (LHC) surgiu no princípio dos anos 80 do século XX quando o LEP Grande Colisor de Elétrons e Pósitrons, o precedente grande acelerador de CERN, ainda estava em … construção, mas os cientistas já tinham começado a pensar no 'após LEP' reutilizando o seu túnel de 27 km para aí instalar uma máquina muito mais potente.
+Fazer desse projecto científico ambicioso uma realidade, veio a tornar-se uma tarefa altamente complexa. Construção civil, tecnologia na ponta do progresso, novas abordagens de armazenamento de dados informáticos e análise de dados; um grande número de pessoas trabalharam arduamente durante anos para conseguir tais resultados:
+
+1984 : um simpósio em Lausana na Suíça marca o início oficial do projecto  LHC;
+1989 : aparecem os primeiros embriões de colaboração;
+1992 : uma reunião em Évian-les-Bains, na França, marca o início das experiências LHC;
+1994 : o Conselho do CERN aprova a construção do LHC;
+1995 : é publicado o estudo da concepção técnica do LHC;
+2000 : chega o primeiros dos 1 232 ímãs dipolares principais, de série;
+2005 : realiza-se a primeira interconexão entre dois ímãs. Para realizar as 1 700 interconexões do LHC, serão necessárias 123 000 operações;
+2006 :  começo da construção do Centro de Controlo do CERN (CCC) que reúne todos as antigas salas de controlo dos aceleradores, da criogenia e da infra-estruturas;
+termina a construção do maior 'refrigerador' do mundo com 27 km de linhas criogênicas para o transporte do hélio gasoso ou líquido para arrefecer os ímãs supracondutores;
+termina a fabricação dos ímãs do LHC com a entrega do último dos 1 232 ímãs dipolares de 15 m de comprimento que serão utilizados para guiar os feixes assim como os 392 quadripolos de 5 ou 7 m de comprimento;
+2008 : os 27 km do LHC são refrigerados a -271 °C, logo a dois graus acima do zero absoluto;
+as partículas circulam pela primeira vez no LHC;
+dois pacotes de partículas aceleradas na cadeia de dos aceleradores do CERN são enviados nos dois sentidos de circulação do LHC - em sentidos contrários;
+2009 : depois de reparado o incidente de Setembro 2008, o LHC arranca novamente e é observada a primeira colisão a 1,18 TeV em Novembro;
+2010 : é atingida a energia de 3,5 Tev e nesse mesmo mês de Março é assinalada a primeira colisão, a uma energia total de 7 Tev!Referência CERN- Bulletin:
+
+
+== Ver também ==
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+«LHC web site» (em inglês) 
+«CERN- Public, The LHC» (em inglês). ou em «CERN- Public, Le LHC» (em francês)  
+«CERN- LHC Milestoces (Fr e En)» 
+«Modelo do LHC no Google Earth» 
+«A máquina de brincar de Deus - Revista Veja» 
+«Primeira imagem gerada no Grande Colisor de Hádrons - TechZine» 
+«CERN Courier» (em inglês) 
+Divulgação :  «Aventura das Partículas»

@@ -1,0 +1,64 @@
+Uma pista de pouso e decolagem (português brasileiro) ou pista de aterragem e descolagem (português europeu) é uma área plana de asfalto, concreto, terra, grama ou pedra, designada ao pouso e decolagens de aviões. São partes indispensávelisde quaisquer aeroportos, uma vez que aeronaves precisam percorrer uma certa distância no chão antes de alçar voo ou para reduzir sua velocidade, numa operação de aterrissagem.
+Pistas de aeroportos precisam ser longas o suficiente para permitir operações seguras de pouso e decolagem, e eventuais casos de abortagem de decolagem e arremetida. Para o auxílio da movimentações de aeronaves em terra (após um pouso ou antes de uma decolagem, por exemplo), existem as taxiways, pistas de auxílio que agilizam o tráfego de aeronaves no solo (táxi).
+Pistas de pouso e decolagem precisam ser construídas levando-se em conta o padrão dos ventos da região: os ventos precisam ser paralelos à pista em pelo menos 95% do tempo, para a segurança de uma operação de pouso ou decolagem, onde ventos laterais nunca são bem-vindos; quando acontecem, criam turbulência na aeronave, aumentando muito as probabilidades de um acidente. Quando uma dada região não possui constantes ventos paralelos à pista de pouso, a construção de uma nova pista, em um ângulo perpendicular à primeira, é aconselhada. Birutas indicam a atual direção do vento, e ajudam funcionários da torre de controle em fazer as melhores decisões possíveis (ex, pista e cabeceira a ser usada).
+A construção de uma nova pista, paralela à outra(s), pode ser requerida quando um certo limite de operações de pouso e decolagem (por hora) é alcançado. Pistas paralelas permitem um número maior de operações horárias, e quando possuem distância suficiente entre si (735 metros, pelo menos), permitem operações simultâneas de pouso e decolagem.
+Muitos aeroportos de grande porte possuem várias pistas que correm em várias direções diferentes e/ou várias pistas que correm paralelamente entre si, para permitir uma maximização segura da capacidade de operações horárias.
+
+
+== Operações de pouso e decolagem ==
+Uma operação de pouso e decolagem é sempre melhor realizada quando o vento flui num sentido oposto e mais ou menos paralela à direção da aeronave, para segurança, estabilidade e máxima sustentação. Ventos laterais e opostos em tais delicadas operações causam turbulência na aeronave, e em casos extremos (por exemplo, aviões pequenos, ventos muito fortes ou erro mecânico ou humano) podem causar um acidente, muitas vezes, com consequências fatais.
+Vários aeroportos relativamente movimentados possuem balizamento noturno, permitindo operações de pouso e decolagem à noite.
+
+
+== Nomenclatura ==
+As pistas são nomeadas pela direção de suas cabeceiras, em relação à direção em relação ao polo norte magnético em que elas apontam, em graus, arredondado para o mais próximo múltiplo de 10, e letras, à direita do número: L (left - esquerda), C (central) e R (right - direita), quando o aeroporto possui pistas paralelas (e, neste caso, as letras servindo para a identificação das pistas paralelas, uma vez que a numeração de suas cabeceiras são a mesma). Note que, por serem exatamente opostas entre si (180º), o número de dada cabeceira pode ser encontrada pela adição ou subtração de 18.
+Por exemplo, dadas duas pistas paralelas 22L/4R e 22R/4L, 22 indica que estas cabeceiras possuem um ângulo de 215 a 224 graus em relação a ao polo norte magnético, tendo como grau 0/360 o norte e 180 o sul, e 4 (35 a 44 graus) indica a cabeceira oposta. Como são duas pistas paralelas, as letras identificam as pistas.
+
+
+== Pavimentação ==
+As pistas de pouso e decolagem têm seu pavimento caracterizado de duas formas, dependendo da resistência do piso da pista.
+Se a resistência for de até 5700 kg (12500 lb), faz-se a caracterização com base no peso máximo de decolagem da aeronave e na pressão máxima admissível dos pneus na pista, nesta ordem. Por exemplo:
+4000 kg/0.50 Mpa
+Para pistas com capacidade de carga superior, utiliza-se uma legenda que descreve o Número de Classificação de Pavimentos (do inglês, Pavement Classification Number - PCN), o tipo de pavimento, a resistência do subleito, a pressão máxima admissível dos pneus nas pistas e o método de avaliação do pavimento. Um exemplo da legenda segue abaixo, bem como seu significado:
+85/F/B/W/T
+
+PCN - Número de Classificação de Pavimentos (PCN):
+Cada nave tem um ACN - Número de Classificação de Aeronaves (do inglês, Aircraft Classification Number). Somente aeronaves que tenham ACN menor ou igual ao PCN da pista podem pousar nela ou decolar dela sem causar danos ao pavimento. O ACN é determinado pelo fabricante da aeronave de acordo com regras pré-estabelecidas.
+Tipo de pavimento:
+F – pavimento flexível (asfalto geralmente)
+R – pavimento rígido (concreto geralmente)
+Resistência do Subleito:
+A – alta
+B – média
+C - baixa
+D - ultra-baixa
+Pressão máxima admissível dos pneus
+W - alta (sem limite)
+X – média (até 1,5 MPa)
+Y - baixa (até 1,0 MPa)
+Z - muito baixa (até 0,5 MPa)
+Método de avaliação:
+T – Técnica: consiste no estudo específico das características do pavimento e na aplicação da tecnologia do comportamento dos pavimentos;
+U – Prática: consiste na utilização do conhecimento do tipo e peso de aeronaves que, em condições normais de emprego, o pavimento resiste satisfatoriamente, dotada de balizamento noturno.
+
+
+== Seções de uma pista ==
+A pista é marcada com marcas, números e linhas centrais que marcam a pista que é utilizada em condições normais, mais uma área de escape livre de obstáculos.
+Os blast pads são as áreas marcadas em amarelo, utilizadas para pousos de emergência, a superfície é mais fraca que a da pista principal. As limiares deslocadas são áreas antes da pista, utilizadas para taxiamento, não são recomendadas para impactos de pousos.
+
+
+== Iluminação ==
+Iluminação é utilizada para pousos durante a noite ou em durante chuvas ou neve. É obrigatório todo aeroporto apresentar o seguinte conjunto de luzes:
+
+REIL (Runway end identifier lights) - Luzes piscantes sincronizadas instaladas antes da pista.
+End lights - Luzes que marcam o início da pista
+Edge lights - Luzes elevadas que marcam as bordas da pista
+RCLS (Runway Centerline Lighting System) - Luzes que marcam o meio da pista, são colocadas a 15m de distância uma da outra
+TDZL (Touchdown Zone Lights) - linas compostas por 3 luzes brancas com intervalos de 30 e 60 metros, marcam a área de toque da aeronave.
+Luzes de taxiamento - Colocadas na área de taxiamento da pista.
+LAHSO (Land and Hold Short Lights) - Luzes piscantes que marcam o cruzamento de pistas.
+ALS (Approach lighting system) - Luzes que indicam aproximação da pista.
+
+
+== Comprimento ==
+Pistas de pelo menos 1800m de comprimento são adequadas para aeronaves de peso abaixo de 90 toneladas, enquanto que aeronaves maiores precisam de pelo menos 2400m  de comprimento. Em maiores altitudes e temperaturas esses comprimentos devem ser maiores.

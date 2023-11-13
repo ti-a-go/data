@@ -1,0 +1,33 @@
+Trialometano (THM) é um composto químico, trissubstituído de metano (CH4), em que três dos quatro átomos de hidrogênio são trocados por átomos de halogênios (elementos do grupo 17 da tabela periódica). Muitos trialometanos são usados na indústria como solventes ou fluido refrigerante. THMs também são poluentes ambientais, e muitos são considerados cancerígenos. Trialometanos com todos os mesmos átomos de halogénio são chamados halofórmios.
+CH4 (Metano) ---> CHX3 (Trialometano), em que X é um halogênio.
+Os três átomos de halogênio não precisam ser iguais.
+
+
+== Tabela de trialometanos comuns ==
+Os THMs constituem um grupo de compostos orgânicos que, como indica seu nome, se consideram derivados do metano (CH4) em cuja molécula três de seus quatro átomos de hidrogênio foram substituídos por um igual número de átomos dos elementos halógenos (cloro, bromo e iodo). Estes três átomos dehidrogênio podem estar substituídos por uma só classe de halógenos como é o caso do triclorometano ou clorofórmio, ou por dois diferentes elementos formando o bromodiclorometano ou por cada um dos três como se observa no iodobromoclorometano. Alguns do grupo possuem nomes especiais: clorofórmio, bromofórmio e iodofórmio. Ainda que para ser denominados sejam vistos como precedentes do metano, este gás nada tem a ver com sua formação real nas águas que são desinfetadas com cloro; pois neste meio eles se originam a partir de produtos orgânicos muito mais complexos que o metanol, que são de ocorrência comum nas águas superficiais, os chamados ácidos húmicos e fúlvicos.
+Environmental Protection Agency (EPA)
+
+
+== Usos industriais ==
+
+
+=== Fluido refrigerante ===
+Trifluorometano e clorodifluorometano são ambos usados como fluido refrigerante em algumas aplicações. Trialometanos lançado ao ambiente quebram mais rápido do que os clorofluorocarboneto (CFC), fazendo, assim, muito menos dano à camada de ozônio. Clorodifluorometano é um HCFC, ou hidroclorofluorocarboneto, enquanto fluorofórmio é um HFC, ou hidrofluorocarboneto.
+
+
+=== Solventes ===
+O clorofórmio é um solvente muito comum utilizado em química orgânica. É um solvente menos dipolo do que a água, bem adequada para dissolução de muitos compostos orgânicos. Apesar de ser tóxico e potencialmente cancerígeno, clorofórmio é menos perigoso do que o tetracloreto de carbono.
+
+
+== Poluentes da água ==
+Trialometanos são formados como subprodutos do cloro, usado em purificação de água. Eles representam um grupo de produtos químicos geralmente referidos como subprodutos de desinfecção. Eles são o resultado da reacção de cloro ou de bromo com a matéria orgânica presente na água a ser tratada. Os THMs produzidas têm sido associados por meio de estudos epidemiológicos com alguns efeitos adversos à saúde. Muitos governos estabeleceram limites sobre a quantidade de THMs permitida na água potável. No entanto, trialometanos são apenas um grupo de muitas centenas de possíveis subprodutos de desinfecção - a grande maioria dos quais não são monitorados - e que ainda não foi claramente demonstrado qual destes é o candidato mais plausível de efeitos adversos na saúde. Nos Estados Unidos, a EPA limita a concentração total dos quatro componentes principais (clorofórmio, o bromofórmio, bromodiclorometano, dibromoclorometano e), referidos como trihalometanos totais (TTHM), até 80 partes por bilião em água tratada.
+Alguns dos THMs são muito voláteis e podem facilmente vaporizar para a atmosfera. Isso torna possível para inalar THMs durante o banho, por exemplo. Em nadadores, a captação de TAM é maior através da pele, com a absorção dérmica respondendo por 80% da absorção de THM. Exercícios em piscina clorada aumenta a toxicidade de uma atmosfera de piscina clorada "segura" com efeitos tóxicos dos cloro e subprodutos, maior em nadadores jovens do que em nadadores mais velhos.Estudos em adolescentes têm mostrado uma relação inversa entre os níveis séricos de testosterona e da quantidade de tempo gasto em piscinas públicas. Os subprodutos de cloração foram ligados como causa provável.
+
+
+== Ver também ==
+Haloalcano
+Reação do halofórmio
+Halogênio
+
+
+== Referências ==

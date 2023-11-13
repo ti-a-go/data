@@ -1,0 +1,50 @@
+Em física, a posição de um corpo é a especificação de seu lugar no espaço. A identificação da posição é feita a partir de um vetor, denominado vetor posição, que pode ser escrito em função de um sistema de coordenadas de um certo referencial. A unidade de medida da posição no Sistema Internacional de Unidades é o metro.
+
+
+== Nomenclatura ==
+Para localizar a posição de um objeto no espaço são necessárias três medidas. Existe certa liberdade em como uma pessoa escolhe estas três medidas, chamadas de coordenadas do objeto. Isto da origem a diversos sistemas de coordenadas possíveis e todos são igualmente bons. No entanto, em alguns casos, a escolha do sistema de coordenada pode simplificar bastante a solução de um problema.
+Pelo fato de termos que utilizar três medidas para localizar o objeto dizemos então que o espaço tem três dimensões. Se o objeto estivesse sobre uma mesa, e estivéssemos apenas interessado na posição do mesmo sobre ela, poderíamos descartar uma das medidas e portando estaríamos lidando com um espaço com duas dimensões.
+
+
+== Escolha da origem ==
+Para localizar os objetos de seu interesse, primeiro é necessário escolher uma origem. A origem é o ponto de onde se sairá medindo as distâncias até os objetos. Qualquer ponto serve para a origem, mas algumas vezes existem pontos especiais que simplificam a tarefa. Por exemplo em uma sala, os cantos da sala podem ser ótimos pontos para se escolher a origem.
+
+
+== Sistema cartesiano ==
+Neste sistema utilizamos três distâncias de um ponto até a origem. Considerando que você esta em uma sala, estas três distâncias podem ser:
+
+A altura do objeto do solo (coordenada z)
+A distancia do objeto até uma das paredes que passa pelo canto escolhido como origem (coordenada x) e
+A distância até a parede adjacente a origem (coordenada y).A ordem em que estas distâncias é escolhida não é relevante, desde que se mantenha a consistência nas medidas. Para simplificar a contabilidade destas medidas utiliza-se uma lista com os valores. Suponha que os valores encontrados sejam, z = 1 metro, y = 3 metros, e x = 2 metros. Podemos escrever a posição do objeto desta forma:
+
+  
+    
+      
+        
+          
+            
+            
+          
+        
+        (
+        x
+        ,
+        y
+        ,
+        z
+        )
+        =
+        (
+        2
+        ,
+        3
+        ,
+        1
+        )
+      
+    
+    {\displaystyle {\frac {}{}}(x,y,z)=(2,3,1)}
+  O motivo de escrever as medidas desta forma é para permitir utilizarmos o conceito de vetores. Com este formalismo podemos não só localizar os objetos, como também calcular a distância entre eles em um dado instante. Além disto, após aprendermos como trabalhar com estes conceitos em duas ou três dimensões podemos facilmente generalizar estas ideias para qualquer dimensão. Isto é, com o mesmo raciocínio usado aqui e uma notação 'esperta', podemos calcular distâncias, e muito mais, em qualquer dimensão.  
+
+
+== Referências ==

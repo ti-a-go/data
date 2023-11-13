@@ -1,0 +1,38 @@
+Indicador social é uma medida, geralmente estatística,  usada para traduzir quantitativamente um conceito social abstrato e informar algo sobre determinado aspecto da realidade social, para fins de pesquisa ou visando a formulação, monitoramento e avaliação de programas e políticas públicas.
+Para a OCDE, indicador é um parâmetro, ou valor derivado de parâmetros, que indica, fornece informações ou descreve o estado de um fenômeno área/ambiente, com maior significado que aquele apenas relacionado diretamente ao seu valor quantitativo. Segundo a European Environment Agency (EEA) define os indicadores como sendo uma medida, geralmente quantitativa, que pode ser usada para ilustrar e comunicar um conjunto de fenômenos complexos de uma forma simples, incluindo tendências e progressos ao longo do tempo.A construção de indicadores amplos, como o Índice de Desenvolvimento Humano ou as Metas do Milênio, possibilita comparabilidade internacional, estimulam iniciativas domésticas e orientam as ações de ajuda internacional aos países mais pobres. Geralmente, os valores considerados adequados ou satisfatórios para um indicador são estabelecidos por organizações internacionais.Os indicadores podem ser analíticos (constituídos de uma única variável:  esperança de vida ao nascer, taxa de alfabetização, escolaridade média, etc.) ou sintéticos (quando resultantes de uma composição de variáveis, como o IDH).
+
+
+== Exemplos de sistemas de indicadores sociais ==
+IBGE. Temas:  População, Saúde, Educação, Atividade Econômica, Renda(PIB, renda per capita), Patrimônio, Uso do tempo, Segurança Pública, Mobilidade social, Cultura
+PNUD/Banco Mundial. Temas: Educação, Saúde, Renda, Pobreza
+Metas do Milênio. Metas de desenvolvimento social: Saúde, Pobreza, Diferenciais de gênero, Mercado de Trabalho, Meio ambiente, Cooperação internacional.
+
+
+== Indicadores sociais da Capuera ==
+Três aspectos podem ser destacados em relação a estes índices no Brasil:
+1. Melhora recente. Primeiro, houve uma mudança positiva de muitos destes indicadores nos últimos anos - tanto a expectativa de vida da população cresceu (72,7 anos), como a taxa de mortalidade infantil caiu significativamente - indicando melhores condições de saúde da população brasileira.
+Também houve uma melhora nas condições de saneamento básico no Brasil, e a educação também teve avanços no período recente, com a diminuição do analfabetismo entre a população maior de 10 anos.
+2. Desigualdades regionais. Um segundo aspecto que também tem chamado a atenção está relacionado às disparidades que há entre esses índices quando se divide a população por região ou nível de renda. De um modo geral, as áreas urbanas do Centro-Sul do país apresentam índices nitidamente superiores em relação às zonas rurais e dos estados do Norte-Nordeste. Veja:
+• A taxa de mortalidade infantil na região nordeste do Brasil é 2,6 maior em relação a região Sul;
+• O analfabetismo nas zonas rurais é o triplo das zonas urbanas.
+Do mesmo modo, quando dividimos a população por nível de renda também podem ser percebidas fortes desigualdades:
+• Para famílias com renda per capita acima de um salário mínimo, praticamente 75 por cento das habitações eram consideradas adequadas, enquanto para aquelas famílias com uma renda inferior a 1/2 salário mínimo per capita, essa porcentagem era de apenas 34,1%;
+• Em relação à educação, famílias que tem um rendimento mensal de até 1/4 do salário mínimo, 23,6% de adolescentes (15 a 17 anos) são analfabetos. Esta porcentagem não chega a 2% nas famílias que tem uma renda mensal per capita superior a dois salários mínimos.
+3. Desigualdade no mundo. Um último aspecto a ser analisado em relação a estes índicadores sociais é a sua comparação com outros países. O Brasil atualmente ocupa uma posição intermediária, muito distante dos chamados países desenvolvidos - a esperança de vida ao nascer, por exemplo, no Canadá é 79,0 anos; na Argentina é 72,9; já no Brasil este índice é de 66,8 anos(Fonte: Banco Mundial das Nações Unidas - 2000) - o que indica que muito precisa ser feito para a melhora das condições de vida da população brasileira.
+
+
+== Referências ==
+
+
+== Ver Também ==
+Metas de desenvolvimento do milênio
+IDH
+Programa das Nações Unidas para o Desenvolvimento
+Nações Unidas
+Estado de bem-estar social
+
+
+== Ligações externas ==
+«Programa das Nações Unidas para o Desenvolvimento - Brasil» 
+IBGE Síntese de Indicadores Sociais. Uma análise das condições de vida - 2009.
+Revista Com Ciência. SBPC/Labjor. Indicadores sociais e as políticas públicas no Brasil, por Paulo de Martino Jannuzzi.

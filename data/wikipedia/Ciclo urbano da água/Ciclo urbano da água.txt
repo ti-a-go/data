@@ -1,0 +1,20 @@
+Ciclo urbano da água corresponde a todas etapas/fases de utilização da água desde o momento em que é captada até ao momento da sua restituição à natureza.
+
+Fases principaisCaptação de água - pode ser captada em albufeiras (águas superficiais), subterrâneas (lençóis freáticos);
+Tratamento de água para o uso pré-destinado (e.g.: água para consumo humano, água industrial, outros). O tratamento é feito numa ETA (Estação de Tratamento de Água).Algumas operações e processos unitários em tratamento de água são: Pré-oxidação através de pré-ozonização (ozono) ou pré-cloragem (cloro; exceto no Brasil, a pré-cloragem está a cair em desuso relativamente ao tratamento de águas superficiais para produção de água para consumo humano, uma vez que, o contacto do cloro com matéria orgânica desenvolve um composto tóxico designado trihalometano); coagulação; floculação; decantação; filtração; desinfecção.
+
+Adução de água - a água é conduzida no espaço por adutoras (transporte no espaço). A adução pode ser gravitica ou pressurizada. A pressurização é conseguida com uma Estação elevatória de água;
+Armazenamento de água - armazenamento em reservatórios para abastecer quando é necessária (transporte no tempo);
+Distribuição de água - a água é conduzida pela rede de distribuição até ao ponto de consumo;
+Drenagem de efluentes (o mesmo que:Drenagem de águas residuais) - após a sua utilização a água carregada dos mais diversos compostos (dissolvidos, particulados e grosseiros) é drenada da cidade;
+Tratamento de efluentes (o mesmo que: Tratamento de águas residuais) para que a qualidade final do efluente seja compatível com a capacidade de biodegradação do meio de descarga. O tratamento é feito numa ETAR (Estação de Tratamento de Águas Residuais);Algumas operações e processos unitários em tratamento de águas residuais são: gradagem; decantação (primária e secundária); Tratamento Biológico (lamas activadas, leitos percladores, biodiscos, lagunagem, outros); desinfecção (cloro, UV ou ultravioleta);  descloragem.
+
+Descarga ou deposição - ponto onde a água volta a ser restituida à natureza.
+
+
+== Ver também ==
+Ciclo da água
+Estação de Tratamento de Água
+Estação de Tratamento de Águas Residuais
+Tratamento de efluentes
+Abastecimento público de água

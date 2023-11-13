@@ -1,0 +1,95 @@
+O sistema de numeração romana (algarismos romanos ou números romanos) desenvolveu-se na Roma Antiga, e foi utilizado em todo o Império Romano. É composto por sete letras maiúsculas do alfabeto latino: I, V, X, L, C, D e M.
+
+
+== Números inteiros ==
+Alguns valores inteiros são representados por letras romanas específicas. São eles:
+
+Para representar outros números, são escritos alguns algarismos, começando do algarismo de maior valor e seguindo a seguinte regra:
+
+Algarismos de menor ou igual valor à direita são somados ao algarismo de maior valor;
+Algarismos de menor valor à esquerda são subtraídos do algarismo de maior valor.Assim, XI representa 10 + 1 = 11, enquanto XC representa 100-10 = 90. Há ainda a regra adicional de que um algarismo não pode ser repetido lado a lado por mais de três vezes. Assim, para representar 300, podemos usar CCC; para representar 400, entretanto, precisamos escrever CD.
+Para cifras elevadas, utiliza-se um travessão por cima da letra, que representa sua multiplicação por 1000. Assim, C corresponde ao valor 100 000 (100 x 1 000) e M corresponde ao valor 1 000 000 (1 000 x 1 000). Desta forma, o maior número que podemos escrever é 3 999 000, que corresponde a MMMCMXCIX. Vale lembrar que esse sistema não permite escrever números superiores a 3 999 que não terminem em 000.
+
+
+=== Formas alternativas ===
+A forma padrão hoje conhecida como a numeração romana reflete o uso moderno e não é e nem foi universal. O uso na Roma Antiga era bem variado e isso continuou inconsistente até hoje.As inscrições Romanas, principalmente em contextos oficiais, davam preferência a formas aditivas como IIII (4) e VIIII (9) em lugar ou até em uso alternativo às formas subtrativas como IV e IX. Ambos métodos, aditivos e substrativos, aparecem em documentos da era do Império Romano, mesmo de formas diferentes em alguns documentos. Também se viam "Substrativos duplicados", tais como XIIX ou mesmo IIXX em lugar de XVIII. Por vezes V e L não eram usados, mas se viam formas como IIIIII e XXXXXX em lugar de VI e LX.
+Tal variação e inconsistência continuou até o período medieval e tempos modernos, até mesmo se tornar convencional. Há mostradores de relógios que usam numerais romanos para mostrar “IIII” para quatro horas, mas “IX” para nove horas, uma prática usual em relógios mais antigos como o da Catedral de Wells. No entanto, isto está longe de ser universal: por exemplo, o relógio do Palácio de Westminster em Londres  (o "Big Ben ").
+Similarmente, no início do século XX, havia diferentes representações para 900 (comumente CM). Por exemplo, 1910 é representado no Admiralty Arch, Londres, como MDCCCCX em lugar de MCMX, enquanto que na entrada norte do Saint Louis Art Museum, 1903 é escrito como MDCDIII e não MCMIII.
+
+
+== História ==
+
+
+=== Origem ===
+Os números romanos eram descendentes dos números etruscos. A civilização etrusca dominava politicamente a região onde hoje é a Itália até o domínio dos romanos. O sistema etrusco era aditivo, sem subtrações (como é possível nos números romanos), com símbolos para 1, 5, 10, 50, 100, 500, ... e assim sucessivamente. Os símbolos para metades das potências de 10 eram feitos, normalmente, pela metade do símbolo da potência correspondente. Além disso, os numerais etruscos eram escritos da direita para a esquerda. Apenas I e X eram letras do alfabeto, o restante era composto de símbolos independentes.Os numerais romanos empenham algumas diferenças em relação aos numerais etruscos. Eram escritos da esquerda para a direita, e era possível fazer subtração: poderia-se colocar potências de 10 à esquerda de números maiores, indicando uma subtração (mas não se pode colocar qualquer número à esquerda: não é possível fazer VC para 95). Porém, não era prática comum utilizar as subtrações: era comum escrever IIII para 4, e até mesmo não utilizar os valores de metade de potência: usando XXXXXX para 60 em vez de LX. Na verdade, o uso da subtração era mais comum em fins de linha de inscrições, para economizar o espaço, e em textos informais.Os símbolos romanos não se originaram diretamente das letras do alfabeto. C é uma redução do antigo símbolo etrusco, e os símbolos de L e D para 50 e 500 só começaram a ser utilizados no fim da República. Por fim, M para 1000 só começou a ser utilizado a partir da Idade Média.
+
+
+===== Marcas de contagem =====
+Por essa hipótese, a prévia numeração Etrusco-Romana em verdade se derivaria dos entalhes (traços retilíneos) das marcas de contagem em varetas, as quais continuaram a ser usadas por pastores Italianos e Dálmatas até o século XIX. Observe-se que os quatro primeiros símbolos da numeração Romana, I, V, X, L são formados por traços retos, podendo até o C ser feito por três traços. Assim, I não descende da letra I mas de um traço transversal entalhado numa vareta. A cada cinco entalhes vinha um corte duplo (um V) e a cada dez entalhes havia um corte em cruz (como um X). Havia entalhes duplos como, por exemplo, ⋀, ⋁, ⋋, ⋌, etc.).  Isso produziu um sistema parcialmente posicional: O número Oito numa vara de contagem era representado por 8 entalhes retos, sendo IIIIΛIII ou oito traços (sem o Λ) lado a lado. Isso pode  ser simplificado para ΛIII (ou VIII), uma vez que o Λ implica quatro traços antes dele. Assim, dezoito seria o oitavo entalhe depois do primeiro dez, o qual seria abreviado como X, assim sendo XΛIII. De modo similar, o número quatro numa vara era um entalhe reto antes do Λ (V), sendo escrito como IIII ou IΛ (IV). O sistema não era nem aditivo nem subtrativo nessa concepção, mas Ordinal. Com os traços sendo representados por escrita, tem-se a fácil identificação com as letras romanas I, V e X.
+As quantias V ou X sobre a vara implicariam num entalhe adicional, foi o caso de 50 escrito de forma variada como N, И, K, Ψ, U, U, ⋔, etc., mas possivelmente o uso mais frequente foi o “pé de galinha” (ᗐ) com um “I” sobre um “V” . Essa forma do 50 foi “achatada” para ⊥ (um T invertido) ao tempo de Augusto, simplificando-se logo para L. De modo similar, 100 já foi simbolizado de várias formas com traços Ж, ⋉, ⋈, H, ou qualquer outro dos símbolos para 50 com um traço adicional. A forma Ж (X mais I) veio a predominar. Essa já foi também escrita como >I< ou mesmo ƆIC, essa última abreviada como Ɔ ou C, com C vindo a dominar como uma letra do latim "centum".
+As centenas para V ou X eram marcadas com algo adicional. Desse modo 500 seria formado por um Ɔ sobreposto a um ⋌ ou ⊢, se tornando um Ð  ou um D, já ao tempo de Augusto, com influência da letra D, mais tarde identificado com essa letra. Numa origem alternativa, "mil" era (I ou mesmo CIƆ ou CꟾƆ); daí, a metade de mil, quinhentos, ficou sendo a metade direita do símbolo, ou seja I) ou IƆ ou ꟾƆ, o que pode ter sido convertido para D. Essa, ao menos, foi a etimologia dada a ele depois.
+O número 1 000 era um X dentro de um quadrado ou um círculo (Ⓧ ou ⊕), que durante a era de Augusto foi parcialmente identificado como a letra grega Φ (phi). Com o tempo, esse símbolo foi mudado para Ψ e também ↀ. Esse último depois evoluiu para ∞, depois ⋈ e finalmente para M, sob influência do Latim “mil”.
+
+
+===== Sinais com as mãos =====
+Alfred Hooper sugeriu uma alternativa para a origem da numeração romana para pequenas quantidades. Hooper defende que os dígitos têm relação com a mão e seus dedos usadas para contagem. Por exemplo, os números I, II, III, IIII correspondem aos números de dedos mostrados para alguém. V representa a mão aberta com quatro dedos juntos e o polegar separado. Os números de 6 a 10 são representadas pelas duas mãos como se segue (mão esquerda, mão direitas): 6 (V, I), 7 (V,II), 8 (V,III), 9 (V,IIII), 10 (V,V) e o X resulta tanto pelo cruzamento dos polegares, ou pelas duas mãos juntas em cruz.
+
+
+===== Símbolos "metade" =====
+Uma terceira hipótese sobre a origem das derivações diz que as quantias básicas eram I, X, C e Φ (ou ⊕) e que as quantidades intermediárias se derivaram pela tomada de metade desses. A metade de  X é V, a metade de C é L e a metade de Φ/⊕ é D.
+
+
+=== Idade Média e Renascimento ===
+Numerais em documentos e inscrições da Idade Média por vezes incluíram alguns símbolos adicionais que hoje são chamados "numerais romanos medievais". Usaram-se outras letras, tais como para substituir as letras padrão (tais como "A" para "V" ou "Q" para "D"), enquanto outros são abreviações para numerais compostos ("O" para "XI", ou "F" para "XL"). Mesmo que alguns dicionários de hoje os apresentem, eles não são mais usados.
+Cronogramas, mensagens com números codificado, foram populares durante o Renascimento. O cronograma pode ser uma frase contendo as letras I, V, X, L, C, D, M.  Juntando-se as letras, o leitor obtém o número, geralmente um particular ano.
+
+
+== Valores especiais ==
+
+
+=== Zero ===
+O número 0 (zero) não tinha uma representação própria em números romanos, mas a palavra nulla (nenhum em latim) foi usada na Idade Média para, por exemplo, o cálculo da Páscoa em lugar do Zero. Dionísio, o Exíguo ficou conhecido por usar nulla junto com numerais romanos no ano 525.  Por volta de 725, Bede ou algum de seus colegas usou a letra N, a inicial de nulla, numa tabela de epactas escrita em numerais romanos.
+
+
+=== Frações ===
+Mesmo que os romanos usassem um sistema decimal para números inteiros, refletindo seu sistema de contagem, eles usavam o sistema duodecimal (base 12) para números fracionários racionais, devido à ótima divisibilidade do número 12, que permite decimais finitos como 1/3 e 1/6, não possíveis na base 10 (em que seriam dízimas periódicas). Nas moedas, muitas das quais tinham valores em frações duodecimais da unidade As, era usado um sistema notacional baseado em metades e doze avos. Um ponto (•) indicava uncia (onça), "duodécimo", que foi a origem de palavras do inglês como  inch e ounce; pontos eram repetidos para frações até 5/15. Seis doze avos (metade) foram abreviados para S de semis "metade". Pontos Uncia foram adicionados ao S para as frações de sete a onze, como os traços adicionados ao “V” para números inteiros de seis até nove.Cada fração desde 1/12 até 12/12 (um) tinha um nome nos tempos do Império Romano, os quais correspondiam ao nome das moedas relacionadas:
+
+O arranjo dos pontos era variável e não necessariamente linear. Cinco pontos posicionados como na face 5 de um dado arem chamados de quincunx.
+Outras notações fracionais romanas foram:
+
+1/8 sescuncia, sescunciae – prefixo numeral sesqui- + uncia (1½ uncias), representado pela sequência dos símbolos de semuncia e uncia.
+1/24 semuncia, semunciae -  semi- + uncia (½ uncia), representado por diversos glifos varáveis derivados da forma da letra grega Sigma (Σ), uma variante semelhante ao símbolo da libra (£) sem linha horizontal e outra parecendo o Ye ucraniano (Є).
+1/36 binae sextulae, binarum sextularum ("dois sextulas") ou duella, duellae, representada por uma sequência de dois “esses” reversos (ƧƧ).
+1/48 sicilicus, sicilici, representada por um  C reverso (Ɔ).
+1/72 sextula, sextulae (1/6 de uma uncia), representado por um S reverso.
+1/144 = 12−2 dimidia sextula, dimidiae sextulae ("metade de sextula"), representado por um S reverso cortado por um traço horizontal.
+1/288 scripulum, scripuli - representado pelo hoje símbolo farmacêutico britânico “escrópulo” (℈)
+1/1728 = 12−3 siliqua, siliquae, representado por um símbolo que parece com “aspas” de fechamento (tipografia).
+
+
+=== Números grandes ===
+Vários sistemas foram desenvolvidos para expressar números grandes que não seriam expressos de forma conveniente somente com os sete símbolos literais da numeração romana..
+
+
+==== Apostrophus ====
+Um desses sistema era o do apostrophuso, (um C invertido), pelo qual 500 (normalmente escrito como "D") era representado como |Ɔ, enquanto que 1. Era escrito C|Ɔ em lugar de "M". Por esse sistema de “encaixotar” números para formar milhares (os Cs e Ɔs  funcionavam como o equivalentes romanos para parênteses, com origem na numeração etrusca. Os números romanos tradicionais D e M usados para representar 500 e 1 000 vieram provavelmente de |Ɔ e C|Ɔ, respectivamente.
+
+Nesse sistema um |Ɔ adicional expressava 500; um |ƆƆ,  5 000 E um |ƆƆƆ, 50 000.Exemplos:
+
+Por vezes C|Ɔ foi reduzido a ↀ para 1 000. John Wallis acredita que desse símbolo tenha surgido o moderno símbolo para infinito (∞) e se diz que isso ocorreu porque 1.000 era uma genérica hipérbole para números muito grandes. Do mesmo modo, |ƆƆ (5 000) foi reduzido para ↁ; CC|ƆƆ (10 000) para ↂ; |ƆƆƆ (50 000) para unicodeↇ; e CCC|ƆƆƆ (100 000) para unicodeↈ.
+
+
+==== Vinculum ====
+Outro sistema para representar números maiores é o vinculum, pelo qual números romanos convencionais são multiplicados por 1 000 ao ter um traço horizontal sobre os mesmos. Linhas adicionais verticais antes e depois do numeral são usadas para adicionais multiplicações para 100 milhares ou um milhão.
+
+
+== Bibliografia ==
+Chrisomalis, Stephen (18 de janeiro de 2010). Numerical Notation: A Comparative History. [S.l.]: Cambridge University Press. ISBN 978-0-521-87818-0 
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+Conversão de números romanos

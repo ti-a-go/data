@@ -1,0 +1,116 @@
+A propulsão do foguete (português brasileiro) ou foguetão (português europeu) se dá quando as substâncias químicas (hipergólicas ou não) são misturadas na válvula de ignição entrando em processo de combustão (espontânea no caso das hipergólicas ou forçadas nos outros casos), impulsionando o foguete.
+Motores de foguete se tornam mais eficientes em altas velocidades, devido ao efeito Oberth.
+
+
+== Considerações sobre foguetes ==
+O termo foguete (em Portugal: foguetão) é usado indistintamente para qualquer tipo de motor que não utilize o ar para a queima do combustível propelente, seja pólvora, combustíveis sólidos, combustíveis líquidos ou até mesmo nucleares.
+As unidades propulsoras acionadas por combustível líquido, recebem a nomenclatura técnica de mecanismo de foguete (Nomenclatura adotada no Brasil pelo CTA e pelo ITA). As unidades propulsoras acionadas por queima de combustível sólido recebem o nome de motores de foguetes.
+No entanto, existe uma generalização quanto à aplicação dos termos, que foram resumidos para simplesmente foguete.
+Nos Estados Unidos, a designação de mecanismos de foguete é utilizada para unidades propulsoras maiores que usam ambos combustíveis (híbridas) e motores de foguete para  a designação de engenhos menores.
+
+
+== Princípio de funcionamento do motor de foguete ==
+O princípio de funcionamento do motor de foguete baseia-se na terceira lei de Newton, a lei da ação e reação, que diz que "a toda ação corresponde uma reação, com a mesma intensidade, mesma direção e sentidos contrários".
+Imaginemos uma câmara fechada onde exista um gás em combustão. A queima do gás irá produzir pressão em todas as direções. A câmara não se moverá em nenhuma direção pois as forças nas paredes opostas da câmara irão se anular.
+Se introduzirmos um bocal na câmara, onde os gases possam escapar, haverá um desequilíbrio. A pressão exercida nas paredes laterais opostas continuará não produzindo força, pois a pressão de um lado anulará a do outro. Já a pressão exercida na parte superior da câmara produzirá empuxo, pois não há pressão no lado de baixo (onde está o bocal).
+Assim, o foguete se deslocará para cima por reação à pressão exercida pelos gases em combustão na câmara de combustão do motor. Por isto este tipo de motor é chamado de propulsão por reação assim ele tem como subir e ir para o espaço.
+Diferente de um motor a jato por transportar seu próprio oxidante, o que lhe permite operar na ausência de um suprimento de ar. Os motores de foguete vêm sendo amplamente utilizados em voos espaciais, nos quais sua grande potência e capacidade de operar no vácuo são essenciais, mas também podem ser utilizados para movimentar mísseis, aeroplanos e automóveis.
+A força no sentido do movimento (o empuxo) que atua sobre um foguete é produzida porque a queima do combustível em seu interior exerce uma enorme pressão sobre as paredes da câmara de combustão, exceto na abertura por onde os gases escapam, situada em sua porção posterior.
+A força resultante não equilibrada sobre as paredes dianteiras da câmara impulsiona o foguete para a frente. A magnitude do empuxo depende da massa e da velocidade dos gases expelidos. Os motores de foguete podem utilizar combustível sólido ou líquido, ou mesmo ambos, numa conformação híbrida, que realmente se faz necessária ao voo espacial, uma vez que cada tipo de combustível oferece uma característica desejável (o combustível sólido possui maior capacidade de geração de empuxo, mas sua queima dificilmente pode ser controlada, o que pode originar desequilíbrios na ascensão e até retirar o foguete de sua trajetória prevista; o líquido é justamente o contrário: tem menor empuxo por unidade de volume, mas pode ser injetado mais controladamente na câmara de combustão, com o acréscimo de ser altamente tóxico e corrosivo, (o que causa uma problemática em seu armazenamento) que provavelmente se mostra imprescindível para este fim.
+O motor consiste em um invólucro e no combustível, com um sistema de ignição para dar início à combustão e uma cavidade central para assegurar uma queima completa e por igual. Os motores de combustível líquido são mais complexos, já que o combustível e o oxidante são armazenados separadamente e depois misturados na câmara de combustão. O oxigênio e o hidrogênio líquidos são os combustíveis mais comuns.
+
+
+== Impulso ==
+O critério comparativo dos propelentes, ou sistemas propulsores se chama Impulso Específico, ou Isp. Este conceito indica a força propulsora disponível por segundo, fornecida por unidade de massa de propelente consumido.
+O Impulso específico é medido em segundos e está relacionado à velocidade média das partículas ejetadas, através da equação 
+  
+    
+      
+        v
+        =
+        g
+        
+        I
+        s
+        p
+      
+    
+    {\displaystyle v=g\,Isp}
+  . Assim, um Isp de 102 segundos equivale a uma velocidade de 1 km/segundo. Quanto mais alto o impulso específico, menor a massa de combustível necessária para qualquer nível específico de força propulsora.
+Para se vencer a gravidade é necessário um sistema de alta força propulsora e que seja muitíssimo acima do peso do artefato.
+Os principais sistemas propulsores que se pode utilizar neste caso  são os chamados foguetes químicos, que podem utilizar combustível líquido e sólido, os foguetes nucleares (experimentais) que utilizam uma tecnologia mais complexa, e os foguetes iônicos que emitem íons (normalmente de xenônio) a altas velocidades.
+Os foguetes químicos produzem escapamento por meio de combustão, portanto, devem ter seu próprio suprimento de oxigênio.
+Os foguetes nucleares podem funcionar por dois  tipos de reação, fissão nuclear, ou fusão nuclear.
+
+
+== Propulsão química ==
+
+
+=== Propulsão por combustível sólido ===
+
+Grosseiramente, os combustíveis sólidos podem ser definidos basicamente como uma espécie de estopim em pó embalado e comprimido, onde a carga é uma mistura de combustível seco com o comburente, que também é uma substância seca, porém rica em oxigênio.
+Um exemplo, entre muitos, é a mistura de perclorato de amônio e poli-isobutano, utilizada em alguns mísseis terra-ar. Este combustível, apesar de seguro e simples, produz um Isp baixo, além da exigência de uma estrutura muito mais pesada e resistente para a câmara de combustão.
+Por ser combustível sólido, o único controle possível é a taxa da queima, e esta é determinada pela granulometria do propelente ou da forma da câmara de combustão.
+
+
+=== Propulsão por combustível líquido ===
+
+Os engenhos que utilizam combustível líquido tem inúmeras vantagens sobre os de combustível sólido.
+Os funcionamentos e estruturas internas de ambos diferem bastante. No caso da propulsão por combustível líquido o propelente e o oxidante são armazenados em reservatórios fora da câmara de combustão. Ao serem misturados na câmara entram em combustão, sendo expelidos em altíssima velocidade pelo bocal, propelindo assim o artefato.
+As principais vantagens são:
+
+A ignição pode ser parada.
+A ignição pode ser reativada.
+Pode haver aceleração e desaceleração da ignição.
+O controle da ignição pode ser executado de forma precisa.
+Câmara de combustão extremamente leve, possibilita maior carga útil do engenho.As principais desvantagens são:
+
+O sistema possui peças móveis, válvulas etc.
+Para a efetivação de um controle fino, o nível de complexidade tecnológica é muito alto.
+Devido ao nível de complexidade o sistema é passível de falhas e defeitos inesperados podem ocorrer.
+De uma forma geral, são menos seguros que os dispositivos de combustível sólido.Os combustíveis líquidos mais utilizados para a propulsão dos artefatos são a hidrazina e o Hidrogénio líquido, que são bombeados separadamente do oxigênio para o interior da câmara de combustão. A hidrazina é mais utilizada para pequenas correções de trajetórias através de micropropulsores. Já o Hidrogênio líquido é utilizado em propulsores de maior porte.
+
+
+=== Propulsão por combustível híbrido ===
+
+É o foguete em que propelente e oxidante estão em câmaras separadas e em estados diferentes: líquido/sólido ou gasoso/sólido. É o meio-termo entre a propulsão sólida e a propulsão líquida. Atualmente encontra-se em estado de testes em países como EUA e Brasil. A SpaceShipOne (a primeira nave espacial particular) utiliza este tipo de propulsão.
+
+
+== Propulsão nuclear ==
+
+A propulsão nuclear é um processo que envolve alta tecnologia de materiais e controle da reação. Ainda é utilizada apenas experimentalmente e envolve grandes riscos ao meio ambiente.
+O MIT nos Estados Unidos desde a década de 1960, pesquisa um motor para propulsão nuclear.
+
+
+=== Fissão ===
+
+O processo de fissão, onde um núcleo pesado, contendo pilhas de urânio, absorve um nêutron e se divide em dois fragmentos de massa aproximadamente idêntica. A reação libera grande quantidade de energia, assim como muitos nêutrons, que colidem com outros núcleos pesados e provocam sua fissão. A repetição desse processo gera uma reação em cadeia na qual vários bilhões de núcleos são fissionados numa pequena fração de segundo. O combustível então, é bombeado através de perfurações no núcleo, é superaquecido e expelido por um bocal adquirindo grande velocidade e gerando um jato muito veloz que impulsiona o artefato, este jato, é extremamente radioativo, sendo portanto proibitivo seu uso na Terra.
+
+
+=== Fusão ===
+
+O processo de propulsão por fusão nuclear comparativamente (em teoria), produz dois milhões de vezes mais energia que o de fissão para a mesma quantidade de combustível (em massa) nuclear.
+Ainda não foram, ao que se sabe, experimentados na prática sistemas que utilizam a fusão nuclear. As possibilidades são apenas teóricas e as simulações efetuadas virtualmente. Estas indicam que um artefato propelido por fusão nuclear, isto é, convertendo dois átomos de hidrogênio em hélio, por exemplo, deveria utilizar células propelentes. Estas seriam minúsculas bombas de fusão, que seriam ignificadas numa câmara blindada e envolta com intenso campo magnético. O plasma gerado em altíssima velocidade pela explosão, seria direcionado para um bocal e produziria uma grande aceleração do artefato. Da mesma forma que a propulsão por fissão, a fusão também seria proibitiva de ser utilizada na Terra.
+
+
+=== Antimatéria e Gravitacional ===
+
+É o foguete que, hipoteticamente, aproveitaria a energia liberada por uma reação entre matéria e antimatéria para conseguir a sua propulsão.
+Quanto à propulsão por gravidade, há de se compreender que o espaço está ocupado por ondas gravitacionais por toda parte e, assim como um meio aquático em que um submarino navega, um veículo espacial poderá propelir essas ondas vindas de frente para a sua ré e a uma velocidade bem maior,não com um hélice, mas com um motor tipo scramjet. Teoricamente, estas naves poderiam também fazer manobras orbitais usando a repulsão ou atração gravitacionais, desde que existam corpos celestes nas proximidades, dando a ação para a sua reação.
+
+
+== Ver também ==
+Avião espacial
+História dos foguetes
+JATO
+Planador foguete
+Propulsão de naves espaciais
+ZLTO
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Propulsão iônica (em inglês)
+Yacamim Motores e foguetes experimentais

@@ -1,0 +1,43 @@
+Rádio FM consiste na utilização de radiodifusão mediante modulação em frequência (FM). Inventada em 1933 pelo engenheiro estadunidense Edwin Armstrong, a radiodifusão FM em banda larga é mundialmente utilizada por fornecer som de alta fidelidade na transmissão e recepção de rádio. Transmissão FM supera, em qualidade de som, transmissão AM, sua principal concorrente, por isso é usada para a maioria das transmissões de música. Estações de rádio FM usam frequências VHF. O termo "banda de FM" refere a faixa de frequência, num determinado país, que é dedicada à transmissão FM.
+A faixa de transmissão FM, utilizado para transmissão por emissoras de rádio FM difere entre as diferentes partes do mundo, sendo que em grande parte do mundo se usa a faixa de 87,5-107,9 MHz, padrão da UIT (sendo que entre 87,5-87,9 MHz pode haver interferências dos canais 5 e 6 de televisão). A faixa de transmissão FM no Japão usa 76,0-90 MHz. A banda OIRT na Europa Oriental é 65,8-74,0 MHz, embora esses países agora usam principalmente a banda 87,5-108 MHz, como no caso da Rússia. Alguns outros países já descontinuaram a banda OIRT e mudaram para a banda 87,5-108 MHz. Geralmente as casas decimais mais usadas nas frequências são as de números ímpares. No Brasil o espectro padrão é o de 87,5-108MHz, porém com a transição da transmissão do sinal de transmissão de televisão do analógico para o digital e do remanejamento das emissoras de Rádio AM para FM, as frequências correspondentes aos canais 5 e 6 do VHF baixo foram cedidas para a transmissão de rádio, criando assim a FM expandida (76-108MHz).
+Uma rádio em FM apresenta uma ótima qualidade sonora mas com limitado alcance, chegando em média a 100 quilômetros de raio de alcance. Em condições esporádicas de propagação, é possível sintonizar emissores a centenas de quilômetros. A potência dos sistemas de emissão pode variar entre poucos watts (rádios locais) até centenas de quilowatts, no caso de retransmissores de grande cobertura.
+O FM dispõe de um sistema de envio de informação digital, o RDS (Radio Data System) que permite apresentar informações sobre a emissora sintonizada. Também, a boa qualidade de som desta gama de frequências de radiodifusão é adequada ao uso da estereofonia.
+
+
+== História ==
+1933 - O americano Edwin Armstrong demonstra o sistema FM para os executivos da Radio Corporation of America (RCA).
+1939 - Armstrong inicia operação da primeira FM em Alpine, Nova Jersey, nos Estados Unidos.
+1942 - Os primeiros emissores em frequência modulada (FM) são produzidos nos EUA, pela General Electric.
+1955 - É fundada por Anna Khoury a Rádio Imprensa no Rio de Janeiro (atual Mix FM Rio), sendo a primeira Rádio em FM do Brasil.
+1966 - É inaugurada a Rádio Tropical FM, atual Rádio Cidade (99,3 FM), de Manaus, sendo a primeira rádio do Brasil e da América do Sul a operar em FM estéreo.
+1969 - É criado o Grupo Bel e com ele a segunda rádio em FM estéreo no Brasil, a Rádio Del Rey FM de Belo Horizonte, atual 98FM.
+A FM permite uma recepção em alta-fidelidade (qualidade técnica), mas seu alcance é pequeno (quase o mesmo da TV).
+
+
+=== Migração AM para FM em rádio no Brasil ===
+Em 7 de novembro de 2013, foi assinado o decreto que permite a migração às emissoras de rádio que operam na faixa AM migrarem para a faixa FM.A Rádio Progresso, de Juazeiro do Norte no Ceará, foi a primeira emissora a fazer a migração do AM para o FM no país. A solenidade que marcou a mudança de faixa ocorreu em 18 de março de 2016, às 20h30, na sede da emissora, e contou com a participação do ministro das Comunicações, André Figueiredo.Com o problema de interferências em grandes centros urbanos, o governo federal iniciou os estudos da migração dessas emissoras para os antigos canais 5 e 6 (76 a 87 MHz) da TV analógica. Isso foi possível graças à implantação do sinal de televisão digital em todo o território brasileiro e grande parte da TV analógica ter sido desligada em 2018, com isso as estações de rádio passariam a ocupar esta faixa adjacente à da FM convencional (88-108 MHz). A Jovem Pan News São Paulo foi a primeira rádio do país a fazer transmissões experimentais em FM expandida nos 84,7 MHz entre 2014 e 2015, repetindo a programação dos 620 kHz. Porém, as transmissões oficiais na faixa de 76 a 87 MHz iniciaram-se apenas em 7 de maio de 2021, sendo as pioneiras a Rádio Capital em 77,5 MHz, Rádio Cultura Brasil em 77,9 MHz, ambas de São Paulo e a Rádio Jornal do Recife em 76,1 MHz, frequência hoje ocupada pela JC FM. Projetos similares já deram certo em países como os Estados Unidos e México.
+
+
+== Em Portugal ==
+
+
+=== História da rádio FM ===
+A primeira emissão FM em Portugal decorreu no ano de 1954, quando o Rádio Clube Português instalou um emissor construído por técnicos da estação na sede da Philips Portuguesa, que na época se situava na Rua Joaquim António de Aguiar, em Lisboa. Em meados de 1955, a então Emissora Nacional de Radiodifusão (atual RTP) instalou os  primeiros emissores de frequência modulada em Lisboa e na Serra da Lousã. Refira-se que as primeiras emissões FM estéreo da Emissora Nacional ocorreram em 1968.
+
+
+=== Rádio FM na atualidade ===
+Portugal tem atualmente seis rádios de cobertura nacional, que cobrem todo o continente português; três são do Grupo RTP (Antena 1, Antena 2 e Antena 3); duas pertencem ao Grupo Renascença Multimédia (Rádio Renascença e RFM) e, ainda, do Grupo Bauer Media, existe a Rádio Comercial. Desde o ano de 2010 que a Renascença e a RFM também se ouvem nos arquipélagos dos Açores e Madeira.As emissões da Antena 1, Antena 2 e Antena 3 cobrem todo o país (continente, Madeira e Açores); a Antena 3 foi recentemente ampliada ao grupo ocidental das ilhas dos Açores, com emissores a partir da ilha das Flores, chegando também à ilha do Corvo. A Rádio Comercial não se ouve de todo via hertziana nos Açores ou na Madeira.
+Além das rádios nacionais, existem várias regionais (a Rádio Maria, a M80 Rádio e a TSF no continente, e o Posto Emissor do Funchal, na Madeira). A par das rádios mencionadas, Portugal dispõe de cerca de 300 rádios locais atribuídas aos concelhos.
+
+
+== Ver também ==
+DX
+Lista de rádios de Portugal
+Modulação em frequência
+Onda curta
+Onda média
+Onda tropical (radiodifusão)
+Rádio AM
+
+
+== Referências ==

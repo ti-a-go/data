@@ -1,0 +1,67 @@
+Lancha é um tipo de embarcação a motor, usado para lazer, pesca, prática de esportes aquáticos, ou para serviço de navios ou fiscalização.
+
+
+== Tipos de lancha ==
+Os tipos mais comuns de lanchas fabricadas no Brasil são:
+Lanchas de Passeio
+Tamanho: de 16 a 30 pés
+Quantidade: 78,3% das lanchas brasileiras
+A grande maioria das lanchas brasileiras são de pequeno porte, devido ao seu preço, claro, mas também por oferecerem muita flexibilidade em seu uso: podem ser utilizadas para passear em rios, lagos, represas, e no mar (em regiões próximas as praias).
+As embarcações de pequeno porte também são excelentes para prática de esportes aquáticos (wakeboard, esqui, slalom, etc.), e até mesmo para pesca, mas mantendo o conforto de uma lancha de passeio.
+As lanchas até 23 pés podem ser rebocadas com uma carreta para embarcação, ou seja, pode engatá-la no carro e transitar por rodovias.Lanchas de Passeio e PernoiteTamanho: de 30 a 100 pés
+Quantidade: 21,4% das lanchas brasileiras
+Existem dezenas de estaleiros no Brasil fabricando embarcações nesta categoria, destinadas para passeios longos e travessias, oferecendo excelentes acomodações até mesmo para quem busca morar a bordo.
+Estas embarcações oferecem opção de 2 motores (também chamado de “parelha” de motores), para quem busca fazer um passeio longo e corre o risco de ter algum problema com um dos motores em alto-mar.
+É comum nestas lanchas o uso de ar-condicionado na cabine e nos quartos, e gerador de energia para não depender somente das baterias do barco.Lanchas customizadas de grande porte / IatesTamanho: 100 pés ou maior
+Quantidade: 0,3% das lanchas brasileiras
+A maior lancha desta categoria, "Azzam", tem 180 metros de comprimento (590 pés), mais de 50 suítes, e fica ancorada nos Emirados Árabes Unidos.
+A lancha mais cara do mundo, “History Supreme”, possui cerca de 100.000kg de ouro maciço e platina, e custou bilhões de libras. Embarcações deste porte geralmente são feitas sob encomenda para seus proprietários, e a maior parte delas estão ancoradas no Oriente Médio ou Europa.Lanchas de pesca
+Tamanho: até 40 pés
+Existem lanchas de pesca construídas em alumínio ou fibra de vidro. As menores lanchas (até 25 pés) geralmente são em alumínio, utilizadas para pesca em rios e lagoas, com motores que variam entre 3.3hp a 60hp. As lanchas acima de 25 pés são construídas em fibra de vidro, utilizadas para pesca oceânica, equipadas com 2 ou mais motores de popa, e possuem uma grande quantidade de eletrônicos como GPS e Sonar, para facilitar a navegação e encontrar os melhores pontos para pesca.Lanchas para esportes aquáticos de alta performanceTamanho: até 25 pés
+As lanchas de esportes aquáticos são construídas para alcançar a melhor performance possível na prática de wakeboard, esqui aquático e outros esportes. Algumas possuem o “Power Wedge”, uma espécie de flap em aço Inox instalada na popa da embarcação, com comando no painel, que pode ser regulada para aumentar o tamanho da marola produzida pela lancha. Devido à sua borda baixa, estas embarcações são encontradas somente em águas abrigadas.
+
+
+== Motores ==
+Os tipos de motores mais comuns utilizados em lanchas são:
+Motor de popaMotor completamente externo, instalado no espelho de popa (parte traseira) da lancha.
+Faixa de potência: 3hp a 350hp
+Tecnologia: Motor de dois tempos (carburação ou injeção eletrônica) e motor de quatro tempos (somente injeção eletrônica)
+Combustível: Somente gasolina
+Principais fabricantes: Mercury Marine, Yamaha Motor Company, Evinrude Outboard Motors
+Indicado para: Lanchas até 24 pés
+Principais vantagens: Enorme gama de motores de baixa potência. Excelente relação peso/potência.
+Motor centro-rabetaMotor interno, acoplado à rabeta e ao hélice, que ficam externos na popa da lancha
+Faixa de potência: 135hp a 430hp
+Tecnologia: Motor de quatro tempos c/ injeção eletrônica
+Combustível: Gasolina ou diesel
+Principais fabricantes: Mercury Marine, Volvo Penta
+Indicado para: Lanchas de 24 pés a 40 pés
+Principal vantagem: Como o motor está embutido, aumenta significativamente o espaço útil da lancha.
+Motor de centro com eixo
+Motor interno, acoplado à um eixo e hélice externos abaixo da linha d’água.
+Faixa de potência: 12hp a 20.000hp
+Tecnologia: Motor de quatro tempos c/ injeção eletrônica
+Combustível: Somente diesel
+Principais fabricantes: Volvo Penta, MAN, CAT
+Indicado para: Lanchas acima de 40 pés
+Principal vantagem: Excelente para embarcações que ficam em vagas molhadas, pois todos os componentes vulneráveis à corrosão são internos.
+Motor jet
+Motor sem hélice, movido a pressurização d’água
+Faixa de potência: 200hp a 300hp
+Tecnologia: Motor de dois tempos e Motor de quatro tempos com injeção eletrônica
+Combustível: Somente gasolina
+Principais fabricantes: Mercury Marine, Kawasaki Heavy Industries
+Indicado para: Lanchas até 20 pés, para esportes aquáticos
+Principal vantagem: Possibilita navegar em águas rasas, pois não possui hélice.
+principal desvantagem: sei lá.
+
+
+== Ver também ==
+Lancha de ação rápida (LAR)
+Carreta para embarcação
+Wakeboard
+Esqui aquático
+Motor de popa
+
+
+== Ligações externas ==

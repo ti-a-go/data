@@ -1,0 +1,42 @@
+O Programa Luz no Campo foi o programa de universalização da rede rural de energia elétrica do Governo Federal que antecedeu ao programa Luz Para Todos.
+Lançado em 2000 por Fernando Henrique Cardoso e inicialmente estimado em R$ 2,3 bilhões, o programa tinha como meta levar energia elétrica a 1 milhão de famílias rurais em 3 anos. Atingiu 42% da meta em junho de 2002, com 419 mil unidades consumidoras atendidas.Segundo dados da PNAD, do IBGE, o Luz no Campo atingiu uma universalização de casas com energia elétrica de 90,8% ao fim de 2002. Estava sob coordenação do Ministério de Minas e Energia e pela Eletrobrás e ao final de 2003 foi efetivamente incorporado pelo seu programa sucessor.
+
+
+== Histórico ==
+O Programa Nacional de Eletrificação Rural, popularmente denominado “Luz no Campo”, instituído pelo decreto de 02 de Dezembro de 1999 durante o governo de Fernando Henrique Cardoso, foi um programa de iniciativa governamental sob coordenação do Ministério de Minas e Energia, através das Centrais Elétricas Brasileiras S.A. - ELETROBRÁS, com o objetivo de suprir com energia elétrica as áreas rurais não atendidas, promovendo a melhoria das condições socioeconômicas das áreas distantes no interior do País, com atenção diferenciada às regiões Norte, Nordeste e Centro Oeste, em razão de seu baixo índice de eletrificação rural. Sua implantação se deu de forma articulada a outros programas e ações do governo da época, especialmente o Programa de Conservação de Energia Elétrica – PROCEL, e o Programa Comunidade Solidária.
+
+
+=== Recursos ===
+Nos termos das Leis 9.427 de 26 de dezembro de 1996, e 9.648 de 27 de maio de 1998, a maior parte dos recursos orçamentários foi obtida da Reserva Global de Reversão – RGR, somando R$1,77 bi, para financiamentos as concessionárias de energia elétrica, aos agentes executores e ainda as cooperativas de eletrificação rural. O restante totalizou R$930 milhões advindos do Uso do Bem Público – UBP, por intermédio dos agentes executores dos Governos Federal, Estadual e Municipal. (SUGIMOTO, 2002).
+
+
+=== Distribuição dos Recursos ===
+A distribuição dos recursos foi fixada, pelo Ministério de Minas e Energia, a partir de determinados critérios. Assim cada estado poderia receber uma porcentagem proporcional ao número de propriedades rurais, de território, desprovidas de abastecimento de energia elétrica, bem como ao custo de cada instalação na região.
+Como as regiões Norte e Nordeste encontravam-se em condições mais desfavorecidas, relativamente às regiões Sul e Sudeste, acabaram recebendo a maior parte dos recursos reservados, totalizando 53%.
+Até maio de 2002 a distribuição dos recursos se deu da seguinte forma:
+
+Para uma demanda de 503.864 interessados cadastrados, na região Nordeste, foram realizadas 211.697 ligações, distribuídas entre os estados da Bahia (94.024) Pernambuco (53.903), Ceará (41.897), Piauí (6.940), Rio Grande do Norte (6.473), Sergipe (3880), Alagoas (2.382) e Paraíba (2,198).
+A região Norte somou 123.867 interessados, sendo realizadas 31.733 ligações distribuídas pelos estados do Pará (19.020), Tocantins (7.269), Rondônia (3.022), Acre (1.507) e Roraima (888).
+Na região sudeste, a distribuição, atendeu a uma demanda de 179.722 cadastrados, sendo realizadas 103.942 ligações distribuídas para os estados de Minas Gerais (71.310), Rio de Janeiro (13.919), São Paulo (13.103) e Espírito Santo (5.610)
+No Centro Oeste o número de cadastrados chegou a 84.080, sendo realizadas 39.171 ligações, distribuídas pelos estados do Mato Grosso (25.205), Goiás (7.172), Mato Grosso do Sul (5.697) e Distrito Federal (1.097).
+Na região Sul houve uma demanda de 76.333 cadastrados, sendo realizadas 32.074 ligações distribuídas para os estados do Paraná (16.973), Santa Catarina (8.883) e Rio Grande do Sul (6.218).
+
+
+=== Prazos ===
+A meta fixada era atingir 100% de eletrificação em oito estados do Sul e do Nordeste; e dois terços de eletrificação em mais nove estados, em suas regiões rurais, num prazo de cinco anos.
+
+
+=== Resultados ===
+Em meados de 2002, dois anos e meio após sua implantação, o programa atendeu, cerca de 419 mil novas famílias, perfazendo uma média de 2,08 milhões de habitantes beneficiados, sendo, deste total, 98 mil ligações realizadas para atender a demanda de residentes de municípios ligados ao Projeto Alvorada.
+
+
+=== Projeto Alvorada ===
+O Projeto Alvorada foi um dos programas conjuntamente articulados na missão de reforçar o gerenciamento de ações de melhoria das condições de vida nos estados do Acre, Bahia, Alagoas, Maranhão, Ceará, Pará, Paraíba, Pernambuco, Piauí, Rio Grande do Norte, Rondônia, Roraima, Sergipe e Tocantins; e em microrregiões e municípios de outros estados cujos IDH (s) – Índice de Desenvolvimento Humano, apresentavam-se menor ou igual a 0,500, nas áreas de saneamento e infraestrutura, dentre outros.
+Corroborando nesse sentido, o Ministério de Minas e Energia priorizou ações voltadas à eletrificação rural das regiões Norte e Nordeste.
+
+
+== Referências ==
+
+http://www.aneel.gov.br/  
+http://www.abrasil.gov.br/avalppa/site/content/av_prog/20/08/prog2008.htm  SUGIMOTO, L. “Luz para os esquecidos”. Jornal da Unicamp, ano XVII. Campinas: 2002.
+FOURNIER, Anna Carolina Pires; PENTEADO, Cláudio Luis de Camargo. “Eletrificação Rural, desafios para a universalização da energia. Curso de Energia da Universidade Federal do ABC – Santo André: data não encontrada.

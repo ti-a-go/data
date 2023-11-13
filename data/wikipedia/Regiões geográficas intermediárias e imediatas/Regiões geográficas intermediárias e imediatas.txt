@@ -1,0 +1,21 @@
+As regiões geográficas intermediárias e imediatas, no Brasil, constituem a divisão geográfica regional do país, segundo a composição elaborada pelo Instituto Brasileiro de Geografia e Estatística (IBGE). 
+As regiões geográficas imediatas são agrupamentos de municípios que têm como principal referência a rede urbana e possuem um centro urbano local como base, mediante a análise do IBGE. Para sua elaboração foram levadas em consideração a conexão de cidades próximas através de relações de dependência e deslocamento da população em busca de bens, prestação de serviços e trabalho. As regiões intermediárias, por sua vez, são agrupamentos de regiões imediatas que são articuladas através da influência de uma metrópole, capital regional ou centro urbano representativo dentro do conjunto.Foram instituídas em 2017 para a atualização da divisão regional brasileira e correspondem a uma revisão das antigas mesorregiões e microrregiões, respectivamente, que estavam em vigor desde o quadro criado em 1989. Essa configuração deve ser utilizada para fins de planejamento e estimativas.
+
+
+== Contexto ==
+A divisão de 2017 teve o objetivo de abranger as transformações relativas à rede urbana e sua hierarquia ocorridas desde as divisões precedentes, devendo ser usada para ações de planejamento e gestão de políticas públicas e para a divulgação de estatísticas e estudos do IBGE. Na configuração precedente, houve em primeiro momento o agrupamento dos municípios em mesorregiões para depois serem separados em microrregiões. Na divisão de 2017, ocorreu o contrário, visto que primeiro ocorreu a divisão em regiões geográficas imediatas para depois se obter um agrupamento destas em regiões geográficas intermediárias.Após o lançamento da nova divisão em 2017, ocorreu uma atualização divulgada em 11 de setembro de 2018. Na ocasião foram anunciadas mudanças pontuais feitas nas divisões do Maranhão e de Pernambuco, incluindo a criação da Região Geográfica Imediata de Escada-Ribeirão, em Pernambuco, com municípios desmembrados da região imediata do Recife. Com essa modificação, o Brasil passou a ser constituído de 510 regiões geográficas imediatas agrupadas em 133 regiões geográficas intermediárias.
+
+
+== Ver também ==
+Lista de regiões geográficas intermediárias e imediatas do Brasil
+Lista de regiões intermediárias das metrópoles do Brasil por PIB
+Subdivisões do Brasil
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Listas e arquivos sobre a divisão regional do Brasil no site do IBGE
+Divisão regional do Brasil em regiões geográficas imediatas e regiões geográficas intermediárias 2017
+Download de arquivo no site do IBGE com todas as microrregiões brasileiras (executável para Windows e Linux usando Wine)

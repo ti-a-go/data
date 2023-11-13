@@ -1,0 +1,29 @@
+On September 13, 2021, the Wikimedia Foundation took official action on the Chinese Wikipedia after investigating users from Wikimedians of Mainland China (WMC or WMCUG).
+At 16:13, September 13, 2021 GMT (00:13, September 14, 2021 Beijing Time), the Wikimedia Foundation globally banned seven accounts from editing Wikipedia, revoked the administrative rights of twelve accounts, and warned twelve other users. Four of the top ten most active administrators on Chinese Wikipedia had their rights revoked. These actions were announced on September 13, 2021 GMT by Maggie Dennis, Vice President of Community Resilience and Sustainability for the Legal Department at Wikimedia Foundation.
+
+
+== Background ==
+Maggie Dennis said that the Chinese Wikipedia was under investigation by the foundation for nearly a year. According to the news report of Hong Kong Free Press, two Chinese Wikipedia users threatened to report Hong Kong Wikipedians to the National Security Department. Wikimedians of Mainland China denied this. In August 2021, the foundation modified the security terms in the "access to nonpublic personal data policy", and users with advanced permissions allowing them to retrieve IP address data of other users on Chinese Wikipedia had their access revoked.
+
+
+== Comments ==
+In an announcement on Wikimedia about the actions, Maggie Dennis acknowledged the radical nature of the Foundation's actions but stressed that the decision was based on a number of considerations and an in-depth investigation. The Foundation decided to take action after Maggie Dennis told the media that editors had tried to manipulate the content of articles as well as the election of administrators and that other editors had been physically harmed. However, she did not intend to accuse the Chinese government.In response, Wikimedians of Mainland China posted an open letter on Qiuwen, calling the Wikimedia Foundation's actions baseless (莫須有) and declaring its intention to resist the crackdown with practical action. The Global Times, a tabloid officially owned and operated by the Central Committee of the Chinese Communist Party, alleged that the Wikimedia Foundation "purged" the Chinese editors.In an interview with the BBC Tech Tent program commenting on the latest obsessions about China, Maryana Iskander, the new Chief Executive of the Wikimedia Foundation, emphasized the autonomy of the Wikipedia community and said, "One of the very early things that I've learned in this process is that certainly the Wikimedia Foundation does not play a role in setting editorial policy and that these are the debates that happen in communities."Jimmy Wales, the cofounder of Wikipedia, commented on these actions in an interview with BBC: "I have deep experience of talking to people all over the world, and the idea that people in China, for example, are so brainwashed that they can't see that neutrality is just false," but said "The idea that we are excluding China, is absurd. We welcome with open arms editors from China."
+
+
+== Subsequent events ==
+On October 7, 2021, at the 62nd session of the World Intellectual Property Organization, the People's Republic of China voted against the Wikimedia Foundation's application to become an official observer of the WIPO on the grounds that Wikipedia violated the "one-China principle" and "disseminated false information". China was the only country out of the 193 members of the organization to vote against the WIPO application, causing Wikimedia Foundation's application to fail.
+A Wikimedian showed a screenshot to Voice of America of an announcement made by globally locked user "Walter Grassroot" in the Wikimedians of Mainland China QQ group after the foundation's application was rejected. According to the announcement, after the foundation blocked Chinese users, Chinese Wikimedians submitted relevant documents to the Chinese Embassy in Geneva through various channels. Walter Grassroot also suggested that the failure of the foundation's application was good news.
+
+
+=== Qiuwen baike ===
+In an interview with the BBC in late October 2021, globally-banned WMC member Techyan and 6 other users said the user group was attempting to create a "Chinese version of Wikipedia", a platform that would represent Beijing's views on some political issues for people in mainland China to access without a VPN with oversight from the People's Republic of China government and would use some of Wikipedia's content.In December 2021, WMC member Techyan told Fast Company that "a tech giant" was negotiating a partnership with them, and that more than 40 Chinese Wikipedia editors had joined Qiuwen with has a total of 200 active editors. and that people would be involved in both Wikipedia and Qiuwen.In February 2022, ByteDance's subsidiary Baike.com denied the existence of a partnership between ByteDance and WMC to provide technical and financial support for Qiuwen baike.
+
+
+== References ==
+
+
+=== Notes ===
+
+
+== External links ==
+meta:Office actions/September 2021 statement, the announcement of the Wikimedia office action

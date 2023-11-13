@@ -1,0 +1,61 @@
+Controller Pilot Data Link Communications (CPDLC) (Português: Comunicação piloto-controlador por enlace de dados), também conhecido como Controller Pilot Data Link (CPDL) é o meio de comunicação entre controladores de tráfego aéreo e pilotos   por meio de enlace de dados para comunicações ATC que utiliza mensagens de texto pré-formatadas e universais, e entre outras coisas, livra a dificuldade de entendimento causada por interferência e sotaques de diferentes línguas nativas no inglês padrão da aviação.
+
+
+== História ==
+
+
+=== FANS e o CNS/ATM ===
+Em 1983, como uma estratégia para combater o aumento global do tráfego aéreo e o envelhecimento de infraestrutura no mundo inteiro, o conselho da OACI (Organização da Aviação Civil Internacional) estabeleceu o Comitê Especial de Futuros Sistemas de Navegação Aérea (inglês: FANS).
+O papel desse comitê era estudar, identificar e avaliar novas tecnologias, incluindo a tecnologia de satélite, e fazer recomendações para o desenvolvimento futuro de sistemas de navegação para a aviação civil mundial.
+A proposta desenvolvida pelo FANS veio a ser conhecida como o conceito CNS/ATM: 
+
+Comunicação Aeronáutica (representada pela letra C).
+Navegação Aérea (representada pela letra N).
+Vigilância (letra S, de Surveillance).
+Gerenciamento de Tráfego Aéreo (ou ATM – Air Traffic Managment).O CPDLC é parte integrante da área de Comunicação Aeronáutica.
+
+
+== Comunicação convencional ==
+O método em uso atual de comunicação entre ATC e piloto é a transmissão via rádio, que em uso geral se divide em duas partes:
+
+Frequência Alta (HF) (Inglês: High frequency), de frequências entre 3 e 30 MHz, é método de comunicação para médias e longas distancias devido ao seu efeito propagativo em que reflete na camada ionosférica da terra. Porém essa faixa de frequência está à mercê de diversos efeitos de interferência, como estática e atividade magnética solar.
+Frequência Muito Alta (VHF) (Inglês: Very high frequency), de frequências entre 30 e 300 MHz, é o método de comunicação para curtas distancias, não apresenta um bom efeito propagativo natural o que demanda a construção de antenas transmissoras perto dos pontos de maior tráfego. Porém, é conhecido pela qualidade do áudio quase sempre livre de interferências.Este sistema apresenta um problema em aéreas de muito tráfego. Como todos os pilotos estão sintonizados em uma mesma frequência, existe a possibilidade de um piloto interferir na mensagem de outro, requerendo que a mesma seja repetida. A solução usual para este problema é subdividir o espaço aéreo de modo que um segundo controlador assuma em uma frequência diferente, aliviando o primeiro. 
+Devido a uma quantidade finita de frequências disponíveis e ao aumento do tempo demandado para coordenar as transferências de tráfego, é impossível subdividir infinitamente um espaço aéreo.
+Nos voos de rota oceânica o sistema convencional prova as suas dificuldades técnicas, onde não é possível uma comunicação VHF devido a distancia envolvida e a comunicação HF possui muita interferência, existe dificuldade no controle de tráfego. Em uma aérea de alta intensidade como no atlântico norte (NAT), soma-se os diferentes sotaques no inglês padrão, afetando a segurança de voo.
+
+
+== Enlace de Dados ==
+Data Link (enlace de dados) é uma tecnologia que permite a troca de informações simultâneas entre a aeronave, outra aeronave ou uma base no solo, que pode ser um órgão ATC, a base do operador ou do fabricante da aeronave.
+Data Link também permite a troca automática de informações entre sistemas de vigilância (ADS), e é utilizado para o controle operacional de várias companhias, para a detecção da aeronave de outras aeronaves sem a necessidade de um radar, e para enviar e receber informação que afete um voo em particular para qualquer interessado autorizado a recebê-las.
+O sistema ACARS (Aircraft Communications Addressing and Reporting System) opera com Data Link.
+A Boeing e a Honeywell construíram a primeira aplicação do conceito FANS baseado no sistema ACARS existente. Um pacote de aviônicos que ficou conhecido como FANS-1 e foi certificado em um Boeing 747 da Qantas em junho de 1995. O sistema equivalente da Airbus é conhecido como FANS-A, e esses sistemas são conhecidos coletivamente como FANS-1/A.
+
+
+== CPDLC ==
+Controller Pilot Data Link Communications (CPDLC) (Português: Comunicação piloto-controlador por enlace de dados) é o meio de comunicação entre controlador e piloto por meio de enlace de dados para comunicações ATC que utiliza mensagens de texto pré-formatadas e universais. 
+Ao controlador é dada a capacidade de emitir designações de nível, restrições de passagem, desvios laterais, mudanças de rota, autorizações de tráfego, designações de velocidade e frequência de rádio, e vários pedidos de informação. Além disso, ao piloto é dada a capacidade de solicitar autorizações condicionais e informações de uma Unidade de Serviço de Tráfego Aéreo (ATSU). Também é possível o “texto livre” para troca de informações não conformes com os formatos definidos. Um sistema auxiliar fornece troca de dados entre bases CPDLC permitindo que uma base transmita uma mensagem para outra.
+A sequência de mensagens entre o controlador e um piloto cotejando uma autorização é denominada um "diálogo". Pode haver várias sequências de mensagens em um diálogo, cada uma das quais é encerrada por meio de mensagens adequadas, geralmente de reconhecimento ou aceitação. O encerramento do diálogo não necessariamente encerra o link, já que pode haver vários diálogos entre controlador e piloto enquanto a aeronave transita no espaço aéreo controlado.
+Todas as trocas de mensagens CPDLC entre piloto e controlador podem ser vistas como 
+diálogos.
+Simulações realizadas no Centro Técnico William J. Hughes do FAA mostraram que o uso de CPDLC significava que "a ocupação do canal de voz foi reduzida em 75 por cento durante as operações reais no espaço aéreo. O resultado dessa diminuição na ocupação canal de voz é um aumento de segurança e eficiência de vôo através de uma comunicação mais eficaz".O sistema CPDLC otimiza os canais de comunicações existentes (HF, VHF e Satélite) ao tornar possível a transmissão e a recepção simultânea de mensagens de forma rápida, organizada e com ordem prioritária. Estão dentro das utilidades do sistema:
+
+O atrelamento dos sistemas Data Link, que pode resultar numa navegação mais precisa e na continua consciência situacional, tanto do piloto que está ciente de outras aeronaves ao redor (ADS) tanto por parte do controlador que pode receber mensagens de reporte, posição e desvio de rota até mesmo pelo sistema automático da aeronave;
+Em lugares onde o serviço ATC se deve principalmente ao controle pelo tempo e de reportes de posição (em aéreas oceânicas) o sistema proporciona um controle mais preciso e seguro reduzindo a carga de trabalho de controladores e pilotos, em especial para controle em rota, fazendo uma grande diferença em um país continental ou em uma rota oceânica.
+Reduz eventuais erros de coordenação entre controladores;
+Elimina a necessidade de subdividir um espaço aéreo em setores com frequências diferentes de forma a melhorar a transferência de tráfego entre controladores.
+Livra a necessidade de cotejamento das aeronaves e facilita o controle ao mostrar mensagens anteriores sem a necessidade de pedir as mesmas informações novamente.
+Existe a possibilidade de imprimir as mensagens, auxiliando a operadora a manter o histórico da aeronave.
+
+
+== Segurança ==
+Todas as implantações CPDLC devem ser suportadas por um plano de segurança aprovado demonstrando que todos os requisitos de segurança e desempenho para o espaço aéreo em vigor foram cumpridos.
+O desenvolvimento de ambos os sistemas solo e ar devem cumprir esses requisitos de segurança para seus produtos serem aprovados e/ou certificados para uso operacional. Inclui nestes requisitos a necessidade de garantir que as mensagens não serão corrompidas ou entregues erroneamente. Também é importante a necessidade de protocolação precisa e a rejeição de mensagens desatualizadas. 
+
+
+== Referências ==
+
+
+== Ver também ==
+Aviação
+Aviação civil
+Organização de Aviação Civil Internacional

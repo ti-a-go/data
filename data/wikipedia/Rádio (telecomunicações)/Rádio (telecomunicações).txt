@@ -1,0 +1,74 @@
+Rádio é um meio ou recurso tecnológico de telecomunicações utilizado para propiciar comunicação por intermédio da transcepção de dados e informações previamente codificadas em sinal eletromagnético que se propaga através do espaço físico material e imaterial.
+Uma estação de radiocomunicações é o sistema utilizado para executar contatos à distância entre duas estações. É composta basicamente por um transceptor (transmissor-receptor) de radiocomunicações, uma linha de transmissão e a antena propriamente dita. A este sistema dá-se o nome "sistema irradiante".
+A radiodifusão é uma emissão comercial, que ocorre apenas por transmissão de sinais, sem sua transcepção. Geralmente não há recursos disponíveis nas estações que operam em modulação em amplitude (AM): apenas o importante rádio digital, um importante ganho para esse tipo de estação. Recursos tais como som estéreo e Radio Data System (RDS) ainda são exclusividade das estações que operam em modulação em frequência (FM).
+
+
+== Estrutura ==
+O rádio é um sistema de comunicações através de ondas eletromagnéticas propagadas no espaço, que por serem de comprimento diferente são classificadas em ondas curtas de alta frequência ou ondas longas de baixa frequência, assim, utilizadas para fins diversos como televisão, rádio, avião, etc.
+Os sistemas de comunicações normais são formados por dois componentes básicos:
+
+Transmissor – composto por um gerador de oscilações, que converte a corrente elétrica em oscilações de uma determinada frequência de rádio; um transdutor que converte a informação a ser transmitida em impulsos elétricos equivalentes a cada valor e um modulador, que controla as variações na intensidade de oscilação ou na frequência da onda portadora, sendo efetuada em níveis baixo ou alto. Quando a amplitude da onda portadora varia segundo as variações da frequência e da intensidade de um sinal sonoro, denomina-se modulação AM. Já quando a frequência da onda portadora varia dentro de um nível estabelecido a um ritmo igual à frequência de um sinal sonoro, denomina-se modulação FM;
+Receptor – Tem como componentes principais: a antena para captar as ondas eletromagnéticas e convertê-las em oscilações elétricas; amplificadores que aumentam a intensidade dessas oscilações; equipamentos para demodulação; um alto-falante para converter os impulsos em ondas sonoras e na maior parte dos receptores osciladores para gerar ondas de radiofrequência que possam se misturar com as ondas recebidas.
+
+
+== História ==
+
+Segundo alguns autores, a tecnologia de transmissão de som por ondas de rádio foi desenvolvida pelo italiano Guglielmo Marconi no fim do século XIX, mas a Suprema Corte dos Estados Unidos concedeu a Nikola Tesla o mérito da criação do rádio, no ano de 1943, tendo em vista que Marconi usara 19 patentes de Tesla no seu projeto.[carece de fontes?]As descobertas que culminaram com essa invenção começaram em 1888, com Heinrich Hertz. Ele produziu e detectou ondas eletromagnéticas com frequência muito menor do que a da luz, principal motivo para conseguirmos transmitir voz, músicas e até mesmo fotos sem precisar de fios. Foi em 1899 que o inventor Guglielmo Marconi, no Canal da Mancha, fez o primeiro sistema de telégrafos sem fios.Na mesma época, em 1893, no Brasil, o padre Roberto Landell de Moura também buscava resultados semelhantes, em experiências feitas em Porto Alegre, no bairro Medianeira, onde ficava sua paróquia. Ele fez as primeiras transmissões de rádio no mundo, entre a Medianeira e o morro Santa Teresa. Os experimentos de Landell continuaram e obtiveram sucesso, sendo notícia na edição de 12 de outubro de 1902 no jornal New York Herald. No ano de 1901, Landell preconizava a utilização de ondas curtas para aumentar o alcance das transmissões. Foi ele que descobriu a serventia do arco voltaico para a transmissão de sinais de intensidade variada, o que criou os meios necessários para o desenvolvimento futuro do laser e da fibra ótica.
+
+
+=== As primeiras radioemissões ===
+O início da história do rádio foi marcado pelas transmissões radiofônicas, sendo a transcepção utilizada quase na mesma época. Consideram, alguns, que a primeira transmissão radiofónica do mundo foi realizada em 1906, nos Estados Unidos por Lee de Forest experimentalmente para testar a válvula tríodo.
+As primeiras transmissões para entretenimento regulares, começaram em 1920 na Argentina e nos Estados Unidos.No Brasil, inicialmente apenas militares poderiam ter aparelhos de rádio. A lei foi revogada por Francisco Sá, e a primeira transmissão civil foi realizada no dia 6 de abril de 1919, a partir de um estúdio improvisado na Ponte d'Uchoa, no Recife, pela PRA 8, Rádio Clube de Pernambuco, tendo, à frente, o radiotelegrafista Antônio Joaquim Pereira. Sobre este fato, o Jornal do Recife (já extinto) noticiou, no dia 7 de abril de 1919:
+
+Idealizada, construída, operada e direcionada para um grupo elitista, a emissora não teve muita repercussão, por não existirem receptores nas residências àquela época.
+Em 7 de setembro de 1922, no centenário da Independência do Brasil, o presidente Epitácio Pessoa, acompanhado pelos reis da Bélgica, Alberto I e Isabel, abriu a Exposição Internacional do Centenário da Independência no Rio de Janeiro. O discurso de abertura de Epitácio Pessoa foi transmitido para receptores instalados em Niterói, Petrópolis e São Paulo, através de uma antena instalada no Corcovado.
+No mesmo dia, à noite, a ópera O Guarani, de Carlos Gomes, foi transmitida do Teatro Municipal para alto-falantes instalados na exposição, assombrando a população ali presente. Era o começo da primeira estação de rádio do Brasil: a Rádio Sociedade do Rio de Janeiro. Fundada por Edgar Roquette-Pinto, a emissora foi doada ao governo em 1936 e existe até hoje, mas com o nome de Rádio MEC.
+Apesar dessa transmissão ser considerada pioneira no âmbito oficial, nesse período, a Rádio Clube, fundada por Augusto Pereira e Oscar Moreira, já realizava emissão radiofônica. Além de ser a primeira estação radiofônica do Brasil, a Rádio Clube foi também uma das pioneiras no mundo. Sua transmissão tinha como abrangência, naquela época, o centro de Recife e alguns subúrbios próximos. Porém, ela não contava com uma programação definida, estruturada profissionalmente.  Em abril de 1923, a Rádio Sociedade do Rio de Janeiro é inaugurada, sob a direção de Edgar Roquette Pinto, e é reconhecida como a primeira rádio do Brasil. Apesar da Rádio Sociedade possuir uma programação sólida e estruturada, a Rádio Clube de Pernambuco já operava com um transmissor de 10 watts nessa época.
+
+
+== Tecnologia ==
+
+
+=== Receptor ===
+
+A função do receptor de rádio é a decodificação dos sinais eletromagnéticos recebidos do espaço, captados pela antena, transformando-os em ondas sonoras, sinais digitais e/ou analógicos. A televisão e o rádio automotivo, por exemplo, são receptores.
+O equipamento é conectado a uma antena receptora, um sistema de sintonia e amplificadores de áudio, vídeo e/ou sinais digitais.
+
+
+=== Transmissor ===
+
+O radiotransmissor converte sinais sonoros, analógicos ou digitais em ondas eletromagnéticas, enviando-os para o espaço através de uma antena transmissora, para serem recebidos por um radiorreceptor, por exemplo, emissoras de AM, FM ou de TV além do LW.
+
+
+=== Transceptor ===
+O radio-transceptor, funciona das duas formas, como transmissor e receptor, alguns exemplos de transceptor são o telefone celular (telemóvel), os radares nos aeroportos, os equipamentos de comunicações em veículos oficiais, e de empresas particulares.
+Além da radiodifusão, existem outras modalidades na utilização de equipamentos emissores de radiofrequência que influenciam nas radiocomunicações:
+
+Radiotelegrafia, bastante utilizada até meados da década de 1970. Após o advento da digitalização, a transcepção via código morse caiu em desuso comercialmente e militarmente, embora ainda existam utilizadores da radiotelegrafia;
+Radiotelefonia ainda utilizada, porém em outros modos, por exemplo, os telefones celulares são modos de radiotelefonia;
+Radioemissora não é necessariamente radiodifusão, ou radiocomunicações. Uma radioemissora pode emitir sinais de rádio para os mais diversos fins, desde militares até industriais;
+Radiocomunicações é a modalidade mais utilizada;
+Radiogoniometria é uma modalidade de radiolocalização. Um radiogoniômetro localiza uma emissão de radiofrequência de qualquer modalidade;
+Radiolocalização é uma forma de radiogoniometria. Um NDB, por exemplo, sendo um radioemissor, emite sinais que são recebidos por um radiogoniômetro, que tendo um sistema monodirecional de recepção, faz a triangulação da emissora, localizando-a com precisão;
+Radioterapia por Diatermia chamado por alguns do meio médico de Ondas Curtas. Este sistema, embora não pertença ao assunto radiocomunicações, tem sua relevância, pois, é um dos maiores interferentes (Poluidor) nas radiocomunicações. Trata-se de um equipamento transmissor de radiofrequência de alta potência utilizado em medicina. Também não se deve confundir com Radioterapia por Radiação Ionizante), esta é realizada no comprimento de onda dos raios-x;
+Sua relevância às radiocomunicações se dá pelo fato de serem (juntamente aos equipamentos de diatermia) grandes poluidores do espectro eletromagnético.É um meio de comunicação que ocupa lugar de destaque. Apesar de ser um hobby, este tem vital importância para as pesquisas e desenvolvimento em diversas modalidades desta ciência.
+As estações de radiocomunicações mantidas por radioamadores, se prestam para comunicados e conversas informais além dos concursos e competições nacionais e internacionais os chamados contestes. Além do passatempo, os radioamadores prestam serviços para testes de condições de propagação ionosférica, direta, e por reflexão, (inclusive lunar) nas mais diversas frequências do espectro.
+Em casos extremos, as estações de radiocomunicações de radioamadores, em função de sua portabilidade, agilidade, gama de utilização, potência, e sistemas de antenas de fácil montagem e alcance, auxiliam as autoridades de Defesa Civil do mundo inteiro nas situações de risco e calamidades públicas.
+
+
+== Audiência ==
+Uma pesquisa feita a partir do IBOPE em 2013, apontou que durante a manhã o rádio na Grande São Paulo tem o dobro da audiência das emissoras de televisão. Durante o período, o rádio tem 1,815 milhões de ouvintes por minuto, enquanto a Rede Globo, SBT, Rede Record até a TV Canção Nova resulta em 886 mil telespectadores por minuto.
+
+
+== Ver também ==
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+Portal da Rádio - As emissoras de Rádio em Portugal
+Estações de rádio vivas de Portugal, Brasil e do mundo
+Radiomuseum.org
+Gravações antigas do rádio brasileiro

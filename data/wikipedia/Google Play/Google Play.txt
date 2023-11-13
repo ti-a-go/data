@@ -1,0 +1,23 @@
+Google Play ou Google Play Store (inicialmente chamado Android Market) é um serviço de distribuição digital oficial do sistema operacional Android de conteúdos digitais, como: aplicativos, jogos eletrônicos, filmes, programas de televisão, músicas e livros, desenvolvido e operado pela Google.As aplicações do Google Play estão disponíveis de graça ou a um custo. O conteúdo pode ser baixado diretamente de um dispositivo com o sistema Android ou em um computador caso o usuario tenha o Google Play Games Beta para computadores através do site ou app da Google Play. Estas aplicações podem ser direcionadas para usuários com base em um atributo particular de hardware de seu dispositivo, como um sensor de movimento (para os movimentos dependentes de jogos) ou uma câmera frontal (para chamadas de vídeo online).
+O Google Play foi lançado em 6 de março de 2012, unificando as marcas Android Market, Google Play Music e a Google Play Books sob uma única marca, modificando a estratégia da Google em relação a distribuição de conteúdo digital.
+
+
+== História ==
+O Google Play é originário de três produtos diferentes: Android Market(Agora Google Play Store), uma loja de aplicativos móveis para o sistema operacional Android existente desde 28 de agosto de 2008, Google Play Music, o serviço de distribuição digital de músicas do Google, e o Google Play Books, a loja de e-books da empresa.
+Em 6 de março de 2012, a Google anunciou a unificação desses três produtos, sob a marca Google Play. Além disso, em março de 2012 foi aumentado o tamanho máximo permitido de um aplicativo, dando aos desenvolvedores de aplicativos um total de 4 gigabytes.Em março de 2013, o Google começou a retirar aplicativos que bloqueiam anúncios da Play Store.Em maio de 2014 foram aceitos pagamentos via PayPal.Em março de 2016 o Google Play Games permitiu testar jogos de graça. Qualquer usuário pode iniciar o aplicativo e jogar por 10 minutos através do navegador. Não é necessário baixar e instalar a versão de avaliação.Em maio de 2016, foi anunciado que a loja, incluindo todos os aplicativos para Android, estariam disponíveis para o Chrome OS.Em julho de 2017, foi lançado o antivírus Google Play Protect.Em julho de 2018, o Google Play proibiu aplicativos de mineração de criptomoedas. Ao mesmo tempo, carteiras de criptomoedas permanecem permitidas.Em abril de 2020, o Google Play lançou uma nova seção infantil, «Teacher Approved». O que inclui aplicativos que atendem a padrões mais elevados e são aprovados por professores.
+
+
+== Google Play no Android ==
+A Google Play vem pré-instalada apenas em aparelhos certificados, permitindo o acesso ao conteúdo digital, incluindo aplicativos, jogos, filmes, músicas e livros.A loja filtra o conteúdo disponível de acordo com o país e o aparelho Android do usuário. Desenvolvedores podem utilizar tecnologias específicas, como o GPS, ou apenas versões específicas do sistema operacional Android (como o Android Nougat).
+
+
+== Segurança ==
+Google relata que em 2015 começou a digitalizar 6 bilhões de pedidos todos os dias para elementos (aplicativos) potencialmente prejudiciais. Há a detecção de 0,15% de aplicações nesta categoria, que foram alienadas na App Store. O percentual aumenta para 0,5%, quando há aplicativos instalados estão incluídas no Google Play. Estas percentagens são relativamente estáveis ​​ao longo dos anos. Entre as suas políticas para promover a segurança, o Google adicionou criptografia de disco e oferecer recompensas a quem encontrar a falha com a distribuição de aplicações.Em julho de 2018, a Google começou a proibir aplicativos de mineração de criptomoedas.
+
+
+== Ver também ==
+Desenvolvimento de software para Android
+Google Play Pass
+
+
+== Referências ==

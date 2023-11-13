@@ -1,0 +1,8 @@
+Um voo suborbital é um voo espacial em que a nave chega ao espaço, mas a sua trajetória cruza a atmosfera ou superfície do corpo gravitacional do qual foi lançado, de modo que não efetue uma revolução orbital completa.
+Se levarmos em consideração o planeta Terra, um voo espacial suborbital atinge uma altitude superior a 100 km acima do nível do mar. Esta altitude, conhecida como linha Kármán, foi escolhida pela Federação Aeronáutica Internacional porque é aproximadamente o ponto em que um veículo em voo, mantém esse voo sustentado na atmosfera da Terra mas voa mais rápido que a velocidade orbital.
+Alguns voos suborbitais foram usados para testar espaçonaves e veículos lançadores, para futuros voos orbitais. Outros veículos foram especificamente projetados para voos suborbitais. Alguns exemplos incluem veículos tripulados, como: o North American X-15 e o SpaceShipOne, e também veículos não tripulados, como: ICBMs em geral e foguetes de sondagem.
+Voos suborbitais, são diferentes de voos que chegam a orbitar mas que usam retrofoguetes para sair de órbita antes de concluir uma órbita completa. Assim sendo, o sistema FOBS, por exemplo, não pode ser considerado como voo suborbital, e sim um voo em LEO.
+Em geral foguetes são usados, mas voos suborbitais já foram obtidos a partir de "canhões espaciais".
+
+
+== Referências ==

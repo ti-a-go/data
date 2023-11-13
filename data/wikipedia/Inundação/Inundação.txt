@@ -1,0 +1,44 @@
+Uma inundação, de modo geral, pode ser entendido como o resultado da concentração da água de chuva em excesso que não pode ser absorvida por solo já saturado e outras por formas de escoamento, por exemplo, em áreas impermeabilizadas urbanas, onde o fluxo de água segue rapidamente para as baixadas e rios, superando a capacidade de escoamento, causando transbordamentos das margens. Cheias e enchentes também podem ser provocadas  por rompimento de barragens e represas, ou ainda pela abertura ou extravasamento de  represas  em períodos de fortes chuvas.
+Em termos técnicos as Nações Unidas, por meio da sua Estratégia Internacional das Nações Unidas para a Redução de Desastres (UNISDR), define a inundação como um processo de risco natural, mesmo quando ocorrido em áreas urbanas. Esta classificação é amplamente usada em diversos países, pois sejam estes ricos e bem urbanizados ou pobres e mal urbanizados a ocorrência de inundações se dá em ambos.
+Para o Instituto Geológico (IG) do Governo do estado de São Paulo, em consonância com a definição do Instituto de Pesquisas Tecnológicas do Estado de São Paulo (IPT) e do Ministério das Cidades do Brasil, órgãos públicos brasileiros responsáveis pela gestão de riscos, uma inundação é entendida como um processo periódico de extravasamento de um curso de água cujo transbordamento atinge a planície de inundação ou a área de várzea. Contudo, como sinônimo de inundação em áreas urbanas é usado o termo alagamento, pois nestes casos está geralmente associado à deficiência do sistema de drenagem urbano.
+Para caracterizar com maior exatidão estes cenários de riscos associados ao escoamento de água o termo inundação difere do termo enchente ou cheia. Estes são entendidos como elevações do nível de água que não ultrapassam a cota máxima do canal e, portanto, não caracterizam um extravasamento. Já a inundação ou cheia são definidas exatamente por serem extravasamentos do canal natural.
+As inundações são resultado da interação de fenômenos meteorológicos (tempestades repentinas, chuvas contínuas, intermitentes), hidrológicos (infiltração no solo, escoamento superficial seguindo a topografia, porosidade, saturação) e humanos (forma de uso e ocupação do solo, como urbanização ou impermeabilização do solo). A interação pode ser muito complexa envolvendo as escalas espaciais da precipitação atmosférica, as escalas espaciais da topografia da bacia hidrográfica e a infraestrutura urbana, no caso de cidades. A morfologia das redes de drenagem urbanas também são importantes para a distribuição da água. A forma dos vales, sua declividade e escala espacial e a escala espaço-temporal da chuva que impinge as encostas são fatores importantes para as condições de formação de enchentes repentinas ou prementes. Existem também enchentes regionais, por exemplo, no Pantanal brasileiro, que nos meses de chuva (setembro a março) apresentam sua superfície original coberta por uma lâmina de água, mas que neste caso não se caracteriza como inundações e sim como enchentes naturais. As enchentes tem papel importante na vida de um rio, pois no período de cheias estabelece lagoachos nas bordas dos rios, onde peixes nativos se reproduzem e passam a primeira parte de suas vidas antes de retornar ao rio. A ocupação de várzeas (isto é, seus leitos maiores) dos rios em áreas urbanas agravou muito o problema de enchentes urbanas no Brasil, isto ocorreu em anos em que se considerava a natureza e os rios urbanos como empecilhos ao desenvolvimento econômico da cidade, mas certamente o custo foi alto e novos conceitos foram introduzidos e discutidos pelos gestores urbanos no início do século XXI.
+
+
+== Distinção entre enchentes e inundações ==
+Existe uma distinção conceitual entre os termos "enchente" e "inundação": a diferença fundamental é que o primeiro termo refere-se a uma ocorrência natural, que normalmente não afeta diretamente a população, tendo em vista sua ciclicidade. Já as inundações são decorrentes de modificações no uso do solo e podem provocar danos de grandes proporções.
+
+
+=== Enchente ===
+Enchente ou cheia é o transbordamento em cursos de água e canais devido a chuvas muito intensas. Em mares e oceanos, os alagamentos devidos a ressacas também são denominados de enchentes, como os já ocorridos na Holanda. A ocorrência de enchentes é mais frequente em áreas mais ocupadas, quando os sistemas de drenagem passam a ter menor eficiência com o tempo se não forem recalculados ou devidamente adaptados tecnicamente. É comum o aumento das destruições devido sobretudo ao adensamento populacional de determinadas áreas sujeitas tradicionalmente a cheias cíclicas.
+Como todo fenômeno natural, pode-se sempre calcular o período de retorno ou tempo de recorrência de uma enchente recorrendo-se a métodos estatísticos comumente utilizados em hidrologia, como o método de Gumbel ou de Galton-Gibrat. Quando este transbordamento ocorre em regiões com baixa ou nenhuma ocupação humana, a própria natureza pode se encarregar de absorver os excessos de água gradativamente, gerando poucos danos ao ecossistema, mas podendo gerar  danos à agricultura. Existem cheias artificiais provocadas por erros de operações de comportas de vertedouro s de barragens ou por erros de projetos de  obras hidráulicas como bueiros, pontes , diques etc.
+Quando o transbordamento dá-se em áreas habitadas de pequena, média ou grande densidade populacional, os danos podem ser pequenos, médios, grandes ou muito grandes, de acordo com o volume de águas que saíram do leito normal e de acordo com a densidade populacional. A ciência que estuda os fenômenos das enchentes é a hidrologia, que é, normalmente, ensinada nos cursos de geografia, engenharia hidráulica, engenharia sanitária, engenharia ambiental, engenharia civil e outros. Algumas obras podem ser realizadas para controle das enchentes tais como bueiros, diques, barragens de defesa contra inundações ou mesmo obras de revitalização de rios, muito utilizadas na Holanda e na Alemanha.
+
+
+== A dinâmica das inundações ==
+Várias áreas do conhecimento estudam os fenômenos das inundações, dentre as quais destacam-se a Geomorfologia, a Climatologia Geográfica e a Hidrologia, que normalmente são ensinadas nos cursos de Engenharia Hidráulica, Engenharia sanitária, Engenharia Ambiental, Geografia, entre outros.
+Existem vários tipos de inundações: a inundação fluvial, quando há uma grande precipitação, causando esta o transbordamento de rios e lagos,  a inundação de origem marítima, que é causada por grandes ondas (ressacas), que invadem os polderes e as inundações artificiais, causadas por falhas humanas na operação de diques, comportas, rompimento de barragens, etc.
+
+
+=== Coeficiente de torrencialidade ===
+Há um cálculo simples que permite saber se uma bacia hidrográfica tem tendência para a ocorrência de enchentes. Isso é feito pela aplicação de uma fórmula, que fornece o coeficiente de torrencialidade dessa bacia. Esse cálculo consiste basicamente na multiplicação da densidade hidrográfica pela densidade de drenagem (Ct = Dh.Dd).
+
+
+=== Controle e prevenção ===
+A ocorrência de inundações tem-se tornado mais freqüente a cada ano em vários locais de Portugal. Tal facto ocorre devido à acelerada (ocupação do solo) sem que sejam tomadas as devidas precauções que levem em conta riscos ambientais e tecnológicos.
+É imprescindível que se leve em conta planos de acção de prevenção contra essas catástrofes. Algumas obras podem ser realizadas para controle das inundações no meio urbano, tais como construção e manutenção de bueiros, diques, barragens de defesa contra inundações, valas, tanques de contenção (piscinões) ou ainda obras de revitalização de rios, muito utilizadas na Holanda e na Alemanha.
+É necessário administrar toda a problemática gerada pela ocupação urbana desenfreada com medidas de controle do destino que é dado aos resíduos, que, obstruindo canais, impede que a água seja escoada com facilidade; assim como da ocupação do solo, levando-se em conta a capacidade da água de se escoar para os rios, que são os canais naturais de escoamento.
+Na ausência de tais medidas, fatalmente ocorrerão os problemas ocasionados pela deficiência dos meios tradicionais de escoamento artificial, se estes não têm capacidade suficiente de prover o escoamento do volume de água, dado que não existe um sistema de drenagem que suporte um volume de água maior que o nível previsto para uma máxima pluviométrica.
+
+
+== Ver também ==
+Enchente relâmpago
+Hidrologia
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Rios, J.L.P. et al. - Revitalização de Rios -  GTZ-SEMADS. Rio de Janeiro, 2002.
+Enchentes no Rio de Janeiro - SEMADS-GTZ - Rio de Janeiro, 2002.

@@ -1,0 +1,58 @@
+Indicativo de chamada é uma designação única de uma estação de transmissão de rádio. É designado formalmente por uma agência governamental, como identificador de uma estação de rádio. No Brasil a Anatel possui esta atribuição e em Portugal a Anacom. Os indicativos de chamada dependem do tipo de operação em que o aparelho está envolvido e sua localização geográfica. Internacionalmente, obedecem a um padrão composto pelo prefixo do país seguido por um identificador sufixo único de números, letras ou números e letras.
+
+
+== No Brasil ==
+Os prefixos atribuídos ao Brasil pela União Internacional de Telecomunicações compreendem as séries de PP-PY e ZV-ZZ.Como exemplo, o indicativo de chamada da Rádio Pelotense AM, de Pelotas, RS é ZYK270 e o da LABRE-RS é PY3AA. 
+As estações de rádio licenciadas para utilização na Faixa de Rádio do Cidadão, por sua vez, são identificadas por um indicativo de chamada composto pelo prefixo PX, por um algarismo de 1 a 9, correspondente à região em que se localiza a estação, e por um sufixo alfanumérico.
+A forma de leitura do indicativo de chamada segue o alfabeto fonético internacional.
+
+
+=== Serviço Móvel Aeronáutico ===
+No serviço móvel aeronáutico (estações de radiocomunicação a bordo das aeronaves) o indicativo de chamada "confunde-se" com a matrícula da aeronave. Assim, os indicativos de chamada não possuem números, apenas letras e estão distribuídos com prefixos entre PP e PU. Os prefixos PU foram reservados aos ultraleves. No início foram mais utilizados os prefixos PT e PP e quando o número de estações/aeronaves se tornou grande demais para essas faixas, passaram a ser utilizadas a faixas PR e PU.
+Os sufixos são compostos por três letras e compõe o designador da estação. Com isso, o indicativo de chamada/matrícula com as cinco letras se mantém único, já que uma aeronave não pode ser matriculada em mais de um país, ao mesmo tempo.
+
+
+=== Radiodifusão ===
+A distribuição dos prefixos das emissoras de radiodifusão no Brasil é:
+
+
+=== Radioamadorismo e faixa do cidadão ===
+A distribuição dos prefixos de indicativos efetivos de estações de Serviço de radioamador   e Serviço Rádio do Cidadão  são: 
+
+Os prefixos de indicativos especiais de estações de radioamador são:
+
+
+== Em Portugal ==
+
+
+=== Radioamadorismo ===
+Os indicativos de chamada (IC) de estações de amadores, Os prefixos atribuídos a Portugal pela União Internacional de Telecomunicações  compreendem as séries de CQ-CU.       
+O  artigo 16 do Decreto-Lei n° 53/2009  regulamenta a formação dos IC como segue:  
+Artigo 16 - Indicativos de chamada de estação: 
+1 — O ICP -ANACOM consigna um indicativo de chamada (IC) à estação fixa principal que opere ao abrigo de um Certificado de Amador Nacional (CAN) ou de uma licença de uso comum.
+2 — O IC consignado à estação fixa principal é comum às estações móveis e portáteis.
+3 — Mediante solicitação do amador habilitado, o ICP-ANACOM pode consignar:
+a) Um IC para a estação fixa adicional;
+b) Indicativos de chamada ocasionais (ICO);
+c) Indicativos de chamada ocasionais anuais (ICOA).
+4 — O ICOA é concedido pelo período de um ano, renovando -se automaticamente por iguais períodos, excepto se houver comunicação em contrário do amador até à data limite da sua validade.
+5 — Compete ao ICP -ANACOM definir e publicitar as regras para a consignação e para a utilização de IC, ICO e ICOA.
+As regras de consignação dos indicativos de chamada constam na Parte IX e Anexo 3 dos "Procedimentos adotados pelo ICP-ANARCON" . Os IC são formados pela junção do prefixo adequado contido na tabela abaixo com um sufixo de três letras (de AAA a ZZZ). O IC de uma estação de amador fixa adicional de uso individual, é igual ao IC da estação fixa principal do mesmo titular, seguido pelos caracteres “/1”.
+
+
+== Notas ==
+
+
+== Ver também ==
+Radioamadorismo no Brasil
+Radioamador em Portugal
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«Agência Nacional de Telecomunicações - Brasil» 
+«Autoridade Nacional de Comunicações - Portugal» 
+«Amateur Radio Prefixes» (em inglês) 
+«Table of International Call Sign Series» (em inglês)

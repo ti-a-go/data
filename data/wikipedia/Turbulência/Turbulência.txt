@@ -1,0 +1,44 @@
+Em mecânica dos fluidos, designa-se por escoamento turbulento, fluxo turbulento ou simplesmente turbulência o escoamento de um fluido em que as partículas se misturam de forma não linear, isto é, de forma caótica com turbulência e redemoinhos, em oposição ao fluxo laminar. Neste caso não se aplica a Lei de Poiseuille. Este tipo de fluxo é ruidoso. No âmbito da hidráulica é definido como um fluxo no regime turbulento.
+Um escoamento é dito turbulento nas ondas mais altas quando o transporte de momento por convecção é importante e as distribuições de pressão, densidade, velocidade (etc.) apresentam uma componente aleatória de grande variabilidade (no espaço e/ou no tempo).
+O problema da turbulência é um dos fenómenos ainda por serem resolvidos na física moderna, sendo que falta uma boa teoria que dê coerência e previsibilidade a uma série de descrições estatísticas e fenomenológicas. As nuvens de chuva são as causas mais comuns de turbulência.
+Um fluxo sob regime turbulento pode dar-se em variadas situações, tanto em superfícies livre como em escoamentos confinados, sendo esta habitual em situações de elevado caudal. O parâmetro mais utilizado para a verificação da existência deste regime é o número de Reynolds. Usualmente, caso o valor deste seja superior a 2 500, o regime é considerado turbulento. Contudo, este limite pode variar dependendo das situações e dos autores.
+
+
+== História da teoria ==
+O primeiro esforço teórico relevante capaz de com algum sucesso é reconhecido a Andrey Kolmogorov (1945), com a sua célebre lei de potência de um espectro dos "redemoinhos" que representa a distribuição de energia (cascata de energia) que "flui" de redemoinhos maiores para redemoinhos menores. A partir do momento em que algum mecanismo físico introduza uma distribuição de momento angular num fluido em alguma escala (grande, ou pelo menos suficientemente grande para a dissipação devida à viscosidade não ser dominante) gera-se alguma vorticidade não nula. O teorema de circulação de Kelvin garante que esta vorticidade não pode ser eliminada naturalmente (sem viscosidade, na prática) mas a configuração espacial de uma estrutura com turbulência pode evoluir.
+Em 2019, os modelos de turbulência encontraram a solução para determinar como a perturbação se dissipa no fluxo, um importante problema de fluxo fundamental.
+
+
+== Turbulência de ar claro (TAC) (ou CAT em inglês de clear air turbulence) ==
+Quando o gradiente estático da atmosféra é estável, isto é, quando a temperatura potencial decresce com a altura, o que normalmente ocorre na atmosfera livre (~entre 1.5 km e 12 km de altitude), e o vento cisalha com a altura (i.e., o vento aumenta ou diminui com a altura), o que geralmente ocorre nas vizinhanças de um jato de altos níveis (JAN) na troposfera, existe condição de formação de turbulência de ar claro, ou seja, pode ocorrer turbulência mesmo sem que haja um fenômeno visivel como um Cumulus nimbus (nuvem de tempestade) ou presença de obstáculos ao escoamento como montanhas altas. A TAC é em geral verificada no espaço aéreo vizinho de aeroportos em regiões nas proximidades de grandes montanhas ou nas proximidades de JAN associados à sistemas frontais (na alta troposfera na retaguarda ou dianteira de frente-frias em superfície). A previsão de TAC é muito importante para a determinação de rotas seguras para os aviões, por isso, é feita pelos serviços de previsão de tempo dedicados à meteorologia aeronáutica.
+Para a ocorrência de TAC é necessário que haja:
+
+cisalhamento do vento horizontal (os módulos do vetor velocidade do vento de duas camadas de ar adjacentes devem ser diferentes);
+estabilidade atmosférica (densidade do ar na camada abaixo é maior que a densidade do ar na camada acima)Nestas condições, o escoamento se instabiliza, o que é chamado instabilidade dinâmica das ondas de Kelvin-Helmoltz. A TAC é explicada em termos da instabilização (aumento da amplitude) seguida de quebra das ondas de Kelvin-Helmoltz (KH).As regiões com TAC podem se estender por milhares de quilômetros, mas usualmente apresentam extensão vertical de apenas algumas centenas de metros. Elas podem ser imaginadas como grandes regiões turbulentas em forma de panqueca. Elas normalmente ocorrem acima ou abaixo de jatos de vento intensos, tais como aqueles que ocorrem a noite sobre a Camada Limite Estável (noturna) sobre os continentes e na escala planetária abaixo e acima da corrente de jato de oeste (JAN) (e.g., do jato subtropical e jato polar).
+Quando uma aeronave encontra TAC o piloto deve subir ou descer para encontrar condições de escoamento atmosférico laminar (não turbulento), mas isso é difícil de se fazer nas proximidades de grandes tempestades (super-células) que podem induzir muitas correntes ascendentes e descendentes dentro da nuvem e fora dela, implicando em cisalhamento do vento e gradientes de densidade, por exemplo, ar úmido dentro da nuvem é menos denso que o ar seco fora da nuvem.
+
+
+== Cascata de energia de Kolmogorov ==
+A sugestão de Kolmogorov foi a de que as estruturas da turbulência só podem evoluir de modo a vorticidade "se concentre" em escalas cada vez menores, mas que ocupam todo o espaço, até que os efeitos viscosos dominem totalmente, e a energia cinética do movimento turbulento torne-se energia interna do escoamento (na forma de calor). Isso ocorre quando a dimensão dos vórtices turbulentos é inferior a 1 cm.
+
+
+== Turbulência e cosmologia ==
+Uma ilustração moderna e pertinente é a da evolução da distribuição de matéria no Universo desde a Época da Recombinação até aos dias de hoje (há simulações numéricas que ilustram o processo) e em que a matéria inicialmente quase perfeitamente dispersa se fragmenta (conservando o momento angular e a vorticidade) e colapsa redistribuindo-se em estruturas filamentares cada vez mais finas.
+
+
+== Exemplo de turbulência ==
+O fumo que sai de um cigarro. Se observar com atenção, o fluxo do fumo apresenta-se laminar enquanto ascende, durante alguns centímetros, para se tornar depois instável e turbulento;
+Hipertensão arterial - No método auscultatório de medida de pressão arterial, quando a desinsuflação do manguito atinge o nível da pressão arterial sistólica, começa a ocorrer um fluxo pela artéria, do tipo turbilionar, que é audível pelo estetoscópio.
+
+
+== Ver também ==
+Coeficiente de Reynolds
+Regimes de escoamento
+Escoamento laminar
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«O que acontece numa turbulência de avião - Infográfico Animado»

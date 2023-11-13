@@ -1,0 +1,110 @@
+O comércio externo é a troca de bens e serviços através de fronteiras internacionais ou territórios. Na maioria dos países, ele representa uma grande porcentagem do PIB. O comércio internacional está presente em grande parte da história da humanidade (ver rota da seda), mas a sua importância econômica, social e política se tornou crescente nos últimos séculos. O avanço industrial, dos transportes, a globalização, o surgimento das corporações multinacionais, o outsourcing tiveram grande impacto no incremento deste comércio. O aumento do comércio internacional pode ser relacionado com o fenômeno da globalização.
+O comércio internacional é uma disciplina da teoria econômica, que, juntamente com o estudo do sistema financeiro internacional, forma a disciplina da economia internacional.
+O volume do comércio mundial aumentou vinte vezes desde 1950 até hoje. Este aumento de bens manufaturados/manufacturados ultrapassa o aumento da taxa de produção dessas mercadorias em três vezes.
+
+
+== Teoria do comércio internacional ==
+Vários modelos diferentes, como o modelo ricardiano e o de Heckscher-Ohlin, entre outros, foram propostos para prever os padrões de comércio e analisar os efeitos das políticas de comércio, como as tarifas.
+
+
+=== Modelo ricardiano ===
+
+O modelo ricardiano foca nas vantagens comparativas (ou vantagens relativas) e é talvez o mais importante conceito de teoria de comércio internacional. Neste modelo, os países se especializam em bens ou serviços que produzem relativamente melhor. Diferentemente de outros modelos, o ricardiano prevê que países irão se especializar em poucos produtos em vez de produzir um grande número de bens. O modelo não considera diretamente as características naturais de um país, como disponibilidade relativa de mão de obra e de capital. E no modelo ricardiano, temos apenas um fator de produção, que se trata da mão de obra (trabalho). O diferencial de produtividade do trabalho e o custo de oportunidade nos países justificaria a especialização dos países, que realizariam, desta maneira, trocas internacionais depois da especialização.
+
+
+=== Modelo de Heckscher-Ohlin ===
+
+O modelo de Eli Heckscher e Bertil Ohlin foi criado como uma alternativa ao modelo ricardiano. Apesar do seu poder de previsão maior e mais complexo, ele também tem uma missão ideológica: a eliminação da teoria do valor do trabalho e a incorporação do mecanismo neoclássico do preço na teoria do comércio internacional. A teoria defende que o padrão do comércio internacional é determinado pela diferença na disponibilidade de alguns fatores naturais. Ela prevê que um país irá exportar aqueles bens que fazem uso intensivo daqueles fatores (insumos, por exemplo) que são abundantes neste país e irá importar aqueles bens cuja produção é dependente de fatores escassos localmente. Ou seja, o modelo expõe que um país abundante em capital exportará bens de capital, ao passo que um país em posição contrária, com escassez de capital, exportará bens ou serviços que sejam intensivos no uso do fator de produção mão de obra. Ohlin, por meio de seu modelo, foi o primeiro a tratar diretamente do que hoje se conhece por IED – Investimento externo direto - componente do Balanço de pagamentos pesquisado por organismos internacionais como BIS, BID, FMI, Cepal e Unctad.
+
+
+=== Fatores específicos ===
+Modelo dos fatores específicos e distribuição de rendimentos foi desenvolvido por Paul Samuelson e Ronald Jones. Tal como o modelo ricardiano, supõe que uma economia produz dois produtos, mas com a existência de vários fatores de produção: Trabalho (Fator Móvel) e Outros (Fatores Específicos).
+
+
+=== Modelo de gravitação ===
+
+O modelo da gravitação apresenta uma análise mais empírica dos padrões de comércio em contraposição aos modelos teóricos discutidos acima. O modelo da gravitação, basicamente, prevê que o comércio será baseado na distância entre os países e na interação derivada do tamanho das suas economias. O modelo mimetiza a lei da gravidade de Isaac Newton que considera a distância e o tamanho de objetos que se atraem. O modelo tem sido comprovado como robusto na área da econometria. Outros fatores como a renda, as relações diplomáticas entre países e as políticas de comércio foram incluídas em versões expandidas do modelo.
+
+
+== Regulamentação do comércio internacional ==
+Tradicionalmente o comércio é regulamentado através de tratados bilaterais entre nações. Durante os séculos de crença no mercantilismo a maioria das nações mantinham altas tarifas e muitas restrições ao comércio internacional. No século XIX, especialmente no Reino Unido, a crença no livre comércio tornou-se um paradigma e este pensamento tem dominado as nações ocidentais desde então (ver: Escola de Manchester). Nos anos seguintes à segunda guerra mundial, tratados multilaterais como o GATT e a OMC tentaram criar estruturas regulatórias de alcance mundial.Durante grande parte da história do socialismo real, existiu uma tendência a construção de economias nacionais autárquicas, ou seja, autossuficientes e independentes de modo a garantir a soberania nacional e se proteger das ingerências das potências capitalistas. Entretanto, Deng Xiaoping, ao assumir a liderança da China continental na década de 1970, desenvolveu o modelo chinês de socialismo de mercado, como parte de um importante processo de afastamento entre a China e o mundo de influência soviética. A China, então, sem abandonar o discurso e os ideais fundadores do comunismo chinês, se torna uma das duas maiores potências mundiais em comércio exterior, junto aos Estados Unidos, e o maior exportador do mundo. Outros tipos de regime, nomeadamente aqueles de caráter ultranacionalista, de direita, e aqueles nacional-desenvolvimentistas de esquerda, proeminentes a partir do movimento terceiro-mundista, também colocaram grande ênfase na ideia da autossuficiência.Normalmente, o comércio internacional livre é defendido pelos países economicamente mais poderosos, que acabam por se beneficiar dele a partir de suas posições produtivas, monetárias e politicas vantajosas. Quando eram duas das maiores economias mundiais, a Holanda e o Reino Unido eram grandes defensores desse pensamento. Atualmente, os Estados Unidos da América, o Reino Unido e o Japão são os seus maiores proponentes. Porém, hoje, a China tem se tornado também defensora do "livre-comércio", que beneficiaria suas exportações, enquanto que os países tradicionalmente ligados ao discurso do "livre comércio" se tornam cada vez mais ao protecionismo econômico.Tradicionalmente, os interesses agrícolas são a favor do comércio livre, enquanto setores manufatureiros defendem políticas protecionistas. Porém, lobbies agrícolas, particularmente nos Estados Unidos, Europa e Japão, são responsáveis pela inclusão de regras nos tratados de comércio internacional, cujo objetivo é a adoção de medidas protecionistas para bens de origem agrícola. Por outro lado, o Brasil, um grande e eficiente produtor agrícola, vem atuando para eliminar parte destas barreiras.Durante as recessões econômicas, sempre surgem pressões para o aumento de tarifas de importação, com o intuito de proteger a produção doméstica. A grande depressão estadunidense levou ao colapso do comércio internacional, fazendo com que a crise se aprofundasse.
+A regulamentação do comércio internacional é realizada através da OMC no nível global, e através de vários outros arranjos regionais como o Mercosul na América do Sul; o NAFTA, entre Estados Unidos da América, Canadá e México; e a União Europeia, entre 27 estados europeus independentes.
+
+
+== Riscos do comércio internacional ==
+
+Os riscos existentes no comércio internacional podem ser divididos em dois grandes grupos:
+
+
+=== Riscos econômicos ===
+Insolvência do comprador;
+Atraso no pagamento - a falha do comprador em pagar o total em até seis meses;
+Flutuações cambiais;
+Relacionados à soberania econômica.
+
+
+=== Riscos políticos ===
+De cancelamento ou não renovação de licenças de exportação ou importação;
+Relacionados a conflitos armados;
+Expropriação ou confisco por companhias importadoras;
+De imposição de um banimento de algum bem após o embarque;
+De transferência: A imposição de controle de transferência de valores pelo país importador devido a crises de liquidez;
+Relacionados à soberania política.
+
+
+== Exportação e importação ==
+
+
+=== Exportação ===
+
+Exportação é a saída de produtos ou execução de serviços para/em outro país. Esta operação pode envolver pagamento (cobertura cambial), como venda de produtos, ou não, como nas doações.
+
+
+=== Importação ===
+
+Importação é a entrada de produtos ou execução de serviços provenientes de outro país.
+
+
+== Impactos socioeconômicos ==
+Um dos efeitos do livre comércio internacional, mantidas as outras condições estáveis, é a chamada "equalização de preços de fatores". A diferença de salários e preços de insumos tende a diminuir. Quando uma empresa fecha uma fábrica nos Estados Unidos e abre na China, contribui para a diminuição de salários nos EUA e aumento na China, pois a demanda diminuiu num país e aumenta no outro.Além disso, as exportações permitem vender produtos para qualquer país do mundo, seja perto ou distante. Para a exportação ter sucesso, ela pouco depende do desenvolvimento mercantil no qual seu sítio de envio está localizado. Tal fato propicia o distanciamento econômico de pontos geograficamente próximos, elevando as possibilidades de disparidade de renda e diferenças sociais. Além disto, às vezes os melhores produtos de um país ou território são preferencialmente direcionados à exportação, assim restando produtos de qualidade pior. Isso ocorre devido ao poder de compra dos clientes no exterior. Se o preço nacional for semelhante ao encontrado no exterior, esse fenômeno não costuma ocorrer.
+
+
+== Estudos econômicos ==
+Para favorecer as exportações, numerosos organismos governamentais publicam na Internet estudos de mercado por sector e por país estrangeiro. Estes estudos são mais ou menos acessíveis e frequentemente gratuitos.
+
+
+== Lista de organismos governamentais por país ==
+Estados UnidosUSCS (United States Commercial Service), dependente do United States Department of Commerce, redigiu cerca de milhares de estudos econômicos.USDA (United States Department of Agriculture) publica estudos sobre os sectores da Agricultura.CanadáEDC (Export Development Canada).Agriculture and Agri-Food Canada publica estudos internacionais sobre o seu sector.FrançaBusiness France (promoção das exportações).AFII (Agence française pour les investissements internationaux) implantação de empresas estrangeiras.Reino UnidoUK Trade & Investment tem em carga ao mesmo tempo a promoção das exportações e a implantação de empresas estrangeiras no Reino Unido.Hong KongHKTDC (Hong Kong Trade Development Council).JapãoJETRO (Japan External Trade Organization).AustráliaAustrade.
+
+
+== Comércio exterior do Brasil ==
+
+A economia brasileira é a 6ª maior economia mundial, de acordo com os critérios de PIB diretamente convertido a dólares americanos, e está entre as 10 maiores economias em critérios de "Paridade do poder de compra" sendo a maior da América Latina, e está na 84ª posição no ranking do IDH (Índice de desenvolvimento humano).O primeiro produto que moveu a economia do Brasil foi o pau-brasil no período logo após o descobrimento e mais tarde, com a divisão do Brasil em capitanias hereditárias passou a ser o açúcar a principal atividade, e que perdurou por quase todo o período de colônia, vindo a ser substituído como principal atividade pelo ouro da região de Minas Gerais em meados do Sec. XVII. Já independente, um novo ciclo econômico surgiu, agora com o café. Esse momento foi fundamental para o desenvolvimento do Estado de São Paulo, que acabou por tornar-se o mais rico do país.
+Apesar de ter dado, ao longo da década de 1990, um salto qualitativo na produção de bens agrícolas, alcançando a liderança mundial em diversos insumos, com reformas comandadas pelo governo federal, a pauta de exportação brasileira foi diversificada, com uma enorme inclusão de bens de alto valor agregado como joias, aviões, automóveis e peças de vestuário.
+Hoje, a pauta do Brasil é considerada moderna e diversificada, incluindo aviões. Atualmente o país está entre os 20 maiores exportadores do mundo, com US$ 118 bilhões (em 2005) vendidos entre produtos e serviços a outros países. Mas com um crescimento de dois dígitos ao ano desde o governo Fernando Henrique Cardoso, em poucos anos a expectativa é que o Brasil esteja entre as principais plataformas de exportação do mundo.
+Desde janeiro de 1995, a economia brasileira começou a crescer consistentemente graças ao governo FHC. Em 2004, o PIB cresceu 4,9%, a indústria cresceu na faixa de 8% e as exportações superaram todas as expectativas.
+O Brasil é visto pelo mundo como um país com muito potencial assim como a Índia, Rússia e China. A política externa adotada pelo Brasil prioriza a aliança entre países subdesenvolvidos para negociar commodities com os países ricos. O Brasil, assim como a Argentina e a Venezuela, vêm rejeitando o projeto da ALCA em discussão, apesar das pressões dos EUA. Existem também iniciativas de integração e cooperação econômica na América do Sul.
+Seus maiores parceiros comerciais são a União Europeia, os Estados Unidos, o Mercosul e a República Popular da China.
+
+
+=== Acordos comerciais ===
+
+Os acordos são ferramentas poderosas para inserir melhor as empresas brasileiras no mercado internacional, tanto via comércio quanto via investimentos. Essas ações são necessárias porque, em 2015, as vendas externas brasileiras caíram 15,1% em relação a 2014. Foi a quarta queda consecutiva das exportações. Em agosto de 2016, os produtos brasileiros só têm acesso facilitado, livre de tarifas de importação e barreiras não tarifárias, a menos de 8% do mercado internacional, enquanto os dos Estados Unidos atingem 24%, os da União Europeia 45% e México, 57%. O Brasil já começou a fazer acordos com países da América do Sul como Peru, Chile e Colômbia. Mesmo as negociações sendo limitadas, este é um primeiro passo para ampliar o mercado das empresas nacionais.
+
+
+== Ver também ==
+
+
+== Referências ==
+
+
+== Bibliografia ==
+OBSTFELD, Maurice; KRUGMAN, Paul R. - Economia Internacional. Madrid: Pearson Educación, 2006. ISBN 978-84-7829-080-2
+ROMÃO, António - Comércio Internacional. teorias e técnicas. Lisboa: Instituto do Comércio Externo de Portugal - ICEP, 1991. depósito legal: 48015/91
+
+
+== Ligações externas ==
+Estrutura e composição da Nomenclatura Comum do Mercosul(NCM) By Comxport
+Benefits of International Trade by Elmer G. Wiens
+Núcleo de Estudos Industriais e Tecnológicos - UFRJ
+Monitor do Comércio Exterior Brasileiro - Ministério da Economia

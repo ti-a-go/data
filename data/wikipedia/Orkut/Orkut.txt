@@ -1,0 +1,95 @@
+Orkut foi uma rede social filiada ao Google, criada em 24 de janeiro de 2004 e desativada em 30 de setembro de 2014. Seu nome é originado no projetista chefe, Orkut Büyükkökten, engenheiro turco do Google.
+O alvo inicial do Orkut era os Estados Unidos, mas a maioria dos usuários foram do Brasil e da Índia. No Brasil a rede social teve mais de 30 milhões de usuários, mas foi ultrapassada pelo líder mundial, o Facebook. Na Índia também foi a segunda rede social mais visitada.
+A sede do Orkut ficava na Califórnia até agosto de 2008, quando o Google anunciou que o Orkut seria operado no Brasil pelo Google Brasil devido à grande quantidade de usuários brasileiros e ao crescimento dos assuntos legais.Apesar de Orkut ser um nome próprio, na programação visual do site (títulos e logos) a palavra aparecia em minúscula (orkut). Em 30 de junho de 2014, a Google anunciou a extinção do Orkut com data marcada para 30 de setembro do mesmo ano. No dia 30 de setembro de 2014, o Orkut foi extinto, mas o Google criou um museu de comunidades, que reunia mais de 1 bilhão de mensagens trocadas em 120 milhões de tópicos de discussão de cerca de 51 milhões de comunidades. As informações armazenadas pelos usuários ficaram disponíveis para download pela ferramenta Google Takeout até 30 de setembro de 2016. Posteriormente os arquivos do Orkut foram excluídos e atualmente não é mais possível visualizar os tópicos arquivados.Em abril de 2022, o site da rede social foi reativado. Seu criador, o programador turco Büyükkökten, anunciou o retorno em mensagem assinada no site e informou estar construindo algo novo.
+
+
+== O sistema ==
+
+
+=== Sala de bate-papo ===
+O Google anunciou em 19 de novembro de 2008 que disponibilizaria gradualmente aos usuários brasileiros uma ferramenta para bate-papo integrada ao Orkut. A rede social já funcionava com o Google Talk, mas a novidade simplifica o acesso e uso do chat.A ferramenta aparecia no pé da página, como acontece no Facebook, ao qual usuários podem navegar e conversar on-line ao mesmo tempo.
+
+
+=== Aplicativos ===
+Em outubro de 2008 o Orkut contava com mais de 600 aplicativos para os usuários escolherem, sendo alguns dos mais utilizados o BuddyPoke e a Colheita Feliz.
+
+
+== Desenvolvimento ==
+200424 de janeiro ; Orkut é lançado por Orkut Büyükkökten20055 de Abril: O Orkut ganha versão em português.20081 de abril: O Orkut altera temporariamente seu logotipo em consequência do Dia da mentira. A marca traz a palavra "yogurt", um jogo de letras com o nome da rede.7 de agosto: O Google anuncia que o Google Brasil passa a ter o controle mundial do Orkut, dividindo a responsabilidade com os indianos. Mas o Google Brasil teria a palavra final em qualquer mudança ou melhoramento no site, e também que segundo o Ibope os brasileiros já chegam a 40 milhões de cadastros.20 de dezembro: O Orkut implementa sugestões de amigos na página inicial, onde amigos de amigos seus poderão ser seus também, por fim adicionando-os à sua lista.
+30 de dezembro: Um tema de Ano Novo é habilitado.201117 de Maio: Orkut ganha um novo logotipo após 7 anos de existência. O site também recebeu uma leve mudança no visual. Em publicação no blog oficial do Orkut, a equipe do Google disse que estava "melhorando o site para nossos usuários e uma das ideias foi criar um novo logotipo que refletisse a atual cara do Orkut. O novo logotipo é mais encorpado, ousado e maduro".
+
+
+== Perda de usuários ==
+2011Desde outubro de 2011 o Orkut vinha caindo enquanto outras redes sociais como o Facebook e o Twitter iam crescendo cada vez mais. Muitos dos usuários do Orkut, nos meses anteriores, foram deixando de acessar a rede social e assim ela foi perdendo seu espaço no mercado.2012No início de 2012 o Orkut foi ultrapassado pelo Facebook que se tornou a maior rede social no Brasil, durante o mês de dezembro de 2011, segundo dados da Comscore divulgados em janeiro. Pesquisa da companhia mostrou que a rede fundada por Mark Zuckerberg atraiu 36,1 milhões de visitantes durante o período, superando os 34,4 milhões registrados pela rede social do Google.
+2013Em 2013 foi realizada uma pesquisa que diz que em três anos o Orkut perdeu 95,6% do número de acessos fixos no Brasil registrando assim queda vertiginosa no país e sendo superado pelo Facebook.Chegou a ocupar a terceira posição das redes sociais mais utilizadas no país, enquanto o Facebook ocupa a primeira colocação, mas acabou perdendo a posição para o ask.fm.
+
+
+== Novo Orkut ==
+Novo Orkut foi o nome dado à nova versão do site de relacionamentos Orkut, do Google. A nova versão, com layout totalmente reformulado, foi lançada no dia 29 de Outubro de 2009, durante uma coletiva de imprensa.
+LançamentoDurante a coletiva de imprensa, foram apresentadas as novidades que a nova versão do Orkut trazia, como o feed de notícias, um agrupamento de recados, atualizações do perfil e adição de amigos, tudo na página inicial. Também foi apresentado na coletiva, que seria retomado o antigo sistema de convites, como no começo do site. Lá, os participantes do Orkut recebiam convites para distribuí-los a amigos que não possuíam uma conta no site. Passou a funcionar do mesmo modo no Novo Orkut.
+
+
+== Fakes ==
+Como acontece na maioria dos sites de rede social, no Orkut existiu um grande número de perfis falsos (também chamados de fakes). Esses perfis geralmente se passam por pessoas famosas ou personagens de filmes, animes, super heróis ou games, assim sendo óbvio que eles são falsos. Eles são criados tanto para proteger a identidade da pessoa quanto para diversão, e não são ilegais. O problema é quando o perfil é de uma outra pessoa, seja ela viva ou morta. Nesse caso, isso pode se enquadrar como falsidade ideológica.
+
+
+== Privacidade ==
+No Orkut era possível escolher quem podia visualizar fotos e mensagens, sendo assim a privacidade variava de acordo com a vontade do usuário.
+O ato de bisbilhotar a vida de estranhos, geralmente em busca de interesses em comum caracterizada nas redes sociais como o Orkut, acompanhar fotos e recados de desconhecidos é típico da contemporaneidade, em que se identifica um culto a personalidades, sejam elas famosas ou anônimas.
+
+
+== Problemas do Orkut ==
+
+
+=== Falhas de segurança ===
+Hackeando contas e comunidades com XSSNo dia 1 de janeiro de 2005 um hacker brasileiro chamado "Vinícius K-Max" atacou o Orkut, roubando comunidade usando uma vulnerabilidade de "cross-site scripting" (XSS).
+MW.Orc wormNo dia 19 de junho de 2006 os pesquisadores de segurança da "FaceTime Security Labs", Christopher Boyd e Wayne Porter descobriram um "worm", chamado de MW.Orc.Esse "worm" roubava detalhes bancários de usuários, como login e senha se propagando através do Orkut. O ataque era iniciado quando um usuário lançava um arquivo executável disfarçado de arquivo JPEG. O executável inicial que causou a infecção então instalava mais dois arquivos no computador do usuário. Esses arquivos então enviavam um e-mail com detalhes da conta bancária para o criador do "worm" quando o usuário infectado clicava no ícone "Meu Computador".A infestação se espalha automaticamente postando a URL na página de recados de outro usuário. Esse link enganava o usuário com uma mensagem falsa para fazê-lo clicar no link. O conteúdo dessa mensagem varia de caso para caso.Além de roubar informações pessoais, o malware também permitia que um usuário remoto controlasse o computador e fizesse dele parte de uma botnet, uma rede de computadores infectados. O botnet nesse caso usava a banda de rede do computador infectado para distribuir filmes piratas em larga escala, potencialmente reduzindo a velocidade de conexão do usuário.O arquivo executável inicial (Minhasfotos.exe) criava dois arquivos adicionais, winlogon_.jpg e wzip32.exe (localizados na pasta Windows32). Quando o usuário clicava no ícone "Meu Computador", um e-mail era enviado contendo informações pessoais. Além disso, ele era adicionado a XDCC Botnet (usado para troca de arquivos), e o link infectado era enviado para outros usuários pela rede de amigos.De acordo com declarações feitas pelo Google a companhia implementou um conserto temporário para combater o "worm".
+W32/KutWormerEm 19 de Dezembro de 2007 um "worm" escrito em Javascript pelo cracker brasileiro chamado "Rodrigo Lacerda" infectou mais de 700 mil usuários. Esse "worm" fazia o usuário entrar automaticamente em uma comunidade e mandava um recado para todos os amigos do usuário, que ao lerem o recado também ficavam contaminados. Esse "exploit" criava as urls para o álbum, permitido pela estrutura simples. A ideia por trás disso era do cracker indiano "Master Shekhar". Esse cracker fez a equipe do Orkut implementar novos métodos de proteger os álbuns e fotos.
+O "worm" se espalhou usando o recurso então recentemente instalado no Orkut que permitia a usuários escreverem códigos HTML nos recados, e adicionar conteúdo em Flash/Javascript.
+
+
+== Exploração comercial ==
+Em 16 de Janeiro de 2007, a comunidade do Orkut Eu AMO Floripa foi alvo da primeira transação comercial de que se teve notícia na rede no Brasil quando foi "adquirida" pela RBS, que pagou R$ 2 mil a um jovem carioca para se tornar moderador do fórum de discussão. A página da comunidade foi utilizada para promover o festival do verão "Floripa Tem", e seu nome foi alterado, logo em seguida, para "Eu Amo Floripa! Floripa Tem!". Na época a comunidade totalizava quase setenta e cinco mil membros, e foi escolhida para a transação por sua maior popularidade entre os usuários da rede de relacionamento, comparada a outras com o mesmo tema.
+
+
+== Questões legais ==
+
+
+=== Brasil ===
+PiratariaEm 16 de março de 2009, a comunidade Discografias, a maior do Orkut para troca de músicas, que continha mais de 921 mil usuários registrados, foi desativada. Na comunidade, os usuários compartilhavam links para álbuns musicais inteiros, sem qualquer pagamento, o que gerou uma série de ameaças judiciais por parte de associações de defesa de direitos autorais. A comunidade era acessada por mais de um milhão de pessoas e era considerada uma das principais plataformas da internet no Brasil para quem buscava seu conteúdo.
+RacismoEm 2006 a justiça do Brasil denunciou um estudante de 20 anos acusado de racismo contra pessoas com descendência africana, e espalhar textos difamatórios no Orkut.
+Torcidas organizadasMuitas torcidas organizadas utilizavam o Orkut para registrarem as suas atividades. Algumas gangues inseridas nestas torcidas organizadas de times de futebol se agrediam mutuamente e marcavam local para seus confrontos. Tendo em vista que trata-se de uma ação criminosa, a polícia podia rastrear os incitadores e prevenir os eventos.
+PedofiliaHouve no Orkut um caso crescente de pessoas divulgando fotos, imagens de menores de 14 anos.
+Lembrando que, menores em trajes íntimos e em momentos íntimos (beijo, por exemplo) e sendo apalpados em regiões privadas é considerado pedofilia, tanto a pessoa que tirou as fotos ou mesmo que a pessoa simplesmente tenha colocado no site fotos tiradas por outra pessoa, segundo o Estatuto da Criança e do Adolescente.
+
+
+=== Emirados Árabes Unidos ===
+Em agosto de 2006 os Emirados Árabes Unidos seguiram o exemplo do Irã e bloquearam o site. Esse bloqueio foi removido depois em outubro do mesmo ano. No dia 3 de julho de 2007, Gulf News revisou o assunto, publicando críticas contra comunidades do Orkut como "Dubai Sex", e oficialmente trazendo as críticas para a atenção da mídia. Em 4 de julho de 2007 o site foi novamente banido, o que continuou em vigor. Apesar da promessa do Google, houve proibição de negociar com os Emirados Árabes Unidos (EAU).
+
+
+=== Outros países ===
+A Arábia Saudita foi outro país que bloqueou o Orkut. O primeiro-ministro de Bahrein esteve sob forte pressão para fazer o mesmo.
+Apologia ao terrorismoVárias comunidades foram observadas por apologia ao terrorismo. Simpatizantes do terrorista Osama Bin Laden e da organização terrorista Al Qaeda possibilitaram trocas de informações. Instituições internacionais de combate ao terrorismo rastrearam regularmente o website em busca destas atividades consideradas ilegais.
+
+
+== Encerramento ==
+Em um comunicado publicado em 30 de junho de 2014, o Google anunciou que iria descontinuar a rede social a partir do dia 30 de setembro do mesmo ano. Nessa data, novas inscrições para o site foram encerradas, sendo que o site continuou funcionando normalmente até o dia de seu encerramento. O Google também anunciou que as comunidades públicas da rede social seriam mantidas em um arquivo público. Segundo o jornal Folha de S. Paulo, após o encerramento da rede, os nomes de domínio do Orkut passariam a ser administrados de volta pelo criador da rede, o engenheiro turco Orkut Büyükkökten.E em maio de 2017, foi oficialmente anunciado o encerramento do arquivo público de comunidades para o mesmo mês. Houve, inclusive, a recordação sobre "entusiasmo e geração de conteúdo", em referência direta aos ex-usuários do Brasil.
+
+
+== Possível retorno ==
+Em 9 de abril de 2022, a página da rede social foi reativada pelo fundador Orkut Büyükkökten, o que especula um possível retorno da plataforma. A Alphabet havia devolvido a razão social depois do processo de falência e o assunto foi um dos mais comentados em diversas redes sociais.
+
+
+== Ver também ==
+Orkut atrapalha negócios do Google segundo Wall Street Journal (no Wikinotícias)
+Lista de redes sociais
+OpenSocial
+Operação Turko
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+Sítio oficial

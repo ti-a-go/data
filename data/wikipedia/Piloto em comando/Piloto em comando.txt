@@ -1,0 +1,25 @@
+O Piloto em comando - de uma aeronave e a pessoa designada pelo explorador de uma aeronave que é responsável por sua operação e segurança em voo. O piloto em comando, mesmo que não esteja manobrando os comandos, será responsável pela operação de acordo com as Regras do Ar, podendo ocasionalmente se desviar quando for absolutamente necessário a fim de atender exigências de segurança.
+A definição legal de piloto em comando pode variar ligeiramente de acordo com o país. A definição da ICAO é: "O piloto responsável pela operação e segurança da aeronave durante o tempo de voo." Tempo de voo é definido pela FAA como "O tempo total desde o momento que uma aeronave se move por meios próprios com o objetivo de decolar até o momento de sua parada total no final do voo." Isto normalmente inclui o taxi, que envolve as operações de solo de e para a pista de pouso e decolagem quando o taxiamento é iniciado com intenção de voo com a aeronave
+
+
+== Brasil ==
+No Brasil, a  ICA 100-12 - Regras do ar e serviços de tráfego aéreo define "piloto em comando" como:
+
+
+=== Regulamentações do Ministério da Defesa ===
+De acordo com a regulamentação brasileira, a ICA 100-12 diz:
+
+(a) O piloto em comando de uma aeronave terá autoridade decisória em tudo o que com ela se relacionar enquanto estiver em comando.
+(b) O piloto em comando, quer esteja manobrando os comandos ou não, será responsável para que a operação se realize de acordo com as Regras do Ar, podendo delas se desviar somente quando absolutamente necessário ao atendimento de exigências de segurança.As regras equivalentes da ICAO e de outros países são similares.
+Na Annex 2, "Rules of the Air", em seu parágrado "2.3.1 Responsibility of pilot-in-command", a ICAO declara:
+
+O anexo 2, parágrafo "2.4 Autoridade de piloto em comando da aeronave", acrescenta:
+
+Tanto a FAR 91,3 (b) quanto o Anexo 2 da OACI, parágrafo 2.3.1, autorizam ao Piloto em comando a substituir qualquer outro regulamento em caso de emergência, e tomar o caminho mais seguro de ação a seu critério exclusivo. Esta disposição se reflete na autoridade dada aos capitães de navios no mar, com justificativas semelhantes. Isso dá ao piloto em comando a autoridade final em qualquer situação que envolva a segurança de um voo, independentemente de qualquer outra legislação ou regulamento.
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Craig, Paul A. (2000). Pilot in Command. [S.l.]: McGraw-Hill. ISBN 0071348441

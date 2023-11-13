@@ -1,0 +1,155 @@
+A transição para a televisão digital no Brasil remete à implementação do sistema digital de televisão no país, cuja primeira transmissão oficial de sinal digital foi em 2 de dezembro de 2007, às 21h20, na Sala São Paulo, na cidade de São Paulo. A solenidade reuniu mais de duas mil pessoas e contou com a presença do presidente da República Luiz Inácio Lula da Silva e de empresários do setor.
+A partir de maio de 2008, teve início a campanha de popularização da televisão digital brasileira, que incluía demonstrações em pontos de grande circulação. Nesta época várias cidades em quatro das cinco regiões do Brasil e suas respectivas capitais já possuíam transmissão digital antes da expectativa inicial, mesmo assim em 2008 apenas 470 mil aparelhos aptos a receber o sinal digital foram vendidos e a cifra atingia apenas cerca de 907 mil brasileiros.Em 20 de outubro de 2008, foi inaugurada a multiprogramação da TV Digital. O recurso divide um canal em alta definição em até quatro subcanais em definição padrão, que podem transmitir o sinal de emissoras diferentes, cada uma com sua programação independente. A transmissão histórica foi realizada pelo canal da Câmara dos Deputados em São Paulo, SP, em parceria com a Assembleia Legislativa paulista e o Laboratório de Pesquisas em TV Digital da Universidade Mackenzie. Entraram no ar, em caráter experimental, a TV Câmara, a TV Alesp e a TV Mackenzie.
+Em 2009, o governo iniciou uma ampla campanha de divulgação sobre o que era a televisão digital, seus benefícios, além de fazer acordos com as fabricantes para baratear os preços, e a partir disso, as vendas de televisores aptos ao sistema digital melhoraram consideravelmente.No final de julho de 2012, a TV Acre e a TV Rondônia, afiliadas da Rede Globo em Rio Branco, no Acre e Porto Velho, em Rondônia, iniciam as transmissões digitais, sendo as últimas que faltavam, agora todas as capitais brasileiras passam a ter acesso à TV Digital. A partir de agosto de 2012, 44,9 milhões de brasileiros residentes nas capitais e 43.041.964 habitantes de outras cidades já têm acesso a pelo menos um dos canais digitais brasileiros. Em 2016, Gilberto Kassab disse que a TV Digital do Brasil teria resolução 4K a partir de 2019, o que não ocorreu.Em 17 de outubro de 2012, a Câmara dos Deputados criou a Rede Legislativa de TV Digital, baseada na multiprogramação. Canais da Câmara e do Senado Federal em todo o País são compartilhados com assembleias estaduais e câmaras municipais. O baixo custo incentiva a montagem de emissoras legislativas locais e possibilita a universalização do acesso a essas programações.
+
+
+== Padrão ISDB-TB ==
+
+O padrão de televisão digital adotado no Brasil é o ISDB-TB, uma adaptação do ISDB-T (Integrated Services Digital Broadcasting Terrestrial), padrão japonês acrescida de tecnologias desenvolvidas nas pesquisas das universidades brasileiras.
+O padrão japonês foi escolhido, conforme dito anteriormente, por atender melhor as necessidades de energia nos receptores, mobilidade e portabilidade sem custo para o consumidor, diferente do padrão europeu (DVB-T), onde esta operação é tarifada pelas empresas telefônicas. A principal diferença constatada inicialmente após a decisão de se adotar o padrão japonês para ser utilizado na televisão digital brasileira,  em junho de 2006, foi a substituição do formato de compressão MPEG-2 para o MPEG-4.
+O formato ISDB-TB também permite, além da transmissão em alta definição, a transmissão em multiprogramação, onde é possível transmitir, no lugar de um único programa em alta definição, oito programas diferentes simultaneamente em definição padrão (720 × 480 pixels, a mesma do DVD). Para comparar, a televisão analógica, por ter perdas na transmissão pelo ar, chega a no máximo 333 × 480. Com o codec H.264 do formato MPEG-4, será possível transmitir até 2 canais HD (1080i), 4 Canais HD (720p) e/ou 8 SD (480p) pela mesma transmissora.
+
+
+=== Padrão Ginga de interatividade ===
+
+
+== Desenvolvimentos recentes ==
+Alguns desenvolvimentos recentes merecem destaque. Um deles é o middleware Ginga, camada de software intermediário open source que permite o desenvolvimento de aplicações NCL interativas para a TV Digital de forma independente da plataforma de hardware dos fabricantes de terminais de acesso (set-top-boxes).
+Resultado de anos de pesquisas lideradas pela Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio) e pela Universidade Federal da Paraíba (UFPB), o Ginga reúne um conjunto de tecnologias e inovações brasileiras que o tornam a especificação de middleware mais avançada e, ao mesmo tempo, mais adequada à realidade do país.
+O título “Ginga” foi ideia do Professor Doutor Bruno Jefferson de Sousa Pessoa, membro do corpo docente da UFPB, ex-cavaquinista do Grupo de Pagode HAGARRÊ.
+O Ginga pode ser dividido em dois subsistemas principais, que permitem o desenvolvimento de aplicações seguindo dois paradigmas de programação diferentes. Dependendo das funcionalidades requeridas no projeto de cada aplicação, um paradigma possuirá uma melhor adequação que o outro.
+Outro avanço importante foi a aprovação do contrato que dá início a fabricação do primeiro chip nacional para a TV Digital. A diretoria do Banco Nacional de Desenvolvimento Econômico e Social (BNDES) destinou recursos não-reembolsáveis do Funtec, no valor R$ 14,6 milhões para a União Brasileira de Educação e Assistência (UBEA) da Pontifícia Universidade Católica do Rio Grande do Sul (PUC-RS) e o Centro de Excelência em Tecnologia Eletrônica Avançada (CEITEC) vinculado ao Ministério da Ciência e Tecnologia. Também participam do projeto a empresa Telavo Digital que apoiou a pesquisa e o design do chip e o Instituto Ábaco, de Campinas, SP, responsável pelo hardware do projeto. O chip criado pela PUC-RS e pelo Ceitec atenderá aos três sistemas de modulação para transmissão de TV Digital internacionalmente reconhecidos.
+
+
+== Desligamento da televisão analógica ==
+
+
+=== Leilão da faixa de 700 MHz ===
+O Brasil é primeiro país no mundo a conduzir o desligamento analógico em conjunto com o leilão de parte da faixa usada pela televisão. 
+No ano de 2014, a Agência Nacional de Telecomunicações (ANATEL), publicou o edital n°2/2014-SOR/SPR/CD-ANATEL, referente ao leilão de radiofrequências na faixa de 700 MHz para o uso do sistema de quarta geração de telefonia móvel (4G), em atendimento às políticas governamentais de desenvolvimento da banda larga no País, e consoante com a identificação internacional da faixa, pela União Internacional de Telecomunicações – UIT, para serviços de telefonia móvel. O leilão, ocorrido em 30 de setembro de 2014, arrecadou cerca de 9 bilhões de reais, dos quais parte fora reservada para cumprir obrigações do desligamento.
+O leilão da faixa de 700 MHz trouxe consigo a necessidade de remanejamento de canais de televisão que atualmente utilizam a faixa. As emissoras analógicas e digitais que ocupam a faixa UHF compreendida entre os canais 52 ao 69 deverão ser realocadas, dentro da mesma faixa, para os canais 14 a 51. Em algumas cidades grandes, como São Paulo e Belo Horizonte, a grande ocupação do espectro impede que o remanejamento dos canais para uso pelo 4G seja feito sem que antes houvesse antes o desligamento analógico.
+
+
+=== Primeira fase do desligamento analógico ===
+A data original para o desligamento do sinal analógico no Brasil estabelecida por Decreto, sendo de 31 de dezembro de 2018. Subsequentemente, em 2014, foi expedida determinação estabelecendo o cronograma de desligamento dos municípios, o qual deveria iniciar-se em 29 de novembro de 2015, sendo finalizado em 25 de novembro de 2018. Posteriormente, foram definidas as cidades afetadas pelo desligamento analógico, que desligaram em conjunto com as principais cidades de forma a viabilizar a limpeza da faixa de 700 MHz. A partir de 2015, foi autorizado o uso da faixa de VHF compreendida entre os canais 7 a 13 (“VHF alto”) para o funcionamento da televisão digital. Permitiu-se também que os canais analógicos desta faixa continuem operando até a data do desligamento.No mesmo ano, foi determinado que, para permitir o desligamento da transmissão analógica das emissoras de televisão em cada município, pelo menos 93% de seus domicílios que acessavam o serviço livre, aberto e gratuito por transmissão terrestre, estivessem aptos à recepção da televisão digital terrestre. Foram considerados aptos os domicílios que estavam equipados com, ao menos, um televisor com receptor digital integrado ou um televisor analógico ligado a um conversor externo, além de antena apropriada para recepção de televisão digital.
+Na primeira fase, para estimular o atingimento do percentual de 93% de domicílios aptos, o Governo determinou por meio da Portaria Nº 378, de 22 de Janeiro de 2016 que os beneficiários do programa Bolsa Família recebessem, de forma gratuita, um conversor digital com interatividade (Ginga, na sua versão C) e antena para recepção, além de garantir que medidas sejam tomadas para solucionar eventuais problemas de interferência da telefonia móvel na televisão digital.
+Além disso, na primeira fase também foi promovida uma campanha publicitária, inclusive em TV aberta, para informar a toda população sobre o desligamento, ato referido na  Portaria 1581. Para cumprir a estas e outras obrigações, as operadoras de telefonia móvel que venceram a licitação da faixa de 700 MHz terão disponíveis, de forma exclusiva, o montante de 3,6 bilhões de reais.Considerando as lições aprendidas com a implantação do desligamento analógico nas primeiras cidades que passaram por esse processo, o cronograma original de dezembro de 2018 foi revisto, a fim de completar o processo de 2016 a 2019 apenas nas capitais, regiões metropolitanas e demais áreas onde o desligamento analógico foi necessário para liberar a faixa de 700MHz, na primeira fase do processo, e até 2023 no restante do país, em uma segunda fase.  
+Neste sentido, em 2016, delimitou-se o prazo de dezembro de 2018 apenas para as capitais e demais localidades em que o desligamento fosse estritamente necessário para liberação da faixa de 700 MHz pelas emissoras de televisão para utilização do 4G. Foi concluído, portanto, até dezembro de 2018, o desligamento de 1.379 localidades do Brasil, incluindo todas as capitais, e correspondendo a mais de 130 milhões de habitantes. Para as demais localidades, o prazo original fora estendido até 2023. Após vários ajustes, o cronograma de desligamento analógico definitivo estabeleceu-se conforme a lista a seguir:
+
+
+=== Desligamento piloto ===
+A cidade escolhida como piloto para o desligamento do sinal analógico foi Rio Verde (Goiás), cujo sinal analógico seria desligado em 29 de novembro de 2015. Entretanto, a última pesquisa de conhecimento realizada pelo IBOPE nesta cidade. resultou que apenas 69% da população estavam aptos a receber o sinal digital, percentual abaixo dos 93% necessários para o desligamento. A pesquisa concluiu que grande parte da população que não se mobilizou em favor da transição digital até a data do desligamento - adquirindo televisores ou conversores -, justificou a inação pela impossibilidade de arcar com gastos. Além disso, um fenômeno observado em outros países que já passaram pelo processo é de que certo percentual da população somente toma ações de adequação após o desligamento.
+Após a data original do desligamento, o poder público divulgou, durante um evento aberto, que Rio Verde teria seus serviços analógicos impreterivelmente desligados em 15 de fevereiro de 2016. Para que a população de baixa renda que ainda não possuía os equipamentos necessários para receber o sinal digital não fosse prejudicada, foi autorizada a compra de conversores para serem distribuídos aos os usuários do Cadastro Único. Na cidade existiam, há época, cerca de 25 mil inscritos no programa, sendo aproximadamente 7 mil do bolsa-família.No dia 15 de fevereiro de 2016, mesmo com o percentual de 93% não atingido, o desligamento não seria mais adiado em Rio Verde. Sendo assim, duas emissoras - Rede Vida e TV Canção Nova - pararam de transmitir o sinal analógico. A escolha das emissoras foi feita devido à facilidade técnica. As demais emissoras, de acordo com o pronunciamento do poder executivo federal, deveriam ser desligadas até o dia 1º de março. Neste dia, Rio Verde se tornou a primeira cidade da América do Sul a desligar o sinal analógico e realizar todas as transmissões de televisão em tecnologia digital.
+
+
+=== Segunda fase do desligamento analógico ===
+Para a segunda fase do desligamento, instituiu-se em maio de 2021 um programa público  de digitalização das emissoras de televisão. O programa consiste na distribuição de conversores e instalação de transmissores de televisão, em infraestruturas compartilhadas. Para custear a iniciativa, foi reservado um saldo inicial de 658 milhões de reais, advindos do Edital do 4G. Parte deste saldo também foi utilizado para massificação da internet de banda larga no Brasil.
+Política pública estabeleceu os seguintes objetivos para a segunda fase do desligamento:
+
+Concluir o processo de digitalização dos sinais da televisão analógica terrestre até 31 de dezembro de 2023, data final para desligamento dos sinais analógicos no Brasil;
+Ampliar o acesso ao serviço de televisão digital terrestre nas localidades onde ainda não houve o desligamento dos sinais analógicos de televisão, possibilitando a transmissão digital em alta definição (HDTV) e em definição padrão (SDTV), com recursos de interatividade;
+Instalar equipamentos para a digitalização dos sinais analógicos das estações retransmissoras de televisão nos municípios que possuem acesso ao sinal analógico e que ainda não dispõem de nenhum sinal de televisão digital terrestre;
+Distribuir conversores de televisão digital terrestre a famílias integrantes do Cadastro Único, inclusive as beneficiárias do Programa Bolsa Família; e
+Simplificar o processo de consignação de canais digitais às entidades que prestam o serviço de retransmissão de televisão em tecnologia analógica, garantindo a continuidade da prestação do serviço em tecnologia digital.Em maio de 2021, quando a política segunda fase do desligamento foi instituída, 1.638 municípios dispunham apenas de sinal analógico. As prefeituras e as entidades que executam o serviço de retransmissão de televisão nos municípios elegíveis, elencados na relação de municípios do Programa, puderam manifestar interesse na adesão. Após manifestação e qualificação das prefeituras e entidades, os equipamentos de transmissão para digitalização das estações analógicas em operação nos municípios começaram a ser instalados.  
+Foram realizados chamamentos públicos aos municípios e prefeituras elegíveis, expedidos na forma de Editais, sendo publicados sete destes, nos quais os municípios foram agrupados e convocados paulatinamente.
+A adesão do Município depende de qualificação concomitante da Prefeitura e de ao menos uma das entidades em operação na localidade - Entidade Cedente da Programação - ECP ou Entidade Detentora de Autorização do Serviço de Retransmissão de Televisão Analógica - EDA.A expectativa de conclusão do desligamento analógico no Brasil é até o fim do ano de 2023.
+
+
+== Datas da chegada da televisão digital às cidades brasileiras ==
+Nota: Esta seção elenca a data da chegada da primeira - ou das primeiras, se a chegada for simultânea - emissora digital de cada cidade. Portanto, não se deve incluir emissoras que chegaram depois. Tal informação cabe somente em artigos sobre a história da televisão em cada cidade ou estado, tais como este e este.
+
+
+=== Segundo semestre de 2007 ===
+O início da televisão digital deu-se, tal qual o início da televisão no Brasil (no ano de 1950), em apenas uma região: São Paulo e boa parte de sua região metropolitana.
+
+2 de dezembro: O presidente Luiz Inácio Lula da Silva e o ministro das Comunicações Hélio Costa, em uma cerimônia em São Paulo, anunciou o lançamento da tv digital no Brasil, o pronunciamento foi transmitido ao vivo para todo o Brasil. Logo após, o SBT fez a primeira transmissão digital do Brasil, exibindo o filme Alexandre, O Grande, um filme com mais de 2 horas, no qual o telespectador poderia conhecer e avaliar bem a imagem HDTV. No mesmo dia, foi lançado o novo logotipo da Rede Record e logo após a Band fez o primeiro telejornal digital do Brasil, o atual Jornal da Band apresentado por Ricardo Boechat e Mariana Ferrão, que trocou a apresentação do Bem Estar da Rede Globo. Também estreou a TV Brasil, substituindo a TVE Brasil, a TV Nacional e a TVE Maranhão, lançando um logotipo muito moderno e utilizado desde 2009 como marca d'água. Também no mesmo dia a Rede Globo transmitiu o primeiro Fantástico em HD.
+
+
+=== Primeiro semestre de 2008 ===
+Quando a Televisão Digital foi inaugurada em São Paulo, imaginava-se que ela chegaria ao Rio entre fevereiro e março. O que aconteceu é que essa inauguração foi adiada para meados de abril. Tanto em Belo Horizonte quanto no Rio, os testes das emissoras começariam 15 de abril e as transmissões iniciariam formalmente em 25 de abril de 2008. Entretanto, as emissoras realizaram os testes de seus sinais independentemente uma da outra. A RedeTV! antecipou-se à Rede Globo e iniciou as transmissões digitais na capital mineira em 7 de abril, e na capital fluminense a 8 de abril, fazendo com que elas fossem a segunda e a terceira metrópole brasileira a receber e transmitir os sinais, respectivamente.
+
+7 de abril: a RedeTV! de Belo Horizonte adiantou seu projeto o suficiente para lançar sozinha (e com surpresa) a televisão na capital mineira antes da própria Rede Globo, que só veio a iniciar as transmissões em 25 de abril.
+8 de abril: a RedeTV! do Rio de Janeiro iniciou suas transmissões digitais no dia seguinte. A Rede Globo só iniciou as suas transmissões digitais em 16 de junho de 2008 (mais de dois meses depois) por motivos desconhecidos.
+
+
+=== Segundo semestre de 2008 ===
+Neste semestre, várias afiliadas da Rede Globo iniciaram as transmissões digitais, sendo por um bom tempo as únicas a fazê-lo. A primazia entre as afiliadas coube à TV Anhanguera de Goiânia, que começou antes de outras cidades que se julgavam aptas para começar antes, assim como também foi a pioneira na Região Centro-Oeste. Nesta época, também deu-se o início da expansão para a Região Sul, através da RPC TV de Curitiba e a Região Nordeste, com a TV Bahia de Salvador. No início de dezembro, a EPTV Campinas passou a ser a primeira afiliada no interior com transmissão definitiva em digital.
+
+4 de agosto: a TV Anhanguera de Goiânia foi a primeira afiliada da Rede Globo e a primeira da região centro-oeste a iniciar oficialmente a sua transmissão digital;
+10 de setembro: a Amazon Sat de Manaus inaugurou o sinal digital e se tornou a primeira emissora da Região Norte do Brasil a fazê-lo.
+22 de outubro: a RPC TV de Curitiba inaugurou o sinal digital e se tornou a primeira emissora da Região Sul do Brasil a fazê-lo.
+4 de novembro: a RBS TV de Porto Alegre inaugurou o sinal digital na capital gaúcha, sendo a segunda emissora da Região Sul a fazê-lo.
+1 de dezembro: a TV Bahia, em Salvador canal físico 29, virtual 11.1 inaugura as transmissões digitais no nordeste brasileiro, a fase de teste teve início em 12 de novembro de 2008 às 14 horas e 30 minutos.
+3 de dezembro: a EPTV de Campinas começa as transmissões digitais, sendo a primeira afiliada sediada fora das capitais a entrar na era digital.
+16 de dezembro: a TV Centro América de Cuiabá foi a primeira a começar as transmissões digitais no estado de Mato Grosso.
+
+
+=== Primeiro semestre de 2009 ===
+Neste semestre, a TV digital continuou a sua expansão por mais estados brasileiros, atingindo todas as capitais da Região Centro-Oeste, Região Sudeste e Região Sul, com o início das transmissões de algumas filiadas (tais como a TV Globo Brasília) e várias afiliadas de outras redes que não a Globo, tais como a TV Vitória, afiliada da Record, em fevereiro e a TV Cidade Verde e a TV Jornal, afiliadas do SBT, em março e maio, respectivamente. Em meados de março, a Rede Integração de Uberlândia tornou-se a primeira afiliada do interior mineiro com transmissão definitiva em digital. Vitória teve o início simultâneo de uma afiliada da Record e de uma afiliada da Globo.
+
+5 de fevereiro: a RBS TV de Florianópolis, tornou-se a primeira emissora no estado de Santa Catarina a começar em definitivo as transmissões digitais, após ter em com transmissões em caráter experimental desde 2008.
+9 de fevereiro: a TV Vitória (afiliada da Rede Record) e a TV Gazeta (afiliada da Rede Globo) de Vitória, foram as primeiras emissoras no estado do Espírito Santo a iniciar definitivamente as transmissões digitais.
+16 de março: a Rede Integração de Uberlândia, afiliada da Rede Globo, iniciou a transmissão digital em caráter definitivo, sendo a primeira emissora do Triângulo Mineiro e do interior de Minas Gerais.
+18 de março: a Rede Vida de São José do Rio Preto às 16:00 iniciou sua transmissão digital definitiva em sua geradora.
+23 de março: a TV Cidade Verde de Teresina, afiliada do SBT, iniciou a transmissão digital em definitivo nessa data, sendo a terceira no Nordeste e a primeira afiliada do SBT.
+30 de março: a TV Tribuna de Santos em São Paulo, afiliada da Rede Globo, iniciou a transmissão digital em caráter definitivo.
+22 de abril: a TV Globo iniciou suas transmissões digitais nesse dia, um dia depois do aniversário da Brasília. A TV Globo é a primeira emissora comercial a transmitir o sinal digital do Distrito Federal em caráter definitivo.[carece de fontes?]
+4 de maio: a TV Morena de Campo Grande, afiliada da Rede Globo, iniciou em definitivo suas transmissões digitais, que já eram feitas em caráter experimental desde 2008.
+8 de maio: a TV Alterosa, de Belo Horizonte, é a primeira afiliada do SBT na região sudeste e a segunda da rede a iniciar suas transmissões digitais.
+11 de maio: a TV Verdes Mares, afiliada da Rede Globo em Fortaleza, torna-se oficialmente a primeira emissora do Ceará a lançar o sinal digital.
+27 de maio: a TV Jornal do Recife, afiliada do SBT, lança oficialmente seu sinal digital (o sinal de testes já era transmitido desde 14 de abril), tornando-se a quinta capital do Nordeste a ter sinal de alta definição.
+28 de maio: a TV Jangadeiro afiliada do SBT no estado do Ceará inicia suas transmissões digitais nessa data na capital Fortaleza.
+15 de junho: a TV Globo Nordeste iniciou suas transmissões digitais que já eram realizadas em caráter experimental desde dezembro de 2008.
+17 de junho: a TV Cabo Branco de João Pessoa, afiliada da Rede Globo, recebe a autorização para passar a transmitir oficialmente seu sinal digital (o sinal de testes já era transmitido desde 22 de fevereiro), tornando-se a sexta capital do Nordeste a ter sinal de alta definição.
+
+
+=== Segundo semestre de 2009 ===
+Na parte final de 2009, a televisão digital continuou sua expansão pelo Brasil. Exceto pela cidade de Aracaju, que passou a ter transmissões definitivas de uma afiliada da Rede Record e da TV Canção Nova, todas as demais cidades tiveram início com afiliadas da Rede Globo. A TV digital começou sua expansão pela Região Norte, nas cidades de Belém (TV Liberal) e de Manaus (TV Amazonas). O interior paulista teve mais duas cidades: Sorocaba (TV TEM) e Ribeirão Preto (EPTV), além da geradora da Record News em Araraquara. Também houve o início da primeira cidade do interior catarinense: Joinville (RBS). Na Região Nordeste, além de Aracaju, São Luís também iniciou suas transmissões definitivas.
+
+27 de julho: a TV TEM de Sorocaba, afiliada da Rede Globo, iniciou as transmissões digitais em definitivo, após obter a concessão definitiva no dia 14 do mesmo mês
+31 de agosto: a TV Amazonas, afiliada da Rede Globo em Manaus, é a primeira emissora da Região Norte do Brasil a iniciar em definitivo as transmissões digitais, muito embora já houvesse transmissões experimentais da Amazon Sat desde setembro de 2008.
+10 de setembro: a TV Liberal de Belém, afiliada da Rede Globo, tornou-se a primeira emissora do estado do Pará a iniciar em definitivo as transmissões digitais.
+1 de outubro: a EPTV de Ribeirão Preto, afiliada da Rede Globo, iniciou a transmissão digital definitiva.
+8 de outubro: a RBS TV de Joinville, afiliada da Rede Globo, iniciou a transmissão digital oficialmente, tornando-se a primeira emissora do interior catarinense a fazê-lo.
+17 de novembro:  a TV Canção Nova e a TV Atalaia (afiliada da Record, cujo sinal era transmitido experimentalmente desde 22 de janeiro), em Aracaju, passaram à transmissão definitiva do sinal digital, sendo as primeiras emissoras a fazê-lo no estado de Sergipe.
+18 de novembro de 2009: a RecordTV Goiás emissora própria da RecordTV iniciou suas transmissões digitais nessa data sendo que em dia 17 do mesmo mês inicia em carácter experimental mas só nesta data atual o seu sinal digital é ativo em definitivo para a capital Goiânia.
+30 de novembro: a TV Sorocaba iniciou a transmissão digital em Sorocaba, tornando-se a primeira afiliada do SBT com transmissão digital no interior do Estado de São Paulo.1 de dezembro de 2009: a TV Aratu afiliada do SBT no estado da Bahia iniciou suas transmissões digitais nessa data na capital Salvador (Bahia), sendo a segunda emissora de televisão a ativar o sinal digital no estado atrás apenas da TV Bahia.7 de dezembro de 2009: a TV A Crítica, ex-afiliada da RecordTV em Manaus, iniciou suas transmissões em definitivo na cidade. É a primeira afiliada da RecordTV na Região Norte do país a transmitir a programação da emissora com sinal digital.20 de dezembro: a geradora da Record News, em Araraquara, iniciou as transmissões digitais em definitivo na cidade.
+21 de dezembro: a TV Mirante de São Luís, afiliada da Rede Globo, em transmissão experimental desde 9 de dezembro, passa a operar a transmissão digital em caráter definitivo, sendo a pioneira no estado do Maranhão.
+
+
+=== Primeiro semestre de 2010 ===
+Neste semestre, a televisão digital chegou a mais um estado: o Rio Grande do Norte. Também teve uma grande expansão por cidades do interior dos estados. A EPTV iniciou a transmissão efetiva em duas emissoras e 10 retransmissoras no interior dos estados de São Paulo e Minas Gerais; a Rede Vanguarda, em duas afiliadas do lado paulista do Vale do Paraíba; a Rede Integração, em duas afiliadas no Triângulo Mineiro, a TV Bandeirantes Presidente Prudente no oeste de São Paulo e a RPC TV de Londrina foi a pioneira no interior do Paraná. Com exceção da TV Bandeirantes Presidente Prudente, filiada da Rede Bandeirantes, todas as demais emissoras e retransmissoras pioneiras em suas respectivas cidades são afiliadas da Rede Globo.
+
+25 de fevereiro: a RPC TV de Londrina, afiliada da Rede Globo, passa a transmitir o sinal digital, Londrina é a segunda cidade do Paraná e a quinta da Região Sul a fazê-lo, atrás apenas de Curitiba, Porto Alegre, Florianópolis e Joinville.
+Em março: a TV Clube (Ribeirão Preto), afiliada da Rede Bandeirantes em Ribeirão Preto, iniciou oficialmente as transmissões digitais.
+22 de março: a InterTV Cabugi de Natal, afiliada da Rede Globo, tornou-se a primeira emissora do estado do Rio Grande do Norte a iniciar em definitivo as transmissões digitais.
+31 de maio: a EPTV de São Carlos, afiliada da Rede Globo, inicia as transmissões digitais em definitivo, sendo a terceira geradora da EPTV a fazê-lo. Nesse mesmo dia, as retransmissoras da EPTV em Amparo, Barretos, Cravinhos, Franca, Indaiatuba, Limeira, Mogi Guaçu, Piracicaba e Sertãozinho também iniciaram em definitivo as transmissões digitais, sendo as primeiras emissoras a fazê-lo em suas respectivas regiões.
+1 de junho: as geradoras da Rede Vanguarda, afiliada da Rede Globo em São José dos Campos e Taubaté iniciaram as transmissões digitais, sendo o Rede Vanguarda o primeiro canal digital no Vale do Paraíba.
+8 de junho: a Rede Integração, afiliada da Rede Globo, iniciou as transmissões digitais nas cidades de Uberaba e Ituiutaba. No mesmo dia, a EPTV do Sul de Minas, afiliada da Rede Globo, inicia suas transmissões digitais em definitivo para a geradora em Varginha e para a retransmissora de Poços de Caldas, sendo o primeiro canal a transmitir sua programação em caráter digital para a região do Sul e Sudoeste Mineiro.
+11 de junho: TV Bandeirantes Amazonas, afiliada da Rede Bandeirantes em Manaus, iniciou oficialmente as transmissões digitais na cidade.
+11 de junho: TV Bandeirantes Presidente Prudente, afiliada da Rede Bandeirantes em Presidente Prudente, iniciou oficialmente as transmissões digitais, sendo a Band a primeira emissora a iniciar as transmissões digitais no Oeste Paulista.
+12 de junho: a RBS TV Blumenau, é a sexta cidade da Região Sul e a terceira de Santa Catarina a começar suas transmissões digitais.
+
+
+== Cronologia das transmissões digitais ==
+O início das transmissões digitais em cada localidade (que não confundem-se com as datas de desligamento analógico) iniciaram-se em 2007, na cidade de São Paulo, tendo sido expandida para quase 90% da população brasileira, até 2019.
+
+
+== Medição de audiência ==
+Com a chegada do novo sistema de transmissão, é necessária também uma nova forma de se medir a audiência televisiva das emissoras. Para isso, o Ibope, maior instituto de pesquisa desta área do país, adotará o aparelho DIB 6, nova versão do aparelho medidor DIB 4, utilizado na forma de medição de televisão analógica People Meter. De acordo com o Ibope, esta tecnologia permite conhecer também a preferência dos telespectadores no computador e no celular através de um software instalado nestes. Os testes da nova tecnologia começaram em 2007 e a previsão é que a nova tecnologia de medição esteja implementada em 2009.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Página oficial da TV Digital no Brasil
+Blog com análises sobre a TV Digital no Brasil
+Web Serie sobre TV Digital no Brasil (15 episódios) - Youtube
+Último Segundo- Artigo: o padrão nacional que o ministro descarta
+O fato consumado da TV Digital
+Escolha da TV digital promoveu desenvolvimento de tecnologia brasileira
+Ministro anuncia TV Digital com software livre brasileiro
+Governo anuncia financiamento para chip nacional da TV Digital
+TV Digital Livre: Lançamento do middleware Ginga Brasil em GPL será dia 03/07, no Congresso da SBC
+Lista de canais digitais das principais cidades dos Brasil

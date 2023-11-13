@@ -1,0 +1,33 @@
+Feature-driven development (FDD), ou  Desenvolvimento Dirigido por Funcionalidades,  é um método leve e iterativo para desenvolvimento de software. Criado por Jeff de Luca e Peter Coad, combina gestão de projetos com boas práticas de engenharia de software.
+
+
+== História ==
+Entre 1997-1999, em Cingapura, um importante banco internacional, o UOB (United Overseas Bank), precisava de uma completa reengenharia de sua plataforma de empréstimos para corporações, comércio e consumidores, abrangendo os mais diversos instrumentos. Era um projeto complexo e o maior desse tipo na região.
+Após quase dois anos de consultoria, 3.500 páginas de casos de uso documentados, mas pouquíssimo software em execução, um dos membros da equipe, Jeff de Luca, aceitou o desafio e convenceu a diretoria do banco a tentar mais uma vez, agora sob sua liderança e com uma pequena equipe de talentos de classe mundial para desenhar o sistema, treinar e ser mentores de outros. Ele já́ adotara um processo leve e altamente iterativo em outros projetos e estava disposto a experimentar novas estratégias.
+
+
+== Features ==
+Uma feature é uma funcionalidade pequena, que possui valor para o cliente no contexto do seu domínio de negócio. Comumente, para a equipe de projeto, uma iteração é ocupada por vez para ser desenvolvida, ou seja, geralmente cada entrega dura em torno de 2 semanas (80 horas). 
+Em geral, a maioria das funcionalidades depende de apenas algumas horas para sua implementação. Para entender bem onde a funcionalidade se encaixa basta recorrer à Teoria de Processos. Um domínio de negócio pode ser decomposto em macroprocessos ou macroáreas de processos, como Vendas, Marketing, Operações, Compras, entre outras, que são conhecidas como Áreas de Negócio.
+Em cada Área de Negócio podemos identificar vários processos ou Atividades de Negócio, que são desempenhadas por tal área, total ou parcialmente. Cada atividade é composta por tarefas ou Passos, manuais ou automatizados por sistemas (software, hardware etc.). Os passos que precisarem de auxílio do sistema tornam-se as funcionalidades para o projeto FDD.
+
+
+== Funcionalidade X caso de uso ==
+A comparação de uma funcionalidade com um caso de uso (ou mesmo com uma história de usuário), é comum, visto que este é mais conhecido como um meio de se especificar requisitos. 
+Szego (um dos membros da equipe que criou a FDD e gerente de desenvolvimento da Nebulon) disse sobre o assunto: 
+“Há muitas diferenças entre um caso de uso e uma funcionalidade, mas a fundamental é que eles visam preocupações totalmente diferentes. 
+Casos de uso são uma tentativa de especificar requisitos e são criados no início, geralmente antes que qualquer análise ou desenho seja tentado. As funcionalidades, por outro lado, são enumeradas depois da atividade de modelagem inicial, ou Processo 1 da FDD, e são uma decomposição do domínio do problema. 
+Essa é uma diferença fundamental: o próprio domínio, o qual um bom modelo de objetos deve tentar capturar, raramente muda. Os requisitos ad-hoc para um sistema de software, que abordam algum aspecto de um negócio naquele domínio, são muito mais voláteis. 
+Há outras diferenças, tais como a granularidade e o quão abertos à interpretação eles são, mas isso são efeitos colaterais deles visarem preocupações diferentes. [...] 
+[...] Apesar de alguns equívocos, não se deve iniciar tentando enumerar as funcionalidades. Na FDD usamos a ‘modelagem da estrutura’ como a atividade analítica inicial, que nos fornece informação suficiente para então prosseguirmos e construir a lista de funcionalidades”.
+
+
+== Ver também ==
+Desenvolvimento ágil de software
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«Manifesto Ágil»

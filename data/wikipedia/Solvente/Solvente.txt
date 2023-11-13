@@ -1,0 +1,123 @@
+Solvente (do latim: solvō, "soltar, desatar, resolver"), dissolvente ou dispersante são uma substância que dissolve um soluto (um líquido quimicamente distinto, sólido ou gasoso), resultando em uma solução. São geralmente líquidos, mas também podem ser um sólido, um gás ou um fluido supercrítico. A quantidade de soluto que pode se dissolver em um volume específico de solvente varia com a temperatura. O uso mais comum para solventes orgânicos é em limpeza a seco (tetracloroetileno), como diluentes de tinta (como tolueno, terebintina), como removedores de esmalte de unha e solventes de cola (acetona, acetato de metila, acetato de etila), em removedores de manchas (por exemplo, hexano, éter de petróleo), em detergentes (terpenos cítricos) e em perfumes (etanol). A água é um solvente para moléculas polares, sendo o solvente mais comum utilizado pelos seres vivos; todos os íons e proteínas em uma célula são dissolvidos em água dentro da mesma. Os solventes encontram diversas aplicações nas indústrias químicas, farmacêuticas, de petróleo e gás, inclusive em processos de síntese e purificação química.
+
+
+== Soluções e solvatação ==
+Quando uma substância é dissolvida em outra, uma solução é formada.  Isso se opõe à situação quando os compostos são insolúveis como areia na água.  Em uma solução, todos os ingredientes são distribuídos uniformemente em um nível molecular e nenhum resíduo permanece.  Uma mistura solvente-soluto consiste em uma única fase com todas as moléculas de soluto ocorrendo como solvatos (complexos solvente-soluto), ao contrário de fases contínuas separadas como em suspensões, emulsões e outros tipos de misturas de não-solução.  A capacidade de um composto para ser dissolvido em outro é conhecida como solubilidade; se isso ocorre em todas as proporções, é chamado miscível .
+Além de misturar, as substâncias em uma solução interagem umas com as outras no nível molecular.  Quando algo é dissolvido, as moléculas do solvente se organizam em torno das moléculas do soluto.  A transferência de calor está envolvida e a entropia é aumentada, tornando a solução mais termodinamicamente estável do que o soluto e o solvente separadamente.  Este arranjo é mediado pelas propriedades químicas do solvente e do soluto, tais como pontes de hidrogênio, momento dipolar e polarizabilidade.  A solução não causa uma reação química ou mudanças na configuração química do soluto.  No entanto, a solvatação se assemelha a uma reação de formação de complexos de coordenação, muitas vezes com energias consideráveis (calor de solvatação e entropia de solvatação) e, portanto, está longe de ser um processo neutro.
+
+
+== Classificação dos solventes ==
+Os solventes podem ser classificados em duas categorias: polares e não polares.  Um caso especial é o mercúrio, cujas soluções são conhecidas como amálgamas; também existem outras soluções metálicas que são líquidas à temperatura ambiente. Geralmente, a constante dielétrica do solvente fornece uma medida aproximada da polaridade de um solvente.  A forte polaridade da água é indicada por sua alta constante dielétrica de 88 (a 0 °C).  Solventes com uma constante dielétrica inferior a 15 são geralmente considerados não polares.  A constante dielétrica mede a tendência do solvente de cancelar parcialmente a intensidade de campo, do campo elétrico, de uma partícula carregada imersa nela.  Esta redução é então comparada com a intensidade de campo da partícula carregada no vácuo. Heuristicamente, a constante dielétrica de um solvente pode ser considerada como sua capacidade de reduzir a carga interna efetiva do soluto. Geralmente, a constante dielétrica de um solvente é um preditor aceitável da capacidade do solvente para dissolver compostos iônicos comuns, tais como sais.
+
+
+=== Outras escalas de polaridade ===
+Constantes dielétricas não são a única medida de polaridade.  Como os solventes são usados por químicos para realizar reações químicas ou observar fenômenos químicos e biológicos, são necessárias medidas mais específicas de polaridade.  A maioria dessas medidas é sensível à estrutura química.
+A escala mY Grunwald – Winstein mede a polaridade em termos de influência do solvente no acúmulo de carga positiva de um soluto durante uma reação química.
+A escala Z de Kosower mede a polaridade em termos da influência do solvente na absorção de UV máximos de um sal, geralmente iodeto de piridínio ou o zwitterion de piridínio.A escala do número do doador e do aceitador do doador mede a polaridade em termos de como um solvente interage com substâncias específicas, como um forte ácido de Lewis ou uma forte base de Lewis.O parâmetro Hildebrand é a raiz quadrada da densidade de energia coesiva. Pode ser usado com compostos não polares, mas não pode acomodar química complexa.
+O corante de Reichardt, um corante solvatocrômico que muda de cor em resposta à polaridade, fornece uma escala de valores de ET (30).  ET é a energia de transição entre o estado fundamental e o estado excitado mais baixo em kcal/mol e (30) identifica o corante. Outra escala aproximadamente correlacionada ( ET (33)) pode ser definida com o vermelho do Nilo.
+A polaridade, o momento de dipolo, a polarizabilidade e a ligação de hidrogênio de um solvente determinam que tipo de compostos é capaz de dissolver e com quais outros solventes ou compostos líquidos é miscível.  Geralmente, os solventes polares dissolvem melhor os compostos polares e os solventes não polares dissolvem melhor os compostos não polares.  Compostos fortemente polares como açúcares (por exemplo, sacarose) ou compostos iônicos, como sais inorgânicos (por exemplo, sal de mesa) dissolvem-se apenas em solventes muito polares como a água, enquanto compostos fortemente não polares como óleos ou ceras dissolvem-se apenas em solventes orgânicos muito polares como hexano.  Da mesma forma, a água e o hexano (ou vinagre e óleo vegetal) não são miscíveis entre si e se separarão rapidamente em duas camadas, mesmo depois de serem bem sacudidos.
+A polaridade pode ser separada para diferentes contribuições.  Por exemplo, os parâmetros de Kamlet-Taft são dipolaridade/polarizabilidade (π*), acidez de ligação de hidrogênio (α) e basicidade de ligação a hidrogênio (β).  Estes podem ser calculados a partir dos deslocamentos de comprimento de onda de 3-6 diferentes solvatocrômicos no solvente, geralmente incluindo o corante de Reichardt, nitroanilina e dietilnitroanilina. Outra opção, os parâmetros de Hansen, separam a densidade de energia coesiva em dispersão, as contribuições das ligações polares e de hidrogênio.
+
+
+=== Polar prótico e Polar aprótico ===
+Os solventes com uma constante dielétrica (mais precisamente, permissividade estática relativa) maior que 15 (isto é, polar ou polarizável) podem ser subdivididos em prótico e aprótico. Os solventes próticos solvatam ânions (solutos carregados negativamente) fortemente via ligação de hidrogênio.  A água é um solvente prótico.  Solventes apróticos tais como acetona ou diclorometano tendem a ter grandes momentos de dipolo (separação de cargas parciais positivas e parciais negativas dentro da mesma molécula) e solvatam espécies positivamente carregadas através de seu dipolo negativo.  Em reações químicas, o uso de solventes próticos polares favorece o mecanismo de reação SN1, enquanto os solventes apróticos polares favorecem o mecanismo de reação SN2.  Esses solventes polares são capazes de formar ligações de hidrogênio com água para se dissolverem na água, enquanto solventes não polares não são capazes de ligações de hidrogênio fortes.
+
+
+== Multi componente ==
+É a combinação de substâncias que causa a grande funcionalidade desses produtos e suas propriedades de consumo.
+
+
+=== Solventes ===
+
+
+=== Diluentes ===
+
+
+== Propriedades físicas ==
+
+
+=== Tabela de propriedades de solventes comuns ===
+Os solventes são agrupados em solventes não polares, apróticos polares e próticos polares, com cada grupo ordenado pelo aumento da polaridade.  As propriedades dos solventes que excedem as da água estão em negrito.
+
+
+=== Valores dos parâmetros de solubilidade de Hansen ===
+Os valores dos parâmetros de solubilidade de Hansen são baseados em ligações de dispersão (δD), ligações polares (δP) e pontes de hidrogênio (δH).  Estes contêm informações sobre interações inter-moleculares com outros solventes e também com polímeros, pigmentos, nanopartículas, etc. Isto permite formulações racionais, sabendo, por exemplo, que existe uma boa combinação de HSP entre um solvente e um polímero. Substituições racionais também podem ser feitas para "bons" solventes (eficazes na dissolução do soluto) que são "ruins" (caros ou perigosos para a saúde ou para o meio ambiente). A tabela a seguir mostra que as intuições de "não polar", "polar aprótico" e "polar prótico" são colocadas numericamente - as moléculas "polares" têm níveis mais altos de δP e os solventes próticos têm níveis mais altos de δH. Como os valores numéricos são usados, as comparações podem ser feitas de forma racional, comparando números.  Por exemplo, o acetonitrilo é muito mais polar do que a acetona, mas exibe um pouco menos de ligação de hidrogênio.
+
+Se, por razões ambientais ou outras, for necessário um solvente ou mistura de solventes para substituir outro de solvência equivalente, a substituição pode ser feita com base nos parâmetros de solubilidade de Hansen de cada um. Os valores das misturas são tomados como as médias ponderadas dos valores dos solventes puros.  Isso pode ser calculado por tentativa e erro, uma planilha de valores ou software HSP.  Uma mistura 1:1 de tolueno e 1,4-dioxano tem valores de δD, δP e δH de 17,8, 1,6 e 5,5, comparáveis aos de clorofórmio a 17,8, 3,1 e 5,7, respectivamente.  Devido aos riscos para a saúde associados ao próprio tolueno, outras misturas de solventes podem ser encontradas usando um conjunto de dados HSP completo.
+
+
+=== Ponto de ebulição ===
+ O ponto de ebulição é uma propriedade importante porque determina a velocidade de evaporação.  Pequenas quantidades de solventes de baixo ponto de ebulição como éter dietílico, diclorometano ou acetona evaporam em segundos à temperatura ambiente, enquanto solventes de alto ponto de ebulição como água ou dimetilsulfóxido precisam de temperaturas mais altas, um fluxo de ar ou a aplicação de vácuo para evaporação rápida.
+Caldeiras baixas: ponto de ebulição abaixo de 100 °C (ponto de ebulição da água)
+Caldeiras médias: entre 100 °C e 150 °C
+Caldeiras altas: acima de 150 °C
+
+
+=== Densidade ===
+A maioria dos solventes orgânicos tem uma densidade menor que a da água, o que significa que eles são mais leves e formam uma camada no topo da água.  As exceções importantes são a maioria dos solventes halogenados como o diclorometano ou o clorofórmio que afundarão no recipiente, deixando a água como camada superior.  Isso é crucial para lembrar ao particionar compostos entre solventes e água em um funil de separação durante a síntese química.
+Muitas vezes, a gravidade específica é citada no lugar da densidade.  Gravidade específica é definida como a densidade do solvente dividida pela densidade da água na mesma temperatura.  Como tal, a gravidade específica é um valor sem unidade.  Ele comunica prontamente se um solvente insolúvel em água irá flutuar (SG < 1,0) ou afundar (SG > 1,0) quando misturado com água.
+
+
+== Segurança ==
+
+
+=== Fogo ===
+A maioria dos solventes orgânicos é inflamável ou altamente inflamável, dependendo da sua volatilidade.  Exceções são alguns solventes clorados, como diclorometano e clorofórmio.  Misturas de vapores de solventes e ar podem explodir.  Os vapores de solventes são mais pesados que o ar; eles afundarão e poderão percorrer grandes distâncias quase sem diluição.  Os vapores de solventes também podem ser encontrados em tambores e latas supostamente vazios, o que representa um perigo de incêndio; portanto, os recipientes vazios de solventes voláteis devem ser armazenados abertos e de cabeça para baixo.
+Tanto o éter dietílico como o dissulfureto de carbono têm temperaturas de autoignição excepcionalmente baixas, o que aumenta consideravelmente o risco de incêndio associado a estes solventes.  A temperatura de autoignição do dissulfeto de carbono está abaixo de 100 °C (212 °F), então objetos como tubulações de vapor, lâmpadas, placas de aquecimento e queimadores de bunsen, recentemente extintos, são capazes de incendiar seus vapores.
+Além disso, alguns solventes, como o metanol, podem queimar com uma chama muito quente, que pode ser quase invisível sob algumas condições de iluminação.  Isso pode atrasar ou impedir o reconhecimento oportuno do perigo de um incêndio, até que as chamas se espalhem para outros materiais.
+
+
+=== Formação de peróxidos explosivos ===
+Éteres como éter dietílico e tetrahidrofurano (THF) podem formar peróxidos orgânicos altamente explosivos quando expostos ao oxigênio e à luz. Normalmente, é mais provável que o THF forme peróxidos do que o éter dietílico.  Um dos solventes mais suscetíveis é o éter diisopropílico, mas todos os éteres são considerados fontes potenciais de peróxido.
+O heteroátomo (oxigênio) estabiliza a formação de um radical livre que é formado pela abstração de um átomo de hidrogênio por outro radical livre.  O radical livre centrado em carbono assim formado é capaz de reagir com uma molécula de oxigênio para formar um composto de peróxido. O processo de formação de peróxido é grandemente acelerado pela exposição a níveis baixos de luz, mas pode prosseguir lentamente mesmo em condições escuras.
+A menos que seja usado um dessecante que possa destruir os peróxidos, eles se concentrarão durante a destilação, devido ao seu ponto de ebulição mais alto. Quando se formaram peróxidos suficientes, eles podem formar um precipitado sólido cristalino, sensível ao choque, na boca de um recipiente ou garrafa.  Pequenos distúrbios mecânicos, como raspar o interior de um vaso ou o deslocamento de um depósito, simplesmente torcendo a tampa, podem fornecer energia suficiente para o peróxido explodir ou detonar. A formação de peróxidos não é um problema significativo quando solventes frescos são usados rapidamente; eles são mais um problema em laboratórios que podem levar anos para terminar uma única garrafa.  Os usuários de baixo volume devem adquirir apenas pequenas quantidades de solventes propensos ao peróxido e descartar solventes antigos em uma programação periódica regular.
+Para evitar a formação explosiva de peróxidos, os éteres devem ser armazenados em um recipiente rígido, longe da luz, porque tanto a luz quanto o ar podem estimular a formação de peróxidos.Um número de testes pode ser usado para detectar a presença de um peróxido em um éter; uma é usar uma combinação de sulfato de ferro (II) e tiocianato de potássio.  O peróxido é capaz de oxidar o íon Fe2+ a um íon Fe3+ , que então forma um complexo de coordenação vermelho-escuro com o tiocianato.
+Os peróxidos podem ser removidos lavando com sulfato de ferro (II) ácido, filtrando através de alumina ou destilando de sódio / benzofenona.  O alumínio não destrói os peróxidos, apenas os retém e deve ser descartado adequadamente.  A vantagem de usar sódio / benzofenona é que a umidade e o oxigênio são removidos também.
+
+
+== Reciclagem ==
+Há empresas que atuam na reciclagem de solventes, porém as mesmas devem possuir Licença Ambiental para dispor/reciclar, transportar ou armazenar os resíduos industriais. As indústrias químicas para desenvolver a atividade de recuperação e refino de solventes, óleos minerais, vegetais e animais estão sujeitas ao licenciamento ambiental. A conversão de resíduos em matérias-primas pode gerar inúmeras oportunidades de negócios e empregos para a indústria.
+
+
+== Efeitos na saúde ==
+Os riscos gerais à saúde associados à exposição a solventes incluem toxicidade para o sistema nervoso, danos reprodutivos, danos no fígado e nos rins, problemas respiratórios, câncer e dermatite.
+
+
+=== Exposição aguda ===
+Muitos solventes podem levar a uma perda súbita de consciência se inalados em grandes quantidades.  Solventes como éter dietílico e clorofórmio têm sido usados na medicina como anestésicos, sedativos e hipnóticos por um longo tempo.  O etanol (álcool de cereais) é uma droga psicoativa amplamente usada e abusada.  O éter dietílico, o clorofórmio e muitos outros solventes, por exemplo, da gasolina ou colas, são utilizados na inalação de cola, frequentemente com efeitos prejudiciais à saúde a longo prazo, como neurotoxicidade ou câncer.  A substituição fraudulenta do 1,5-pentanodiol pelo 1,4-butanodiol psicoactivo por um subcontratante causou o recall do produto Bindeez.  Se ingeridos, os chamados álcoois tóxicos (que não o etanol), como metanol, propanol e etilenoglicol, são metabolizados em aldeídos e ácidos tóxicos, que causam acidose metabólica potencialmente fatal.  O metanol solvente comumente disponível para álcool pode causar cegueira permanente ou morte se ingerido.  O solvente 2-butoxietanol, usado em fluidos fraturados, pode causar hipotensão e acidose metabólica.
+
+
+=== Exposição crônica ===
+Alguns solventes, incluindo clorofórmio e benzeno, um ingrediente comum na gasolina, são conhecidos por serem carcinogênicos, enquanto muitos outros são considerados pela Organização Mundial da Saúde como carcinogênicos prováveis.  Os solventes podem danificar órgãos internos como o fígado, os rins, o sistema nervoso ou o cérebro.  Os efeitos cumulativos da exposição prolongada ou repetida a solventes são chamados de encefalopatia induzida por solvente crônico (ESC).
+A exposição crônica a solventes orgânicos no ambiente de trabalho pode produzir uma série de efeitos neuropsiquiátricos adversos.  Por exemplo, a exposição ocupacional a solventes orgânicos tem sido associada a um maior número de pintores que sofrem de alcoolismo.  O etanol tem um efeito sinérgico quando tomado em combinação com muitos solventes; por exemplo, uma combinação de tolueno / benzeno e etanol causa maior náusea / vômito do que qualquer substância sozinha.
+Muitos solventes são conhecidos ou suspeitos de serem cataratogênicos, aumentando muito o risco de desenvolver catarata no cristalino.  A exposição a solventes também foi associada a danos neurotóxicos causando perda auditiva e perda de visão de cores.
+
+
+=== Contaminação ambiental ===
+Um dos principais caminhos para induzir efeitos à saúde advém de derramamentos ou vazamentos de solventes que atingem o solo subjacente.  Como os solventes migram prontamente distâncias substanciais, a criação de contaminação generalizada do solo não é incomum; isto é particularmente um risco para a saúde se os aquíferos forem afetados.  A intrusão de vapor pode ocorrer em locais com ampla contaminação de solvente na subsuperfície.
+
+
+== Ver também ==
+Lumolinescência
+Saúde Ocupacional
+Coeficiente de partição
+Solvatação
+Solução
+Fluido supercrítico
+Líquido iônico
+Poluição da água
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Lowery, TH e Richardson, KS, Mecanismo e Teoria em Química Orgânica , Harper Collins Publishers 3ª ed. 1987 ISBN 0-06-364044-9
+
+
+== Ligações externas ==
+"European Solvents Industry Group - ESIG - ESIG European Solvents Industry Group" Solvents in Europe.
+Table and text O-Chem Lecture
+Tables Properties and toxicities of organic solvents
+CDC – Organic Solvents – NIOSH Workplace Safety and Health Topic
+EPA - Solvent Contaminated Wipes

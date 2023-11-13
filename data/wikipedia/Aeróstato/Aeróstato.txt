@@ -1,0 +1,19 @@
+Aeróstato é a designação dada às aeronaves mais leves que o ar. A atividade e o estudo dos aeróstatos é levada a cabo por um ramo da Aeronáutica denominado Aerostação.
+
+
+== Tipos de Aeróstatos ==
+Basicamente existem dois tipos de aeróstatos:
+Balões - aeróstatos sem propulsão própria. Podem existir balões de voo livre, em que a deslocação é feita através da impulsão externa das correntes atmosféricas, e balões cativos, que não se deslocam, estando permanentemente presos ao solo;
+Dirigíveis - aeróstatos com propulsão própria, normalmente realizada por um motopropulsor.
+
+
+== História dos Aeróstatos ==
+No século XVII,[carece de fontes?] Francisco Lana conjecturou que um veículo feito de vidro ou outro material, do qual todo o ar fosse retirado, se tornaria mais leve, em peso específico, que o ar, e poderia "nadar" no ar e ascender. Lana propôs que o veículo fosse construído de cobre, porém Dr. Hooke mostrou a falácia deste argumento, pois o cobre que teria que ser usado para aguentar a pressão do ar sempre faria com que o veículo fosse mais pesado que o ar. O primeiro voo da história num aeróstato deve-se ao santista Bartolomeu de Gusmão que, em 1709, perante a Corte em Lisboa voou num invento da sua autoria baptizado de Passarola. A Passarola era um balão de ar quente de grandes dimensões.
+
+Muitos anos depois de Bartolomeu de Gusmão, em 1783, os irmãos Montgolfier fazem voar o balão de ar quente de sua invenção, despoletando um grande desenvolvimento na aerostação, que se dá sobretudo a partir do século XIX. Os primeiros aeróstatos não se podiam deslocar por si mesmos, ficando dependentes das correntes de ar atmosférico. Em 1852 é então projectado e construído o primeiro aeróstato dirigível pelo francês Henri Giffard.
+Entre os anos de 1898 e 1904, Santos Dumont, realiza diversos experimentos com seus dirigíveis, sendo que ele resolve os problemas anteriores de dirigibilidade ate então, sendo muito bem sucedido ao aplicar um motor de combustão interna a este tipo de balão, ate então algo encarado com muito receio. De todas as suas experiências, destaca-se a vitória do prêmio Deutsch, no dia 19 de outubro de 1901, com o balão N-6, de 622 metros cúbicos e motor de 20 cavalos, tal prova estipulava que uma aeronave, para ser considerada prática, deveria poder se deslocar à Torre Eiffel, contornar o monumento e retornar ao local da ascensão em no máximo trinta minutos, sem escalas, cobrindo ao todo 11 quilômetros sob as vistas de uma comissão do Aeroclube de França. 
+Na Alemanha, o Conde Zeppelin dá grande impulso ao desenvolvimento dos dirigíveis, que são baptizados de zeppelins em sua homenagem. Os zeppelins são usados como plataforma de armas de bombardeio estratégico na 1ª Guerra Mundial. Depois da guerra, os zeppelins são desenvolvidos como transporte de passageiros, realizando os primeiros voos transatlânticos comerciais. Em 1937, o maior dirigível de sempre, o Hindenburg explode em Lakehurst, nos Estados Unidos no final de uma viagem transatlântica, provocando a interrupção do uso dos aeróstatos no transporte em massa de passageiros.
+Desde o final do Séc. XX, vem sendo desenvolvidos projetos promissores de desenvolvimento de dirigíveis para o transporte de cargas pesadas, aproveitando a sua economia de operação e a sua capacidade de chegar a qualquer ponto do território.
+
+
+== Referências ==

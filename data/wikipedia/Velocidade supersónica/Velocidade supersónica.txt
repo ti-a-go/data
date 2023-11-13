@@ -1,0 +1,99 @@
+A velocidade supersónica (diz-se também ultrassónica)PE ou supersônica (diz-se também ultrassônica)PB refere-se a qualquer velocidade acima de 1 Ma (1 235 km/h), até 5 Ma (6 175 km/h) ao nível das águas do mar. Quando um objeto se move a velocidades acima da velocidade do som, significa que está a uma velocidade acima de 1 Ma (1 235 km/h) ou Mach1. Se estiver a 2 Ma (2 470 km/h), Mach2 e assim sucessivamente. Velocidades superiores a 5 Ma (6 175 km/h) ou Mach5, são definidas como hipersônicas.
+Os sons são vibrações viajando sob a forma de ondas de pressão em um meio elástico. Nos gases, o som se propaga longitudinalmente em velocidades diferentes, principalmente em função da massa molecular e da temperatura do gás, sendo que a pressão do mesmo exerce pouco efeito sobre a velocidade de propagação.
+
+
+== História ==
+Durante a Segunda Guerra Mundial ocorreu um grande desenvolvimento em todas as áreas científicas. Altos investimentos no desenvolvimento tecnológico das aeronaves, levaram à criação do primeiro foguete e dos aviões a jato. As primeiras evoluções na direção de romper a barreira do som também foram feitas durante a guerra. No entanto, o primeiro voo reconhecidamente superior à velocidade do som ocorreu em 14 de outubro de 1947, em um projeto de pesquisa norte-americano, usando o Bell X-1, pilotado por Charles "Chuck" Yeager.O ex-piloto da Luftwaffe, Hans Guido Mutke, porém, declarou ter quebrado a barreira do som antes de Yeager, em 9 de Abril de 1945, pilotando um modelo Messerschmitt Me 262. Porém, esta alegação é controversa e nunca foi comprovado cientificamente que aquele modelo pudesse atingir tal velocidade.Em 15 de outubro de 1997, uma equipe liderada por Richard Noble e o piloto Andy Green, tornaram Green o primeiro homem a quebrar a barreira do som num carro, quase exatamente cinquenta anos depois do voo de Yeager.
+
+
+== Descrição física ==
+Quando uma fonte sonora está se movendo em direção a um detector estacionário com uma velocidade inferior a velocidade do som, ocorre um efeito conhecido como efeito Doppler, onde as frentes de onda produzidas pela fonte não se sobrepõem às criadas anteriormente. Já, se a fonte viaja a uma velocidade igual a velocidade do som, esta fonte está se movendo tão depressa que acompanha suas próprias frentes de onda como mostra a figura. Para entender o estrondo sônico é necessário lembrar que o som é uma energia transportada por ondas mecânicas, ou seja, uma energia transportada pela oscilação das partículas que formam um meio material. O estrondo sônico é o resultado das ondas de choque formadas no deslocamento de um avião, por exemplo. Quando a velocidade da fonte ultrapassa a velocidade do som, ocorre a onda de choque no chamado cone de Mach, devido a uma superposição das frentes de onda que causa uma elevação e uma queda abrupta da pressão do ar quando a fonte passa por um ponto no espaço. A nuvem formada pela repentina queda na pressão do ar provoca a condensação do vapor e a formação das gotículas de água que compõem a nuvem.Matematicamente, o ângulo do cone de Mach formado é dado por:
+
+  
+    
+      
+        sen
+        
+        θ
+        =
+        
+          
+            
+              v
+              t
+            
+            
+              
+                v
+                
+                  s
+                
+              
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \operatorname {sen} \,\theta ={\frac {vt}{v_{s}t}}}
+  
+A razão 
+  
+    
+      
+        
+          
+            v
+            
+              v
+              
+                s
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {v}{v_{s}}}}
+   é chamada número de Mach. A onda de choque gerada por uma aeronave supersônica ou por um projétil produz um som semelhante ao de uma explosão, conhecido como estrondo sônico, no qual a pressão do ar primeiro aumenta bruscamente e depois diminui para valores menores que o normal antes de voltar ao normal. Parte do som produzido pelo disparo de um rifle, por exemplo, se deve ao estrondo sônico produzido pelo projétil.
+Quando se rompe a velocidade do som, esta situação é acompanhada por um estrondo percebido pelos que estão em solo e por um silêncio profundo para quem está dentro do avião. Estando o avião mais rápido  que o som, quem está dentro da cabine não recebe as ondas sonoras provenientes do próprio deslocamento.
+Quando um objeto se move através do ar, ele empurra as moléculas do ar para fora do caminho, criando ondas de ar comprimido e descomprimido. Essas ondas de pressão do ar se movem para longe do objeto em todas as direções à velocidade do som. Se o objeto viaja à velocidade do som ou mais rápido, ele alcança as ondas de pressão e começa a empurrá-las, empilhando-as à medida que são criadas. Essas ondas acumuladas são chamadas de ondas de choque.
+Quando as ondas de choque atingem o chão, elas podem ser sentidas como um ruído sônico. A intensidade do ruído sônico é determinada por vários fatores: a distância entre o objeto e o chão, o tamanho e formato do objeto e as condições atmosféricas, incluindo a pressão do ar, temperatura e ventos.
+
+
+== Objetos supersônicos ==
+Os mais modernos aviões de caça voam acima da velocidade do som, mas também existiram aviões supersônicos de passageiros, os modelos Concorde e Tupolev Tu-144. Estes aviões de passageiros e alguns caças modernos são capazes também de viajar à velocidade de "super cruzeiro", ou seja, várias horas de voo a velocidades acima do som. Desta estatística, temos que o Concorde passou mais tempo voando a velocidade supersônica do que todas as outras aeronaves combinadas. Desde o último voo do Concorde em 26 de novembro de 2003, não há mais aviões supersônicos de passageiros em serviço.
+Outros objetos que rompem a barreira do som são as modernas armas de fogo, sendo que projéteis de fuzil frequentemente viajam com a velocidades próximas e, em alguns casos bem superiores a 3 Ma (3 705 km/h).
+Naves espaciais, principalmente o ônibus espacial, são considerados objetos supersônicos pelo menos durante sua reentrada na atmosfera, embora os efeitos sobre a espaçonave sejam reduzidos pela baixa densidade do ar na estratosfera. Durante a subida, os veículos de lançamento geralmente evitam superar a velocidade do som nos primeiros 30 km da atmosfera, a fim de reduzir a resistência do ar.
+Note-se que a velocidade do som diminui ligeiramente com a altitude, devido às baixas temperaturas encontradas. A altitudes ainda mais elevadas, onde a temperatura começa a aumentar,[carece de fontes?] também ocorre o aumento na velocidade do som.
+
+
+== Voo supersônico ==
+Para elaborar um voo supersônico, os jatos supersônicos e veículos de foguetes requerem impulso várias vezes maior do que o normal para avançar com o arrasto adicional a fim de vencer turbulências experimentadas nas regiões transônicas, cerca de 0,85 Ma (1 050 km/h) a 1,2 Ma (1 482 km/h). A estas velocidades, os engenheiros aeroespaciais podem guiar suavemente o ar em torno da fuselagem da aeronave, sem a produção de novas ondas de choque, mas qualquer mudança na área da secção transversal na parte inferior do veículo leva a ondas de choque ao longo do corpo. No entanto, em aplicações práticas, um avião supersônico deverá funcionar de forma estável, tanto em velocidades abaixo da velocidade do som, tendo um desenho aerodinâmico portanto mais complexo.
+Um problema com o voo supersônico é a geração de calor. Em altas velocidades, pode ocorrer o aquecimento aerodinâmico, e portanto a aeronave deve ser projetado para operar e funcionar em temperaturas muito altas. Duralumínio, o material aeronáutico tradicional, começa a perder resistência e apresentar deformação plástica a temperaturas relativamente baixas, e não é indicado para uso contínuo em velocidades acima de 2,2 Ma (2 720 km/h). Os materiais tais como aço inoxidável e titânio permitem operações a temperaturas muito mais elevadas, acima de 315 °C (599 °F).
+Outra preocupação para a operação contínua em alta velocidade é com os motores. Os motores geram o empuxo aumentando a temperatura do ar que consomem na combustão, e com o aumento da aceleração da aeronave, o atrito e compressão aquecem este ar antes que atinja os motores. A temperatura máxima admissível dos gases de escape é determinada pelos materiais na parte traseira do motor. Assim, quanto maior a velocidade da aeronave, menor será a diferença entre as temperaturas de admissão e de escape do motor diminui e por consequência, o empuxo também diminui. A solução foi resfriar o ar que entra na turbina para permitir operações em altas velocidades, tecnologia que continuou a se desenvolver continuamente desde os anos 1950.
+O projeto do sistema de admissão do ar também foi um grande problema. Motores a jato normais só podem ingerir ar a velocidades abaixo da velocidade do som, portanto, para a operação supersônica, a velocidade de ingestão do ar tem que ser diminuída. O fluxo de ar tem de ser desacelerado antes que ele atinja o motor. Em contrapartida, isso remove a energia do fluxo de ar, fazendo com que se reduza também o empuxo da turbina. A solução foi se criar múltiplas ondas de choque oblíquas, mas isso não foi tão simples porque o ângulo destas ondas dentro da turbina deveria ser variável, conforme a velocidade. Para o funcionamento eficaz dos motores em toda a gama de velocidades da aeronave, foi necessário criar um sistema ajustável com a velocidade.
+Uma aeronave capaz de operar por longos períodos em velocidades supersônicas tem uma vantagem potencial sobre um projeto semelhante que voa a velocidades abaixo do limite do som. A maior parte do arrasto de uma aeronave ocorre enquanto esta acelera para a velocidade supersônica, ainda abaixo da velocidade do som. Uma aeronave que pode continuar a acelerar, mesmo tendo ultrapassado essa velocidade, tem uma diminuição significativa do arrasto, podendo voar com maior economia de combustível.
+A solução para ter baixo arrasto a velocidades supersônicas foi modelar corretamente a aeronave para ter um corpo longo e estreito, o mais próximo de uma forma "perfeita". Isto fez com que os aviões de cruzeiro supersônico fossem muito semelhantes entre si, com uma fuselagem muito longa e grandes asas em delta. Apesar de não ser ideal para aviões de passageiros, esta formação é bastante adaptável para uso em bombardeiros, como o Tupolev Tu-160.
+
+
+== Projeções ==
+No final do mês de março de 2013, a NASA apresentou ao mundo seu projeto de um avião hipersônico, que supera 5 Ma (6 175 km/h). Durante alguns minutos, o protótipo batizado de X-43A voou sobre o oceano Pacífico a 7 Ma (8 645 km/h), uma velocidade dez vezes maior que os os aviões comerciais contemporâneos. O X-43A é um aparelho pequeno: tem 3,6 metros de comprimento e 1,5 metros de envergadura e utiliza uma tecnologia de propulsão que levou vinte anos para ser desenvolvida, o ramjet. O motor com essa tecnologia aproveita a própria velocidade hipersônica para que o oxigênio da atmosfera seja utilizado na queima do combustível. O próprio movimento provoca um fluxo do gás para dentro da câmara de combustão e faz o motor funcionar.Na experiência da NASA, o X-43A foi levado nas asas de um bombardeiro B-52, acoplado a um foguete convencional, até os dez mil metros de altitude. Nesta altitude, o foguete foi acionado e levou o protótipo até os trinta mil metros, quando finalmente o X-43A fez o seu voo solo, mostrando a eficiência do motor scramjet. A NASA pretende usar a tecnologia em aviões para viagens longas e em naves espaciais mais seguras.
+Depois do aposentado Concorde, que foi o único avião comercial supersônico da história, o X-43A foi o primeiro avião que ultrapassou o limite hipersônico, mas ainda está longe de ser comercial. O recorde anterior de velocidade era do avião-espião Blackbird, que atinge 3 540 km/h (2,87 Ma).
+
+
+== Ver também ==
+Avião supersônico
+Número de Mach
+Ultrassom
+Velocidade hipersônica
+Velocidade subsônica
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Landau, Lev Davidovitch. Fluidmjechanics. 2ª edição. rev.. Amsterdam: Elsevier, 1987.
+Moysés, Adir .. Luiz. Coleção Física 2 Gravitação. Ondas e Termodinâmica.
+Wolfgang Bauer; Gary D. Westfall; Helio Dias. Física para Universitários.

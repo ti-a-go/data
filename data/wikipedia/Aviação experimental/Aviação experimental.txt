@@ -1,0 +1,40 @@
+A prática de construção caseira de aviões é um hobby para dezenas de pessoas leigas (não é necessário ser engenheiro aeronáutico para isso). No Brasil, muitas dessas pessoas fazem parte de associações como a Associação Brasileira de Aviação Experimental (ABRAEX) e a Associação Brasileira de Ultraleves (ABUL). 
+Segundo a Agência Nacional de Aviação Civil (ANAC), existem mais de 5 mil aeronaves na categoria experimental sobrevoando o céu do Brasil - estão inclusos neste número ultraleves, balões, girocópteros, dirigíveis, planadores, helicópteros e motoplanadores. 
+
+
+== Características ==
+A aviação experimental é por conta e risco próprio. Por não ser homologada, uma aeronave experimental é mais barata de voar, pois o nível de exigência de construção, manutenção e de regulamentações é menor. A inspeção anual obrigatória, denominada Relatório de Inspeção Anual de Manutenção (RIAM) é exemplo de uma dessas poucas exigências. 
+Também a habilitação de piloto é muito menos exigente, o que reduz seu custo de obtenção e renovação. Como é o próprio construtor que vai voar, se presume que ele conhece a fundo a aeronave que construiu e quais são os riscos. Para pilotar, a regulamentação atual exige uma habilitação de CPD ou CPR (certificado de piloto desportivo ou de recreio). Estas duas habiitações servem somente no que se refere a ultraleves. No que se refere aos avioes experimentais (aeronaves com mais de dois assentos)é necessário a carteira de Piloto Privado, que é mesma exigida para alguns avioes "homologados" ou seja, os não experimentais.
+Em virtude dos riscos inerentes a uma aeronave não-homologada e a um nível de qualificação mais flexível para pilotagem desse tipo de aeronave, a legislação em vigor (seções 91.319 e 91.321 do RBHA 91) proíbe o emprego de avião experimental para fins comerciais. Voos em aerovias movimentadas e/ou sobre áreas densamente povoadas não podem ocorrer, exceto se houver autorização específica dos órgãos reguladores. 
+Outra característica importante é que uma aeronave que nasce com o propósito de operar como experimental dificilmente tem condições de ser homologada posteriormente. Isso pode ocorrer porque as modificações necessárias na aeronave podem ser economicamente inviáveis caso o projeto original não tenha levado em conta as especificações da homologação.
+
+
+== Regulamentação ==
+No Brasil, a ANAC tem as seguintes publicações sobre a aviação experimental:
+
+aeronaves experimentais de construção amadora (Instrução Suplementar nº 21.191-001);
+aeronaves experimentais de valor histórico (Instrução Suplementar nº 21.191-002); e
+operação de ultraleves (RBHA 103).A ANAC revogou o RBHA 37 (construção de aeronave experimental) em 2012. Esse regulamento continha requisitos para a construção amadora e os processos de fabricação. Delimitava fatores de carga e a construção do tanque de combustível. Já o RBHA 38 foi revogado em 2011.
+
+
+== Exemplos de aeronaves experimentais ==
+Existem centenas de plantas e kits disponíveis para os construtores amadores, incluídos alguns de projeto nacional.
+
+Atualmente o engenheiro gaúcho Altair Coelho (www.altaircoelho.com.br)  diponibilizou as plantas do seu avião AC-15 gratuitamente na internet, Coelho que já projetou e construiu vários outros aviões teve esta iniciativa para ajudar todos os que desejam realizar seu sonho mas encontram dificuldades e adquirir plantas, kits e materiais para construir seu avião. O AC-15, emprega materiais e solucuções símples de fácil aquisição no mercado nacional, exemplo disso é o motor AP 2.0, o mesmo do Santana, Gol e Parati, que pode ser encontrado facilmente em todo Brasil.Um outro projeto nacional disponibilizado é o desenvolvido pelo Professor Claudio Barros da UFMG (Universidade Federal de Minas Gerais), chamado de projeto CB10 Triathlon.
+
+
+== Ver também ==
+Aviação
+Avião
+Ultraleve
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Sítio oficial da ABRAEX
+Sítio oficial da Associação Brasileira de Ultraleves
+Projeto CB10 Triathlon
+Sítio oficial da Agência Nacional de Aviação Civil
+(em inglês) Aeronaves incomuns

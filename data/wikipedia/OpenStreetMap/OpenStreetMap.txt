@@ -1,0 +1,98 @@
+OpenStreetMap (OSM) é um projeto de mapeamento colaborativo para criar um mapa livre e editável do mundo, inspirado por sites como a Wikipédia. Traduzindo para português o nome significa Mapa Aberto de Ruas. Ele fornece dados a centenas de sites na internet, aplicações de celular e outros dispositivos.Os mapas foram desenvolvidos e são mantidos com rigor por sua comunidade voluntária de mapeadores, que inserem e revisam dados de receptores GPS portáteis, fotografias aéreas, imagens de satélite e outras fontes livres. Os mapeadores, com seu conhecimento local, editam os mapas com softwares abertos como o iD ou o JOSM. A comunidade mais ampla, também confere e confirma os dados pela interface do próprio site Openstreetmap.org.
+Todos os mapas, dados descritivos, e metadados ofertados pelo OSM são dados abertos, disponíveis sob a licença Open Database License. Além da comunidade que doa as informações postadas, quando faz uso de outras fontes (imagens obtidas por processamento dos dados, tabelas e outros) são compatíveis com a sua licença. Os dados são formalmente operados pela OpenStreetMap Foundation (OSMF) em nome da comunidade de mapeadores.
+
+
+== História ==
+O OpenStreetMap foi fundado em Julho de 2004 por Steve Coast. Em Abril de 2006, uma fundação foi estabelecida para encorajar o crescimento, desenvolvimento e distribuição de dados geoespaciais livres e fornecê-los a quem quiser para usar e partilhar. Em Dezembro de 2006, a Yahoo confirmou que o OSM podia usar as suas imagens aéreas como fundo para a produção de mapas.Em Abril de 2007, a Automotive Navigation Data deu ao projecto um conjunto completo de estradas para os Países Baixos e de auto-estradas para a Índia e China e em Julho de 2007, quando a primeira conferência internacional, The State of the Map, aconteceu, havia 9000 utilizadores registrados. Patrocinadores do evento incluíram Google, Yahoo e Multimap. Em Agosto de 2007, um projecto independente, OpenAerialMap, foi lançado para guardar a base de dados de imagens aéreas disponíveis em licença aberta e em Outubro de 2007, o OSM completou a importação de dados do sistema TIGER dos Estados Unidos da América. Em Dezembro de 2007, a Universidade de Oxford tornou-se na primeira grande organização a usar o OpenStreetMap na sua página.Em Janeiro de 2008, foi adicionada a funcionalidade de descarregar mapas para uma unidade GPS para serem usados por ciclistas. Em Fevereiro de 2008, uma série de reuniões de trabalho teve lugar na Índia. Em Março, dois fundadores anunciaram que receberam capital de risco de 2,4 milhões de euros.Em Agosto de 2008, depois da segunda conferência, The State of the Map, havia mais de 50 mil utilizadores registrados em que mais de 5000 são contribuintes activos.Em novembro de 2010, Bing mudou sua licença para permitir o uso de suas imagens de satélite para fazer mapas.Em 2012, o lançamento de preços para Google Maps levou vários sites proeminentes a mudar de seu serviço para OpenStreetMap e outros concorrentes. . Alguns dos principais foram Foursquare, Craigslist que adotaram o OpenStreetMap, e Apple, que terminou um contrato com o Google e lançou uma plataforma de mapeamento auto-construída que usa TomTom e OpenStreetMap.
+
+
+== Produção de mapas ==
+
+
+=== Técnica ===
+O mapa inicial foi todo construído por voluntários fazendo passeios com uma unidade GPS de mão e um caderno de apontamentos ou um gravador de voz. Estes dados eram depois introduzidos na base de dados por meio de um computador.
+Mais recentemente, a disponibilidade de fotografias aéreas e outras fontes, comerciais e governamentais, de dados têm aumentado a velocidade do trabalho e ajudado na captura de dados no local com mais exactidão.
+Quando grandes bases de dados estão disponíveis, um equipa técnica vai gerir a conversão e importação dos dados.
+
+
+=== Incursões locais estruturadas ===
+As incursões são realizadas por um voluntário a pé, de bicicleta ou de carro, apesar de uma bicicleta ser o modo predilecto de muitos voluntários em zonas urbanas, usando um receptor de GPS e uma combinação de um livro de apontamentos, gravador de voz, uma câmara fotográfica e questionando os habitantes locais. Alguns voluntários mais empenhados têm mapeado sistematicamente vilas inteiras durante um período de tempo. Festas de mapeamento são organizadas para juntar várias pessoas numa área particular numa noite ou um fim de semana para mapear essa área.
+Em adição às incursões estruturadas, um grande número de pequenas edições são feitas por contribuintes para corrigir erros ou adicionar pormenores.
+Existem também eventos chamados em inglês de "mapping parties" (festas de mapeamento, em tradução literal), em que vários voluntários se reúnem com o intuito de mapear rapidamente uma determinada região.
+
+
+=== Fontes governamentais ===
+Algumas agências governamentais têm libertado oficialmente dados sob licenças apropriadas. Muitos destes dados provêm dos Estados Unidos da América, onde é exigido ao governo federal que facilite tais dados ao público.
+
+Imagens de satélite Landsat 7
+Prototype Global Shorelines (PGS)
+Sistema TIGER dos EUAVárias autoridades também têm disponibilizado fotografias aéreas sob licenças adequadas através do OpenAerialMap.
+A agência britânica Ordnance Survey é exigida devido à sua constituição a vender os seus dados e não está disponível a contribuir com os seus dados para o projecto. No entanto, a organização está a repensar a sua estrutura de forma a tornar os dados mais disponíveis. Em 2006, o jornal The Guardian lançou uma campanha 'Free our data' (Libertem os nossos dados) para argumentar para libertar dados governamentais, incluindo dados de mapas.Mapas cujos direitos de autor expiraram podem ser uma boa fonte de informações acerca de pormenores que não mudam frequentemente.
+
+
+=== Fontes comerciais ===
+Algumas companhias comerciais têm doado dados para o projecto em licenças adequadas. Notavelmente, a Automotive Navigation Data (AND) deu ao projecto um conjunto completo de estradas para os Países Baixos e de auto-estradas para a Índia e China.
+A empresa Yahoo! confirmou que o projecto OpenStreetMap pode utilizar as suas imagens aéreas e estas estão agora disponíveis dentro da secção "Edit" (Editar) do editor online, Potlatch, como um fundo. Os contribuintes podem criar os seus mapas como uma trabalho derivado, licenciado com uma licença livre e aberta.
+
+
+== Licença ==
+
+
+=== A base de dados OpenStreetMap ===
+Os dados de OpenStreetMap são publicados usando uma licença Open Database License.
+
+
+=== Dados introduzidos ===
+Todos os dados introduzidos precisam de ter uma licença compatível com a Open Database License. Isto pode incluir informação com direitos de autor expirados, domínio público ou outras licenças. A Fundação OpenStreetMap mantém uma lista de licenças compatíveis. Isto envolve examinar licenças de fontes governamentais para verificar compatibilidade. Dados sem licença são especialmente danosos para um mapa, pois a única maneira de provar que nenhum dado veio de fontes sem licença é revertendo toda a área para antes da edição dos dados questionáveis.
+
+
+== Comunidade ==
+
+
+=== Brasil ===
+Veja WikiProject Brazil
+A comunidade brasileira no OpenStreetMap está crescendo e se estruturando. Algumas capitais, como Fortaleza, São Paulo, Rio de Janeiro e Belo Horizonte já têm um progresso considerável em alguns bairros, bem como certas cidades do interior, como Santa Maria (RS). De modo geral, as ruas e seus nomes já estão caminhando para o nível completo. Alguns locais já tem intenso mapeamento de pontos de interesse, numeração de casas, desenho de casas, áreas de mato, uso da terra.
+
+
+=== Portugal ===
+Veja WikiProject Portugal
+
+
+=== Angola ===
+Veja WikiProject Angola
+
+
+=== Moçambique ===
+Veja WikiProject Mozambique
+
+
+== Usos do OpenStreetMap ==
+Como os dados brutos do OpenStreetMap são disponibilizados sobre licença Open Database License, isto abre portas para infinitas possibilidades. Exemplos de uso do OpenStretMap:
+
+Navegação GPS;
+Estudo de geografia e mapeamento para escolas e faculdades;
+Mapas com os dados do OSM utilizando aplicações GIS, como o QGIS;
+Projetos em ferramentas CAD;
+Estudos estatísticos sobre locais;
+Criar mapas para ilustrar a Wikipédia.
+
+
+== Ver também ==
+
+Google Map Maker
+Wikimapia
+Category:OpenStreetMap (Wikimedia commons)
+Google Maps
+Bing Maps
+
+
+== Referências ==
+
+
+== Ligações externas ==
+www.openstreetmap.org - Página do projecto
+Wiki do projecto
+OpenSeaMap - nautical chart
+OpenAerialMap
+geo.topf.org Comparação simultanea entre o Google Maps e o OpenStreetMap
+OpenStreetMap Brasil - A OpenStreetMap no Brasil

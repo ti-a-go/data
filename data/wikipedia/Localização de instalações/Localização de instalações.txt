@@ -1,0 +1,1401 @@
+A análise da localização de instalações é aplicada a vários problemas, por exemplo, a localização de aeroportos, escolas, armazéns, centrais de tratamento de resíduos, fábricas, postos de correios, hospitais, livrarias, entre outros. O problema da escolha da localização de instalações de entre variadíssimos locais é um problema de logística de enorme importância.  (Resumo, [2006])
+O problema da localização preocupa-se em estudar uma área específica a partir das unidades de distribuição de produtos ou de prestação de serviços, o objectivo destes problemas é determinar a quantidade e a localização ideal destas unidades de forma a atender da melhor maneira possível um conjunto de usuários cuja localização é conhecida.
+Einstein em 1837 analisou pela primeira vez a questão da localização de um ponto central, tendo três pontos diferentes, o objectivo de Einstein era determinar as coordenadas do ponto, tal que a soma das distâncias até aos pontos fosse mínima.  (3.2 - Problemas, [1999])
+O problema do abastecimento de n destinos, por um número de origens, p, tem sido estudado com uma variedade de hipóteses e métodos. Se as origens e destinos, são localizações conhecidas com quantidades disponíveis aparece o problema de transporte padrão da programação linear. A literatura científica tem se focado nos custos de transporte bem como na distância de transporte. Pesquisa esta que começou em 1909 quando Alfred Weber colocou o seguinte problema: Dado um conjunto de localizações de fregueses {(xi,yi)} e um conjunto de procuras de fregueses {Qi}, encontre a localização de uma facilidade central (xo,yo) que minimize a distância total viajada para satisfazer as procuras de fregueses.  (Uma breve, 
+De uma forma geral os estudos de localização tratam de problemas como minimizar custos ou maximizar lucros de uma rede logística, atendendo a procura e satisfazendo os níveis de serviço. As restrições deverão ser então o mínimo de carga a ser transportada para o sistema ser viável e o tempo máximo para a carga chegar ao cliente.
+Os problemas de localização são bastante complexos pois têm um extenso número de variáveis de decisão que se influenciam mutuamente.
+Para resolver este problema devem ser empregues técnicas sofisticadas de modelagem e análise, estas técnicas podem ser analíticas incluindo programação linear e técnicas de simulação.
+As técnicas analíticas incluem métodos que identificam os centros de gravidade da rede logística, que é adequado para decidir a localização de uma única fábrica ou um único centro de distribuição (CD). O centro de gravidade pode ser relativo ao centro do peso, centro da distância ou ao centro combinado do peso-distância ou ainda do centro peso-tempo-distância, sempre tentando encontrar uma localização de menor custo. Para a localização de múltiplas instalações devem ser usadas técnicas de programação linear ou de simulação.  (2.4.3 Técnicas, [2004])
+A decisão de localização baseia-se em dois tipos de dados, sendo eles os dados qualitativos e quantitativos.  (Abordagens para, [2009?])
+
+Os dados qualitativos são dados sobre o local que podem ser medidos de forma subjectiva. (ex: qualidade de vida, clima)
+Os dados quantitativos são dados sobre o local que podem ser medidos e ter um valor numérico. (ex: preço, salários)Os modelos de decisão mais utilizados na avaliação de alternativas de localização são:
+Dados qualitativos:
+
+Modelo da ponderação qualitativaDados quantitativos:
+
+Modelo do centro de gravidade
+Modelo de comparação entre custos
+Método dos momentos
+
+
+== História ==
+História evolutiva da localização de instalações  (História, [2007])
+
+1826 - Von Thünen definiu os fundamentos da Teoria da Localização e criou a Teoria dos Círculos Concêntricos, apoiado nos trabalhos de Richard Cantillon.
+1873 - Albert Schefflera, a partir da teoria dos círculos concêntricos tentou explicar os diferentes aspectos entre forças centralizadoras e descentralizadoras.
+1909 - Alfred Weber definiu 3 principais factores de influência na localização:Ponto mínimo de custo de transporte; Distorção de trabalho; Nível de concentração.
+Deu origem à teoria da Localização Industrial.
+
+1920 - Andreas Predohl introduziu o método de substituição de factores.
+Anos 30 - Walter Christaller, desenvolveu uma relação que acentuava cada vez mais, as zonas de influência dos centros urbanos, elaborando assim uma Teoria de Lugares Centrais
+1931 - Reilly desenvolveu as Leis de gravitação do varejo
+1940 - August Losch engloba todo o trabalho dos seus antecessores. Teoria dos lugares centrais; Equilibrio economico-espacial.
+Nos dias de hoje houve o aparecimento de SIG, Sistema de informação geográfica.
+
+
+== Duas principais teorias ==
+As teorias da localização das atividades econômicas subdividem-se em:
+
+Weber e Thünen que consideram que os consumidores se concentram em pontos dispersos do espaço.
+Lösch, que considerou os consumidores dispersos em áreas de mercado de diversos tamanhos.São teorias bastante divergentes entre si. O primeiro grupo concentra-se na minimização dos custos de transportes e não se preocupam com a dependência das atividades locacionais de uma empresa às decisões locacionais de outras. Dizem que a indústria se deve situar onde os custos do transporte de matérias primas e do produto final são um mínimo. O segundo grupo considera proporções fixas de factores de produção, oferta clássica de matérias primas, enfatiza as condições de procura e a interdependência locacional. Apesar de apresentarem limitações, o estudo destas teorias, na atualidade, contribui para o entendimento da nova dinâmica econômica regional.  (Conclusão, [2009?])
+
+
+== Von Thünen: Localização agrícola ==
+A preocupação de Von Thünen foi saber o que determinava o preço e como se devia dispôr a produção agriculta no espaço.
+Von Thünen concebeu um modelo com características bastante rígidas, tais como:
+
+Um espaço com estado isolado, com absoluta uniformidade de condições naturais e sócio-culturais da população, o que resulta na invariabilidade dos custos de produção;
+A existência de uma cidade no centro do Estado, que funciona como único mercado consumidor da produção agrícola e fornecedor de bens aos agricultores;
+A existência de um só tipo de transporte da produção agrícola para o mercado central e de um padrão uniforme de caminhos e estradas, pelo que os custos de transporte são exatamente proporcionais à distância percorrida;
+Os produtores procuram maximizar a renda com ajustamento automático da produção às necessidades do mercado, de forma que este se encontre em equilíbrio.No Estado Isolado, a renda da terra depende da localização da área de produção em relação ao mercado de consumo e é dada pela equação seguinte:
+
+L= Pr(p−c) − Pr.t.donde:
+L - renda locativa(Corresponde ao preço do solo, o qual diminui à medida que aumenta a distância relativamente ao centro) por unidade de área; Pr - produtividade agrícola por unidade de área; p - preço de mercado por unidade de medida da produção; c - custo de produção de uma unidade de medida; t - preço do transporte por unidade de medida e por unidade de distância; d - distância a ser percorrida até ao mercado de consumo.
+Nos chamados anéis de von Thünen as terras mais próximas do centro têm uma maior renda, pois a renda, tem uma relação inversa com a distância.
+Os custos de transporte aumentavam com a distância, logo, o afastamento do mercado determinava a seleção de culturas. Assim, os produtos distribuíam-se de maneira regular em torno do mercado. Os produtos difíceis de serem transportados localizavam-se próximos ao centro consumidor. A abordagem de von Thünen inspirou vários teóricos do planeamento urbano. Os custos unitários de transporte e o preço do solo urbano são, até hoje, funções decrescentes da distância ao centro.  (A localização, [2009?])
+
+
+== Alfred Weber: Localização industrial ==
+O modelo de Alfred Weber demonstra que, supondo a existência de custos uniformes de produção sobre um dado espaço, as indústrias teriam tendência a localizar-se no ponto em que os custos totais de transporte seriam mínimos. Os custos de transporte dependeriam do transporte das matérias-primas, assim como do produto acabado. O objectivo seria então encontrar o local onde o índice  tempo por quilómetro (t/km) seria mínimo.
+Weber classificou os materiais em dois tipos:
+
+Materiais não localizados que se encontram em todo o lado;
+Os materiais localizados, que estão disponíveis em locais determinados.Os primeiros não exercem qualquer força locativa; os segundos têm em si importantes forças locativas.
+Weber dividiu ainda os materiais em duas classes, conforme a sua influência locativa:
+
+Os materiais que entram com a totalidade do seu peso na constituição do produto;
+Os materiais que sofrem uma perda do peso original no processo industrial.A localização da produção industrial surge como uma função dos custos de transporte relativos à deslocação de vários materiais localizados e dos respectivos produtos finais, podendo ocorrer em três locais possíveis:
+
+Junto aos recursos
+Junto ao mercado consumidor
+Ou em qualquer ponto intermédio.Considerando o exemplo simples de uma indústria que utiliza apenas uma matéria-prima e que vende o seu produto final num único mercado, pode concluir-se que a melhor localização seria junto da fonte de abastecimento no caso da matéria-prima não entrar com todo o seu peso no produto e junto ao mercado no caso contrário.  (A localização industrial, [2009?]).
+Hoje em dia, o modelo de Weber não é utilizado para calcular a localização ótima das atividades, mas sim a orientação das atividades em função dos factores, mão-de-obra e do mercado.  (Influência, [2009?])
+
+
+== Factores determinantes da localização ==
+Existem variadíssimos factores que influenciam a escolha da localização.  (Factores, [2007])
+Exemplo de alguns factores determinantes da Localização  (Exemplos, [2009?])
+
+Disponibilidade de Mão de Obra;
+Nível salarial e sindicatos;
+Disponibilidade de transporte;
+Suprimento de eletricidade, gás, telefones, água, esgoto, etc.
+Incentivos fiscais
+Proximidade dos mercados
+Tendências de crescimento populacional
+Fornecedores e serviços de apoio
+Restrições ambientais
+Disponibilidade e custos dos terrenos
+Leis de zoneamento;
+Proximidade de universidades;
+Hospitais;
+Nível de vida;
+Preferências da gerência localização  (Abordagens, [2009?])Definir:
+
+Objetivos
+Nichos de mercado
+Número e tamanho das fábricasDeterminar as Estratégias:
+
+Factores dominantes de localização;
+Ênfase nos produtos e mercados;
+Orientação ao risco;
+Competências da empresa.E ainda:
+
+Procurar uma região viável;
+Desenvolver alternativas de localização;
+Avaliar as alternativas de localização;
+Selecionar um local específico.
+
+
+== SIG ==
+
+Os sistemas de informações geográficas, SIG, são uma das ferramentas que auxilia na escolha do local, pois apresenta uma grande capacidade em armazenar, exibir e manipular dados espacialmente distribuídos. Uma mais valia é combinar SIG com técnicas de pesquisa operacional.
+SIG é um conjunto organizado de software e hardware, informação geográfica e as pessoas que fazem a sua aquisição, que armazenam, verificam e manipulam os dados referentes à Terra.
+Os SIG, têm uma importância cada vez maior de dia para dia, a sua utilização como ferramenta de ajuda à tomada de decisão tem vindo a crescer exponencialmente. Pode ser usado em variadas áreas, contendo dados geográficos bem como ferramentas que permitem a análise espacial, cartográfica e estudos ambientais, ou mesmo recursos de marketing.  (O que é, [2009?]).
+Os sistemas de informação geográficas dividem-se em dois principais modelos, sendo eles o modelo matricial e o modelo vectorial.
+
+O modelo matricial é relativo às propriedades do espaço, sendo constituído por células, em que cada célula representa um valor, quanto maior for a dimensão da célula menor detalhe irá ter na representação do espaço geográfico, ou seja menos resolução.
+O modelo vectorial foca-se na precisão da localização, e são utilizadas três formas espaciais, linhas podem representar estradas e rios, pontos podem ser por exemplo sinais de trânsito e polígonos podem representar cidades.Os sistemas de informações geográficas são uma das ferramentas que auxilia na escolha do local, pois apresenta uma grande capacidade em armazenar, exibir e manipular dados espacialmente distribuídos.  (Tecnologias, [2009?])
+
+
+== Localização Industrial hoje ==
+Hoje em dia um fator mais importante do que os incentivos fiscais é a rapidez e agilidade na entrega dos produtos finais, assim como da entrega de produtos semi-acabados às montadoras.
+A ideia nos dias de hoje é reduzir os armazéns, fazendo cada vez mais com que o próprio meio de transporte seja um mini-armazém.  (Localização, [2009]).
+
+
+== Custo da informação sobre a localização ==
+Toda a informação sobre o local deve ser recolhida, estudada e armazenada por forma a ser apresentada ao decisor final, aquele que vai decidir o local da empresa.
+Só com a recolha de informação o decisor consegue diminuir o grau de incertezas da sua decisão, desde a análise das ofertas de terrenos à procura e visitas a terrenos, negociações das condições de compra e por aí fora.
+A decisão de localização requer inúmeros estudos específicos com base em informações selecionadas e através das aplicações, métodos e técnicas de análise, tudo isto tem o seu preço.  (Custo, [1995])
+
+
+== Localização de serviços de emergência ==
+Na localização de serviços de emergência procura-se cobrir a área de procura, quer isto dizer que se tenta minimizar a distância/tempo crítica além da qual a área da procura é considerada não coberta, logo a área de procura diz-se que está coberta se está a menos da distância critica de pelo menos um dos servidores (ou facilidades) existentes independentemente de este estar ou não disponível quando o serviço é solicitado.  (Localização de, [1996])
+Se considerarmos o problema de localizar um serviço de emergência de ambulâncias numa dada região, de maneira a que toda a população esteja a menos de 20 quilômetros de pelo menos um serviço, 20 quilômetros seria então a distância crítica, e o problema seria então calcular o número de serviços e sua localização na região, de maneira que cada área de procura esteja a menos de 20 quilômetros de pelo menos um serviço localizado.
+O modelo mais simples que resolve este tipo de problemas é o Modelo de Localização para a cobertura de Conjuntos (MLCC).
+Um problema dos modelos apresentados na localização de serviços de emergência é que eles partem do principio de que as facilidades ou servidores estão sempre disponíveis quando solicitadas. No entanto em sistemas congestionados a hipótese é totalmente injustificada. O congestionamento em serviços de atendimento de emergência, que pode causar a não-disponibilidade de um servidor a menos da distância crítica quando solicitado, motivou o desenvolvimento dos modelos de localização com cobertura adicional e, posteriormente, dos modelos de cobertura probabilísticos.
+
+
+=== Modelo de Localização para a cobertura de Conjuntos ===
+Este modelo tenta que a área de procura e o serviço mais próximo tenham uma distância o menor possível, sendo que a localização de p centros busca a localização de f facilidades.
+
+
+=== Problema de Localização de Máxima Cobertura ===
+Este modelo é bastante parecido ao MLCC no entanto é mais acessível financeiramente. Neste modelo o objectivo é localizar um número pré-especificado de p serviços, de tal forma que a máxima população possível da região em questão esteja coberta a menos de uma distância critica S também pré-definida.
+Seja:
+
+S a distância de serviço
+J= {1,2,...,m} um conjunto de áreas de procura
+I = {1,2,...,n} os possíveis locais onde as facilidades podem ser localizadas
+Fj a população da área de procura j+
+Aij = 1 se a área de demanda j puder ser coberta por uma instalação localizada em ,i diferente I, a menos da distância de serviço S(aij=0 caso contrário)
+P o número de instalações a serem localizadas
+Xj = 1 se a área de procura j for coberta (xj = 0 caso contrário);
+Yi = 1 significa que uma instalação deve ser localizada em ,i diferente de I, (yi = 0 caso contrário)A formula matemática para PLMC é :
+
+  
+    
+      
+        
+          
+            
+              
+              
+                
+                  Maximizando
+                
+              
+              
+              
+                Z
+                =
+                
+                  ∑
+                  
+                    j
+                    ∈
+                    J
+                  
+                
+                
+                  f
+                  
+                    j
+                  
+                
+                
+                  x
+                  
+                    j
+                  
+                
+              
+              
+                (
+                1
+                )
+              
+            
+            
+              
+              
+                
+                  Sujeito a
+                
+              
+              
+              
+                
+                
+                  ∑
+                  
+                    i
+                    ∈
+                    I
+                  
+                
+                
+                  a
+                  
+                    i
+                    j
+                  
+                
+                
+                  y
+                  
+                    i
+                  
+                
+                −
+                
+                  x
+                  
+                    j
+                  
+                
+                ≥
+                0
+                ,
+                 
+                j
+                ∈
+                J
+              
+              
+                (
+                2
+                )
+              
+            
+            
+              
+              
+                
+                
+                  ∑
+                  
+                    i
+                    ∈
+                    I
+                  
+                
+                
+                  y
+                  
+                    i
+                  
+                
+                =
+                p
+              
+              
+              
+              
+                (
+                3
+                )
+              
+            
+            
+              
+              
+                
+                  x
+                  
+                    j
+                  
+                
+                ∈
+                
+                  0
+                  ,
+                  1
+                
+                ,
+                 
+                j
+                ∈
+                J
+              
+              
+              
+              
+                (
+                4
+                )
+              
+            
+            
+              
+              
+                
+                  y
+                  
+                    i
+                  
+                
+                ∈
+                
+                  0
+                  ,
+                  1
+                
+                ,
+                 
+                i
+                ∈
+                I
+              
+              
+              
+              
+                (
+                5
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}&{\text{Maximizando}}&&Z=\sum _{j\in J}f_{j}x_{j}&(1)\\&{\text{Sujeito a}}&&\sum _{i\in I}a_{ij}y_{i}-x_{j}\geq 0,\ j\in J&(2)\\&\sum _{i\in I}y_{i}=p&&&(3)\\&x_{j}\in {0,1},\ j\in J&&&(4)\\&y_{i}\in {0,1},\ i\in I&&&(5)\\\end{aligned}}}
+  Nas fórmulas apresentadas busca-se maximizar o máximo de população coberta. As restrições (2), (3), e (4) significam:
+
+(2) Assegura que uma área de procura jpertencente a J está coberta se existir pelos menos uma instalação a menos da distância S.
+(3) Limita o número de instalações na solução p
+(4) e (5) Apresentam a natureza binária das variáveis de decisão.
+
+
+== Modelo Minisoma ==
+O modelo Minisoma minimiza a distância total percorrida no sistema de distribuição.  (Modelos de, [2008])
+Considerando:  (O Modelo, [1999])
+
+Wi – procura do vértica j
+Dii – distância mínima entre os vértices j e i.Em termos matemáticos o modelo assume a seguinte forma. Sejam:
+
+  
+    
+      
+        
+          
+            
+              
+              
+                
+                  Maximizar
+                
+              
+              
+              
+                
+                
+                  ∑
+                  
+                    i
+                    =
+                    1
+                  
+                  
+                    n
+                  
+                
+                
+                  ∑
+                  
+                    j
+                    =
+                    1
+                  
+                  
+                    n
+                  
+                
+                
+                  (
+                  
+                    
+                      X
+                      
+                        j
+                        i
+                      
+                      
+                        01
+                      
+                    
+                    +
+                    
+                      X
+                      
+                        j
+                        i
+                      
+                      
+                        02
+                      
+                    
+                    +
+                    
+                      X
+                      
+                        j
+                        i
+                      
+                      
+                        12
+                      
+                    
+                  
+                  )
+                
+                
+                  d
+                  
+                    j
+                    i
+                  
+                
+              
+              
+                (
+                6
+                )
+              
+            
+            
+              
+              
+                
+                  Sujeito a
+                
+              
+              
+              
+                
+                
+                  ∑
+                  
+                    i
+                    =
+                    1
+                  
+                
+                
+                  (
+                  
+                    
+                      X
+                      
+                        j
+                        i
+                      
+                      
+                        01
+                      
+                    
+                    +
+                    
+                      X
+                      
+                        j
+                        i
+                      
+                      
+                        02
+                      
+                    
+                  
+                  )
+                
+                =
+                
+                  W
+                  
+                    j
+                  
+                
+                ,
+                 
+                j
+                =
+                1
+                ,
+                 
+                …
+                ,
+                 
+                n
+              
+              
+                (
+                7
+                )
+              
+            
+            
+              
+              
+              
+              
+                
+                
+                  ∑
+                  
+                    i
+                    =
+                    1
+                  
+                  
+                    n
+                  
+                
+                
+                  X
+                  
+                    j
+                    i
+                  
+                  
+                    12
+                  
+                
+                =
+                θ
+                
+                  ∑
+                  
+                    i
+                    =
+                    1
+                  
+                  
+                    n
+                  
+                
+                
+                  X
+                  
+                    j
+                    i
+                  
+                  
+                    01
+                  
+                
+                ,
+                 
+                j
+                =
+                1
+                ,
+                 
+                …
+                ,
+                 
+                n
+              
+              
+                (
+                8
+                )
+              
+            
+            
+              
+              
+              
+              
+                
+                
+                  ∑
+                  
+                    j
+                    =
+                    1
+                  
+                  
+                    n
+                  
+                
+                
+                  X
+                  
+                    j
+                    i
+                  
+                  
+                    01
+                  
+                
+                ≤
+                M
+                
+                  Y
+                  
+                    i
+                  
+                  
+                    1
+                  
+                
+                ,
+                 
+                i
+                =
+                1
+                ,
+                 
+                …
+                ,
+                 
+                n
+              
+              
+                (
+                9
+                )
+              
+            
+            
+              
+              
+              
+              
+                
+                
+                  ∑
+                  
+                    j
+                    =
+                    1
+                  
+                  
+                    n
+                  
+                
+                
+                  X
+                  
+                    j
+                    i
+                  
+                  
+                    02
+                  
+                
+                +
+                
+                  ∑
+                  
+                    j
+                    =
+                    1
+                  
+                  
+                    n
+                  
+                
+                
+                  X
+                  
+                    j
+                    i
+                  
+                  
+                    12
+                  
+                
+                ≤
+                M
+                
+                  Y
+                  
+                    i
+                  
+                  
+                    2
+                  
+                
+                ,
+                 
+                i
+                =
+                1
+                ,
+                 
+                …
+                ,
+                 
+                n
+              
+              
+                (
+                10
+                )
+              
+            
+            
+              
+              
+              
+              
+                
+                
+                  ∑
+                  
+                    i
+                    =
+                    1
+                  
+                  
+                    n
+                  
+                
+                
+                  Y
+                  
+                    i
+                  
+                  
+                    1
+                  
+                
+                =
+                
+                  p
+                  
+                    1
+                  
+                
+              
+              
+                (
+                11
+                )
+              
+            
+            
+              
+              
+              
+              
+                
+                
+                  ∑
+                  
+                    i
+                    =
+                    1
+                  
+                  
+                    n
+                  
+                
+                
+                  Y
+                  
+                    i
+                  
+                  
+                    2
+                  
+                
+                =
+                
+                  p
+                  
+                    2
+                  
+                
+              
+              
+                (
+                12
+                )
+              
+            
+            
+              
+              
+              
+              
+                
+                  Y
+                  
+                    i
+                  
+                  
+                    1
+                  
+                
+                +
+                
+                  Y
+                  
+                    i
+                  
+                  
+                    2
+                  
+                
+                ≤
+                1
+                ,
+                 
+                i
+                =
+                1
+                ,
+                 
+                …
+                ,
+                 
+                n
+              
+              
+                (
+                13
+                )
+              
+            
+            
+              
+              
+              
+              
+                
+                  
+                    
+                      
+                        0
+                        ≤
+                        
+                          X
+                          
+                            j
+                            i
+                          
+                          
+                            01
+                          
+                        
+                        ≤
+                        M
+                      
+                    
+                    
+                      
+                        0
+                        ≤
+                        
+                          X
+                          
+                            j
+                            i
+                          
+                          
+                            02
+                          
+                        
+                        ≤
+                        M
+                      
+                    
+                    
+                      
+                        0
+                        ≤
+                        
+                          X
+                          
+                            j
+                            i
+                          
+                          
+                            12
+                          
+                        
+                        ≤
+                        θ
+                        M
+                        ,
+                         
+                        i
+                        ,
+                         
+                        j
+                        =
+                        1
+                        ,
+                         
+                        …
+                        ,
+                         
+                        n
+                      
+                    
+                  
+                
+              
+              
+                (
+                14
+                )
+              
+            
+            
+              
+              
+              
+              
+                
+                  Y
+                  
+                    i
+                  
+                  
+                    1
+                  
+                
+                +
+                
+                  Y
+                  
+                    i
+                  
+                  
+                    2
+                  
+                
+                ∈
+                
+                  {
+                  
+                    0
+                    ,
+                    1
+                  
+                  }
+                
+                ,
+                 
+                i
+                =
+                1
+                ,
+                 
+                …
+                ,
+                 
+                n
+              
+              
+                (
+                15
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}&{\text{Maximizar}}&&\sum _{i=1}^{n}\sum _{j=1}^{n}\left(X_{ji}^{01}+X_{ji}^{02}+X_{ji}^{12}\right)d_{ji}&(6)\\&{\text{Sujeito a}}&&\sum _{i=1}\left(X_{ji}^{01}+X_{ji}^{02}\right)=W_{j},\ j=1,\ \dots ,\ n&(7)\\&&&\sum _{i=1}^{n}X_{ji}^{12}=\theta \sum _{i=1}^{n}X_{ji}^{01},\ j=1,\ \dots ,\ n&(8)\\&&&\sum _{j=1}^{n}X_{ji}^{01}\leq MY_{i}^{1},\ i=1,\ \dots ,\ n&(9)\\&&&\sum _{j=1}^{n}X_{ji}^{02}+\sum _{j=1}^{n}X_{ji}^{12}\leq MY_{i}^{2},\ i=1,\ \dots ,\ n&(10)\\&&&\sum _{i=1}^{n}Y_{i}^{1}=p_{1}&(11)\\&&&\sum _{i=1}^{n}Y_{i}^{2}=p_{2}&(12)\\&&&Y_{i}^{1}+Y_{i}^{2}\leq 1,\ i=1,\ \dots ,\ n&(13)\\&&&{\begin{array}{l}0\leq X_{ji}^{01}\leq M\\0\leq X_{ji}^{02}\leq M\\0\leq X_{ji}^{12}\leq \theta M,\ i,\ j=1,\ \dots ,\ n\end{array}}&(14)\\&&&Y_{i}^{1}+Y_{i}^{2}\in \left\{0,1\right\},\ i=1,\ \dots ,\ n&(15)\end{aligned}}}
+  Onde: 
+  
+    
+      
+        M
+        =
+        
+          ∑
+          
+            j
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          W
+          
+            j
+          
+        
+        .
+      
+    
+    {\displaystyle M=\sum \limits _{j=1}^{n}W_{j}.}
+  
+Significado das restrições:
+
+(7) Garante que a procura é totalmente atendida;
+(8) Mostra o facto de uma fracção da procura alocada a facilidades de hierarquia mais baixa é referida a facilidades de hierarquia mais alta;
+(9) e (10) Garantem que as alocações são feitas apenas aos vértices onde as facilidades estão localizadas;
+(11) e (12) Indicam que serão localizadas p1 facilidades de nível 1 e p2 facilidades de nível 2;
+(13) Garante que em cada vértice será localizada no máximo uma facilidade;
+(14) É útil para uma maior clareza de exposição, apesar da redundancia;
+(15) Define a natureza binária das variáveis de decisão.São modelos minisoma:
+
+Modelo de custo do transporte x Volume x Distância (TVD) onde se multiplica o número de transportes pelo volume transportado e pela distância percorrida
+Modelo do centro de gravidade.
+
+
+== Modelo Minimax ==
+O modelo minimax minimiza os custo de entrega a clientes de localização menos favorecida.
+Considerando-se o problema de determinar a localização de uma nova empresa ou centro de distrubuição, de modo a que a distãncia máxima de qualquer cliente ou utilizador seja minimizada.
+As distâncias devem ser rectilíneas e todas as deslocações são feitas ao mesmo custo por unidade de distância ou têm a mesma importância.
+O problema inverso (Cobertura) é achar o menor número de centros e sua localização de tal modo que todos os clientes estejam localizados a uma distância menor que uma distância crítica pré-estabelecida.  (Modelos, [2008])
+
+
+== Método Analítico Hierárquico ==
+Este método teve origem em 1971 através do Dr. Thomas L. Saaty, o método chegou à maturidade em 1973 com um estudo de transportes no Sudão tendo havido um enriquecimento teórico entre 1974 e 1978.
+Este é um método simples e confiável, e é utilizado na escolha de tomada de decisão, seja ela a escolha de um automóvel, um imóvel, na escolha de um emprego ou mesmo na escolha da localização de uma empresa.
+Etapas do Método de análise hierárquica de Saaty:
+
+1) Definir o problema e os respectivos critérios;
+2) Construir a Estrutura de decisão hierárquica em três níveis;
+3) Construção das matrizes de preferência para cada critério: depois de se ter construído a hierarquia, deve-se fazer uma comparação par a par, de cada elemento no nível hierárquico dado, criando-se uma matriz de decisão quadrada. Nessa matriz, o decisor representará, a partir de uma escala predefinida de comparações binárias entre os elementos comparados, sob o enfoque de um elemento do nível imediatamente superior. As comparações par a par são realizadas em todos os níveis hierárquicos. A comparação par a par das alternativas é realizada utilizando uma escala própria, que varia de 1 a 9. determinar os graus de preferência para cada critério, com o desenvolvimento de 4 matrizes que comparam os graus de intensidade por pares em função de cada característica, referentes aos 4 critérios adoptados.
+4) Normalizar as matrizes: deve-se dividir cada elemento da matriz pela soma da coluna a que pertence. Normalizar os valores de cada coluna de tal forma que a soma de todos os seus elementos seja igual a 1.
+5) Obter a média de cada critério: converte-se as fracções em decimais e encontra-se a média aritmética de cada linha da matriz normalizada. O resultado é um vector representando um dado critério.
+6) Construir matriz de prioridade: com os vectores encontrados na etapa anterior, devese construir uma matriz. As linhas constituirão as alternativas e as colunas os critérios.
+7) Construir a matriz de comparação dos critérios: depois de obtido o vector de prioridades ou de impacto das alternativas sob cada critério continua-se com o nível dos critérios. Construir uma matriz de comparação dos critérios e repetir as etapas 4 e 5 para a classificação par a par. O resultado será um vector que contém a média das preferências de cada critério.
+8) Obter o resultado: multiplicar a matriz obtida na etapa 6 pelo vector da Média obtido na etapa 7. O resultado será um vector que contém a quantificação final de cada alternativa.
+9) Calcular a coerência: o calculo da coerência deve ser tido em consideração para todas as matrizes binárias do problema, mas só se justifica para matrizes de dimensão igual ou superiores a 3x3. Neste caso, só temos uma matriz de dimensão aceitável (4x4), que é a da comparação entre critérios.A etapa 9) é constituída por 4 passos
+
+9.1) Determinar a totalização das entradas: resume-se ao produto da matriz inicial com o respectivo vector da média, obtido na etapa 7;
+9.2) Determinar o λ máximo: considera-se o nº de critérios, que neste caso são 4. Divide-se o vector do total de entradas pelo vector da média e obtêm-se um novo vector. Deste vector resultante, somam-se as suas parcelas (4) e divide-se pelo nº decritérios (4), e resultado é o λ máximo;
+
+9.3) Calcular o Índice de Coerência, IC: IC=(λmáx-n)/(n-1);
+9.4) Comparar o Índice de Coerência, IC com o Índice Aleatório, IA, e verificar se é ≤ 0,10 (10%);  RC =IC/IAO AHP tem um resultado numérico que pode ser utilizado em qualquer decisão onde seja possível comparar as várias opções segundo os critérios previamente estabelecidos.  (O método, [2006])
+O Método Hierárquico Multicritério organiza os sentimentos, intuições e lógicas através de uma abordagem estruturada, na tomada de decisão. Através deste método o problema em questão pode ser decomposto em níveis hierárquicos, facilitando assim, a sua compreensão e avaliação.  (Introdução, [2006])
+A base do modelo é um problema complexo com uma estruturação hierárquica, decompondo o sistema em vários níveis de hierarquia.
+A comparação entre as várias opções é feita numa escala de importância com valores de 1 a 9, sendo que o valor 1 é designado quando as duas opções comparadas têm o mesmo peso para o objectivo. O valor 3 é utilizado quando uma alternativa bastante mais importante do que a outra, e assim sucessivamente.
+A escala tem um limite pois estudos comprovam que o ser humano tem dificuldades em decidir entre alternativas. O método dá então uma a importância relativa entre os vários elementos. Se através do método não for obtida uma resposta significa que as alternativas não podem ser comparáveis ou então são significativas.
+Tabela com a escala:
+
+Os axiomas são:
+
+O da comparação recíproca, onde o decisor deve ser capaz de fazer comparaçõese mostrar a intensidade de suas preferências;
+
+A preferência deve satisfazer a condição de reciprocidade: se A é x vezes preferível a B, logo B é x 1 vezes preferível a A.O princípio do pensamento analítico na resolução de problemas para uma análise explícita divide-se em três, sendo eles: a construção de hierarquias, o estabelecimento de prioridades e a coerência lógica.
+Existem dois tipos de hierarquias:
+
+As estruturais- onde os sistemas complexos são estruturados, estas hierarquias possuem uma relação próxima com a forma como o cérebro analisa a complexidade, decompondo os objectos que discernimos em grupos, subgrupos e até em menor;
+As funcionais- Decompõe sistemas complexos em elementos essenciais, ajudam a guiar um sistema para a realização de um objectivo.Na estruturação da hierarquia devem ser incluídos detalhes relevantes para:
+
+Representar o problema de tal modo que inclua todos os elementos importantespara a avaliação e se necessário no desenrolar do processo os elementos possam
+ser mudados;
+
+Considerar o ambiente que cerca o problema;
+Identificar as questões ou atributos que contribuam para a solução;
+Identificar os participantes associados com o problema.No Método de Análise Hierárquica distinguem-se três fases: estruturação, julgamentos e síntese dos resultados.
+
+
+== Modelo do Centro de Gravidade ==
+O modelo do centro de gravidade é utilizado quando a empresa já existente quer saber onde deve localizar uma nova instalação dentro da rede. O método avalia o mercado já existente, o volume de bens ou serviços, bem como os custos de transporte envolvidos.
+Este método calcula a localização minima entre a nova instalação e os mercados e instalações que já existem. As coordenadas utilizadas para calcular o ponto onde se deve localizar a instalação são GX e GY e são calculadas com as seguintes fórmulas:  (Resumo 6, [2009])
+
+Gx = (dix . pi . Ci)/( pi .Ci)
+Gy = (diy.pi .Ci)/(pi .Ci)Onde:
+
+Gx - coordenada horizontal do CG;
+Gy - coordenada vertical do CG;
+Dix - coordenada horizontal da instalação ou mercado i;
+Diy - coordenada vertical da instalação ou mercado i;
+Pi - custo de transporte na direção da instalação ou Dom mercado i;
+Ci - volume transportado de/para a instalação ou mercado i.Existem dois tipos de modelos gravitacionais, o M.G simplesmente limitado, e o M.G duplamente simplificado.  (Modelos Gravitacionais, [2006])
+
+Modelo Gravitacional Simplesmente Limitado - É destinado à localização das actividades duma área e é caracterizada por se conhecerem os totais das origens, ou destinos, dos fluxos de interacção.
+Modelo Gravitacional Duplamente Limitado - É destinado a fazer a previsão dos fluxos de interacção e caracteriza-se pelo conhecimento dos totais das origens e destinos.
+
+
+== Modelo de Interacção Espacial ==
+O Modelo de Iteracção Espacial é baseado no modelo de gravitação de Newton e é especifico para a localização comercial. O modelo foi desenvolvido por Huff em 1966.  (Modelo de, [2007])
+Onde:
+
+  
+    
+      
+        
+          
+            
+              
+              
+                
+                  E
+                  
+                    i
+                    j
+                  
+                
+                =
+                
+                  
+                    
+                      
+                        S
+                        
+                          j
+                        
+                      
+                      
+                        T
+                        
+                          i
+                          j
+                        
+                        
+                          a
+                        
+                      
+                    
+                    
+                      
+                        ∑
+                        
+                          j
+                        
+                        
+                          n
+                        
+                      
+                      
+                        (
+                        
+                          
+                            
+                              S
+                              
+                                j
+                              
+                            
+                            
+                              T
+                              
+                                i
+                                j
+                              
+                              
+                                a
+                              
+                            
+                          
+                        
+                        )
+                      
+                    
+                  
+                
+                ⋅
+                
+                  C
+                  
+                    i
+                  
+                
+              
+            
+            
+              
+              
+                
+                  
+                    
+                      
+                      
+                        
+                          Sendo:
+                        
+                      
+                    
+                    
+                      
+                      
+                        
+                        
+                          E
+                          
+                            i
+                            j
+                          
+                        
+                      
+                      
+                      
+                        
+                          Procura de 
+                        
+                        i
+                        
+                           atraida para 
+                        
+                        j
+                      
+                    
+                    
+                      
+                      
+                        
+                        
+                          C
+                          
+                            i
+                          
+                        
+                      
+                      
+                      
+                        
+                          Procura em 
+                        
+                        i
+                      
+                    
+                    
+                      
+                      
+                        
+                        
+                          S
+                          
+                            j
+                          
+                        
+                      
+                      
+                      
+                        
+                          Dimensão commercial de 
+                        
+                        j
+                      
+                    
+                    
+                      
+                      
+                        
+                        
+                          T
+                          
+                            i
+                            j
+                          
+                        
+                      
+                      
+                      
+                        
+                          Custo da deslocação de 
+                        
+                        i
+                        
+                           para 
+                        
+                        j
+                      
+                    
+                    
+                      
+                      
+                        
+                        n
+                      
+                      
+                      
+                        
+                          Número de destinos comerciais
+                        
+                      
+                    
+                    
+                      
+                      
+                        
+                        a
+                      
+                      
+                      
+                        
+                          Parâmetro estimado
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}&E_{ij}={\frac {\frac {S_{j}}{T_{ij}^{a}}}{\sum _{j}^{n}\left({\frac {S_{j}}{T_{ij}^{a}}}\right)}}\cdot C_{i}\\&{\begin{aligned}&{\text{Sendo:}}\\&\quad E_{ij}&&{\text{Procura de }}i{\text{ atraida para }}j\\&\quad C_{i}&&{\text{Procura em }}i\\&\quad S_{j}&&{\text{Dimensão commercial de }}j\\&\quad T_{ij}&&{\text{Custo da deslocação de }}i{\text{ para }}j\\&\quad n&&{\text{Número de destinos comerciais}}\\&\quad a&&{\text{Parâmetro estimado}}\end{aligned}}\end{aligned}}}
+  Os modelos de interacção espacial, mostram-nos o fluxo de mercadorias, pessoas ou mensagens de uma origem i para um destino j, a distribuição do fluxo dá-se com base na potencialidade da origem gerar viagens, na atracção dos destinos e na impedância de deslocamentos entre cada origem e destino (i,j), sendo a impedância uma medida que avalia os efeitos contrários à realização ou prolongamento de viagens.  (3.3 - Modelos, [1999])
+
+
+== Modelo da Ponderação Qualitativa ==
+O modelo da Ponderação Qualitativa, pode ser usado quando não se consegue adequar uma estrutura de custos a cada localidade considerada. O modelo consiste em determinar uma série de factores importantes para a decisão, onde cada localidade alternativa recebe um julgamento, julgamento esse que é convertido em nota através de uma escala arbitraria. A cada factor é atribuido um peso. A soma ponderada das notas pelos pesos dos factores dará a pontuação final para cada localidade, a localidade escolhida é a que tiver maior pontuação.  (Modelo da, [2007])
+Considerando:
+
+k - Factores indicados por Fij
+i - Localidade
+j - Particular factor
+F23 - Indica o valor do factor 3 para a localidade 2.
+Pj - Peso relativo do factor jA ponderação final para a localidade i (Ni) pode ser expressa como:
+
+  
+    
+      
+        
+          N
+          
+            i
+          
+        
+        =
+        
+          ∑
+          
+            j
+            =
+            1
+          
+          
+            k
+          
+        
+        
+          F
+          
+            i
+            j
+          
+        
+        
+          P
+          
+            j
+          
+        
+      
+    
+    {\displaystyle N_{i}=\sum _{j=1}^{k}F_{ij}P_{j}}
+  
+
+
+== Modelo da Comparação entre o custo fixo e o custo variável ==
+Através deste modelo realiza-se uma análise de custos para cada uma das alternativas previamente seleccionadas.
+Calcula-se o lucro associado a cada alternativa de localização através da previsão da quantidade e do preço de vendas.
+Obviamente a melhor solução será aquela que tiver maior lucro
+Passos a dar para a resolução do modelo:
+
+Calcular os custos fixos, os custos variáveis e preços de vendas;
+Calcular para cada localidade, o ponto de equilíbrio;
+Sabendo que o ponto de Equilíbrio é a quantidade a produzir que iguala os custos e as receitas;
+Escolher a localidade com o menor ponto de equilíbrio com a finalidade de recuperar mais rápido o investimento.  (Modelo da Comparação, [2009?])
+
+
+== Método dos Momentos ==
+O método dos momentos é um método simples e intuitivo. Supõem a existência dos momentos populacionais, a ideia básica do método é igualar os momentos das amostras aos momentos da população e procurar a solução da equação em função das componentes da amostra.
+Momento = Somatório (custo unitário de transporte x quantidade x distância)
+Sendo o melhor centro aquele que tiver a menor soma de momentos.  (Método, [2009?])
+
+
+== Referências ==
+
+
+== Ver também ==
+Aeroporto
+Armazém
+Armazém central
+Escolas
+Layout de armazém
+Teoria da localização
+Logística
+
+
+== Ligações externas ==
+Associação Portuguesa de Logística

@@ -1,0 +1,15 @@
+FAST (Faceted Application of Subject Terminology) é uma sintaxe simplificada para o tesauro Library of Congress Subject Headings (LCSH). Foi desenvolvido por Online Computer Library Center, Inc. (OCLC) como parte do WorldCat, com o objetivo de fazer catalogação menos custosa e mais singela de aplicar em contextos conectados. Os títulos de FAST separam dados temáticos de dados que não o são, como informação sobre a forma de um documento, cobertura cronológica ou cobertura geográfica.
+
+
+== Ver também ==
+Controle de autoridade
+Linked data
+Virtual International Authority File (VIAF)
+
+
+== Referências ==
+
+
+=== Ligações externas ===
+Página oficial
+FAST as linked data

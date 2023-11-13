@@ -1,0 +1,512 @@
+O International Standard Book Number, sendo chamado inicialmente de Standard Book Numbering (SBN), é um sistema internacional de identificação de livros e softwares que utiliza números para classificá-los por título, autor, país, editora e edição. Criado em 1967 e utilizado tanto pelos comerciantes de livros quanto pelas bibliotecas, foi transformado, em 1972, pela International Organization for Standardization (do inglês: "Organização Internacional de Padronização"), em norma padrão internacional: a ISO 2108.
+
+
+== Finalidade ==
+A finalidade do sistema é a identificação numérica de um livro segundo seu título, autor, país, ou código de idioma, e a editora, individualizando inclusive edições diferentes.Uma vez fixada a identificação, ela só se aplica àquela obra e edição, não se repetindo jamais em outra. Utilizado também para identificar software, seu sistema numérico é convertido em código de barras, o que elimina barreiras linguísticas e facilita sua circulação e comercialização.
+A versatilidade propiciada por esse sistema de registro facilita a interconexão de arquivos e a recuperação e transmissão de dados em sistemas automatizados, razão por que é adotado internacionalmente.
+O ISBN simplifica a busca e a atualização bibliográfica, concorrendo para a integração cultural entre os povos.
+A partir de 1 de janeiro de 2007, o ISBN passou a ser constituído por treze dígitos, em vez dos dez dígitos. Para diferenciá-los, escreve-se ISBN-10 e ISBN-13.
+O sistema ISBN é controlado pela Agência Internacional do ISBN, sediada em Berlim, na Alemanha, que orienta, coordena e delega poderes às Agências Nacionais designadas em cada país.
+
+Um número ISBN é atribuído a cada edição de um livro (exceto reimpressões) e suas variações (capa mole ou capa dura), podendo no caso dos ebook diferir consoante a plataforma de leitura. O ISBN tem 13 dígitos se atribuído após 1 de Janeiro de 2007, e 10 dígitos se atribuído antes de 2007. Um ISBN é constituído por 4 ou 5 partes:
+
+para um ISBN de 13 dígitos, um prefixo GS1: 978 ou 979 (indica a indústria, neste caso, 978 significa publicação de livros)
+o identificador de grupo,
+o código do editor,
+o número do item (título do livro), e
+um dígito de verificação.Os diferentes componentes do ISBN (grupo, título, editor e dígito de verificação) são separados por um hífen ou um espaço. Nenhuma parte do ISBN tem um número fixo de dígitos, para além do dígito verificação.
+
+
+== Emissão de ISBN ==
+A emissão dos números ISBN é específica de cada país e é adaptada aos objetivos nacionais de cada um. No Canadá, a emissão de ISBN é efetuada sem custos, tendo como objetivo estimular a cultura. No Reino Unido e Estados Unidos, a emissão do ISBN tornou-se um centro de lucro para as empresas responsáveis.
+Editores e autores devem portanto obter os números ISBN da agência nacionais de cada pais. Uma lista de agências ISBN está disponível no sítio da International ISBN Agency.
+No Brasil a o assunto é tratado na Lei nº 10.753/2003 e a emissão de ISBN é realizada pela Agência Brasileira do ISBN, atualmente de forma completamente online. Para emitir ISBN o autor ou editora deverá fazer o cadastro na plataforma, atualmente não há pagamento da taxa para se cadastrar. Após o cadastro o solicitante terá um usuário e senha para realizar o seu pedido de emissão do ISBN, gerando um custo fixo de R$22,00 para cada emissão de ISBN e R$36,00 o código de barras em JPEG, sendo que o código de barras não é obrigatório. Caso o autor ou editor não esteja disposto a pagar e se envolver em todo esse processo é possível contratar uma empresa para intermediar a situação.
+
+
+== Identificador de grupo ==
+O identificador de grupo é um número de 1 a 5 dígitos. Os identificadores de grupo com um dígito são: 0 ou 1 para países de língua inglesa; 2 para a língua francesa, 3 para a língua alemã, 4 para o Japão, 5 para a língua russa, 7 para a República Popular da China, sendo o identificador do Brasil o 65 (85 até abril de 2019) e para Portugal o 972. Como exemplo de um  identificador do grupo de 5 dígitos temos 99939, para Macau. Livros publicados em línguas mais raras têm normalmente identificadores de grupo mais longos.
+
+
+== Código do editor ==
+A agência nacional de ISBN atribui o número de editor, o editor seleciona o número do item. As editoras não são obrigadas a atribuir um ISBN aos livros que publicam, nem é necessário que os livros mostrem o seu número, no entanto, a maioria das livrarias apenas trabalha com livros que possuam ISBN.
+A listagem dos mais de 900.000 códigos de editor atribuídos é publicada na forma de livro. O site web da agência internacional do ISBN não oferece nenhum método de pesquisa de códigos de editor, listas parciais foram compiladas (a partir de catálogos de bibliotecas) para o grupo de língua Inglesa: Identificador 0 e identificador 1.
+Os editores recebem blocos de números ISBN, com blocos grandes atribuídos aos maiores editores, em oposição às pequenas editoras que recebem ISBNs de um ou mais dígitos para o código de grupo, vários dígitos para o editor, e um único dígito para os itens individuais. Uma vez utilizado todo o bloco de ISBNs, a editora pode receber um novo bloco de ISBNs, com um número de editora diferente. Consequentemente, uma editora pode ter diferentes números de editor atribuídos, pode também haver mais do que um grupo identificador utilizado num país. Isto pode ocorrer se forem utilizados todos os números de item de um identificador. A lista geral de identificadores mostra que isso aconteceu na China e em mais uma dúzia de países.
+Ao usar comprimentos de bloco variáveis, um grande editor terá poucos dígitos alocados à editora e muitos dígitos para títulos. De igual modo, países com muitas publicações têm poucos dígitos alocados para o identificador de grupo, e muitos para os editores e títulos. A tabela seguinte contém alguns exemplos de variações de comprimento no bloco de códigos ISBN-10.
+
+
+== Dígito de verificação ==
+Um dígito de verificação é uma forma de verificação de redundância utilizada para detecção de erros, o equivalente decimal de uma soma de verificação binária. É constituída por um único dígito calculado a partir dos outros dígitos na mensagem.
+
+
+=== ISBN-10 ===
+A edição de 2001 do manual oficial da International ISBN Agency afirma que o dígito de verificação do ISBN-10, que é o último dígito dos 10 dígitos, varia entre 0 a 10 (o símbolo X é usado em vez de 10) e deve ser tal, que a soma de todos os dez dígitos, cada um multiplicado pelo peso inteiro, descendo de 10 para 1, é um múltiplo do número 11.
+A aritmética modular é conveniente para calcular o dígito de verificação usando o módulo 11. Cada um dos primeiros nove dígitos do ISBN 10, excluindo o dígito de controlo em si, é multiplicado por um número numa sequência de 10 a 2 e o resto da soma, com respeito a 11, é calculada. O resto, mais o dígito de verificação, deve ser igual a 11, e portanto, o carácter de verificação é  11 menos o resto da soma dos produtos.
+Por exemplo, o dígito de verificação para o ISBN 0-306-40615 é calculado da seguinte forma:
+
+  
+    
+      
+        
+          
+            
+              
+              
+                
+                (
+                0
+                ×
+                1
+                )
+                +
+                (
+                3
+                ×
+                2
+                )
+                +
+                (
+                0
+                ×
+                3
+                )
+                +
+                (
+                6
+                ×
+                4
+                )
+                +
+                (
+                4
+                ×
+                5
+                )
+                +
+                (
+                0
+                ×
+                6
+                )
+                +
+                (
+                6
+                ×
+                7
+                )
+                +
+                (
+                1
+                ×
+                8
+                )
+                +
+                (
+                5
+                ×
+                9
+                )
+              
+            
+            
+              
+              
+                
+                =
+                0
+                +
+                6
+                +
+                0
+                +
+                24
+                +
+                20
+                +
+                0
+                +
+                42
+                +
+                8
+                +
+                45
+              
+            
+            
+              
+              
+                
+                =
+                145
+                =
+                13
+                ×
+                11
+                +
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}&(0\times 1)+(3\times 2)+(0\times 3)+(6\times 4)+(4\times 5)+(0\times 6)+(6\times 7)+(1\times 8)+(5\times 9)\\&=0+6+0+24+20+0+42+8+45\\&=145=13\times 11+2\end{aligned}}}
+  
+  
+    
+      
+        c
+        =
+        145
+        
+        mod
+        
+        
+        11
+        =
+        2
+      
+    
+    {\displaystyle c=145\mod {11}=2}
+  Temos então que o dígito de validação é 2, sendo a sequência completa 0-306-40615-2.
+O calculo formal do  dígito de validação é efectuado da seguinte forma:
+
+  
+    
+      
+        (
+        10
+        
+          x
+          
+            1
+          
+        
+        +
+        9
+        
+          x
+          
+            2
+          
+        
+        +
+        8
+        
+          x
+          
+            3
+          
+        
+        +
+        7
+        
+          x
+          
+            4
+          
+        
+        +
+        6
+        
+          x
+          
+            5
+          
+        
+        +
+        5
+        
+          x
+          
+            6
+          
+        
+        +
+        4
+        
+          x
+          
+            7
+          
+        
+        +
+        3
+        
+          x
+          
+            8
+          
+        
+        +
+        2
+        
+          x
+          
+            9
+          
+        
+        +
+        
+          x
+          
+            10
+          
+        
+        )
+        
+        mod
+        
+        
+        11
+        ≡
+        0.
+      
+    
+    {\displaystyle (10x_{1}+9x_{2}+8x_{3}+7x_{4}+6x_{5}+5x_{6}+4x_{7}+3x_{8}+2x_{9}+x_{10})\mod {11}\equiv 0.}
+  Se o valor 
+  
+    
+      
+        
+          x
+          
+            10
+          
+        
+      
+    
+    {\displaystyle x_{10}}
+   necessário para satisfazer esta condição for 10, este será substituido por um X.
+Os dois erros mais comuns no tratamento de um ISBN, quando escrito ou digitado, é um dígito errado ou a troca de dígitos adjacentes. O método de cálculo do dígito de verificação do ISBN garante que esses dois erros serão sempre detectado. No entanto, se o erro ocorre na editora e não é detectado, o livro será lançado com um ISBN inválido.
+
+
+=== ISBN-13 ===
+A edição de 2005 do manual oficial do International ISBN Agency, que abrange os ISBN emitidos a partir de Janeiro de 2007, descreve como é efetuado o cálculo, do dígito de verificação, do ISBN de 13 dígitos, baseado no EAN-13.
+O cálculo do dígito de verificação do ISBN-13 começa com os primeiros 12 dígitos dos 13, multiplicando alternadamente por 1 ou 3 , da esquerda para a direita, em seguida, estes produtos são somados módulo 10 para dar um valor que varia de 0 a 9, que subtraído a 10, que deixa um resultado de 1 a 10. Um zero (0) substitui 0 dez (10), garantindo assim, que o resultado da verificação não é maior que um dígito.
+Por exemplo, o dígito de verificação para o ISBN 978-0-306-40615 é calculado da seguinte forma:
+
+  
+    
+      
+        
+          
+            
+              
+              
+                1
+                ×
+                9
+                +
+                3
+                ×
+                7
+                +
+                1
+                ×
+                8
+                +
+                3
+                ×
+                0
+                +
+                1
+                ×
+                3
+                +
+                3
+                ×
+                0
+                +
+                1
+                ×
+                6
+                +
+                3
+                ×
+                4
+                +
+                1
+                ×
+                0
+                +
+                3
+                ×
+                6
+                +
+                1
+                ×
+                1
+                +
+                3
+                ×
+                5
+              
+            
+            
+              
+              
+                
+                =
+                9
+                +
+                21
+                +
+                8
+                +
+                0
+                +
+                3
+                +
+                0
+                +
+                6
+                +
+                12
+                +
+                0
+                +
+                18
+                +
+                1
+                +
+                15
+              
+            
+            
+              
+              
+                
+                =
+                93
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}&1\times 9+3\times 7+1\times 8+3\times 0+1\times 3+3\times 0+1\times 6+3\times 4+1\times 0+3\times 6+1\times 1+3\times 5\\&=9+21+8+0+3+0+6+12+0+18+1+15\\&=93\end{aligned}}}
+  Temos então que o dígito de validação é 7, sendo a sequência completa 978-0-306-40615-7.
+O cálculo formal do  dígito de validação é efetuado da seguinte forma:
+
+  
+    
+      
+        
+          x
+          
+            13
+          
+        
+        =
+        10
+        −
+        (
+        
+          
+            (
+          
+        
+        
+          x
+          
+            1
+          
+        
+        +
+        3
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          x
+          
+            3
+          
+        
+        +
+        3
+        
+          x
+          
+            4
+          
+        
+        +
+        ⋯
+        +
+        
+          x
+          
+            11
+          
+        
+        +
+        3
+        
+          x
+          
+            12
+          
+        
+        
+          
+            )
+          
+        
+        
+        
+          mod
+          
+            
+          
+        
+        10
+        )
+      
+    
+    {\displaystyle x_{13}=10-({\big (}x_{1}+3x_{2}+x_{3}+3x_{4}+\cdots +x_{11}+3x_{12}{\big )}\,{\bmod {\,}}10)}
+  Este sistema de verificação, baseado no EAN-13, similar ao utilizado para a verificação do UPC, não detecta todos os erros de transposição adjacente, especificamente, se a diferença entre os dois for igual a 5. Utilizando o exemplo acima, os dois últimos dígitos são um 6 seguido por 1. A ordem correta contribui 3 × 6 + 1 × 1 = 19 para a soma, enquanto que, se os dígitos são transpostos (1 seguido por 6), a contribuição dos dois dígitos será 3 × 1 + 1 × 6 = 9. No entanto, 19 e 9 são congruentes módulo 10, e assim produzem o mesmo resultado final, ambos os ISBN terá um dígito de verificação de 7. A fórmula do ISBN-10 usa o módulo 11, que é primo, o que evita esse problema, mas requer mais do que um dígito para expressar o dígito de verificação.
+Além disso, se triplicar a soma das 2ª, 4ª, 6ª, 8ª, 10ª e 12ª posições e em seguida as adicionar aos restantes dígitos (1º, 3º, 5º, 7º, 9º, 11º e 13º), o total será sempre ser divisível por 10 (ou seja termina em 0).
+
+
+=== Erros no uso ===
+Os editores, por vezes, não verificam a correspondência do título do livro com o seu ISBN antes de publicá-lo. Essa falha causa problemas de identificação de livros nas bibliotecas e livrarias e também para leitores e compradores.A maioria das bibliotecas e livrarias exibe o registo de um livro com ISBN inválido emitido pelo editor.[carece de fontes?] Se uma biblioteca posteriormente identifica que o ISBN foi cancelado pelo editor ou é inválido, um código de erro pode ser vinculado ao ISBN da obra. Por exemplo, a Biblioteca do Congresso dos Estados Unidos cataloga livros publicados com ISBN cancelados ou inválidos incluindo no registro catalográfico o código $z, que significa Canceled/invalid ISBN ("ISBN cancelado ou inválido"). Alguns sítios na internet não pesquisam livros cujo ISBN seja inválido.
+
+
+== Agências Nacionais ==
+A principal função de uma agência nacional consiste em atribuir e controlar os números de identificação atribuídos aos livros editados no país.
+De 1978 a fevereiro de 2020, a Agência Brasileira foi a Fundação Biblioteca Nacional. A partir de março de 2020, esta atribuição pertence à Câmara Brasileira do Livro. A correspondente norma de padronização é a NBR ISO 2108, publicada pela ABNT e intitulada Informação e documentação - Número Padrão Internacional de Livro (ISBN). 
+Em Portugal, Angola e Cabo Verde, a atribuição do ISBN vem sendo controlada pela Associação Portuguesa de Editores e Livreiros (APEL), desde 1988.
+
+
+== Referenciar com ISBN ==
+Para se fazer referência a um ISBN deve-se incluir; o título, o autor, o país ou código, a editora e o ISBN como neste exemplo nas referências em baixo e onde a simples introdução do  ISBN (com ou sem hífen) automaticamente mostra num verbete onde se o pode procurar. O resultado seria Splane, Lily (2002). The Book Book: A Complete Guide to Creating a Book on Your Computer. Anaphase II Publishing. p. 37. ISBN 978-0945962144
+
+
+== Notas ==
+
+
+== Ver também ==
+CODEN (Publicações periódicas; substituído pelo ISSN para publicações actuais)
+DOI (Digital Object Identifier)
+Especial:Fontes de livros
+ISRC (International Standard Recording Code)
+ISSN (International Standard Serial Number)
+LCCN (Library of Congress Control Number)
+OCLC
+
+
+== Referências ==
+
+
+== Ligações externas ==
+International ISBN Agency (em inglês, em castelhano e em francês). Website oficial.
+Agência Brasileira do ISBN. Website oficial.
+Agência Portuguesa do ISBN. Website da Associação Portuguesa de Editores e Livreiros.
+Biblioteca Nacional de Portugal.
+xISBN (Web service). Pesquisa de livros a partir de um código ISBN, LCCN ou OCLC. A pesquisa é feita na base de dados mantida pela WorldCat..
+Consultoria para Registro de ISBN. Consultor ISBN.

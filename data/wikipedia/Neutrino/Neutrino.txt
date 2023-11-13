@@ -1,0 +1,304 @@
+O neutrino é uma partícula subatômica sem carga elétrica e que interage com outras partículas apenas por meio da gravidade e da força nuclear fraca (duas das quatro forças fundamentais da Natureza, ao lado da eletromagnética e da força nuclear forte). É conhecido por suas características extremas: é extremamente leve (algumas centenas de vezes mais leve que o elétron),
+existe com enorme abundância (é a segunda partícula mais abundante do Universo conhecido, depois do fóton) e interage com a matéria de forma extremamente débil (cerca de 65 bilhões de neutrinos atravessam cada centímetro quadrado da superfície da Terra voltada para o Sol a cada segundo).
+
+
+== Características ==
+
+
+=== Tipos de neutrinos e antineutrinos ===
+Há três tipos, ou sabores, de neutrinos:
+
+neutrino do elétron
+neutrino do múon
+neutrino do tauEles têm esses nomes porque o neutrino do elétron só participa de interações entre partículas subatômicas em que o elétron também participa; o do múon só naquelas em que o múon também participa; e o mesmo com o do tau. O elétron, o múon e o tau são três partículas elementares que, juntamente com os três neutrinos, são classificadas como léptons.
+Existem também os antineutrinos, ou antipartículas dos neutrinos. Ocorrem também em três tipos: do elétron, do múon e do tau.
+Os três tipos de neutrinos transformam-se espontaneamente uns nos outros, fenômeno conhecido por "oscilação de neutrinos".
+
+
+=== Carga e massa ===
+Os neutrinos não possuem carga elétrica nem carga de cor (a "carga" das interações fortes). Não se sabe o valor exato de suas massas, mas indícios indiretos apontam que devem ser algumas centenas de vezes menores que a massa do elétron (que é de 0,511 MeV/c2), ou menos. Os experimentos realizados com oscilações de neutrinos dão indicações diretas apenas das diferenças entre os quadrados das massas dos três tipos. Há três dessas diferenças (entre neutrino do elétron e do múon; entre do múon e do tau; e entre do elétron e do tau), mas apenas dois valores foram obtidos até agora: 0,000079 (eV/c2)2 e 0,0027 (eV/c2)2. Como estamos falando de diferença entre os quadrados das massas, pelo menos uma das massas tem que ser pelo menos igual à raiz quadrada deste valor. Assim, existe pelo menos um neutrino com massa de pelo menos 0,04 eV/c2.
+
+
+=== Interações ===
+Como não possuem carga nem cor, os neutrinos não interagem eletromagneticamente nem por meio da interação forte. Apenas interagem com a matéria por meio da força gravitacional e da força fraca. Estas são interações muito débeis. Para haver probabilidade apreciável de um neutrino interagir com pelo menos um próton, ele deveria atravessar uma chapa de chumbo de um ano-luz de espessura.Assim, os neutrinos são classificados como léptons, isto é, partículas imunes à interação forte.
+Um exemplo de interação fraca na qual o neutrino toma parte é o decaimento do nêutron, que produz a radiação beta (radiação β):
+
+  
+    
+      
+        n
+        →
+        p
+        +
+        
+          e
+          
+            −
+          
+        
+        +
+        
+          
+            
+              
+                ν
+                
+                  e
+                
+              
+              ¯
+            
+          
+        
+      
+    
+    {\displaystyle n\rightarrow p+e^{-}+{\bar {\nu _{e}}}}
+  
+(nêutron → próton + elétron + antineutrino de elétron)Quando esse decaimento acontece em um núcleo atômico, o nêutron se transforma em um próton, que permanece no núcleo (portanto, o número atômico aumenta de uma unidade), enquanto o antineutrino e o elétron são ejetados (o elétron constituirá a radiação beta).
+Essa reação, na verdade, acontece apenas com o quark down (d) do nêutron, e o decaimento completo se dá em dois passos:
+
+  
+    
+      
+        d
+        →
+        u
+        +
+        
+          W
+          
+            −
+          
+        
+        →
+        u
+        +
+        
+          e
+          
+            −
+          
+        
+        +
+        
+          
+            
+              
+                ν
+                
+                  e
+                
+              
+              ¯
+            
+          
+        
+      
+    
+    {\displaystyle d\rightarrow u+W^{-}\rightarrow u+e^{-}+{\bar {\nu _{e}}}}
+  
+(quark d → quark u + partícula W- → quark u + elétron + antineutrino de elétron)O W- é um bóson intermediário ou de calibre que, juntamente com as partículas W+ e Z0, são os intermediadores da interação fraca (assim como o fóton é o da interação eletromagnética).
+
+
+=== Geoneutrino ===
+Um geoneutrino é um neutrino ou antineutrino emitido no decaimento do radionuclídeo que ocorre naturalmente na Terra. A cada segundo, cerca de um milhão dessas partículas ilusórias penetram em cada centímetro quadrado da superfície do nosso planeta. Os geoneutrinos são os únicos vestígios diretos dos decaimentos radioativos que ocorrem no interior da Terra e que produzem uma porção ainda desconhecida da energia que impulsiona toda a dinâmica do nosso planeta. 53 eventos de neutrinos originários do interior da Terra foram medidos pelo detector Borexino.
+
+
+=== Ocorrência na Natureza ===
+Neutrinos existem em grande quantidade atravessando o espaço a velocidades próximas à da luz. É a segunda partícula mais abundante do Universo depois do fóton. Não os percebemos cotidianamente, ao contrário dos fótons, por ele interagir muito fracamente com a matéria. Grande parte é produzida pelas reações nucleares que ocorrem no interior de estrelas e que geram a energia das mesmas (inclusive no Sol) e também por supernovas (grandes explosões estelares).
+A maioria dos neutrinos que atravessam a Terra foi produzida no Sol, mas podem originar-se também de reatores nucleares, explosões nucleares, decaimentos radioativos e da interação dos raios cósmicos com as camadas superiores da atmosfera terrestre.
+
+
+== História ==
+
+
+=== Previsão teórica da existência do neutrino ===
+
+
+==== O espectro contínuo da radiação β ====
+A existência do neutrino foi predita teoricamente em 1930 pelo físico austríaco Wolfgang Pauli, para explicar o fato de o espectro de energia da radiação beta estar distribuída em uma faixa contínua, e não com valores bem definidos (ou seja, discretos), como acontecia com outras radiações nucleares, alfa e gama. O espectro contínuo da radiação beta foi confirmado em 1914 por James Chadwick (o mesmo que em 1932 descobriria o nêutron).
+A razão pela qual isso demandava uma explicação radical a ponto de exigir a postulação da existência de uma nova partícula era que o fenômeno parecia contradizer leis bem estabelecidas da física, como a lei da conservação da energia. Átomos iguais deveriam emitir radiação com a mesma energia; no entanto, no caso da radiação beta — e só nesse caso — parecia que emitiam com energias infinitamente variadas.
+Naturalmente, primeiro pensou-se que essa variação ocorria porque a radiação beta interagia com a matéria e perdia energia antes de chegar nos aparelhos detectores. No entanto, em meados da década de 1920, graças às pesquisas de Charles Drummond Ellis e outros, estava claro que esse espectro contínuo não era devido a fatores externos aos núcleos atômicos que emitiam a radiação; ela já saía do núcleo dessa forma.
+
+
+==== Novas leis da física x nova partícula ====
+Diante do impasse, vários físicos adotaram dois tipos de abordagem.
+Alguns, liderados por Niels Bohr, passaram a defender que as leis da física deviam ser radicalmente alteradas para explicar o fenômeno. Bohr chegou a propor o abandono da lei da conservação da energia, que então valeria apenas estatisticamente.Outros, liderados por Wolfgang Pauli, supunham que a energia que faltava era carregada por uma terceira partícula desconhecida, emitida junto com a partícula beta. Nesse caso, a energia das duas partículas juntas seria ainda bem definida; no entanto, ela poderia ser distribuída de infinitas maneiras entre elas, de modo que a partícula beta poderia ter várias energias possíveis. Como resultado, o espectro contínuo poderia ser explicado com as leis da física intactas. Pauli não publicou sua proposta, mas comentou-a em diversas cartas a colegas, sendo a mais famosa a endereçada para vários deles datada de 4 de dezembro de 1930, reproduzida parcialmente em Pais (1986).Essas partículas novas foram chamadas inicialmente de "nêutrons", porque não tinham carga elétrica. Com a descoberta, em 1932, do que conhecemos hoje por "nêutrons", elas passaram a ser chamadas pelo diminutivo em italiano, "neutrino", palavra escolhida pelo físico italiano Enrico Fermi.
+
+
+==== Outras motivações para a previsão do neutrino ====
+É comum que os livros de física mencionem que o caso da radiação beta foi a única inspiração para a previsão do neutrino. No entanto, segundo o físico e historiador da ciência Abraham Pais, Pauli tinha também outro problema grave em vista quando postulou o neutrino. Era o problema da composição do núcleo atômico.Sabe-se que os prótons têm carga positiva e os elétrons, negativa. Ora, se o átomo é eletricamente neutro, então o número de prótons no núcleo deve ser igual ao de elétrons. No entanto, a massa do núcleo é bem maior que a soma da massa desses prótons (em geral mais do que o dobro), de maneira que ele parecia ter mais prótons! Imaginava-se então que havia elétrons no núcleo, para cancelar o excesso de cargas positivas desses prótons.
+Mesmo assim, esse modelo levava a complicações relacionadas com o spin do núcleo. Pauli achava que elas também podiam ser resolvidas se se admitisse que os neutrinos também fizessem parte do núcleo. Porém, em 1932, descobriu-se que o núcleo continha nêutrons, o que resolveu esses problemas.
+
+
+=== Os modelos teóricos ===
+A hipótese de Bohr das novas leis físicas e da quebra das leis de conservação perdeu força nos anos seguintes. Com a descoberta dos nêutrons, a hipótese dominante para a origem dos neutrinos passou a ser o decaimento do nêutron em um próton, um elétron e um neutrino. O próton permaneceria no núcleo e o elétron e o neutrino seriam ejetados (o elétron formaria a radiação beta). Essa é a versão atualmente aceita, exceto por o neutrino ser, na verdade, um antineutrino (a antipartícula do neutrino).
+Em 1934, Enrico Fermi formulou a primeira teoria consistente para descrever esse processo. A teoria teve muito sucesso em descrever quantitativamente o espectro da radiação beta e por isso a existência do neutrino passou a ser mais aceita (antes, o próprio Pauli era cauteloso com relação a isso). A concordância entre a previsão teórica e o resultado experimental era máxima quando a massa do neutrino introduzida nas equações era zero.
+Aperfeiçoamentos da teoria de Fermi foram feitos nos anos seguintes. A teoria vigente hoje é a teoria de Abdus Salam, Sheldon Lee Glashow e Steven Weinberg das interações eletrofracas (que descreve simultaneamente as forças fracas, responsáveis pela radiação beta, e as forças fortes), formulada em 1968 e corroborada experimentalmente a partir do início dos anos 1980.
+
+
+=== Observação experimental ===
+Faltava, porém, uma evidência direta da existência do neutrino no laboratório. A dificuldade era que o neutrino interage muito fracamente com a matéria, e por isso era muito difícil de ser detectado.
+Essa limitação poderia ser superada se fosse usada uma fonte bastante intensa de neutrinos. Frederick Reines e Clyde Cowan tiveram a ideia de usar para isso um reator nuclear. Após uma tentativa pouco conclusiva em 1953 em Hantford, Washington, EUA (com o mesmo reator que produziu plutônio para a bomba atômica usada no fim da Segunda Guerra Mundial), eles finalmente alcançaram seu objetivo em 1956 com o reator do laboratório de Savannah River, na Carolina do Sul (que produzia um fluxo de 1013 antineutrinos atravessando cada centímetro quadrado a cada segundo).
+Usaram como detector um tanque de água com cloreto de cádmio. Alguns dos neutrinos que entravam no tanque interagiam com os prótons dos átomos, produzindo nêutrons e pósitrons (elétrons positivos). Os pósitrons aniquilavam-se com os elétrons dos átomos, produzindo raios gama. Já os nêutrons eram capturados pelos núcleos atômicos do cádmio, produzindo outros raios gama com frequências diferentes. Os espectros dos dois tipos de raios gama eram uma "assinatura" da presença do antineutrino ali.
+
+
+=== Os três sabores de neutrinos ===
+A partir dos anos 1950, descobriu-se que havia mais de um tipo, ou sabores, de neutrino. Algumas inconsistências nos decaimentos observados em partículas elementares levaram E. J. Mahmoud, H. M. Konopinski e Julian Schwinger a conjecturar sobre a existência de um segundo neutrino. O problema mais contundente era que o decaimento:
+
+  
+    
+      
+        μ
+        →
+        
+          e
+          
+            −
+          
+        
+        +
+        
+          
+            
+              ν
+              ¯
+            
+          
+        
+        +
+        ν
+      
+    
+    {\displaystyle \mu \to e^{-}+{\bar {\nu }}+\nu }
+  (muon → elétron + antineutrino + neutrino)era observado, mas não o decaimento:
+
+  
+    
+      
+        μ
+        →
+        
+          e
+          
+            −
+          
+        
+        +
+        γ
+      
+    
+    {\displaystyle \mu \to e^{-}+\gamma }
+  (muon → elétron + fóton)No entanto, como o neutrino e o antineutrino se aniquilavam formando dois fótons de raios gama, era incompreensível que a primeira ocorresse e a segunda não. Isso seria resolvido se o antineutrino não fosse a antipartícula daquele neutrino. Ou seja, se houvesse dois tipos de neutrinos e o decaimento do múon produzisse neutrino de um tipo e antineutrino de outro. Se assim fosse, os dois últimos não poderiam se aniquilar e o fóton jamais poderia surgir.
+Essa previsão foi confirmada em 1962 no laboratório de Brookhaven, nos EUA. O primeiro neutrino foi chamado neutrino do elétron e o segundo, neutrino do múon. Na verdade, sabe-se hoje que a reação é:
+
+  
+    
+      
+        
+          μ
+          
+            −
+          
+        
+        →
+        
+          e
+          
+            −
+          
+        
+        +
+        
+          
+            
+              
+                ν
+                ¯
+              
+            
+          
+          
+            e
+          
+        
+        +
+        
+          ν
+          
+            μ
+          
+        
+        ,
+         
+         
+         
+        
+          μ
+          
+            +
+          
+        
+        →
+        
+          e
+          
+            +
+          
+        
+        +
+        
+          ν
+          
+            e
+          
+        
+        +
+        
+          
+            
+              
+                ν
+                ¯
+              
+            
+          
+          
+            μ
+          
+        
+      
+    
+    {\displaystyle \mu ^{-}\to e^{-}+{\bar {\nu }}_{e}+\nu _{\mu },~~~\mu ^{+}\to e^{+}+\nu _{e}+{\bar {\nu }}_{\mu }}
+  (múon negativo → elétron + antineutrino do elétron + neutrino do múon);
+(múon positivo → pósitron + neutrino do elétron + antineutrino do múon).Os nomes dos dois neutrinos foram escolhidos porque o neutrino do elétron só participa de decaimentos em que o elétron aparece, enquanto o do múon só participa de decaimentos em que o múon aparece.
+Não era, porém, o fim da história. Em 1975, um novo lépton foi observado, o tau. Conjecturou-se imediatamente se existiria um neutrino do tau. Este foi observado finalmente em 2000, pela Colaboração DONUT, no Fermilab, nos EUA.
+
+
+=== O problema dos neutrinos solares e a massa dos neutrinos ===
+
+Desde o modelo pioneiro de Enrico Fermi, publicado em 1934, achava-se que a massa de repouso dos três tipos de neutrinos era zero. O modelo em si continha uma variável para a massa, mas a coincidência entre a previsão teórica do modelo e os dados experimentais era máxima quando o valor zero era dado a essa variável. O neutrino, então, conteria apenas energia cinética e viajaria na velocidade da luz (segundo a teoria da relatividade especial, partículas sem massa de repouso, como o fóton, devem necessariamente viajar na velocidade da luz).
+Isso mudou após a solução do chamado problema dos neutrinos solares. Os modelos físicos que descrevem a geração de energia do Sol eram bem sucedidos na comparação de suas previsões com as observações, exceto por um detalhe: os neutrinos observados vindos do Sol eram apenas um terço do que a teoria previa (uma discrepância conhecida desde o fim dos anos 1960). Diversas tentativas foram feitas para resolver essa discrepância.
+A hipótese que sobreviveu aos testes observacionais dizia que os três tipos de neutrinos podem transformar-se uns nos outros, proposta por Bruno Pontecorvo em 1968. Assim, parecia haver menos neutrinos porque os astrofísicos estavam observando neutrinos do elétron vindos do Sol, que era o que a teoria previa que o Sol produzia, mas no meio do caminho para a Terra parte deles se transformava em neutrinos do múon e do tau. Como a transformação é oscilante, o fenômeno foi chamado "oscilação de neutrinos" e foi observado diretamente em 1998 no observatório Superkamiokande, no Japão. O problema dos neutrinos solares foi finalmente resolvido em 2002, com observações do Observatório de Neutrinos de Sudbury (SNO), no Canadá, que mostraram que, levando-se em conta as oscilações, o número de neutrinos vindos do Sol coincide bem com as previsões teóricas.
+
+
+=== A massa não-nula ===
+A equação que descreve a oscilação dos neutrinos no tempo depende da diferença entre as massas dos três neutrinos. Se as massas dos três fosse nula, não haveria oscilação. Assim, a observação do Sudbury também implicou que os neutrinos tivessem massa. Os experimentos, porém, apenas indicam a diferença entre as massas dos três tipos de neutrino, não o valor das massas individuais. Indícios indiretos, porém, indicam que essas massas provavelmente são da ordem de poucos elétrons-volt ou frações de elétrons-volt. Isso é centenas de vezes menor que a massa de um elétron, de 0,511 MeV/c2.
+
+
+== Suposta observação de neutrinos mais velozes que a luz ==
+Antes que a ideia de oscilações de neutrinos surgisse, era comumente aceito que eles viajavam à velocidade da luz. A questão da velocidade do neutrino está intimamente relacionada à sua massa extremamente pequena, algumas centenas de milhares de vezes menores que a do elétron. De acordo com a teoria da relatividade, se os neutrinos têm massa, eles não podem alcançar a velocidade da luz.
+Em setembro de 2011, surgiram dados da Colaboração OPERA (cujo detector subterrâneo de neutrinos está em Gran Sasso, na Itália) que pareciam indicar a observação de neutrinos movendo-se a uma velocidade 0,00248% superior à da luz no vácuo. Resultados semelhantes já haviam sido publicados em 2007 por outra colaboração, a MINOS, no laboratório Fermilab, em Chicago, nos EUA, mas com índice de confiabilidade menor. Grande parte das declarações de cientistas na imprensa demonstrou ceticismo ou pelo menos cautela quanto aos resultados da OPERA. Os próprios pesquisadores que realizaram a medição dizem que os resultados são intrigantes e que devem ser analisados com cautela. O artigo original, inclusive, informa que serão necessários testes independentes para confirmar ou refutar a informação. No entanto, um seminário dos autores na Organização Europeia para a Investigação Nuclear (CERN), em Genebra, Suíça, dado diante de uma plateia de especialistas um dia depois da publicação de seu artigo no arXiv, pareceu convincente para boa parte da comunidade científica.
+
+
+=== As possibilidades de explicação ===
+Houve, porém, cientistas que buscaram explicar os resultados de outras formas. Tais tentativas podem ser classificadas em três grupos:
+Houve algum erro por parte dos autores da pesquisa;
+Os neutrinos realmente viajam mais rapidamente que a luz e isso significa uma violação da teoria da relatividade especial (inclusive, alguns teóricos já vêm dando os primeiros passos na busca de uma teoria alternativa à relatividade);
+Os neutrinos realmente viajam mais rapidamente que a luz, mas a teoria da relatividade não é violada.O último item demanda explicações. Ao contrário do que muitos imaginam, a existência de partículas com velocidades maiores que a da luz não é totalmente incompatível com a teoria da relatividade. Se for aceita a existência de outras dimensões espaciais além das três conhecidas, partículas que se deslocam pelas dimensões extras podem parecer mais velozes que a luz quando vistas por observadores restritos no espaço tridimensional. Alguns cientistas vêm explorando essa hipótese.Outra possibilidade de se compatibilizar a observação de neutrinos mais velozes que a luz com a relatividade especial seria considerar os neutrinos como táquions. Táquions são partículas que viajam sempre mais velozmente que a luz. Isto é compatível com a relatividade, pois o que ela proíbe é que a velocidade da luz seja ultrapassada. No entanto, essa hipótese parece não ser compatível com as observações dos neutrinos da supernova SN 1987a.Segundo informações mais recentes publicadas pelo grupo de pesquisadores responsáveis pela descoberta em seu sítio eletrônico, uma revisão dos procedimentos adotados no experimento que culminou com o artigo acerca das velocidades supraluminais dos neutrinos levantou dúvidas quanto à sincronização dos equipamentos nas duas localidades envolvidas. Aparelhos GPS não corretamente sincronizados seriam os vilões da história. Além desse problema técnico, há a suspeita de que o canal de fibra ótica que conecta o GPS externo ao relógio principal do OPERA poderia também não estar funcionando corretamente quando as medidas foram tomadas. Se confirmado, esses defeitos seriam os responsáveis por ter-se superestimado do tempo de voo dos neutrinos.Em 2012, o cientista Antonio Ereditato, porta-voz do experimento responsável por esta experiência, pediu demissão.
+
+
+== Referências ==
+
+
+== Bibliografia ==

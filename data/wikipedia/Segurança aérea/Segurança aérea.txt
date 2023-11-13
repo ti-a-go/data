@@ -1,0 +1,225 @@
+Segurança aérea é um conceito subjetivo, conhecido no meio aeronáutico como segurança de voo,  e é definido pela Organização de Aviação Civil Internacional - OACI como sendo o "estado no qual o risco de ferir pessoas ou causar danos em coisas se limita a, ou está mantido em ou abaixo de, um nível aceitável, através de um processo contínuo de identificação de perigos e gerenciamento de riscos" (Doc 9859/OACI).
+Na aviação civil, a segurança aérea é tratada sob cinco diferentes enfoques: aeronave (em termos de projeto de produto, de processo de fabricação e de manutenção), pessoal (pilotos, comissários de voo, mecânicos, despachantes operacionais, etc.), aeródromo (infra-estrutura do aeroporto), operação (condições mínimas para gestão organizacional da empresa, sob o enfoque da segurança) e navegação aérea (aerovias, controle de tráfego aéreo, cartas aeronáuticas, comunicações, etc.).
+Junta-se a estes cinco enfoques, um sexto elemento extremamente importante para o contínuo melhoramento dos índices de segurança, que é a investigação de acidentes. Este sexto elemento permite identificar deficiências e propor ações corretivas (as chamadas recomendações), para que um próximo evento semelhante não ocorra novamente.
+A segurança aérea depende de uma doutrina ou filosofia de trabalho, baseada em atitude pessoal preventiva e que leva em conta três elementos: o Homem, a Máquina e o Meio (Ambiente). Nenhum acidente aéreo ocorre devido a um único fator. Um acidente aéreo é resultado de diversos fatores contribuintes e é subseqüente a vários outros incidentes aéreos de mesma natureza, que já haviam acontecido, sem maiores conseqüências, e que não haviam sido tratados convenientemente através de ações corretivas.
+A segurança aérea é multidisciplinar e é composta por diversas especialidades profissionais aplicadas à aviação. O objetivo principal é evitar ocorrências ou re-ocorrências de um incidente ou de um acidente através do estudo sistemático destes acidentes aéreos ou incidentes aéreos, com o objetivo de prevenir futuras ocorrências.
+
+
+== Estatísticas ==
+
+
+=== Evolução ===
+Em 1926 e 1927 houve um total de 24 acidentes fatais com voos comerciais de linha aérea, com mais 16 em 1928 e 51 em 1929 (mtando 61 pessoas), sendo este o pior ano na história em relação ao número de acidentes a cada 1.600.000 km (1.000.000) milhas voadas. Com base nos números de voos atuais, isto seria equivalente a 7 mil acidentes fatais a cada ano.
+
+Durante o período de 10 anos entre 2002 e 2011, 0.6 acidente fatal ocorreu a cada um milhão de voos ao redor do mundo, 0.4 ocorreu a cada um milhão de horas voadas, 22.00 fatalidades a cada um milhão de voos e 12.7 fatalidades a cada um milhão de horas de voo.Dos 310 milhões de passageiros em 1970, o transporte aéreo cresceu para 3,696 bilhões em 2016, liderado por 823 milhões nos Estados Unidos e 488 milhões na China. Em 2016, houve 19 acidentes fatais de aviões civil com mais de 14 passageiros, resultando em 325 mortes: o segundo ano mais seguro de sempre após 2015 com 16 acidentes e 2013 com 265 fatalidades. Para aviões com peso superior a 5.7 t, houve 34,9 milhões de decolagens e 75 acidentes em todo o mundo, sendo 7 deles fatais, com 182 fatalidades, a menor quantidade desde 2013 (5,21 fatalidades a cada um milhão de decolagens).Em 2017, houve 10 acidentes fatais com voos de linha aérea, resultando em 44 fatalidades de ocupantes e 35 fatalidades de pessoas no solo: o ano mais seguro de todos os tempos para a aviação comercial, tanto pelo número de acidentes fatais quanto por mortes. Em 2018, os acidentes fatais por milhão de voos diminuíram 16 vezes desde 1970, de 6,35 para 0,39, e as mortes por trilhão de passageiros-quilômetro (RPK) diminuíram 54 vezes, de 3.218 para 59.
+
+
+=== Tipologia ===
+A segurança das pistas de pouso representa 36% dos acidentes. A segurança no solo representa 18% e a perda de controle em voo representa 16%.A segurança melhorou com o melhor processo de design de aeronaves, engenharia e manutenção, a evolução dos auxílios à navegação, protocolos e procedimentos de segurança.
+
+
+=== Comparação entre modos de transporte ===
+Existem três maneiras principais pelas quais o risco de fatalidade de um determinado modo de transporte pode ser medido: mortes por bilhão de viagens típicas realizadas, mortes por bilhão de horas viajadas ou mortes por bilhão de quilômetros percorridos. A tabela a seguir exibe essas estatísticas para o Reino Unido, entre 1990 e 2000. Observe que a segurança aérea não inclui o transporte até o aeroporto.
+
+As duas primeiras estatísticas são calculadas para viagens típicas para os respectivos modos de transporte, portanto, elas não podem ser usadas diretamente para comparar riscos relacionados a diferentes modos de transporte em uma viagem específica "de A para B". Por exemplo: de acordo com as estatísticas, um voo típico de Los Angeles para Nova Iorque terá um fator de risco maior do que uma viagem típica de carro de casa para escritório. Mas uma viagem de carro de Los Angeles a Nova York não seria típica. Seria tão grande quanto várias dezenas de viagens de carro típicas, e o risco associado também será maior. Como a viagem levaria muito mais tempo, o risco geral associado a essa viagem de carro será maior do que a mesma via aérea, mesmo que cada hora individual de viagem possa ser menos arriscada do que uma hora de voo.
+Portanto, é importante usar cada estatística em um contexto adequado. Quando se trata de uma pergunta sobre os riscos associados a uma viagem de longo alcance específica de uma cidade para outra, a estatística mais adequada é a terceira, fornecendo uma razão para nomear as viagens aéreas como a forma mais segura de transporte de longo alcance. No entanto, se a disponibilidade de uma opção aérea possibilitar uma viagem que, de outra forma, seria inconveniente, esse argumento perde parte de sua força.
+As seguradoras do setor de aviação baseiam seus cálculos nas estatísticas de mortes por viagem, enquanto a própria indústria da aviação geralmente usa as estatísticas de mortes por quilômetro em comunicados de imprensa.Desde 1997, o número de acidentes aéreos fatais não passou de 1 para cada 2.000.000.000 de pessoas-milhas voadas (por exemplo, 100 pessoas viajando de avião por 1.000 km) contam como 100.000 pessoas-km, tornando-o comparável com métodos de transporte com diferentes números de passageiros, como uma pessoa dirigindo um automóvel por 100.000 km, que também é 100.000 pessoas-km) e, portanto, um dos modos de transporte mais seguros quando medido pela distância percorrida.
+A morte a cada bilhão de horas no skydiving assume uma queda de 6 minutos (sem levar em conta a subida do avião). A morte por bilhão de viagens no paragliding assume um voo médio de 15 minutos, portanto, 4 voos por hora.
+
+
+=== Estados Unidos ===
+Entre 1990 e 2015, houve 1874 acidentes de voos curtos e de táxi aéreo nos EUA, dos quais 454 (24%) foram fatais, resultando em 1296 mortes, incluindo 674 acidentes (36%) e 279 fatalidades (22%) somente no Alasca.O número de mortes por milha-passageiro em companhias aéreas comerciais nos Estados Unidos entre 2000 e 2010 foi de cerca de 0,2 mortes por 10 bilhões de milhas-passageiros. Para dirigir, a taxa era de 150 por 10 bilhões de milhas-veículo em 2000: 750 vezes mais por milha do que em um avião comercial.
+Não houve mortes em grandes companhias aéreas comerciais de voos regulares nos Estados Unidos por mais de nove anos, entre o acidente do voo Colgan Air 3407, em fevereiro de 2009, e uma falha catastrófica no motor do voo 1380, da Southwest Airlines, em abril de 2018.
+
+
+=== Segurança ===
+Outro aspecto da segurança é a proteção contra danos intencionais ou danos materiais, também conhecidos como segurança.
+Os ataques terroristas de 2001 não são contados como acidentes. No entanto, mesmo que fossem contados como acidentes, teriam acrescentado cerca de 2 mortes por 2.000.000.000 de milhas-pessoas. Dois meses depois, o voo 587 da American Airlines caiu na cidade de Nova York, matando 256 pessoas, incluindo cinco no solo, fazendo com que 2001 mostrasse uma taxa de mortalidade muito alta. Mesmo assim, a taxa naquele ano, incluindo os ataques (estimados aqui em cerca de 4 mortes por 1.000.000.000 de milhas-pessoas), é segura em comparação com algumas outras formas de transporte quando medida pela distância percorrida.
+
+
+== História ==
+
+
+=== Antes da Segunda Guerra Mundial ===
+O primeiro sistema aviônico elétrico ou eletrônico de aeronave foi o piloto automático de Lawrence Sperry, demonstrado em junho de 1914. A cadeia de faróis do Sistema Transcontinental de Vias Aéreas foi construída pelo Departamento de Comércio em 1923, para orientar os voos por via aérea. Os girocópteros foram desenvolvidos por Juan de la Cierva para evitar acidentes de estol e rotação, e para isso inventaram os controles cíclicos e coletivos usados nos helicópteros. Ele voou pela primeira vez em 17 de janeiro de 1923.
+Durante a década de 1920, foram aprovadas as primeiras leis nos EUA para regulamentar a aviação civil, notadamente a Lei do Comércio Aéreo, de 1926, que exigia que pilotos e aeronaves fossem examinados e licenciados, para que acidentes fossem investigados adequadamente e para o estabelecimento de regras de segurança auxílios à navegação, no Departamento de Aeronáutica do Departamento de Comércio dos Estados Unidos.
+Um dos primeiro auxílios à navegação aérea a ser introduzido nos EUA no final da década de 1920 foi o balizamento de aeródromo, para ajudar os pilotos a pousar em clima ruim ou depois do anoitecer. O indicador do trajetória de aproximação de precisão foi desenvolvido a partir disso na década de 1930, indicando ao piloto o ângulo de descida para o campo de pouso. Mais tarde, isso foi adotado internacionalmente através dos padrões da Organização da Aviação Civil Internacional (OACI).
+Jimmy Doolittle desenvolveu a licença para voo por instrumentos e fez seu primeiro voo "cego" em setembro de 1929. A falha nas asas de madeira de um F-10 da Transcontinental & Western Air Fokker, em março de 1931, que transportava Knute Rockne, treinador do time de futebol da Universidade de Notre Dame, reforçou a utilização de estruturas de metal e levou a um sistema mais formal de investigação de acidentes. Em 4 de setembro de 1933, um voo de teste Douglas DC-1 foi realizado com um dos dois motores desligados durante a corrida de decolagem, subiu para 2.400 m (8.000 pés) e completou seu voo, comprovando a segurança de motores de aeronaves bimotores. Os auxílios à navegação por rádio foram usados ​​pela primeira vez na década de 1930, como as estações australianas da Aeradio, que guiavam voos de transporte, com um farol de luz e um transmissor de feixe Lorenz modificado (o equipamento alemão de pouso cego que precede o moderno sistema de pouso por instrumentos - ILS). O ILS foi usado pela primeira vez por um voo programado para pousar em uma tempestade de neve em Pittsburgh, Pensilvânia, em 1938, e uma forma de ILS foi adotada pela OACI para uso internacional em 1949.
+
+
+=== Segunda Guerra Mundial e além ===
+Pistas de pouso foram construídas em todo o mundo para a Segunda Guerra Mundial, a fim de evitar ondas e perigos flutuantes que assolam os hidroaviões. Desenvolvido pelos EUA e introduzido durante a Segunda Guerra Mundial, o LORAN substituiu a bússola e a navegação celestial menos confiáveis ​​dos marinheiros sobre a água e sobreviveu até ser substituído pelo Sistema de Posicionamento Global.
+Após o desenvolvimento do Radar na Segunda Guerra Mundial, ele foi implantado como um auxílio ao pouso para a aviação civil na forma de sistemas de controle de aproximação de pouso (GCA) e depois como radar de vigilância aeroportuária como um auxílio ao controle de tráfego aéreo na década de 1950. Vários sistemas de radar meteorológico terrestres podem detectar áreas de turbulência severa. Um moderno sistema climático Honeywell Intuvue visualiza padrões climáticos a até 480 km de distância.
+O equipamento de medição de distância (DME), em 1948, e as estações VHF de alcance omnidirecional (VOR) tornaram-se os principais meios de navegação de rota durante a década de 1960, substituindo as faixas de rádio de baixa frequência e o radiofarol não direcional (NDB): as estações VOR em terra eram frequentemente co-localizadas com transmissores DME e os pilotos poderiam estabelecer seu rumo e distância até a estação.
+Com a chegada do Wide Area Augmentation System (WAAS), a navegação por satélite tornou-se precisa o suficiente com a altitude, bem como a posição geográfica, e está sendo usada cada vez mais utilizada para aproximações por instrumentos e navegação em rota. No entanto, como a constelação satelital é dependente do sistema GPS, o Sistema de navegação inercial (INS) a bordo ou os auxílios à navegação em terra ainda são necessários para redundância.
+A Rockwell Collins relata que custa mais certificar do que desenvolver um sistema, com 75% de engenharia e 25% de certificação nos últimos anos. Ele exige uma harmonização global entre as autoridades de certificação para evitar testes redundantes, em vez de reconhecer a aprovação e a validação das demais.A restrição de decolagem de classes inteiras de aeronaves devido a preocupações com a segurança de equipamentos é incomum, mas isso ocorreu com o de Havilland Comet, em 1954, após vários acidentes devido a fadiga de metal e falha da fuselagem, o McDonnell Douglas DC-10, em 1979, após o acidente do voo 191 da American Airlines, devido à perda de motor, o Boeing 787 Dreamliner, em 2013, após problemas com a bateria, e o Boeing 737 MAX, em 2019, depois de dois acidentes ligados preliminarmente a um sistema de controle de voo.
+
+
+== Riscos que afetam a segurança da aviação ==
+
+
+=== Danos por objeto estranho (F.O.D) ===
+Danos por objetos estranhos (Do inglês, Foreign Object Debris - FOD) incluem itens deixados na estrutura da aeronave durante a fabricação/reparos, detritos na pista e partículas sólidas encontradas em voo (como, por exemplo, granizo e poeira). Esses itens podem danificar os motores e outras partes da aeronave. O voo 4590 da Air France caiu depois de atingir uma peça que havia caído de outra aeronave.
+
+
+=== Informações enganosas e falta de conhecimento ===
+Um piloto desinformado sobre um documento impresso (manual, mapa etc.), reagindo a um instrumento ou indicador com defeito (na cabine de comando ou no solo), ou seguindo instruções ou informações imprecisas dos controladores de tráfego aéreo, tanto em voo quanto no solo, pode perder a orientação espacial ou cometer outro erro e, consequentemente, levar a acidentes ou quase acidentes.
+
+
+=== Raios ===
+Estudos da Boeing mostram que os aviões são atingidos por raios duas vezes por ano, em média; aeronaves resistem a descargas atmosféricas típicas sem danos.
+Os perigos de um raio positivo mais poderoso não foram compreendidos até a destruição de um planador em 1999. Desde então, sugeriu-se que um raio positivo poderia ter causado o acidente do voo 214 da Pan Am, em 1963. Naquela época, as aeronaves não eram projetadas para suportar tais raios, porque sua existência era desconhecida. O padrão em vigor nos EUA no momento do acidente de planador, em 1985, a Circular AC 20-53A, foi substituída pela Circular AC 20-53B em 2006. No entanto, não está claro se a proteção adequada contra raios positivos foi incorporada.Os efeitos de um raio típico em aeronaves tradicionais cobertas de metal são bem compreendidos e os danos sérios causados ​​por um raio em um avião são raros. O Boeing 787 Dreamliner, do qual o exterior é de polímero reforçado com fibra de carbono, não recebeu nenhum dano causado por um raio durante um determinado teste.
+
+
+=== Gelo e neve ===
+Gelo e neve podem ser  importantes fatores em acidentes aéreos. Em 2005, o voo 1248 da Southwest Airlines escorregou para fora da pista depois de pousar em condições de forte neve, matando uma criança no solo.
+Mesmo uma pequena quantidade de gelo ou geada grossa pode prejudicar bastante a capacidade de uma asa desenvolver sustentação adequada, e é por isso que os regulamentos proíbem gelo, neve ou até geada nas asas ou na cauda, ​​antes da decolagem. O voo 90 da Air Florida caiu na decolagem, em 1982, como resultado de gelo/neve nas asas.
+Um acúmulo de gelo durante o voo pode ser catastrófico, como evidenciado pela perda de controle e quedas subsequentes dos voos 4184 da American Eagle, em 1994, e do voo 3272 da Comair, em 1997. Ambas as aeronaves eram turboélice, com asas retas, que tendem a ser mais suscetíveis ao acúmulo de gelo em voo do que os aviões a jato de asa enflechada utilizados pelas empresas de linha aérea.
+As companhias aéreas e os aeroportos garantem que as aeronaves sejam descongeladas adequadamente antes da decolagem, sempre que o clima envolver condições de gelo. Os aviões modernos são projetados para evitar o acúmulo de gelo nas asas, motores e caudas (empenagem), direcionando o ar aquecido dos motores a jato pelos bordos de ataque da asa, ou em aeronaves mais lentas, usando botas infláveis de borracha, que se expandem para quebrar o gelo acumulado.
+É exigido das companhias aéreas que seus escritórios de despacho monitorem o progresso do clima nas rotas de seus voos, ajudando os pilotos a evitar condições de formação de gelo em voo. Os tubos de Pitot em aviões e helicópteros modernos possuem a função de "Aquecimento de Pitot" para evitar acidentes como o voo 447 da Air France, causado pelo congelamento do tubo pitot e por leituras falsas.
+
+
+=== Tesoura de vento ou microburst ===
+Uma tesoura de vento é uma mudança na velocidade e/ou direção do vento em uma distância relativamente curta na atmosfera. Um microburst é uma coluna localizada de ar que desce e cai em uma tempestade. Ambas são ameaças potenciais da meteorologia que podem causar um acidente aeronáutico.
+
+Um forte fluxo de ar proveniente das tempestades causa mudanças rápidas na velocidade tridimensional do vento, logo acima do nível do solo. Inicialmente, essa vazão causa um vento de popa, que aumenta a velocidade do ar, o que normalmente faz com que um piloto reduza a potência do motor se não tiver conhecimento da tesoura de vento. À medida que a aeronave passa para a região da rajada descendente, o vento localizado diminui, reduzindo a velocidade da aeronave e aumentando sua razão de descida. Então, quando a aeronave passa para o outro lado da rajada descendente de vento, o vento se torna um vento de cauda, ​​reduzindo a sustentação gerada pelas asas e deixando a aeronave em uma descida de baixa potência e baixa velocidade. Isso pode levar a um acidente se a aeronave estiver muito baixa para efetuar uma recuperação antes do contato com o solo. Entre 1964 e 1985, a tesoura de vento causou ou contribuiu diretamente para 26 grandes acidentes com aeronaves de transporte civil nos EUA, que causaram 620 mortes e 200 feridos.
+
+
+=== Falha no motor ===
+Um motor pode falhar devido a falha no sistema de alimentação de combustível (como, por exemplo, no voo 38 da British Airways), falta de combustível (como, por exemplo, no voo 143 da Air Canada), danos a objetos estranhos (como, por exemplo, no voo 1549 da US Airways), falha mecânica devido a fadiga do metal (como, por exemplo, no desastre aéreo de Kegworth, no voo El Al 1862 e no voo 358 da China Airlines), falha mecânica devido a manutenção inadequada (como no voo 191 da American Airlines), falha mecânica causada por um defeito de fabricação original no motor (como no voo 32 da Qantas, no voo 232 da United Airlines e no voo Delta Air Lines 1288) e erro do piloto (como, por exemplo, no voo 3701 da Pinnacle Airlines).
+Em uma aeronave multimotora, a falha de um único motor geralmente resulta em uma aterrissagem preventiva, como, por exemplo, aterrissando em um aeroporto de alternativa em vez de continuar no destino pretendido. A falha de um segundo motor (como, por exemplo, no voo 1549 da US Airways) ou danos a outros sistemas da aeronave causados ​​por uma falha incontrolável no motor (como, por exemplo, no voo 232 da United Airlines) podem, se não for possível um pouso de emergência, resultar no acidente da aeronave.
+
+
+=== Falha estrutural da aeronave ===
+Exemplos de falhas nas estruturas de aeronaves causadas por fadiga de metais incluem os acidentes com o Havilland Comet (década de 1950) e o voo 243 da Aloha Airlines (1988). Procedimentos de reparo inadequados também podem causar falhas estruturais, como o voo 123 da Japan Airlines (1985) e o voo 611 da China Airlines (2002). Agora que o assunto é melhor compreendido, procedimentos rigorosos de inspeção e teste não destrutivo são utilizados.
+Os materiais compósitos consistem em camadas de fibras incorporadas em uma matriz de resina. Em alguns casos, especialmente quando sujeitos a estresse cíclico, as camadas do material se separam (delaminam) e perdem força. À medida que a falha se desenvolve dentro do material, nada é mostrado na superfície; métodos de instrumentos (geralmente baseados em ultrassom) devem ser usados para detectar uma falha desse material. Na década de 1940, vários Yakovlev Yak-9 sofreram a desaminação do compensado em sua construção.
+
+
+=== Estol ===
+Estolar uma aeronave (aumentar o ângulo de ataque a um ponto em que as asas não produzem sustentação suficiente) é perigoso e pode resultar em um acidente se o piloto falhar em fazer uma correção oportuna.
+Os dispositivos para avisar o piloto quando a velocidade da aeronave está diminuindo perto da velocidade de estol incluem buzinas de aviso de estol (agora padrão em praticamente todas as aeronaves), vibradores de manche e avisos de voz. A maioria dos estóis resultam do piloto permitir que a velocidade seja muito lenta para o peso e a configuração específicos da aeronave para um determinado momento. A velocidade de estol é maior quando o gelo ou a geada estão presos nas asas e/ou no estabilizador de cauda. Quanto mais severa a formação de gelo, maior a velocidade de estol, não apenas porque o fluxo de ar suave sobre as asas se torna cada vez mais turbulento, mas também devido ao peso adicional do gelo acumulado.
+Os acidentes causados ​​por estol completo dos aerofólios incluem:
+
+Voo British European Airways 548 (1972)
+Voo United Airlines 553 (1972)
+Voo Aeroflot 7425 (1985)
+Voo Arrow Air 1285 (1985)
+Voo Northwest Airlines 255 (1987)
+O acidente do senador norte americano Paul Wellstone (2002)
+Voo Continental Airlines 3407 (2009)
+Voo Turkish Airlines 1951 (2009)
+Voo Air France 447 (2009)
+
+
+=== Fogo ===
+Regulamentos de segurança controlam os materiais das aeronaves e os requisitos para sistemas automatizados de segurança contra incêndio. Geralmente esses requisitos assumem a forma de testes necessários. Os testes medem a inflamabilidade dos materiais e a toxicidade do fumo.
+O fogo e sua fumaça tóxica foram causa de acidentes aeronáuticos. Um incêndio elétrico no voo 797 da Air Canada, em 1983, causou a morte de 23 dos 46 passageiros, resultando na introdução de iluminação no nível do piso para ajudar as pessoas a evacuar uma aeronave cheia de fumaça. Em 1985, um incêndio na pista causou a perda de 55 vidas, 48 ​​pelos efeitos de gases tóxicos e fumaça incapacitantes e subsequentemente letais no acidente do voo britânico Airtours 28M, que levantou sérias preocupações relacionadas à capacidade de sobrevivência - algo que ainda não havia sido estudado com tanto detalhe. A rápida incursão do fogo na fuselagem e o layout da aeronave prejudicaram a capacidade de evacuação dos passageiros, com áreas como a área da galera da frente se tornando um gargalo para a fuga de passageiros, com algumas morrendo muito perto das saídas. Muitas pesquisas sobre a evacuação, design de cabine e assentos foram realizadas no Instituto Cranfield para tentar medir o que é necessário para se ter uma boa rota de evacuação, o que levou a uma alteração obrigatória no layout dos assentos das saídas de emergência sobre as asas e estudo sobre os requisitos de evacuação relacionados às portas principais. O uso de capuzes de fumaça ou sistemas de nebulização também foi examinado, embora ambos tenham sido rejeitados.
+O voo 295 da South African Airways foi perdido no Oceano Índico em 1987, depois que um incêndio em voo no compartimento de carga não pôde ser suprimido pela tripulação. Os porões de carga da maioria dos aviões agora estão equipados com sistemas automáticos de extinção de incêndio com halon para combater um incêndio que possa ocorrer dentro dos porões de bagagem. Em maio de 1996, o voo 592 da ValuJet colidiu com o Everglades da Flórida alguns minutos após a decolagem por causa de um incêndio no compartimento de carga dianteiro. Todas as 110 pessoas a bordo faleceram.
+Ao mesmo tempo, caminhos de espuma de combate a incêndio foram utilizados antes de um pouso de emergência, mas a prática foi considerada apenas marginalmente eficaz, e as preocupações com o esgotamento da capacidade de combate a incêndio devido à pré-formação de espuma levaram a FAA a retirar sua recomendação em 1987.
+Uma possível causa de incêndios em aviões são os problemas de fiação que envolvem falhas intermitentes, como fios com isolamento rompido que se tocam, água pingando neles ou curtos-circuitos. Notável foi o voo 111 da Swissair em 1998, devido a um arco na fiação do IFE que provocou faíscas no filme metálico de revestimento. Isso é difícil de detectar quando a aeronave está no solo. No entanto, existem métodos, como a refletometria no domínio do tempo de espectro de espalhamento, que podem testar de forma viável fios energizados em aeronaves durante o voo.
+
+
+=== Colisão com pássaro ===
+Colisão com pássaro é um termo na aviação para uma colisão entre um pássaro e uma aeronave. Acidentes fatais foram causados ​​tanto pela falha do motor após a ingestão de aves quanto pela queda do pára-brisas da cabine de comando.
+Os motores a jato devem ser projetados para suportar a ingestão de aves com peso e número especificados e não perder mais do que uma quantidade especificada de empuxo. O peso e o número de aves que podem ser ingeridas sem prejudicar o voo seguro da aeronave estão relacionados à área de admissão do motor. Os riscos da ingestão de aves além do limite "de projeto" foram mostrados no voo 1549 da US Airways, quando a aeronave atingiu gansos do Canadá.
+O resultado de um evento de ingestão e se causa um acidente, seja em um pequeno avião rápido, como caças militares ou em uma aeronave grande de transporte de passageiros, depende do número e peso dos pássaros e onde eles atingem na extensão da lâmina do fan ou cone do nariz. Os danos no núcleo do motor geralmente resultam de impactos próximos à raiz do fan ou no cone do nariz.
+O maior risco de um ataque de pássaros ocorre durante a decolagem e o pouso, nas proximidades dos aeroportos e durante voos de baixo nível, como, por exemplo, por aviões militares e helicópteros. Alguns aeroportos usam contra medidas ativas, incluindo uma pessoa com uma espingarda, tocando sons gravados de predadores através de alto-falantes ou empregando falcoeiros. É possível plantar grama venenosa que não seja agradável aos pássaros, nem aos insetos que atraem pássaros insetívoros. As contra medidas passivas envolvem um manejo sensato, evitando condições que atraem bandos de pássaros para a área (como, por exemplo, aterros sanitários). Outra tática considerada eficaz é deixar a grama no aeródromo crescer mais alto (para aproximadamente 30 cm), pois algumas espécies de pássaros não pousarão se não puderem se ver.
+
+
+=== Fatores humanos ===
+Muito progresso na aplicação da análise de fatores humanos para melhorar a segurança da aviação foi realizado na época da Segunda Guerra Mundial por pioneiros como Paul Fitts e Alphonse Chapanis. No entanto, houve progresso em segurança ao longo de toda a história da aviação, como o desenvolvimento da lista de verificação do piloto em 1937. O CRM, ou Crew Resource Management, é uma técnica que utiliza a experiência e o conhecimento de toda a tripulação de voo para evitar a dependência de apenas um membro da tripulação.
+O erro do piloto e a comunicação inadequada geralmente são fatores na colisão de aeronaves. Isso pode ocorrer no ar (como no voo 182 da Pacific Southwest Airlines, em 1978) ou no solo (desastre de Tenerife, em 1977). As barreiras à comunicação eficaz têm fatores internos e externos. A capacidade da tripulação de voo de manter a consciência situacional elevada é um fator humano crítico na segurança aérea. O treinamento sobre fatores humanos está disponível para os pilotos da aviação geral e é chamado treinamento de gerenciamento de recursos de piloto único.
+A falha dos pilotos em monitorar adequadamente os instrumentos de voo causou o acidente do voo 401 da Eastern Air Lines, em 1972. A colisão com o solo em voo controlado (CFIT) e os erros durante a decolagem e aterrissagem podem ter consequências catastróficas, como, por exemplo, causando o acidente do voo 191 da Prinair durante o pouso, também em 1972.
+
+
+==== Fadiga do piloto ====
+A Organização da Aviação Civil Internacional (OACI) define fadiga como "um estado fisiológico de capacidade reduzida de desempenho mental ou físico resultante de perda de sono ou vigília prolongada, fase circadiana ou carga de trabalho". Este fenômeno coloca um grande risco para a tripulação e os passageiros de um avião, porque aumenta significativamente a chance de erro do piloto. A fadiga é particularmente prevalente entre os pilotos por causa das "horas de trabalho imprevisíveis, longos períodos de serviço, interrupção circadiana e sono insuficiente". Esses fatores podem ocorrer juntos, produzindo uma combinação de privação do sono e efeitos no ciclo circadiano. Os órgãos reguladores tentam mitigar a fadiga limitando o número de horas que os pilotos podem voar por períodos variados.
+
+
+==== Pilotagem enquanto intoxicado ====
+Em ocasiões raras, membros da tripulação são presos ou sujeitos a ações disciplinares por estarem intoxicados no trabalho. Em 1990, três tripulantes da Northwest Airlines foram condenados à prisão por voarem bêbados. Em 2001, a Northwest demitiu um piloto que falhou em um teste de bafômetro após um voo. Em julho de 2002, os dois pilotos do voo 556 da America West Airlines foram presos pouco antes do horário programado para voar porque estavam bebendo álcool. Os pilotos foram demitidos e a FAA revogou suas licenças de piloto. Pelo menos um acidente de avião fatal envolvendo pilotos bêbados ocorreu, quando o voo 311 da Aero caiu em Koivulahti, na Finlândia, matando todos os 25 a bordo, em 1961, o que ressalta o papel de más escolhas humanas em acidentes aéreos.
+
+
+==== Outros fatores humanos ====
+Incidentes com fatores humanos não se limitam a erros dos pilotos. A falha em fechar adequadamente uma porta do compartimento de carga no voo 981 da Turkish Airlines causou a perda da aeronave - no entanto, o design da trava da porta também foi um fator importante no acidente. No caso do voo 123 da Japan Airlines, em 1985, o reparo inadequado de danos anteriores levou à descompressão explosiva da cabine, que destruiu o estabilizador vertical e danificou todos os quatro sistemas hidráulicos que acionavam os controles de voo.
+
+
+==== Colisão com o solo em voo controlado ====
+Colisão com o solo em voo controlado (CFIT) é uma classe de acidentes em que uma aeronave é levada sob controle para terrenos ou estruturas artificiais. Os acidentes com CFIT normalmente resultam de erro do piloto ou de erro do sistema de navegação. Em dezembro de 1995, o voo 965 da American Airlines saiu do curso ao se aproximar de Cáli, na Colômbia, e atingiu uma montanha, apesar de um aviso de terreno no sistema de alerta de terreno (TAWS) na cabine de comando e na tentativa desesperada de piloto de ganhar altitude após o aviso. A conscientização da posição da tripulação e o monitoramento dos sistemas de navegação são essenciais para a prevenção de acidentes do tipo CFIT. Em fevereiro de 2008, mais de 40.000 aeronaves haviam instalado o TAWS e voaram mais de 800 milhões de horas sem um acidente de CFIT.Outra ferramenta anti-CFIT é o sistema de Alerta de Altitude Mínima de Segurança (MSAW), que monitora as altitudes transmitidas pelos transponders das aeronaves e compara com as altitudes mínimas de segurança para uma determinada área. Quando o sistema determina que a aeronave está mais baixa ou pode em breve estar menor do que a altitude mínima de segurança, o controlador de tráfego aéreo recebe um aviso visual e acústico e alerta o piloto que a aeronave está muito baixa.
+
+
+==== Interferência eletromagnética ====
+O uso de certos equipamentos eletrônicos é parcial ou totalmente proibido, pois pode interferir na operação da aeronave. O uso de alguns tipos de dispositivos eletrônicos pessoais é proibido quando uma aeronave está abaixo de 10.000 pés (3.000 m), decolando ou aterrissando.
+
+
+=== Danos em solo ===
+Vários equipamentos de apoio em solo operam próximos à fuselagem e asas para atender as aeronaves e, ocasionalmente, causam danos acidentais na forma de arranhões na pintura ou pequenos amassados ​​externos. No entanto, como as estruturas da aeronave (incluindo o revestimento externo) desempenham um papel tão crítico na operação segura de um voo, todos os danos são inspecionados, medidos e possivelmente testados para garantir que qualquer dano esteja dentro das tolerâncias de segurança.
+Um exemplo desse problema foi o incidente de despressurização no voo 536 da Alaska Airlines, em 2005. Durante os serviços de solo, um carregador de bagagem bateu na lateral da aeronave com um veículo que rebocava um trem de carrinhos de bagagem. Isso danificou a parte externa de metal da aeronave. Este dano não foi reportado e o avião decolou. Ao cruzar 26.000 pés (7.900 m) em subida, a seção danificada do revestimento cedeu com a diferença de pressão entre o interior da aeronave e o ar externo. A cabine foi despressurizada de forma explosiva, necessitando de uma descida rápida para um ar mais denso (respirável) e um pouso de emergência. O exame pós-pouso da fuselagem revelou um orifício de 12 polegadas (30 cm) no lado direito do avião.
+
+
+=== Cinzas vulcânicas ===
+Plumas de cinzas vulcânicas perto de vulcões ativos podem danificar hélices, motores e janelas da cabine. Em 1982, o voo 9 da British Airways atravessou uma nuvem de cinzas e perdeu temporariamente a potência de todos os quatro motores. O avião foi seriamente danificado, com todos os bordos de ataque arranhados. Os para-brisas dianteiros foram tão danificados pelas cinzas que não puderam ser usados para pousar a aeronave.
+Antes de 2010, a abordagem geral adotada pelas agências reguladoras era que, se a concentração de cinzas subisse acima de zero, o espaço aéreo era considerado inseguro e, consequentemente, fechado. Os Centros Consultivos de Cinzas Vulcânicas permitem a ligação entre meteorologistas, vulcanologistas e a indústria da aviação.
+
+
+=== Segurança de Pista ===
+Os tipos de incidentes de segurança de pista incluem:
+
+Excursão de pista (do inglês: runway excursion) – um incidente envolvendo apenas uma única aeronave fazendo uma saída inadequada da pista.Ultrapassagem da pista (do inglês: runway overrun) – um tipo específico de excursão em que a aeronave não para antes do final da pista (como, por exemplo, o voo 358 da Air France).Incursão na pista (do inglês: runway incursion) – presença incorreta de um veículo, pessoa ou outra aeronave na pista (como, por exemplo, o desastre no aeroporto de Tenerife).Confusão de pista - erro da tripulação na identificação da pista para pouso ou decolagem (como, por exemplo, o voo 191 da Comair e o voo 6 da Singapore Airlines).
+
+
+=== Terrorismo ===
+Desde os ataques de 11 de setembro de 2001, medidas mais rígidas de segurança nos aeroportos e nas companhias aéreas entraram em vigor para prevenir terrorismo, como pontos de controle de segurança e travamento das portas da cabine durante o voo.
+Nos Estados Unidos, o programa de Oficial Federal de Cabine é administrado pelo Federal Air Marshal Service, com o objetivo de treinar pilotos de linha aérea ativos e licenciados para portar armas e defender suas aeronaves contra atividades criminosas e terrorismo. Após a conclusão do treinamento do governo, os pilotos selecionados entram em um serviço secreto de aplicação da lei e de combate ao terrorismo. Sua jurisdição é normalmente limitada a uma cabine de comando ou cabine de um avião comercial ou de uma aeronave de carga que operam durante seus serviços.
+
+
+=== Ações militares ===
+Aviões de passageiros raramente foram atacados em tempos de paz e guerra. Exemplos:
+
+Em 1955, a Bulgária derrubou o voo 402 da El Al.
+Em 1973, Israel derrubou o voo 114 da Libyan Arab Airlines.
+Em 1983, a União Soviética derrubou o voo 007 da Korean Air Lines.
+Em 1988, os Estados Unidos derrubaram o voo 655 da Iran Air.
+Em 2001, a Força Aérea Ucraniana acidentalmente derrubou o voo 1812 da Siberia Airlines durante um exercício.
+Em 2014, um rebelde da Ucrânia - armado com o sistema de mísseis Buk das Forças de Defesa Aeroespaciais da Rússia - derrubou o voo 17 da Malaysia Airlines. [58]
+Em 2020, o Irã derrubou o voo 752 da Ukraine International Airlines.
+
+
+== Sobrevivência a acidentes ==
+As investigações de tragédias anteriores e a engenharia aprimorada levaram a muitas melhorias na segurança que permitiram uma aviação cada vez mais segura.
+
+
+=== Projeto de aeroportos ===
+O projeto e a localização do aeroporto podem ter um grande impacto na segurança da aviação, especialmente porque alguns aeroportos, como o Aeroporto Internacional Midway, em Chicago, foram originalmente construídos para aviões a hélice e muitos aeroportos estão em áreas densamente povoadas, onde é difícil atender aos novos padrões de segurança. Por exemplo, a FAA emitiu regras em 1999 exigindo uma área de segurança de pista, geralmente estendendo-se por 500 pés (150 m) para cada lado e 1.000 pés (300 m) além do final de uma pista. O objetivo é cobrir noventa por cento dos casos de uma aeronave passando dos limites a pista, proporcionando um espaço livre de obstáculos. Muitos aeroportos mais antigos não atendem a esse padrão. Um método de substituir os 1.000 pés (300 m) no final de uma pista para aeroportos em áreas congestionadas é instalar um sistema de proteção de materiais de engenharia (EMAS). Esses sistemas são geralmente feitos de concreto leve e quebrável que absorve a energia da aeronave, parando-a rapidamente. Em 2008, eles pararam três aeronaves no Aeroporto JFK.
+
+
+=== Evacuações de emergência de aeronaves ===
+De acordo com um relatório de 2000 do Conselho Nacional de Segurança nos Transportes, evacuações de emergência de aeronaves acontecem uma vez a cada 11 dias nos EUA. Embora algumas situações sejam extremamente terríveis, como quando o avião está pegando fogo, em muitos casos o maior desafio para os passageiros pode ser o uso da rampa de evacuação. Em um artigo da Time sobre o assunto, Amanda Ripley relatou que quando um novo Airbus A380 superdimensionado passou por testes de evacuação obrigatórios em 2006, 33 dos 873 voluntários que evacuaram ficaram feridos. Embora a evacuação tenha sido considerada um sucesso, um voluntário quebrou a perna, enquanto os 32 restantes sofreram queimaduras. Esses acidentes são comuns. Em seu artigo, Ripley forneceu dicas sobre como descer pelo escorregador do avião sem se machucar. Outra melhoria nas evacuações de aviões é a exigência da FAA para que os aviões demonstrem um tempo de evacuação de 90 segundos com metade das saídas de emergência bloqueadas para cada tipo de avião em sua frota. De acordo com estudos, 90 segundos é o tempo necessário para evacuar antes que o avião comece a queimar, antes que possa haver um grande incêndio ou explosões, ou antes que a fumaça encha a cabine.
+
+
+=== Materiais e projeto das aeronaves ===
+Mudanças como o uso de novos materiais para o tecido e isolamento do assento deram entre 40 e 60 segundos adicionais para as pessoas a bordo evacuarem antes que a cabine se enchesse de fogo e vapores potencialmente letais. Outras melhorias ao longo dos anos incluem o uso de cintos de segurança devidamente testados, estruturas de assento resistentes ao impacto e asas de avião e motores projetados para amassarem para absorver as forças de impacto.
+
+
+=== Sistemas Radar e de detecção de tesoura de vento ===
+Como resultado dos acidentes devido a tesoura de vento e outras perturbações climáticas, mais notavelmente a queda do voo 191 da Delta Air Lines em 1985, a FAA determinou que todas as aeronaves comerciais tivessem sistemas de detecção de tesoura de vento a bordo até 1993. Desde 1995, o número de grandes acidentes com aeronaves civis causados por tesoura de vento caiu para aproximadamente um a cada dez anos, devido à detecção obrigatória a bordo. A instalação de estações de radar meteorológico de terminal do tipo doppler de alta resolução em muitos aeroportos dos EUA que são comumente afetados por tesoura de vento ajudou ainda mais a capacidade dos pilotos e controladores de voo de evitar as condições de tesoura de vento.
+
+
+== Piores acidentes aéreos da História ==
+Abaixo está a lista dos acidentes aéreos que causaram mais vítimas mortais.
+
+
+== Piores Acidentes Aéreos do Brasil ==
+Veja lista dos piores acidentes aéreos (em função do número de mortos) já ocorridos com voos de companhias aéreas brasileiras e/ou território nacional.
+
+
+== Ver também ==
+Assento ejetor
+Aviação
+Aviação civil
+Organização de Aviação Civil Internacional
+Agência Nacional de Aviação Civil
+Segurança aeroportuária
+
+
+== Referências ==

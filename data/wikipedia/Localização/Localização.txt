@@ -1,0 +1,12 @@
+Localização é uma tarefa multifunção, que tem por objetivo traduzir os conteúdos de texto de um software ou de um site, adaptando a tradução para a cultura do país ao qual se destina, considerando costumes, religião, sistemas de pesos e medidas, moeda, padronização de data e hora, legislação e outras variáveis que possam afetar o produto.Localização é o termo usado em geografia e áreas afins para designar a localização de uma determinada área coordenadamente em um espaço físico.
+Por exemplo, sobre a Terra usam-se mapas e coordenadas geográficas ou coordenadas cartográficas para determinar a localização absoluta de ruas, prédios, bairros, cidades, etc. As primeiras permitem determinar a localização de determinado ponto no globo terrestre em relação à linha do equador ou ao meridiano de Greenwich, e as últimas permitem localizar os pontos num plano designado plano cartográfico, após a escolha de uma projecção cartográfica.
+Também é possível fazer referenciação indireta, como, por exemplo, através do código postal ou CEP (Código de Endereçamento Postal -  uma forma estabelecida para se determinar a localização dos logradouros (ruas e avenidas), que são numerados em ordem crescente, para facilitar a localização dos endereços.
+
+
+== Ver também ==
+Teoria da localização
+Georreferenciamento
+Lugar
+
+
+== Referências ==

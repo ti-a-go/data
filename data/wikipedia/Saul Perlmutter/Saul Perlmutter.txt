@@ -1,0 +1,30 @@
+Saul Perlmutter (Champaign-Urbana, 1959) é um astrofísico estadunidense.
+
+
+== Vida ==
+Trabalha no Laboratório Nacional de Lawrence Berkeley e é professor do Departamento de Física da Universidade da Califórnia em Berkeley. Foi laureado com o Nobel de Física de 2011, juntamente com Adam Riess e Brian Schmidt, "pela descoberta da expansão acelerada do universo mediante observações de supernovas distantes".
+
+
+== Trabalho ==
+Perlmutter dirige o Supernova Cosmology Project no Lawrence Berkeley National Laboratory. Foi essa equipe, juntamente com a High-Z Supernova Search Team, liderada por Riess e Schmidt, que encontrou evidências da expansão acelerada do universo com base na observação de supernovas do Tipo Ia no universo distante. A supernova tipo Ia ocorre sempre que uma estrela anã branca ganha massa adicional suficiente para passar acima do limite de Chandrasekhar, geralmente roubando massa adicional de uma estrela companheira . Uma vez que se acredita que todas as supernovas do Tipo Ia ocorrem essencialmente da mesma maneira, elas formam uma vela padrão cujo intrínseco pode-se assumir que a luminosidade é aproximadamente a mesma em todos os casos. Ao medir a luminosidade aparente da explosão da Terra, os pesquisadores podem inferir a distância da supernova. A comparação dessa distância inferida com o aparente desvio para o vermelho da explosão permite ao observador medir tanto a distância quanto a velocidade relativa da supernova.O Supernova Cosmology Project concluiu que essas supernovas distantes estavam recuando mais rapidamente do que seria esperado devido apenas à expansão do Hubble e, por inferência, a expansão do universo deve ter sido acelerada ao longo dos bilhões de anos desde que as supernovas ocorreram. A equipe High-Z também chegou a uma conclusão semelhante. Os relatórios das duas equipes foram publicados com semanas de diferença, e suas conclusões foram prontamente aceitas pela comunidade científica devido a teorias corroborantes. Esta conclusão foi posteriormente apoiada por outras linhas de evidência. Essas descobertas revigoraram a pesquisa sobre a natureza do universo e, especialmente, sobre o papel da energia escura. Por este trabalho, Perlmutter recebeu o Prêmio Nobel de Física de 2011 , compartilhado com Riess e Schmidt.Perlmutter também é investigador principal do projeto Supernova/Acceleration Prob , que visa construir um satélite dedicado a encontrar e estudar mais supernovas no universo distante. O objetivo é determinar com mais precisão a taxa na qual o universo está acelerando. Ele também é participante do projeto Berkeley Earth Surface Temperature, que visa aumentar nossa compreensão do aquecimento global recente por meio de análises aprimoradas de dados climáticos.
+
+
+== Relatórios técnicos e procedimentos de conferências/eventos ==
+Perlmutter, S., et al. "Progress Report on the Berkeley/Anglo-Australian Observatory High-redshift Supernova Search", Lawrence Berkeley National Laboratory, (Nov. 1990).
+Perlmutter, S., et al. "Discovery of the Most Distant Supernovae and the Quest for {Omega}", Lawrence Berkeley National Laboratory, (May 1994).
+Perlmutter, S., et al. "Discovery of a Supernova Explosion at Half the Age of the Universe and its Cosmological Implications", Lawrence Berkeley National Laboratory, (Dez. 16, 1997).
+Perlmutter, S., et al. "The Distant Type Ia Supernova Rate", Lawrence Berkeley National Laboratory, (Mai. 28, 2002).
+Perlmutter, S., et al. "The Supernova Legacy Survey: Measurement of Omega_M, Omega_Lambda, and w from the First Year Data Set", Lawrence Berkeley National Laboratory, (Out. 14, 2005).
+Perlmutter, S. "Supernovae, Dark Energy and the Accelerating Universe: How DOE Helped to Win (yet another) Nobel Prize", Lawrence Berkeley National Laboratory, (Jan. 13, 2012).
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+Supernova Cosmology Project Website
+Supernova Cosmology Project
+Shaw Prize Press Release
+Nobel Prize in Physics Press Release
+List of scholarly publications conforme fornecida pelo servidor de resumo SAO/NASA Astrophysics Data System (ADS).

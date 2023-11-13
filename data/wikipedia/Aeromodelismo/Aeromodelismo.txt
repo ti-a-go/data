@@ -1,0 +1,96 @@
+Aeromodelismo é o conjunto de atividades que envolvem a construção e o voo de modelos, em escala reduzida (modelismo), de aeronaves e espaçonaves (aviões, balões, foguetes etc.). É um tipo de miniaturismo.
+Existem várias categorias de aeromodelismo:
+
+VCC ou U/Control - voo circular controlado, no qual o aeromodelo fica ligado ao aeromodelista por meio de cabos, que podem variar de 15 a 18 metros de comprimento.
+Radio controlado - o aeromodelo é controlado por meio de um transmissor de radiofrequências, das quais podem ser FM, AM, PCM para sistemas de rádio mais antigos porém  ainda muito utilizados, os sistemas mais modernos utilizam a frequência 2.4 GHz e protocolos específicos de cada marca para alternar entre canais de rádio ainda dentro da mesma frequência, garantindo assim que a comunicação entre o receptor e transmissor (estabelecida por "binding") não seja perdida dentro do raio especificado pelo fabricante.
+Voo livre - o aeromodelo, depois de lançado, não sofre mais nenhuma interferência por parte do aeromodelista. Pode ser aeromodelo com motor, com elástico ou sem propulsão própria.
+
+
+== Aeromodelo ==
+Os aeromodelos têm tamanhos muito variados, de simples brinquedos a escalas de até 50% da aeronave original.
+Existem classificações dadas aos diferentes aeromodelos. Algumas delas: Giant (gigante), Escala (réplicas das aeronaves originais), Trainer (ou treinador) - modelos mais indicados para iniciantes,  biplano (com 2 asas), Pylon - modelos de alta velocidade, Jets (jatos), etc.
+Seus motores são:
+
+a combustão: em sua grande maioria motores do tipo glow, com um cilindro, de dois ou quatro tempos e movidos a uma mistura de metanol, lubrificante e nitrometano. Para os modelos de maiores dimensões, existem também motores dois tempos movidos a gasolina.
+a jato: réplicas em miniatura de uma turbina aeronáutica real, movidas a combustível de jato.
+elétricos: motores escovados (brushed) ou brushless movidos a baterias recarregáveis de níquel-cádmio, níquel metal hidreto, ions de lítio ou lítio-polímero.
+
+
+== Categorias ==
+Atualmente a categoria mais praticada de aeromodelismo é o radiocontrolado (RC), que divide-se basicamente em três modalidades, que se diferem pelo seu tipo de motor:
+
+
+=== Motores a explosão (combustão interna) ===
+
+Podem chegar a escalas maiores que 40% das dimensões reais de uma aeronave. Seus motores apresentam alta potência e isso produz um voo mais adequado e satisfatório. São de longe, os aeromodelos mais utilizados em todo o mundo, com milhões de unidades vendidas ao longo dos anos.
+As principais vantagens deste tipo de aeromodelo são:
+
+Um envelope de voo mais real, aumentando a possibilidade de treino dos pilotos
+O som dos motores e o fato de não ligarem-se sem que seja efetuado um procedimento de partida costuma evitar a grande maioria dos acidentes.
+A durabilidade, pois aeromodelos a combustão bem cuidados costumam durar por mais de 20 anos
+O baixo custo, pois aeromodelos a combustão (por serem extremamente populares) podem ser adquiridos usados a um baixo preço, e sua manutenção é quase ausente de custos ,porém o combustível utilizado é caro.
+Os reparos são simples de se executar, pois a madeira é facilmente colável.
+Devido a sua alta potência, os aeromodelos a combustão podem ser construídos com vários materiais diferentes, como fibra de vidro, madeira balsa, metal, espuma de poliuretano, fibra de carbono e etc.
+Como normalmente são aviões maiores, fica mais fácil de se enxergar, minimizando os acidentes e perdas de material.
+Normalmente os materiais e componentes envolvidos na construção e na linkagem destes aeromodelos, são de maior qualidade, evitando-se assim acidentes desnecessários e perigosos.As principais desvantagens são:
+
+Sujidade, o óleo deixa o aeromodelo bem sujo após um voo;
+Ruído, o que limita seu uso às pistas de aeromodelismo devidamente homologadas;
+Polui do ar.
+
+
+=== Motores elétricos ===
+
+Utilizam alta tecnologia, como por exemplo baterias de Polímero de Lítio (LiPo), motores "brushless" (sem escovas), e têm como um dos diferenciais a possibilidade de construir modelos com tamanho e peso reduzidos, como na classe micro, que engloba aeromodelos minúsculos, que chegam a pesar apenas 4 gramas e ter 15 centímetros de envergadura.
+Apesar do destaque principalmente para modelos menores, a atual geração de motores brushless e baterias LiPo e LiFePo permitem a utilização de motorização elétrica em modelos nas mais diferentes escalas, chegando a mais de 10m de envergadura.
+Além da possibilidade de modelos em escala micro, outras vantagens são:
+
+Baixo nível de ruído;
+Facilidade na montagem de modelos com extrema acuidade de escala visual, pois motores elétricos não precisam de aberturas para escapamento;
+Facilidade na montagem de aeromodelos multimotores (bimotores, trimotores, quadrimotores, etc.), devido ao menor peso dos motores, ausência de vibração e por ser manterem curvas de aceleração equilibradas entre os diversos motores sem necessidade de cuidados adicionais com a regulação;
+Envelope de voo mais abrangente, permitindo pousos lentos, voos em locais fechados, ou parques;
+O baixo custo desta categoria, inferior ao custo e a manutenção de um aeromodelo similar a combustão. Mesmo inicialmente sendo recomendável adquirir algumas baterias adicionais e carregador, não existe necessidade de compra de combustível;
+Facilidade, baixo custo e pouco tempo de reparação quando ocorre danos devido à quedas;
+Não polui o ar.As principais desvantagens são:
+
+O tempo reduzido de voo, pois a bateria não voa mais do que poucos minutos;
+A baixa durabilidade do avião, pois normalmente os aeromodelos elétricos são feitos de isopor e este material se deforma com o tempo, além disso, é facilmente amassável.
+Devido ao seu baixo ruído e a capacidade de serem acionados por faltas de sinal do transmissor, acidentes podem ocorrer.
+
+
+=== Planadores ===
+Utilizam cabos tratores tensionados por outros aeromodelos, cabos com elásticos, cabos puxados por motores elétricos, lançados manualmente ou mesmo propelidos por motores elétricos ou a combustão interna, com a característica desses meios apenas levarem os modelos a determinada altura de voo e posteriormente serem desacoplados ou desligados e o modelo permanece voando apenas pelos princípios aerodinâmicos de voo associados a fenômenos naturais como térmicas ou vento, mas com o modelo com superfícies de comando controlado via radiocontrole. Os modelos tem características aerodinâmicas diferenciadas como fuselagem e asas delgadas, os tamanhos dos modelos comummente variam de 60 cm até mais de 5 metros de envergadura; Dependendo do local de voo (campo, encosta, montanha, praia) o tempo de voo pode variar de poucos minutos até horas.
+Vantagens:
+
+Menos ferramentas e acessórios para voar, basta o seu modelo com bateria carregada e um rádio.
+Ligação mais próxima com o modelo e o ambiente à sua volta, já que o piloto aprende a sentir e a verificar melhor variáveis como vento, lift, termais, desníveis, relevos e outras condições que favoreçam a prática.
+Silêncio total ou quase total nos voos.
+Em voos de encosta, a duração dos voos é muito superior à de qualquer outro modelo, até mesmo horas de voo.
+Aprendizado do voo verdadeiro em sua forma pura e inicial, já que no início haviam apenas planadores.
+Não polui o ar.
+Modelo sempre limpo após o voo.As principais desvantagens são:
+
+Tempo um pouco mais longo de aprendizado pois é necessário compreender mais elementos para obter o melhor desempenho do planador durante o voo.
+Localização de locais favoráveis para o voo, no caso de modelos sem nenhuma propulsão.
+
+
+== Ver também ==
+Automodelismo
+Confederação Brasileira de Aeromodelismo
+Ferromodelismo
+Helimodelismo
+Miniaturismo
+Missilismo amador
+Missilmodelismo
+Modelismo
+Nautimodelismo
+Plastimodelismo
+
+
+== Referências ==
+
+Confederação Brasileira de Aeromodelismo
+Federação Portuguesa de Aeromodelismo
+História do Aeromodelo - Aeromodelismo Hobby
+Revista Galileu - Aeromodelos: Altos voos com os pés no chão
+Aeromodelismo OnlineToyWing Aeromodelismo

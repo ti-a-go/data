@@ -1,0 +1,224 @@
+O plural é uma flexão gramatical de número (como o singular e o dual) da palavra que se refere a mais de uma coisa.
+Exemplos de palavras no plural: troféus (de troféu), pastéis (de pastel), carros (de carro), andavam (de andava), andaram (de andou) etc. Seguem as regras formais para a formação do plural a partir do singular.
+
+
+== Na língua portuguesa ==
+
+
+=== Formação do plural dos substantivos simples ===
+
+
+==== Regra geral ====
+Acrescenta-se o sufixo s à forma singular.
+Sigam esta regra:
+
+Substantivos terminados em:
+Vogal como em: bolas (bola), iates (iate), minis (mini), patos (pato) etc.
+Ditongo oral como em: troféus (troféu), pais (pai), heróis (herói) etc.
+ã, ãe como em: mães (mãe), irmãs (irmã), imãs (imã) etc.
+Nomes das letras, como os efes (efe), os eles (ele), os erres (erre), os cês (cê), os "as" (de "a") etc.
+Nomes dos números como em os sete quatros, os cinco onzes, os noventa trezes, exceto os terminados em s e z, que permanecem invariáveis como os cinco dez, os treze três
+
+
+==== Regras especiais ====
+Acrescenta-se o sufixo es à forma singular.
+Seguem esta regra:
+
+Os substantivos terminados em r e z: pares (de par), pazes (paz).
+Os substantivos terminados em n, que na forma plural podem ter dois plurais, em -es ou -s: Hífenes ou hifens, abdômenes ou abdomens, líquenes ou liquens, gérmenes ou germens, pólenes ou polens, etc.
+O plural de "cânon" é sempre cânones.
+Atenção: as palavras paroxítonas terminada em -ens não possuem acentuação gráfica: polens, edens etc.
+Os substantivos terminados em s seguem duas regras:
+os monossílabos e oxítonos acrescenta-se es: gases (gás), dinamarqueses (dinamarquês), ingleses (inglês) etc;
+os não-oxítonos permanecem inalteráveis como em os lápis, os ônibus, os vírus etc.
+Exceções: cós faz cós ou coses, e cais e xis, cais e xis, respectivamente.Troca-se o l da forma singular por is.
+Seguem esta regra:
+
+Os substantivos terminados por al, el, ol, ul, troca-se o l por is: funerais (funeral), pastéis (pastel), faróis (farol), Rauis (Raul).
+Há as chamadas "sete exceções", que fazem o plural em es:
+mal - males;
+cônsul - cônsules;
+mel - meles ou méis;
+fel - feles ou féis;
+cal - cales ou cais;
+aval - avales ou avais;
+mol - moles ou móis;
+E também real (moeda antiga) - réis.Troca-se o l do singular por s.
+Seguem esta regra:
+
+As palavras oxítonas ou monossílaba, terminadas em il: fuzis (fuzil), cantis (cantil), barris (barril), canis (canil). Se a palavra for paroxítona ou proparoxítona, troca-se o il por eis: Fósseis (fóssil), projéteis (projétil), difíceis (difícil), fáceis (fácil), répteis (réptil)
+Exceção: til - tis ou tiles.Substitui-se o m por ns como em: tons (tom), afins (afim), totens (totem, também "tótemes") etc.
+Terminadas em x ficam iguais, como em: os ônix, os tórax etc.
+
+Algumas palavras em x têm variante em -ce. Nesse caso constituem o plural em -ces (não sendo necessariamente a forma variante no plural, essas palavras têm realmente plural irregular): Cálices (cálix ou cálice), índices (índex ou índice), apêndices (apêndix ou apêndices), látices (látex, mais comum, ou látice), hélices (hélix ou hélice), háluces (hálux), códices (códex ou códices) etc.
+Excepções: fax - faxes, fénix - as fénixes ou as fénix
+Terminadas em ão, há três formas possíveis, dependendo de cada palavra em particular:
+
+forma 1: mãos (mão), cidadãos (cidadão), anãos (anão)
+forma 2: cães (cão), pães (pão), alemães (alemão)
+forma 3: balões (balão), anões (anão).Nota importante: assim como o substantivo anão, existem outros terminados em ão que admitem mais de uma forma de plural. Exemplos: charlatães, charlatões; ermitãos, ermitães ou ermitões; hortelãos, hortelões; sacristãos, sacristães; anciões, anciãos, anciães; cirurgiões, cirurgiães; vilões, vilãos, vilães; aldeãos, aldeões, aldeães; peões, peães; vulcões, vulcãos; refrãos, refrães.
+
+
+=== Plural dos substantivos compostos ===
+
+
+==== Sem hífen ====
+Substantivos compostos não separados por hífen seguem as mesmas regras dos substantivos simples, como em: superegos (superego), pontapés (pontapé), metadiscussões (metadiscussão).
+
+
+==== Com hífen ====
+Substantivos compostos separados por hífen pode não ser variado, pode variar em um ou nos dois elementos, dependendo de cada caso.
+
+Nenhum elemento muda para o plural quando:
+verbo + palavra invariável como: os chora-muito, os anda-devagar etc.
+Se formados com verbos de sentido opostos como em: pára-anda, leva-e-traz etc.
+Apenas o primeiro elemento muda para o plural quando:
+O segundo elemento limitar a ideia do primeiro como em: bananas-maçã (banana-maçã), pombos-correio (pombo-correio) etc.
+Se os elementos estiverem ligados por preposição como em: pés-de-moleque (pé-de-moleque), pães-de-açúcar (pão-de-açúcar) etc.
+Apenas o segundo elemento muda para o plural quando:
+O primeiro elemento é um verbo ou palavra invariável, exemplos:
+verbo + substantivo - como em: guarda-trecos (guarda-treco)
+advérbio + adjetivo - como em: alto-falantes (alto-falante)
+preposição + substantivo - como em: contra-ataques (contra-ataque)
+Nos casos em que o primeiro elemento seja composto de formas reduzidas como em grão, grã e bel: grão-duques, grã-cruzes, bel-prazeres etc.
+Caso os elementos forem palavras repetidas ou onomatopaicas como em: tico-ticos, reco-recos, corre-corres, tique-taques etc.Nota: se os elementos repetidos forem verbos é permitido também a flexão dos dois como em: piscas-piscas, corres-corres etc.
+
+Os dois elementos mudam para o plural quando:
+substantivo + substantivo - como em: couves-flores (couve-flor)
+substantivo + adjetivo - como em: cachorros-quentes (cachorro-quente)
+adjetivo + substantivo - como em: más-línguas (má-língua)
+numeral + substantivo - como em: quintas-feiras (quinta-feira)
+
+
+=== Plural de nomes próprios ===
+Seguem as mesmas regras do plural de substantivos comuns, como por exemplo: Rangéis (Rangel), Dantas (Danta), Nunos (Nuno), Andrés (André) etc.
+
+
+=== Metafonia: plural com mudança de timbre ===
+A Letra o (ô) tônico fechado de alguns substantivos no singular muda para a letra o (ó) aberto no plural. Exemplos de plurais metafônicos: o tijolo (ô) / os tijolos (ó); o ovo (ô) / os ovos (ó); o osso (ô) / os ossos (ó) etc. Não mudam o timbre: acordos, bolos, bolsos, choros, confortos, contornos, dorsos, esboços, esgotos, esposos, estojos, ferrolhos, globos, gostos, gozos, rolos, repolhos e todos.
+
+
+=== Plural com deslocamento da sílaba tônica ===
+A sílaba tônica de alguns substantivos se modificam ao passarem para o plural, como em: caráter / caracteres; Lúcifer / Luciferes; júnior / juniores.
+
+
+=== Plural  de estrangeirismos ===
+Os substantivos estrangeiros aportuguesados seguem as mesmas regras da língua portuguesa. Exemplos: o chope / os chopes; o drope / os dropes; o clipe / os clipes. Os substantivos não aportuguesados acrescenta-se o s apenas, como em: os shorts, os shows etc.
+
+
+=== Plural de acrónimos ===
+Os substantivos que são acrónimos podem ser pluralizados de duas formas:
+a) acrescenta-se um s minúsculo ao final do acrónimo, como em: DAs (Diretórios Acadêmicos), CRCs (conselhos regionais de contabilidade), etc;
+b) sendo uma tradição usada mais em textos do passado e daí importante como referência histórica, no caso dos acrónimos formados pela letra inicial de cada uma das palavras, dobra-se a letra (seguindo-se logo por um ponto) para indicar a pluralidade da respectiva palavra (substantivo, adjetivo ou pronome), a exemplo de: DD.AA. (Diretórios Acadêmicos), FF.AA. (Forças Armadas), EE.UU.A. (Estados Unidos da América), VV.MM. (Vossas Majestades), etc.
+
+
+=== Substantivos de um só número ===
+
+
+==== Apenas plural ====
+Os afazeres, as algemas, os anais, os arredores, as belas-artes, as bodas, as férias (descanso), as cócegas, as condolências, as fezes, os idos, as núpcias, os óculos, as olheiras, os parabéns, os pêsames, as costas (dorso), os picles, os víveres, os Estados Unidos, as ceroulas, as reticências, as calças, os brócolis etc.
+
+
+==== Apenas singular ====
+
+
+=== Mudança de número com mudança de sentido ===
+Predefinição:Ver verbo principal
+
+
+== Formação do plural dos artigos ==
+o, os; a, as; um, uns; uma, umas.
+
+
+=== Formação do plural dos adjetivos ===
+
+
+==== Adjetivos simples ====
+Os adjetivos simples variam em número para concordar com o substantivo a que se refere. Normalmente as regras são as mesmas dos substantivos. Exemplos:
+
+animal feroz / animais ferozes
+cidadão são / cidadãos sãos
+garota bela / garotas belas
+menino gentil / meninos gentis
+pessoa velha / pessoas velhas
+time campeão /times campeões
+Homem bom / Homens bons
+mulher má / mulheres más
+
+
+==== Adjetivos compostos ====
+Regra geralO último elemento somente deve ser flexionado, como:
+
+blusas verde-escuras
+escolas médico-cirúrgicas
+peles castanho-escurasExceçõesOs termos azul-marinho e azul-celeste são invariáveis, assim como a expressão rosa-choque.
+O termo surdo-mudo sofre flexão de número nos dois elementos: surdos-mudos e surdas-mudas.
+Compostos formados por palavra ou elemento invariável + adjetivo, somente flexiona o último. Ex.: locais circum-escolares, áreas circum-hospitalares etc.
+São invariáveis os adjetivos compostos que se referem a cores quando qualquer elemento da composição é um substantivo, como em:
+camisetas amarelo-limão
+ternos azul-pavão
+saias verde-musgo
+vestidos rosa-claro
+bonés marfim-escuro
+camisetas rosa-choque
+ternos cinza-chumbo
+vestidos   rosas-pinksÉ como se esses adjetivos compostos que contêm um substantivo em sua formação tivessem a expressão "cor de" antes. Ex.: camisetas (cor de) amarelo-limão, bonés (cor de) marfim-escuro
+r
+
+
+=== Formação do plural dos numerais ===
+Variam em número:
+
+Os cardinais terminados em ão:
+um milhão, dois milhões
+um bilhão, dois bilhões
+etc.
+Todos os ordinais:
+primeiro, primeiros
+segundo, segundos
+milésimo, milésimos
+etc.
+Os multiplicativos, quando com função adjetiva:
+Tomei dois copos duplos de cachaça.
+Foram triplas as doses de licor servidas.
+Os fracionários, de acordo com o cardinal que os antecede:
+Gastou dois terços do salário em jogatina.
+Os cardinais substantivados seguem as regras dos substantivos.
+
+
+=== Formação do plural dos pronomes ===
+Os que são variáveis geralmente seguem a mesma regra de flexão de número dos substantivos.
+
+
+==== Pronomes demonstrativos ====
+VariáveisPrincipais: este/estes, esta/estas, esse/esses, essa/essas, aquele/aqueles, aquela/aquelas.
+Eventuais: mesmo/mesmos, mesma/mesmas, próprio/próprios, própria/próprias, semelhante/semelhantes, tal/tais.
+o, a, os, as - quando equivalem a isto, aquilo, aquele, aquela, aqueles, aquelas. Por exemplo: São poucos os que mandam e muitos os que obedecem.Invariáveisisto, isso e aquilo.
+
+
+==== Pronomes indefinidos ====
+Todos são variáveis em número, exceto os: 
+
+
+==== Pronomes relativos ====
+Todos são variáveis em número, exceto os: 
+
+
+=== Formação do plural dos verbos ===
+O verbo no plural pode se referir a: 1ª pessoa do plural (nós), 2ª pessoa do plural (vós), 3ª pessoa do plural (eles). Os verbos flexionam em número de modo muito particular, dependendo da conjugação em tempo, modo e pessoa.
+
+
+=== Formação do plural dos advérbios, preposições, conjunções, interjeições e palavras denotativas ===
+Essas palavras não variam em número (palavra invariável). Exemplos: ontem, depressa, ali, muito, bem, além, sob, por, contra, desde, entre, até, perante, conforme, segundo, consoante, porém, contudo, todavia, entretanto, senão, portanto, oba, eba, viva, nossa, puxa vida, exceto, apenas, salvo, menos, também, mesmo, inclusive, aliás, ou melhor, isto é, por exemplo, a saber, digo, ou seja, por assim dizer, com efeito, ou antes etc.
+
+
+== Ver também ==
+
+Número gramatical
+Plurale tantum
+Singular
+Dual
+
+
+== Bibliografia ==
+PASCHOALIN, Maria Aparecida. Minigramática. São Paulo: Editora FTD S.A.; 1997; CDD-372.61

@@ -1,0 +1,61 @@
+Auditoria é um exame cuidadoso e sistemático das atividades desenvolvidas em determinada organização, cujo objetivo é averiguar se elas estão de acordo com as planejadas e/ou estabelecidas previamente, se foram implementadas com eficácia e adequadas (em conformidade) à consecução dos objetivos.
+As auditorias podem ser classificadas em: auditoria externa e auditoria interna.
+
+
+== Achados de auditoria ==
+
+É toda prova obtida pelo auditor, com a aplicação dos procedimentos de auditoria, para avaliar se os critérios estabelecidos estão sendo ou não atendidos. Ou seja, são fatos resultantes dos programas de auditoria que remetem a deficiências encontradas na entidade auditada.
+Seus requisitos básicos são
+
+mostrar a relevância do fato;
+ser respaldados nos papéis de trabalho;
+ser objetivos;
+amparar as conclusões e recomendações;
+ser convincentes a uma pessoa estranha ao processo.
+
+
+== Evidências de auditoria ==
+
+É o conjunto de fatos não comprovados, suficientes, competentes e pertinentes e, por definição, mais consistentes que os achados, em função de determinadas características
+
+suficiência: a evidência deve ser convincente às pessoas leigas, permitindo-as chegar às mesmas conclusões do auditor;
+validade: deve dar credibilidade e suporte à conclusão do auditor;
+relevância: deve ter relação com os objetivos da auditoria;
+objetividade: deve ser objetiva e respaldar as conclusões do auditor de forma mais profunda do que a simples aparência.A evidência de auditoria é classificada segundo os procedimentos que a originaram. Assim, temos:
+
+Evidência física: obtida em decorrência de uma inspeção física ou observação direta de pessoas, bens ou transações. Normalmente é apresentada sob a forma de fotografias, gráficos, memorandos descritivos, mapas, amostras físicas etc.Evidência documental: é aquela obtida dos exames de ofícios, contratos, documentos comprobatórios (notas fiscais, recibos, duplicatas quitadas, etc.) e das informações prestadas por pessoas de dentro e de fora da entidade auditada, sendo a evidência obtida de fontes externas adequadas é mais fidedigna que a obtida na própria organização sob auditoria.Evidência testemunhal: é aquela decorrente da aplicação de entrevistas e questionários.Evidência analítica: decorre da conferência de cálculos, comparações, correlações e análises feitas pelo auditor, dentre outras.
+
+
+== Alguns tipos de auditoria ==
+Auditoria ambiental
+Auditoria de circulação
+Auditoria contábil
+Auditoria de demonstrações financeiras
+Auditoria fiscal
+Auditoria social
+Auditoria de prestação de contas
+Auditoria de riscos
+Auditoria de sistemas
+Auditoria governamental
+Auditoria de desempenho
+Auditoria operacional
+Auditoria financeira
+Auditoria tributária
+Auditoria trabalhista
+
+
+== Ver também ==
+Contabilidade
+Qualidade
+ISO 19001
+ISO 9000
+ISO 19011
+ISO 14001
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Instituto Português de Auditoria Interna (IPAI)
+Instituto dos Auditores Internos do Brasil [ligação inativa]

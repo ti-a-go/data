@@ -1,0 +1,13 @@
+O Tesauro de Arte e Arquitetura (em inglês: Art & Architecture Thesaurus, AAT) é um vocabulário controlado empregado na descrição de elementos de arte, arquitetura e cultura material.  O AAT contém termos genéricos, como "catedral", mas não nomes próprios, como "Catedral de Notre Dame". O AAT é empregue por, entre outros, museus, bibliotecas de arte, arquivos, catalogadores, e investigadores da arte e história da arte. O AAT é um dicionário de sinónimos em conformidade com ISO e normas de EM ISO que incluem ISO 2788, ISO 25964 e NISO/ANSI Z39.19.
+O AAT é um vocabulário estruturado com perto de 44 mil conceitos, incluindo 131 mil termos, descrições, citas bibliográficas e outra informação relacionada com as artes, a arquitetura, a artes decorativas, os materiais de arquivo e a cultura material.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Sobre o Getty Vocabulários
+Sobre AAT
+Getty Directrizes de Editora do vocabulário As directrizes de editora para o AAT, ULAN, e TGN contém as regras e as directrizes pretenderam para uso pelos editores do Getty Programa de Vocabulário que utiliza o dentro-sistema de editora da casa, VCS (Sistema de Coordenação do Vocabulário). Contribuidores ao Getty Vocabulários e implementedores do dado de vocabulário com licença pode consultar estas directrizes também.
+Treinando os materiais e as apresentações criaram pelo Getty Programa de Vocabulario Os documentos nesta página incluem apresentações e outros materiais de treino para o Getty Dicionário de sinónimos de Nomes Geográficos (TGN), a Lista de União de Nomes de Artista (ULAN), o Dicionário de sinónimos & de Arquitectura da Arte (AAT), Catalogando Objectos Culturais (CCO), Categorias para a Descrição de Trabalhos de Arte (CDWA), e estándares em geral.
+AAT quando Dado Aberto Vinculado, documentação

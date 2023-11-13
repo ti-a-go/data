@@ -1,0 +1,38 @@
+A Base de Autoridade Internacional Virtual (em inglês: Virtual International Authority File, VIAF) é um ficheiro de autoridade internacional. É um projeto conjunto de várias bibliotecas nacionais e operado pelo Online Computer Library Center (OCLC).
+
+
+== História ==
+A discussão sobre a existência de uma autoridade internacional comum começou no final do século 19. Depois de uma série de tentativas fracassadas de chegar a um arquivo de autoridade comum único, a nova ideia era vincular as autoridades nacionais existentes. Isso apresentaria todos os benefícios de um arquivo comum sem exigir um grande investimento de tempo e despesas no processo.O conceito VIAF foi apresentado no Congresso Mundial de Bibliotecas e Informações de 2003, organizado pela Federação Internacional de Associações de Bibliotecas. O projeto foi iniciado pela Biblioteca do Congresso dos Estados Unidos (LC), pela Biblioteca Nacional Alemã (DNB) e pela OCLC em 6 de agosto de 2003. A Bibliothèque nationale de France (BnF) juntou-se ao projeto em 5 de outubro de 2007.
+O projeto passou a ser um serviço da OCLC em 4 de abril de 2012.O objetivo é vincular os arquivos de autoridade nacional (como o Arquivo de Autoridade de Nomes Alemão) a um único arquivo de autoridade virtual. Nesse arquivo, registos idênticos de diferentes conjuntos de dados são vinculados. Um registo VIAF recebe um número de dados padrão, contém os registos primários "veja" e "veja também" dos registos originais e se refere aos registos de autoridade originais. Os dados são disponibilizados online e estão disponíveis para pesquisa e intercâmbio e compartilhamento de dados. A atualização recíproca usa o protocolo Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH).
+Os números dos arquivos também estão sendo adicionados aos artigos biográficos da Wikipedia e são incorporados ao Wikidata.Christine L. Borgman agrupa o VIAF com o Identificador de Nomes Padrão Internacional e os sistemas ORCID, descrevendo todos os três como "esforços coordenados para padronizar as formas dos nomes". Borgman caracteriza todos os três sistemas como tentativas de resolver o problema de desambiguação do nome do autor, que cresceu em escala conforme a quantidade de dados se multiplica.  Ela observa que o VIAF, ao contrário dos outros dois sistemas, é liderado por bibliotecas, ao contrário de autores ou criadores individuais. 
+
+
+== Agrupamentos VIAF ==
+O algoritmo de agrupamento do VIAF é executado todos os meses. À medida que mais dados são adicionados das bibliotecas participantes, grupos de registos de autoridade podem se aglutinar ou se dividir, levando a alguma flutuação no identificador VIAF de certos registos de autoridade.
+
+
+== Bibliotecas e organizações participantes ==
+
+
+=== Bibliotecas adicionadas para fins de teste ===
+
+
+== Ver também ==
+Controle de autoridade
+Aplicação facetada da terminologia do assunto (FAST)
+Arquivo de autoridade integrado (GND)
+Número de dados de autoridade padrão internacional (ISADN)
+Identificador de Nome Padrão Internacional (ISNI)
+Modelo de controle de autoridade da Wikipedia para artigos
+
+
+== Referências ==
+
+
+== Fontes ==
+Borgman, Christine L. (2015). Big Data, Little Data, No Data: Scholarship in the Networked World. [S.l.]: MIT Press. ISBN 978-0-262-32786-2. OCLC 900409008 
+
+
+== Ligações externas ==
+Sítio oficial
+VIAF na OCLC

@@ -1,0 +1,72 @@
+No Brasil, o Sistema Nacional de Unidades de Conservação da Natureza (SNUC) é um conjunto de normas e procedimentos oficiais que possibilitam às esferas governamentais federal, estadual e municipal, bem como à iniciativa privada, criar, implementar e gerir no país as unidades de conservação (que são as representantes no Brasil do que internacionalmente é conhecido como área protegida), sistematizando assim a conservação da natureza no país.
+
+
+== História ==
+O SNUC tem suas origens nos anos 1970, quando o antigo Instituto Brasileiro de Desenvolvimento Florestal (IBDF), apoiado pela organização não-governamental (ONG) Fundação Brasileira para a Conservação da Natureza, criou o Plano do Sistema de Unidades de Conservação do Brasil, publicado oficialmente em 1979. O plano continha objetivos específicos necessários à conservação da natureza no Brasil e propunha novas categorias de manejo dos recursos naturais, que não eram previstas na legislação da época - Código Florestal Brasileiro, de 1965 e a Lei de Proteção à Fauna, de 1967. Uma segunda etapa do plano, elaborada pelo IBDF, foi sancionada pelo governo em 1982 e publicada sob o seu nome e siglas atuais - Sistema Nacional de Unidades de Conservação da Natureza (SNUC).Na época não havia amparo legal ao sistema e tornou-se evidente a necessidade de uma lei que incorporasse os conceitos definidos no mesmo, vindo a fornecer os mecanismos legais para a categorização e o estabelecimento de unidades de conservação no Brasil. Uma ONG, a Fundação Pró-Natureza (FUNATRA), com recursos fornecidos inicialmente pela Secretaria Especial do Meio Ambiente (SEMA) e pelo IBDF, e, após a sua extinção, pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA), reuniram um grupo de especialistas a partir de julho de 1988 visando a revisão e atualização conceitual do conjunto de categorias de unidades de conservação, incluindo a elaboração de um Anteprojeto de Lei, para dar suporte legal ao Sistema. Os trabalhos, concluídos ainda em 1989, resultaram em duas versões de Anteprojetos de Lei, que foram publicados pelo IBAMA e pela FUNATRA.
+Os Anteprojetos de 1989 foram extensivamente discutidos tanto no Executivo como no Legislativo, que os tornaram objeto de diversas consultas públicas. Após sofrerem enormes modificações, muitas inclusive de última hora, foram finalmente publicados na forma da Lei Nº 9.985, de 18 de julho de 2000. O Decreto Nº 4.340, de 22 de agosto de 2002, vem regulamentar o SNUC.
+
+
+== Objetivos ==
+O SNUC objetiva a conservação da natureza no Brasil. Especificamente, fornece mecanismos legais às esferas governamentais federal, estadual e municipal e à iniciativa privada para que possam:
+contribuir para a manutenção da diversidade biológica e dos recursos genéticos no território nacional e nas águas jurisdicionais;
+proteger as espécies ameaçadas de extinção no âmbito regional e nacional;
+contribuir para a preservação e a restauração da diversidade de ecossistemas naturais;
+promover o desenvolvimento sustentável a partir dos recursos naturais;
+promover a utilização dos princípios e práticas de conservação da natureza no processo de desenvolvimento;
+proteger paisagens naturais e pouco alteradas de notável beleza cênica;
+proteger as características de natureza geológica, geomorfológica, espeleológica, paleontológica e cultural;
+proteger e recuperar recursos hídricos e edáficos;
+recuperar ou restaurar ecossistemas degradados;
+proporcionar meios e incentivos para atividades de pesquisa científica, estudos e monitoramento ambiental;
+valorizar econômica e socialmente a diversidade biológica;
+favorecer condições e promover a educação e interpretação ambiental, a recreação em contato com a natureza e o turismo ecológico;
+proteger os recursos naturais necessários à subsistência de populações tradicionais, respeitando e valorizando seu conhecimento e sua cultura e promovendo-as social e economicamente.
+
+
+== Unidades de conservação ==
+Unidade de Conservação (UC) é a denominação utilizada no SNUC para o que, internacionalmente, se conhece como áreas protegidas. Formalmente, são espaços territoriais e seus recursos ambientais, incluindo as águas jurisdicionais, com características naturais relevantes, legalmente instituídos pelo Poder Público, com objetivos de conservação e limites definidos, sob regime especial de administração, ao qual se aplicam garantias adequadas de proteção da lei. As unidades de conservação são o principal instrumento do SNUC para a preservação a longo prazo da diversidade biológica.
+O SNUC fornece mecanismos legais para a criação e a gestão de UC nas três esferas de governo e também pela iniciativa privada, possibilitando assim o desenvolvimento de estratégias conjuntas para as áreas naturais a serem preservadas. A participação da sociedade na gestão das UC também é regulamentada pelo sistema, potencializando assim a relação entre o Estado, os cidadãos e o meio ambiente. As UC da esfera federal do governo são administradas pelo Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio).
+O SNUC prevê 12 (doze) categorias complementares de unidades de conservação, organizando-as de acordo com seus objetivos de manejo e tipos de uso em dois grandes grupos:
+
+As Unidades de Proteção Integral tem como objetivo básico a preservação da natureza, sendo admitido o uso indireto dos seus recursos naturais, com exceção dos casos previstos na Lei do SNUC.
+As Unidades de Uso Sustentável visam compatibilizar a conservação da natureza com o uso direto de parcela dos seus recursos naturais, ou seja, é aquele que permite a exploração do ambiente, porém mantendo a biodiversidade do local e os seus recursos renováveis.A tabela a seguir busca dar uma visão geral das categorias de unidades de conservação, listando também a correspondência entre a classificação internacional da União Internacional para a Conservação da Natureza e dos Recursos Naturais (IUCN) e o SNUC:
+
+A disponibilização, através do Cadastro Nacional de Unidades de Conservação (CNUC), de informações oficiais sobre todas as unidades de conservação brasileiras, constitui um importante passo para a consolidação do SNUC.
+
+
+=== Criação de unidades ===
+Segundo a legislação brasileira vigente, as UCs são criadas por meio de decreto presidencial ou estadual após uma avaliação sobre sua importância ecológica e só podem ser alteradas e reduzidas por projetos de lei. No entanto, em 2012, a Câmara e o Senado aprovaram, e a presidente Dilma Rousseff sancionou e transformou em lei federal, uma Medida Provisória que previa a redefinição de limites de sete UCs na Amazônia. Isso abre um precedente perigoso para a conservação no país, pois antes as UCs tinham limites modificados somente por meio de projetos de leis, que possuem tramitação legislativa mais longa e por isso davam mais espaço a manifestações populares e consultas públicas.
+
+
+== Cadastro Nacional de Unidades de Conservação ==
+O Cadastro Nacional de Unidades de Conservação (CNUC) é um sistema integrado de banco de dados com informações padronizadas sobre as unidades de conservação do Sistema Nacional de Unidades de Conservação da Natureza (SNUC) geridas pelos três níveis de governo e por particulares. A organização do CNUC compete ao Ministério do Meio Ambiente, conforme estabelecido no artigo 50 da Lei nº 9.985/2000. Em setembro de 2020 havia 2 487 unidades de conservação (UC) registradas no CNUC.Os objetivos específicos do CNUC podem ser resumidos em:
+
+Disponibilização de informações oficiais sobre as UC;
+Relatórios detalhados sobre a situação das UC, facilitando assim a realização de diagnósticos, a identificação de problemas e a tomada de decisão;
+Possibilidade de criação e acompanhamento de indicadores sobre o estado de implementação do SNUC;
+Verificação de conformidade das UC com normas e critérios de criação estabelecidos na Lei nº 9.985/2000;
+Disponibilização de informações para o planejamento, administração e fiscalização das UC;
+Ajuda na regulamentação da distribuição de recursos provenientes de compensação ambiental, pois estes serão destinados exclusivamente para unidades de conservação reconhecidas pelo CNUC como pertencentes ao SNUC (Art. 11 da Resolução CONAMA 371/2006).
+
+
+== Ver também ==
+Áreas protegidas
+Áreas protegidas no Brasil
+Lista de Unidades de Conservação da Mata Atlântica
+Lista de parques nacionais do Brasil
+Unidades de Conservação do Piauí
+
+
+== Notas ==
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Página do Ministério do Meio Ambiente com informações gerais sobre o SNUC
+Página do ICMBio - Instituto Chico Mendes de Conservação da Biodiversidade - Órgão responsável pela gestão das unidades de conservação federais
+Publicações do Ministério do Meio Ambiente sobre o SNUC
+Site Unidades de Conservação da Amazônia Brasileira - site do Instituto Socioambiental
+Observatório de UCs - WWF
+Formulário de Consultas ao CNUC

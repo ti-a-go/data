@@ -1,0 +1,101 @@
+O calendário romano data da fundação de Roma e mudou sua forma diversas vezes até a Queda do Império Romano do Ocidente. Este artigo discute os primeiros calendários romanos também chamados de calendários pré-julianos utilizados até 46 a.C. O calendário usado após esta data foi o calendário juliano, que continuou sendo utilizado até o ano 1582 quando foi substituído pelo calendário gregoriano.
+
+
+== História ==
+O primeiro calendário romano era um calendário lunar com dez meses, começando no equinócio da Primavera, implantado, segundo a lenda, por Rômulo, o fundador de Roma aproximadamente em 753 a.C.
+Neste primeiro calendário romano, o ano tinha 10 meses de 30 ou 31 dias, que totalizavam 304 dias e os demais 61 dias que coincidiam com o inverno não entravam no calendário havendo pouco interesse de acompanhamento temporal neste período do ano.
+
+A primeira reforma do calendário ocorreu com Numa Pompílio, o segundo dos sete reis de Roma,  por volta de 713 a.C., que reduziu os meses de 30 dias para 29 dias e adicionou os meses de Januarius (29 dias) e Februarius (28 dias) no final do calendário aumentando o seu tamanho para 355 dias, transformando-o em um calendário luni-solar, mantendo os inícios dos meses coincidindo com os inícios das fases da Lua e adicionando de tempos em tempos um mês extra para completar o ano solar.
+Este calendário fora baseado no calendário grego praticado em Atenas, que já era um calendário luni-solar e bem mais preciso que aquele primeiro calendário praticado em Roma e que, então, também passou a ser de 12 meses com um mês adicional para manter o ciclo anual lunar alinhado com o ciclo anual solar.
+
+Para manter este alinhamento de ciclos, de dois em dois anos deveria ser adicionado um mês extra de 22 ou 23 dias, mensis intercalaris, de nome Mercedônio ou Mercedino, próximo ao final de Februário (Februarius) logo após os dias 23 ou 24, que era terminado somente após a conclusão deste mês intercalar, resultando em uma sequencia de anos com 355, 377, 355 e 378 dias, com uma média de 366,25 dias.
+A decisão de inserir o mês intercalado, e sua posição, era a responsabilidade do pontífice máximo (pontifex maximus) que controlava para que o calendário não se distanciasse das efemérides anuais tornando irregular a sequência de inclusões. O sistema de alinhar o ano através destes meses intercalares falhou pelo menos duas vezes.
+A primeira foi durante e após a Segunda Guerra Púnica. Isso levou a reforma da Lei Acília em 191 a.C., sendo bem sucedida por longo período.
+A segunda falha foi na metade do Século I a.C. e que resultou na reforma instituída por Júlio César com a implantação de um calendário solar, em substituição do calendário luni-solar de Numa Pompílio, posteriormente chamado de calendário juliano.
+
+
+== Meses ==
+Após sua última reforma os anos tinham uma sequência regular de 355, 377, 355 e 378 dias em um ciclo de 24 anos.
+
+Para ajustar o erro acumulado, de um dia ao ano, a cada 24 anos se retirava 24 dias pela eliminação de seis dias nas quatro últimas sequências de anos 18, 20, 22 e 24 de 377, 378, 377 e 378 dias que ficavam com respectivamente com 371, 372, 371 e 372 dias.
+
+
+== Divisão dos meses ==
+Os romanos tinham nomes especiais para três dias específicos em cada mês. O sistema foi originalmente baseado nas fases da Lua. Após as reformas de Numa Pompílio, eles passaram a ocorrer em dias fixos.
+São os dias do mês:
+
+Calendas (Kalendae) - primeiro dia do mês, de onde a palavra calendário derivou. Os juros das dívidas eram actualizados nas calendas.Nonas – (Nonae) dependendo do mês, podia ser o 5º ou o 7º dia; tradicionalmente o dia que correspondia à fase lunar de quarto crescente.Idos (Idus) dependendo do mês, podia ser o 13º ou o 15º dia; tradicionalmente o dia de lua cheia.Nos seguintes meses as nonas ocorriam ao 5º dia e os idos ao 13º dia:
+Janeiro, fevereiro, abril, junho, agosto, setembro, novembro e dezembro.
+Nos seguintes meses as nonas ocorriam ao 7º dia e os idos ao 15º dia:
+Março, maio, julho e outubro.
+Os outros dias no mês não eram, normalmente, nomeados, apesar de alguns serem conhecidos pelo nome de um festival que neles ocorria.
+(ex. Ferália, Quirinália).
+Para identificar os outros dias contava-se regressivamente ao dias nomeados. Além disso, os romanos contavam inclusivamente, assim, por exemplo, 2 de setembro é considerado quatro dias antes de 5 de setembro, em vez de três como costumamos contar.
+
+
+=== Setembro ===
+O exemplo a seguir demonstra como eram denominados os dias para um setembro pré-juliano, que tinha 29 dias. Mostra como a data era descrita, a sua tradução, e como nós a dizemos actualmente.
+
+a.d. = ante diem = dias antes ; prid.= pridie = o dia anterior ; Kal. = calendas
+Pode-se notar:
+Como os dias eram contados inclusivamente e por haver um nome especial para o dia anterior ao dia com nome, não há a possibilidade de se dizer:
+2 dias antes de um dia com nome.
+Após os idos já não se menciona o mês de setembro, visto que se contam quantos dias faltam para a Calendas de outubro.
+Quando Júlio César adicionou um dia a setembro, este foi acrescentado a seguir dos Idos, assim o dia 14 de setembro passa a significar, a.d. XVIII Kal. Oct.
+Esta mudança gera imprecisão na contagem dos dias atualmente, não ficando claro se uma data ocorreu no dia 23 ou 24 de setembro, por exemplo.
+
+
+== Semana ==
+Foi adotado um sistema de semanas com 8 dias, e os dias eram marcados nos calendários com as letras A, B, C, D, E, F, G e H. Um mercado seria feito no oitavo dia. Para os romanos, que contavam inclusivamente, este seria realizado a cada nove dias, daí que este mercado era denominado nundinae (latim antigo: noundinae, significando dia de mercado — como adjetivo, inter nundinum ou internundinum). Dado que a extensão do ano não era múltipla de 8 dias, a letra para o dia de mercado (conhecida como "letra nundinal") variava a cada ano. Por exemplo, se num determinado ano de 355 dias a letra nundinal era A, a do ano seguinte seria F. No calendário romano, primeiro de janeiro sempre era assinalado com A. O sistema de letras não data dos primórdios da civilização romana, visto que a letra G foi introduzida no século III a.C., mas há registros da divisão em 8 dias feitos por Dionísio de Halicarnasso.Camponeses, após trabalharem nos campos agrícolas por 7 dias, afluíam aos assentamentos no oitavo dia para o mercado. O hábito levou o senado romano a promulgar o jus nundinorum, o direito de exclusividade dos habitantes de determinado distrito sobre os mercados periódicos da localidade; juntamente, uma lei de 287 a.C. (a Lex Hortensia de nundinis) proibia a realização de reuniões das comitia (como por exemplo a realização de eleições) em dias de mercado, mas permitia a realização de actos legais. No fim do período republicano, surgiu uma superstição de considerar nefasto um ano que começasse num dia de mercado, e os pontífices, que regulavam o calendário, tomaram medidas para o evitar.
+Como o ciclo do mercado estava fixado em 8 dias nos tempos da República, a informação acerca das datas do mercado é uma das mais importantes ferramentas que temos actualmente para estabelecer a equivalência entre o calendário pré-juliano e o calendário juliano. No início do período imperial, o dia do mercado era mudado ocasionalmente. Os detalhes não são claros, mas uma explicação provável seria que o dia do mercado seria alterado se coincidisse no mesmo dia que o festival do Regifúgio (Regifugium), um evento que poderia ocorrer num ano bissexto do calendário juliano. Quando isto acontecia, o dia do mercado seria movido para o dia seguinte, que era o dia bissexto.
+A semana de sete dias começou a ser usada no início do período imperial, depois do calendário juliano ter entrado em vigor, aparentemente estimulada pela imigração oriunda do Império oriental. Durante algum tempo a semana de 7 dias coexistiu com o ciclo nundinal de 8 dias e alguns fasti incluem ambos os ciclos. Os sabinos, predecessores no território, utilizavam sistema de semana com 7 dias — fasti Sabini.Os romanos tinham uma cultura pagã e dedicavam os dias da semana aos astros conhecidos, sendo o dies Saturni dedicado ao astro e deus Saturno, que era um dia de descanso pela boa colheita realizada.
+
+Dies Solis (Dia do Sol) - domingo
+Dies Lunae (Dia da Lua) - segunda
+Dies Martis (Dia de Marte) - terça
+Dies Mercuri (Dia de Mercúrio) - quarta
+Dies Iovis (Dia de Júpiter) - quinta
+Dies Veneris (Dia de  Vénus) - sexta
+Dies Saturni (Dia de Saturno) - sábado
+
+
+== Anos ==
+Na República Romana, os anos não eram contados. Ao invés disso eles eram nomeados em homenagem aos cônsules que estavam no poder no início do ano (veja lista de cônsules da República Romana). Por exemplo, 205 a.C. foi o Ano do consulado de Públio Cornélio Cipião Africano e Públio Licínio Crasso.
+Todavia, na república tardia, historiadores e sábios começaram a contar os anos pela data da fundação da cidade de Roma. Diferentes sábios usaram diferentes datas para este evento. A data mais usada hoje em dia é a calculada por Marco Terêncio Varrão, 753 a.C., mas outros sistemas variaram por décadas a seguir. Datas marcadas por este método eram rotuladas ab urbe condita (que significa após a fundação da cidade, e abreviada AUC). Quando textos antigos forem lidos usando datas em AUC, deve se tomar cuidado para determinar a época usada pelo autor antes de traduzir este ano para o calendário juliano.
+O primeiro dia do mandato consular, que era efetivamente o primeiro dia do ano, mudou inúmeras vezes durante a história romana. Foi 1 de Janeiro em 153 a.C.. Anteriormente era 15 de Março. Mudanças anteriores eram um pouco mais incertas. Há boas razões para acreditar que o início do ano era em 1 de Maio durante a maior parte do terceiro século antes de Cristo, até o ano de 222 a.C.. Lívio menciona consulados começando em 1 de Sextil (Augusto), 15 de Maio, 15 de Dezembro, 1 de Outubro e 1 de Quintil (Julho).
+
+
+== Convertendo datas pré-julianas ==
+Achar uma data romana para o calendário juliano pode ter armadilhas. Até datas do início do calendário juliano podem não ser o que parecem ser. Por exemplo, consta-se que Júlio César foi assassinado nos idos de Março de 44 a.C., e é comumente convertido para 15 de Março de 44 a.C..  Embora ele tenha sido de fato assassinado no 15º dia do mês Márcio do calendário romano, a data equivalente no atual calendário é, provavelmente, 14 de Março de 44 a.C..
+Achar um dia equivalente do calendário juliano para uma data pré-juliana é ainda mais difícil. Já que temos uma lista essencialmente completa dos cônsules, não é difícil de achar um ano juliano que geralmente corresponda a um ano pré-juliano.
+No entanto, as fontes raramente nos dizem quais anos são comuns, quais são intercalares e quanto tempo um ano intercalar durava. Assim, datas pré-julianas podem ser muito tortuosas.
+Hoje em dia existe, todavia, um número de pistas para ajudar. Primeiro: sabe-se quando o calendário juliano começou, embora existam controvérsias a respeito. Há também, fontes detalhadas sobre décadas anteriores, na maioria das vezes, em cartas e discursos de Cícero. Combinando-se estes dados com informações sobre como o calendário funcionava, em especial o ciclo nundinal, podemos converter corretamente datas romanas depois de 58 a.C.. Ainda, histórias de Lívio nos dão datas romanas exatas para dois eclipses em 190 a.C. e 168 a.C., e conhece-se, também, uns poucos sincronismos com datas em outros calendários que ajudam a ter soluções aproximadas, e às vezes exatas, para este período. Antes de 190 a.C. o alinhamento entre os calendários romano e juliano é determinado por pistas, como as datas de colheitas mencionadas nas fontes.
+Combinando essas fontes de informações, é possível se estimar aproximações de equivalências julianas às datas romanas até o início da Primeira Guerra Púnica, em 264 a.C.. Porém, enquanto temos informações suficientes para tais reconstruções, o número de anos antes de 45 a.C. que se pode converter datas romanas em julianas com precisão são muito poucos, e várias reconstruções do calendário pré-juliano são possíveis.
+
+
+== Ver também ==
+Calendário
+Fasti Capitolini Consulares et Triumphales
+Roma Antiga
+Dias da semana
+Ano bissexto
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Plutarco, Numa Pompílio
+Ovídio, Fasti
+Bickerman, E.J. Chronology of the Ancient World. Londres: Thames & Hudson, 1969, rev. ed. 1980.
+Brind'Amour, P. Le Calendrier romain: Recherches chronologiques (Ottawa, 1983)
+Michels, A. K. The Calendar of the Roman Republic  Princeton, 1967
+Richards, E.G. Mapping Time. Oxford: Oxford University Press. ISBN 0-19-850413-6 .
+
+
+== Ligações externas ==
+Early Roman Calendar - History
+Smith's Dictionary article
+Roman Dates (Chris Bennett's site)
+James Grout: The Roman Calendar, part of the Encyclopædia Romana
+Date Conversion for Julian and Gregorian dates

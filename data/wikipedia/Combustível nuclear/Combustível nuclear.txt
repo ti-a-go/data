@@ -1,0 +1,326 @@
+Denomina-se combustível nuclear a todo aquele material que tenha sido adaptado para ser utilizado na geração de energia nuclear.
+O termo combustível nuclear pode referir-se tanto ao material (físsil ou fissionável) em si quanto ao conjunto elaborado e utilizado para a finalidade de combustível, isto é, ao material consistente de barras que contém o material físsil em seu interior, às configurações que incluem o combustível junto com o moderador ou qualquer outra configuração.
+O processo mais utilizado e conhecido é a fissão nuclear. O combustível nuclear mais comum é formado por elementos físseis como o urânio, que gera reações em cadeia controladas dentro dos reatores nucleares. O isótopo mais comumente utilizado na fissão é o 235U.
+Os processos de produção do combustível nuclear, que englobam a mineração, refinação, purificação, sua utilização e o tratamento final de resíduos, formam em seu conjunto o denominado ciclo do combustível nuclear.
+Outro processo nuclear que pode ser utilizado é a fusão. Nesse processo, utilizam-se como combustível isótopos leves como o trítio e o deutério.
+Outros elementos, como por exemplo o Pu-238, são utilizados para a produção de pequenas quantidades de energia mediante processos de desintegração radioativa nos geradores termoelétricos de radioisótopos ou em outros tipos de baterias atômicas.
+O reator de tório seria mais seguro  por gerar menos resíduos, que não se prestam para a fabricação de armas nucleares  e, por sua forma de funcionamento, teriam menor possibilidade de falhas.
+
+
+== Fabricação de combustível nuclear ==
+O combustível nuclear utilizado pelos reatores de água pressurizada (PWR) e de água fervente (BWR) é fabricado a partir do urânio natural. O urânio tal como se encontra na natureza é formado por três tipos de isótopos: urânio-238 (238U), urânio-235 (235U) e urânio-234 (234U). De cada grama de urânio natural, 99,28% da massa é de 238U, 0,71% 235U e 0,005% 234U. Os reatores PWR e BWR funcionam obtendo a energia da fissão dos átomos de 235U contidos no combustível e de outras reações nucleares, principalmente a fissão do 239Pu gerado por activação do 238U.
+Para que os reatores moderados por água (PWR, BWR, VVER, ...) possam funcionar é necessário aumentar a proporção do isótopo 235U dos 0,71% presentes na natureza até uma concentração entre 2% e 5%, mediante um processo chamado enriquecimento de urânio.
+Para poder utilizar o urânio em um reator nuclear é necessário realizar uma série de processos químicos e físicos para convertê-lo da forma mineral em que se encontra na natureza até as pastilhas de óxido cerâmico que são carregadas no núcleo de um reator nuclear. São fundamentalmente quatro ou cinco passos, as imagens anexas ilustram o material obtido após cada etapa:
+
+Primeiro, extrai-se urânio da terra, tritura-se e processa-se (habitualmente dissolvendo com ácido sulfúrico) para obtenção de uma pasta amarela chamada "yellow cake".
+Em seguida, ou converte-se o urânio em UF6 para seu enriquecimento no isótopo 235, antes de reconvertê-lo em óxido de urânio, ou pula-se essa etapa, passando para o quarto passo, como no caso do combustível Candu.
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Tipos de combustíveis para reatores de fissão nuclear ==
+
+
+=== Combustíveis a base de óxidos ===
+
+
+==== Dióxido de urânio (UO2) ====
+Este combustível é o utilizado na maioria dos reatores PWR e BWR em operação.
+O dióxido de urânio é empregado na forma de uma cerâmica sólida e negra. Sendo um material cerâmico, o dióxido de urânio possui uma baixa condutividade térmica, o que resulta em uma elevada temperatura na  zona central das pastilhas combustíveis quando se encontram em um reator nuclear. A condutividade térmica é uma função da  porosidade do material e do grau de queima que possui o combustível (isto é, a porcentagem de átomos de urânio iniciais que foram fissionados). A fissão gera outros isótopos, que afetam o combustível, o seu comportamento e as suas propriedades. Alguns produtos permanecem dissolvidos no material combustível (como os lantanídeos), outros precipitam, como o paládio, e outros formam bolhas que contem produtos como o xenônio ou o kriptônio. O combustível também é afetado pelas radiações, pelos deslocamentos devido ao movimento de recuo dos fragmentos da fissão durante a reação, e pelas tensões de origem térmica. Um aumento da porosidade dá lugar à diminuição da condutividade térmica e ao inchaço do material combustível.
+O dióxido de urânio pode ser obtido por de nitrato de urânio com uma base de amônio, para a formação do sólido uranato de amônio, o qual é aquecido para formação de U3O8 que, então, pode ser convertido sob aquecimento com uma mistura de argônio / hidrogênio a (700 oC) para formação de UO2. O UO2 é misturado com um ligante orgânico e comprimido em pastilhas (pellets), que são queimados a uma temperatura muito mais alta (em atmosfera de H2/Ar) para a  síntese do sólido. O propósito dessa síntese é obter um sólido que tenha baixo grau de porosidade.
+
+
+==== MOX ====
+O combustível nuclear de mescla de óxidos, óxido mixto, combustível MOX ,ou simplesmente MOX, é uma mistura de plutônio e urânio natural ou empobrecido que se comporta em um reator de forma similar ao urânio enriquecido que alimenta a maioria dos reatores nucleares. O MOX é uma alternativa ao combustível de urânio enriquecido utilizado na maioria dos reatores comerciais do mundo.
+Algumas preocupações vem se manifestando sobre o fato de que os núcleos de MOX gerariam questões sobre o gerenciamento dos residuos de alta atividade que originam. Ainda assim, o MOX é por sua vez uma solução para o tratamento, mediante fissão, das sobras de plutônio das centrais que utilizam combustíveis de urânio.
+Atualmente (2005), o reprocessamento de combustível nuclear comercial para obtenção de MOX é realizado na Inglaterra, França e, em menor escala, na Rússia, Índia e Japão. A China tem planos para desenvolver reatores reprodutores rápidos e reprocessar.
+
+
+=== Combustíveis para reatores nucleares de pesquisa ===
+Os reatores de pesquisa são aqueles utilizados em universidades e institutos de pesquisa. Estes reatores possuem potências de uma a três ordens de magnitude inferiores às potências de um reator de geração industrial de eletricidade. Além disso, os reatores de pesquisa operam a temperaturas e pressões muito menores do que os comerciais, e não geram eletricidade. Os reatores de pesquisa permitem capacitação de pessoal em técnicas nucleares, pesquisa de propriedades da matéria, irradiação materiais para produção de radioisótopos de aplicação em medicina nuclear, realização de radiografias por nêutrons, realização de análises por ativação neutrônica e irradiação de silício para produção de matéria prima de semiconductores, entre outras aplicações.
+Nesses reatores, utiliza-se urânio enriquecido em uma porcentagem de 12% a 19.75% em 235U.
+Alguns destes reatores de pesquisa empregam combustíveis formados por caixas que alojan cerca de 20 placas de alumínio, dentro das quais fica contido o urânio. O urânio se encontra dissolvido no interior de cada placa em forma de U3O8, UAlx ou U3Si2.
+Outros reatores, denominados TRIGA, sigla em inglês para Treinamento, Pesquisa, Isótopos, General Atomics (General Atomics é o fabricante Norte Americano, que detém a patente deste tipo de reator), utilizam combustível em forma de tarugos constituídos da liga combustível encapsulados em um envólucro de alumínio, ou aço inox . O combustível TRIGA é composto por uma liga de urânio-hidreto de zircônio. Muitos núcleos que usam este combustível são de "altas perdas", onde os neutrôns que saem do núcleo do reator são utilizados para pesquisa.
+
+
+=== Combustíveis líquidos ===
+
+
+==== Sais fundidos ====
+Estes combustíveis se encontram dissolvidos no refrigerante. São empregados nos reatores de sais fundidos e em numerosos experimentos com reatores de núcleo líquido.
+O combustível líquido utilizado no reator de sal fundido é o LiF-BeF2-ThF4-UF4 (72-16-12-0,4 mol). Sua temperatura máxima de funcionamento é de 705 °C, mas pode suportar temperaturas maiores, já que seu ponto de ebulição excede 1400 °C.
+
+
+==== Soluções aquosas de sais de urânio ====
+O reator homogêneo aquoso utiliza uma solução de sulfato de urânio ou otros sais de urânio em água. Este tipo de reator homogêneo não é utilizado por nenhum reator de grande energia. Uma de suas desventagens é que o combustível, em caso de acidente, tem uma apresentação que favorece a dispersão rápida.
+
+
+===== Nitreto de urânio =====
+Este é frequentemente o combustível de eleição para os desenhos de reator fabricados pela NASA. Uma vantagem é que o nitreto de urânio tem uma melhor condutividade térmica que o UO2. O nitreto de urânio tem uma temperatura de fusão muito elevada. Este combustível tem o inconveniente de que, a menos de que se utilize 15N (no lugar do mais habitual 14N), gerar-se-á uma grande quantidade de 14C do nitrogênio pela reação pn. Como o nitrogênio necessário para produzir este combustível é bastante caro, seria lógico que o combustível teria que ser reprocessado mediante um método pirolítico a fim de permitir recuperação do 15N. Também é lógico que, se o combustível fosse processado e dissolvido em ácido nítrico, o nitrogênio enriquecido com 15N voltaria diluído no habitual 14N.
+
+
+===== Carboneto de urânio =====
+Outro combustível que tem sido sugerido, também com uma melhor condutividade térmica que o dióxido de urânio.
+
+
+=== Apresentações físicas habituais do combustível nuclear ===
+Para seu uso como combustível em reatores nucleares, o UF6 produzido com urânio enriquecido no isótopo 235U deve ser convertido em pó de dióxido de urânio (UO2), que então é processado, dando-lhe a forma de pequenas partículas. As partículas são comprimidas e cozidas a altas temperaturas, em um processo chamado sinterização durante o qual as partículas se aderem entre si, formando pequenos cilíndros (pellets) cerâmicos de urânio enriquecido. Os pellets cilíndricos então são retificados em tornos especiais, para obtenção de um tamanho uniforme.
+Em seguida, os pellets são introduzidos em tubos metálicos de uma liga resistente a corrosão. Esses tubos são chamados bainhas combustíveis. Os tubos que contêm os pellets de combustível são fechados com tampões soldados em suas extremidades: estes tubos com sua carga de pellets de urânio são chamados barras combustíveis. As barras terminadas são agrupadas formando faixas, ou elementos combustíveis, cada faixa tendo entre 100 e 400 barras combustíveis dependendo da quantidade do desenho específico de cada reator. Um núcleo de um reactor contem várias centenas de faixas de combustível.
+O metal das bainhas depende do desenho do reator - no passado se utilizava aço inoxidável, mas atualmente a maioria dos reatores empregam uma liga de zircônio. Para os tipos mais comuns de reatores (BWR e PWR), os tubos são montados em faixas tendo distâncias e espaçamentos precisos. A estas faixas se atribui um número de identificação único, que permite sua rastreabilidade em todo o ciclo (da fabricação, até sua estocagem após o uso).
+
+
+==== Combustível para reatores PWR ====
+O combustível do reator de água pressurizada (PWR) é composto por barras cilíndricas organizadas em elementos de combustível. O óxido de urânio cerâmico é transformado em pellets  que são inseridos em tubos de Zircaloy chamados bainhas, que são fechadas hermeticamente com tampões soldados. Os tubos de Zircaloy têm cerca de 1 cm de diâmetro. Há cerca de 179-264 barras de combustível por elemento combustível e o núcleo de um reator aloja entre 120 e 200 elementos combustíveis, segundo seu desenho. Geralmente, os elementos combustíveis têm seção transversal quadrada, estando montados com barras combustíveis ordenadas em conjuntos de 14x14 a 17x17.  Os elementos combustíveis para reatores PWR têm cerca de  4 m de largura. Nos elementos combustíveis PWR, as barras de material absorvente que são utilizadas para controlar a reação nuclear ("barras de controle") são inseridas pela parte superior em locais especiais dentro do elemento combustível. Os elementos combustíveis normalmente são enriquecidos em diversas porcentagens de 235U. O óxido de urânio é secado antes de ser inserido nos tubos, para eliminar a umidade no combustível cerámico, que poderia ocasionar corrosão e fragilidade induzida por hidrogênio. Os tubos de Zircaloy são pressurizados com hélio para tentar minimizar a interação entre a bainha e os pellets.
+
+
+==== Combustível para reatores BWR ====
+No reator BWR, o combustível é similar ao PWR, exceto que os feixes de barras combustíveis estão contidas dentro de um tubo metálico de secção quadrada. Isso é feito para prevenir variações de densidade do refrigerante (água) ocasionadas pela distribuição de geração de calor e existência de vapor no núcleo. Nos feixes dede BWR, há cerca de 500 a 800 barras combustíveis em cada elemento combustível. Cada barra para BWR está recheada com hélio a uma pressão de cerca de três atmosferas  (300 kPa).
+
+
+==== Combustível para reatores Candu ====
+Os feixes de combustível para reatores Candu, que também pode utilizar tório,  medem cerca de meio metro de largura e  30 cm de diâmetro. São formados por tubos de zircônio contendo pellets sinterizados de (UO2), os tubos ou bainhas são soldados nas extremidades a pratos de zircônio. Cada feixe pesa cerca de 20 kg e o núcleo de um reator pode chegar a conter 4.500 feixes. Os modelos modernos normalmente tem 37 barras de combustível idênticas dispostas radialmente ao redor do eixo longitudinal do feixe, mas no passado foram utilizadas diversas configurações e números de barras. Os desenhos atuais do Candu não necessitam urânio enriquecido para alcançar o ponto crítico (devido a seu mais eficiente moderador de neutrões de água pesada). Entretanto, alguns novos conceitos exigem um baixo enriquecimento para ajudar a reduzir o tamanho dos reatores.
+
+
+=== Outros tipos de combustível nuclear menos comuns ===
+Existem diversas outras apresentações de combustível nuclear para aplicações específicas, mas não têm amplo uso nas usinas de energia de BWR, PWR, e Candu.  Muitas dessas apresentações somente são encontradas em reratores de pesquisa, ou têm aplicações militares.
+
+
+==== Combustível compacto TRISO ====
+Os combustíveis tri-isotrópicos (TRISO) foram desenvolvidos inicialmente na Alemanha para reatores de altas temperaturas refrigerados por gás. Nos combustíveis TRISO, o caboneto de urânio é revestido por várias camadas de carbono pirolítico e dióxido de silício para reter os produtos de fissão a elevadas temperaturas. Estes combustíveis eram moldados em esferas de grafite (para reatores de leito de esferas) ou em barras de combustível de grafite (para reatores prismáticos com núcleos refrigerado por gás). Atualmente, este tipo de combustível em utilizado no  HTR-10 na China, e no HTTR no Japón, os quais são reatores experimentais. Os combustíveis compactos TRISO poderiam também ser utilizados nos modelos PBMR  e GT-MHR, caso fossem construídos. A primeira usina de energia a utilizar este combustível foi a THTR-300.
+
+
+==== Combustível CerMet ====
+O combustível CerMet é formado por partículas de combustível cerâmico (normalmente óxido de urânio) alojadas em uma matriz metálica. Tem se especulado que este tipo de combustível é o utilizado nos reatores dos porta-aviões e submarinos nucleares da Marinha dos Estados Unidos. Este combustível possui um elevado coeficiente de transferência térmica e pode suportar um grande volume de expansão.
+
+
+==== Combustível tipo placa ====
+O combustível de tipo placa tem ganhado posições com o passar dos anos. Atualmente, é utilizado no Reator de Testes Avançado no Laboratório Nacional de Idaho.
+
+
+==== Combustível de óxido usado ====
+O combustível de óxido usado é uma mistura complexa de produtos de fissão, urânio, plutônio e metais transplutônicos. O combustível que foi utilizado a altas temperaturas nos reatores de energia normalmente não é homogêneo, contendo nanopartículas de metais do grupo da platina, tais como o paládio. Também é frequente que o combustível tenha agregado, formando protuberâncias, ou tenha sido empregado a temperaturas próximas de seu ponto de fusão. Ainda que o combustível possa se agregar, é muito insolúvel em água, e pode reter a grande maioria dos actinídeos e produtos de fissão dentro do dióxido de urânio.
+
+
+== Combustíveis para reatores de fusão ==
+Ainda que em 2008 não existam reatores de fusão que tenham operado durante períodos de tempo relevantes, ou que tenham permitido o aproveitamento de sua energia, os principais combustíveis que poderian ser utilizados nesses reatores seriam o trítio (³H) e o deutério (²H), podendo usar também o hélio três (³He). Muitos outros elementos podem sofrer fusão caso haja energia suficiente, para o que é necessário alcançar temperaturas suficientemente altas. Em geral, considera-se que haverá três gerações de combustível de fusão, dependendo da factibilidade técnica de se alcançar a fusão de diferentes núcleos atômicos de elementos leves.
+Isso ainda está em fase de pesquisa e desenvolvimento. O projeto ITER é uma iniciativa internacional para avançar no conhecimento da fusão por confinamento magnético.
+
+
+=== Combustível de fusão de primeira geração ===
+O deutério e o trítio são considerados a primeira geração de combustíveis de fusão. Existem várias reações nas quais podem fusionar-se juntos. As três reações mais habituais são:
+²H + ³H 
+  
+    
+      
+        →
+      
+    
+    {\displaystyle \rightarrow }
+   n (14,07 MeV) + 4He (3,52 MeV)
+²H + ²H 
+  
+    
+      
+        →
+      
+    
+    {\displaystyle \rightarrow }
+   n (2,45 MeV) + ³He (0,82 MeV)
+²H + ²H 
+  
+    
+      
+        →
+      
+    
+    {\displaystyle \rightarrow }
+   p (3,02 MeV) + ³H (1,01 MeV)
+
+
+=== Combustível de fusão de segunda geração ===
+A segunda geração de combustíveis requer temperaturas mais altas de confinamento para alcançar a fusão ou tempos de confinamento mais prolongados que os necessários para os combustíveis de primeira geração. Este grupo é formado por deutério e hélio três. Os produtos destes reativos são todos partículas carregadas, mas existem reações laterais que levan à ativação radioativa dos componentes do reator de fusão.
+²H + ³He 
+  
+    
+      
+        →
+      
+    
+    {\displaystyle \rightarrow }
+   p (14,68 MeV) + 4He (3,67 MeV)
+
+
+=== Combustível de fusão de terceira geração ===
+Há vários combustíveis de fusão em potencial na terceira geração. Eles produzem somente partículas carregadas, já que tem menor radioatividade de Maxwell em comparação com outros combustíveis de fusão de terceira geração.
+³He + ³He 
+  
+    
+      
+        →
+      
+    
+    {\displaystyle \rightarrow }
+   2p + 4He (12,86 MeV)
+Outra reação de fusão aneutrônica poderia ser a de próton-boro:
+p + 11B → 34He
+Segundo estimativas razoáveis, as reações laterais seriam cerca de 0,1% da energia de fusão, levada a termo pelos nêutrons. Com 123 keV, a temperatura ótima desta reação é cerca de dez vezes mais que para as reações de hidrogênio puro, o confinamento de energia deveria ser 500 vezes melhor que o requerido para a reação D-T, e a densidade de energia seria  2.500 vezes mais baixa que para D-T.
+
+
+== Combustíveis baseados na desintegração de radioisótopos ==
+
+
+=== Pilha de radioisótopos ===
+As expressões pilha atômica, pilha nuclear ou pilha de radioisótopos são empregadas para descrever um dispositivo que uma as emissões de partícular carregadas de um isótopo radioativo para produzir eletricidade. Estes sistemas utilizam radioisótopos que emitem partículas beta de baixa energia ou partículas alfa, de forma que se minimize a radiação de frenagem, que de outro modo necessitaria o uso de blindagem contra radiações mais pesadas. Foram testados isótopos como o trítio, o 63Ni, o 147Pm ou o 99Tc e foram empregados 90Sr, 238Pu, 242Cm ou 244cúrio.
+Basicamente, existem dois tipos pilhas atômicas: térmicas e não térmicas. Das não térmicas, há vários modelos, que utilizam carga de partículas alfa e beta, e incluem modelos como o gerador de carga direta, o betavolt, a pilha nuclear optoelétrica ou o gerador piezoeléctrico de radioisótopos. Por sua vez, as pilhas atômicas térmicas convertem o calor da desintegração radioativa em eletricidade. Nesse efeito, baseiam-se modelos como o conversor termoiônico, as células termofotovoltaicas, os conversores termoelétricos metal-alcalino e o modelo mais comum: o gerador termoelétrico de radioisótopos.
+
+
+=== Geradores de calor a partir de radioisótopos ===
+As unidades de calor de radioisótopos, (RHU, segundo as iniciais em inglês), geram aproximadamente 1 watt de calor, procedente da desintegração de alguns gramas de 238Pu. Este calor é proporcionado de forma continua durante um período de tempo de várias décadas.
+Sau função é gerar calor, para aquecer equipamentos espaciais muito sensíveis. O satélite artificial Cassini-Huygens, enviado aa planeta Saturno, contem 82 destas unidades (além de  3 GTR para geração de eletricidade). A sonda Huygens, enviada à lua Titã, contem 35 destes elementos.
+
+
+=== Geradores termoelétricos de radioisótopos ===
+Um gerador termoelétrico de radioisótopos (GTR, ou RTG em inglês) é um gerador elétrico que obtem sua energia da desintegração radioativa. Nestes equipamentos, o calor liberado pela desintegração de um material radioativo se converte em eletricidade por meio da utilização de uma série de termopares.
+O 238Pu, sob forma de dióxido de plutônio, se tornou o combustível mais utilizado nos GTR. Este radioisótopo tem uma meia vida de 87,7 anos, uma densidade de energia razoável e níveis baixos de radiação gama e de nêutrons. Alguns GTR terrestres utilizam 90Sr, isótopo que tem uma meia vida mais curta, uma densidade de energia mais baixa e produz radiações gama, mas é muito mais barato. O primeiro GTR foi construído em 1958 pela Comissão de Energia Atômica dos Estados Unidos (NRC), utilizando 210Po. Este combustível proporciona uma enorme densidade de energia, (um único grama de polônio-210 gera 140 watts térmicos) mais tem uso limitado devido à meia vida curta e à emissão de radiação gama, o que fez com que deixasse de ser usado para essa aplicação.
+
+
+== Comportamento do combustível em um reator nuclear de fissão ==
+A temperatura em uma pastilha combustível varia com a distância de seu centro. A uma distância x do centro, a temperatura (Tx) é descrita conforme uma equação na qual ρ é a densidade de energia (W m−3) e Kf é a condutividade térmica do combustível:
+
+  
+    
+      
+        
+          T
+          
+            x
+          
+        
+        =
+        
+          T
+          
+            b
+            o
+            r
+            d
+            e
+          
+        
+        +
+        
+          
+            
+              ρ
+              ⋅
+              
+                r
+                
+                  p
+                  e
+                  l
+                  l
+                  e
+                  t
+                
+                
+                  2
+                
+              
+              −
+              
+                x
+                
+                  2
+                
+              
+            
+            
+              4
+              ⋅
+              
+                K
+                
+                  f
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle T_{x}=T_{borde}+{\frac {\rho \cdot r_{pellet}^{2}-x^{2}}{4\cdot K_{f}}}}
+  
+O combustível utilizado nas centrais nucleares, tanto experimentais quanto industriais, é examinado antes e depois do uso.
+O combustível novo passa por vários controles, nos quais se verifica se suas características físicas coincidem com as indicadas nas especificações técnicas. Esses controles são sempre não destrutivos, utilizando técnicas de metrologia, ultrassom e inspeção visual, entre outras.
+No caso do combustível usado, os exames são realizados nas chamadas células quentes (recinto com paredes grossas, com a finalidade de proteger as pessoas das radiações emitidas pelo combustível), devido à intensidade da radiação que emitem. Nesse caso, são empregados métodos destrutivos e não destrutivos.No combustível usado, estudam-se os seguintes efeitos:
+
+Inchaço.
+Liberação de gases de fissão. Os produtos de fissão mais voláteis que ficam presos dentro do dióxido de urânio podem se liberar.
+Fissuras no combustível. Durante os ciclos termodinâmicos (aquecimentos e resfriamentos) são produzidas tensões que podem levar a rachaduras.
+
+
+=== Comportamento do combustível nuclear de fissão em acidentes ===
+Foram realizadas numerosas pesquisas que permitem conhecer com precisão os fenômenos e as condições que podem produzir falhas de um combustível no reator e a posterior liberação de material radioativo do mesmo. Somente os produtos de fissão mais voláteis poderiam ser liberados em caso de danos graves ao núcleo. Na França, há uma instalação de onde se pode simular a fusão de combustível sob condições controladas.
+Como parte do programa de investigação PHEBUS, realizaram-se experimentos nos quais combustíveis alcançaram temperaturas superiores às de funcionamento, analisando seu comportamento e os mecanismos de falha da bainha que contem o combustível. Neste experimento, também estudou-se a liberação de radioisótopos do combustível.
+
+
+== Ver também ==
+Bateria de diamante
+Ciclo do combustível nuclear
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«Preparação do combustível nuclear» (PDF) (em inglês):
+Combustível PWR
+
+«Esquema de combustível 543 NEI» 
+«Imagem de um conjunto de combustível PWR.» 
+«Imagem mostrando o manejo de um feixe PWR» 
+«Mitsubishi nuclear fuel Co.» Combustível BWR
+
+«Imagem da montagem de um BWR enlatado» 
+«Descrição física do combustível LWR» 
+«Ligações para fotos de BWR da página nuclear tourist.» Combustível Candu
+
+«Imagens do combustível Candu e FAQ» 
+«Noções básicas do desenho do Candu» 
+«A evolução dos ciclos do combustível Candu e seu uso potencial para contribuir para a paz mundial» 
+«Curso de gestão do combustível Candu» (PDF) 
+«Especificações do combustível e do reator Candu (Nuclear Tourist)» 
+«Barras e feixes de combustível Candu.» Combustível TRISO
+
+«Descrição do combustível TRISO» 
+«Exame não destrutivo das cápsulas de combustível nuclear de SiC utilizando a técnica de microfotografia com raios X fluorescentes.» 
+«Processo do combustível compacto GT-MHR» 
+«Descrição do combustível TRISO para "pebbles"» 
+«Página Web de LANL mostrando vários passos da produção do combustível TRISO» Combustível CERMET
+
+«Uma revisão de 50 anos dos programas de desenvolvimento de combustível nuclear espacial» (PDF) 
+«Combustible Cermet nuclear baseado no tório: fabricação de microesfera sinterizada por secagem de difusão» (PDF) 
+«O uso do combustível CERMET baseado no molibdênio, para a gestão de actinídeos em LWR» (PDF) Combustível do tipo placa
+
+«Lista de reatores no INL e imagem de um núcleo de ATR» 
+«Combustível de placa ATR» Combustível TRIGA
+
+«Web de combustíveis General Atomics TRIGA» Combustível de reatores espaciais
+
+«Conferência Nuclear do Espaço 2005 (SNC '05)» Combustível de fusão
+
+«Apresentação de combustíveis de fusão avançados» (PDF)

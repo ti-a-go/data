@@ -1,0 +1,39 @@
+O calendário persa (também conhecido como calendário iraniano ou calendário Jalali) é um calendário solar utilizado no Irão (desde 1925), no Afeganistão (desde 1957) e em regiões vizinhas, particularmente em alguns países da Ásia Central e algumas regiões curdas da Mesopotâmia.
+Deriva do calendário zoroastriano da Pérsia pré-islâmica.
+O calendário Jalali (em pársi: گاه‌شماری جلالی), antecessor do calendário iraniano, foi introduzido em 15 de março de 1079 pelo sultão seljúcida Maleque Xá I, baseado nas recomendações de uma comissão de astrônomos, incluindo Omar Caiam, do observatório imperial da capital Isfahan. Os meses eram computados com base nos movimentos solares através do zodíaco, um sistema que integrava ideias do Suria Sidanta, tratado de astronomia indiano, do século IV ou V. Mais tarde (1258), algumas ideias do calendário chinês também foram incorporadas. O calendário Jalali permaneceu em uso durante oito séculos.
+O calendário iraniano é considerado mais preciso que o calendário gregoriano, já que no calendário gregoriano há um erro de 1 dia a cada 3236 anos, ao passo que, no calendário persa, há um erro de 1 dia a cada 110.000 anos. Além disso, o sistema de alternância de anos normais e anos bissextos do calendário persa é mais preciso do que o do calendário gregoriano. O ano persa inicia-se usualmente no dia 20 ou 21 de março, quando ocorre o equinócio vernal no hemisfério norte, precisamente determinado pelos observatórios astronômicos localizados em Teerão e Cabul.
+O dia 1 de janeiro de 2000 correspondeu ao 11 de Dej de 1378, pelo calendário iraniano.
+Em 21 de março de 2022, começou o ano 1401 do calendário persa.
+
+
+== Estrutura do calendário ==
+Assim como o calendário gregoriano, o calendário persa é composto por 365 ou 366 dias, divididos em 12 meses. Um ano é o ciclo de quatro estações, e um novo ano começa quando o sol parece cruzar o Equador do hemisfério do Sul para o hemisfério do Norte, conforme exibido no centro da terra.  Os seis primeiros meses do ano têm 31 dias; os cinco seguintes têm 30 dias e o último, 29 ou 30 dias se bissexto.Um ano bissexto é um ano que, quando dividido por 33, tem um resto de 1, 5, 9, 13, 17, 22, 26 ou 30. Por exemplo, o ano 1370 é um ano bissexto porque dividi-lo por 33 produz um resto de 17. Há aproximadamente oito anos bissextos em cada ciclo de 33 anos.Isso leva a um calculo mais preciso levando a um erro de 1 dia a cada 110 mil anos. O calendário persa tem como início (o ano I) da Hégira de Maomé de Meca a Medina, que aconteceu no ano 622 da era cristã.
+
+
+== Os meses do ano, segundo o calendário persa ==
+Abaixo está a relação dos doze meses do calendário persa:
+
+O primeiro dia do calendário (1ro Favardin) é o dia de maior festividade do ano. Esse dia é conhecido como Norouz (que vem das palavras persas no e rouz, que significa "novo dia") e pode corresponder aos dias 20 ou 21 de março do Calendário Gregoriano. Pode por vezes acontecer a 22 de março, mas a última vez foi em 1959 e não voltará a acontecer antes do fim do século XXI:
+
+
+== Dias da semana ==
+Nesse calendário, a semana possui sete dias, começando no sábado e encerrando-se na sexta-feira. Os nomes dos dias da semana do calendário persa estão abaixo:
+
+Shanbeh (شنبه em Persa) equivalente ao sábado.
+Yekshanbeh (یکشنبه em Persa) equivalente ao domingo.
+Doshanbeh (دوشنبه em Persa) equivalente à segunda-feira.
+Seshanbeh (سه شنبه em Persa) equivalente à terça-feira.
+Chaharshanbeh (چهارشنبه em Persa) equivalente à quarta-feira.
+Panjshanbeh (پنجشنبه em Persa) equivalente à quinta-feira.
+Jom'eh (جمعه em Persa, originalmente Árabe) ou Adineh (آدینه em Persa) equivalente à sexta-feira.Em países de maioria muçulmana, Jom'eh é um feriado e uma cerimônia especial de adoração é realizada nesse dia, o "louvor de Jom'eh".
+
+
+== Ver também ==
+Noruz
+
+
+== Ligações externas ==
+(em inglês) Conversor de calendários Gregoriano-Persa.Conversor de datas para vários calendários, incluindo este(em inglês) Biblioteca de C# para trabalhar com calendário persa.
+
+
+== Referências ==

@@ -1,0 +1,113 @@
+O Acordo Ortográfico de 1945 é uma convenção ortográfica assinada em Lisboa em 6 de outubro de 1945 entre a Academia das Ciências de Lisboa e a Academia Brasileira de Letras. Este acordo, ligeiramente alterado pelo decreto-lei n.º 32/73, de 6 de fevereiro, estabeleceu as bases da ortografia portuguesa para todos os territórios portugueses (que à data do acordo e até 1975 compreendiam o território europeu de Portugal e as províncias ultramarinas portuguesas — na Ásia e África). No Brasil, o Acordo Ortográfico de 1945 foi aprovado pelo decreto-lei 8.286 de 5 de dezembro de 1945. Entretanto, o texto nunca foi ratificado pelo Congresso Nacional, continuando os brasileiros a regular-se pela ortografia do Formulário Ortográfico de 1943. O texto foi posteriormente revogado pela lei 2.623, de 21 de outubro de 1955.
+Na tentativa de pôr cobro às diferenças ortográficas entre Portugal e o Brasil, como resultado da adoção em Portugal da Reforma Ortográfica de 1911, foram feitos diversos encontros entre as Academias dos dois países, dos quais resultou um acordo preliminar assinado em 1931. No entanto, como os vocabulários que se publicaram, em 1940 (pela Academia das Ciências de Lisboa) e em 1943 (pela Academia Brasileira de Letras), continham ainda algumas divergências, houve necessidade de novas reuniões, em Lisboa, que deram origem ao Acordo Ortográfico de 1945.
+Com a celebração do Acordo Ortográfico de 1990 entre os países lusófonos, e a entrada em vigor deste em Portugal a 13 de maio de 2009, definiu-se um período de transição de seis anos entre as duas normas. Assim sendo, o Acordo Ortográfico de 1945 perdeu a validade legal em Portugal a partir de 12 de maio de 2015, depois em Cabo Verde, devendo entretanto continuar válido em Angola, Moçambique e nos demais países que o seguem, até que ocorra a definitiva implantação do posterior Acordo Ortográfico de 1990 em todos estes países.
+
+
+== Mudanças introduzidas ==
+O Acordo Ortográfico de 1945 pretendia alcançar uma unificação ortográfica absoluta por meio de concessões mútuas das duas ortografias então vigentes, sendo que as alterações no Brasil seriam muito mais profundas que as de Portugal pois revertia a supressão de consoantes mudas introduzida pela reforma brasileira em 1943 que tornavam a grafia de muitas palavras incompatível com a prosódia de Portugal. Além disso, foi feita uma simplificação da acentuação com mudanças que atingiam ambos os países. Porém, como o Brasil acabou não aplicando as alterações, essa simplificação só ocorreu em Portugal, de modo que o Acordo teve o efeito oposto ao pretendido, com o aumento das diferenças ortográficas.
+
+
+=== Mudanças em Portugal ===
+As formas de terceira pessoa do plural do presente do indicativo dos verbos ter e vir passaram de teem e veem a têm e vêm, e isso se estende aos derivados: conteem → contêm, interveem → intervêm. Com isso, a pronúncia de têm e vêm em duas sílabas ([tɐ̃j̃ɐ̃j̃] e [vɐ̃j̃ɐ̃j̃] ou [tẽj̃ẽj̃] e [vẽj̃ẽj̃]) ficaram sendo consideradas como dialetais.
+Palavras como tambêm, Jerusalêm, (êle) contêm, (êle) intervêm passaram a ser grafadas também, Jerusalém, (ele) contém, (ele) intervém.
+Palavras iniciadas com "sc" perderam o S inicial: sciência → ciência, scisão → cisão. O S continuou em derivados antigos, como consciência e rescisão.
+Passou-se a exigir a inclusão de consoantes mudas em um pequeno número de palavras em que não eram pronunciadas em Portugal, mas o eram no Brasil, quer geral, quer restritamente (caracteres, cacto, tecto).
+Deixou-se de usar sinal diacrítico para indicar que o U é pronunciado em palavras como freqüente ou agüentar, passando a frequente e aguentar. A grafia Güiana foi desautorizada.
+Abolição das sequências mm e nn em palavras como emmalar e ennegrecer (passando a emalar e enegrecer). Nessas palavras, a primeira letra da dupla servia para marcar a nasalização da vogal precedente. No entanto, continuou a grafar-se connosco e comummente.
+Regularização do emprego do hífen
+Desautorizou-se marcar o hiato átono de palavras como saìmento
+Abolição de Z em fim de sílaba átona e X em fim de sílaba com valor de S depois de qualquer vogal que não E: azteca →  asteca, juxtapor → justapor
+Abolição do acento em I tónico de hiato quando seguido por NH: raínha → rainha
+Abolição do acento agudo em ditongos que não fossem invariavelmente abertos em ambos os países (combóio → comboio).
+
+
+=== Mudanças que afetariam os dois países ===
+Abolição do acento circunflexo diferencial em palavras como êle, gêlo, côco, sôbre.
+Abolição do acento agudo em I e U tónicos precedidos de ditongo em paroxítonas, como em feiúra, tauísmo, sendo mantida a grafia de oxítonas como Piauí e pauis.
+Dispensa de acento na vogal tónica U, quando, numa palavra paroxítona, precedida de i e seguida de s e outra consoante: semiústo → semiusto
+
+
+== Índice do Acordo Ortográfico de 1945 ==
+Em Portugal, o texto do Acordo Ortográfico de 1945 é composto por três partes:
+
+Decreto 35.228, de 8 de Dezembro de 1945: composta por uma introdução mais cinco artigos, explicitou os princípios de fixação para a grafia da língua portuguesa, fixada a data de 1 de Janeiro de 1946 para sua entrada em vigor.
+Documento n.º 1: reúne as conclusões complementares, tomadas pela Conferência Interacadémica de Lisboa para a unificação ortográfica da Língua Portuguesa, divididas em três partes:
+Parte Primeira: composta por seis itens, estabeleceu os princípios para a implantação e a criação do texto do Acordo Ortográfico de 1945: dentre eles, a proibição de grafias duplas ou alternativas, consentimento no tocante aos regionalismos, denominados «lusismos» e «brasileirismos» e do procedimentos para a elaboração do Acordo.
+Parte Segunda: composta por 51 itens, faz um resumo prévio do conteúdo presente em cada uma das bases do Acordo.
+Parte Terceira: explicita a necessidade de solução de certas questões morfológicas.Documento n.º 2: contém as Bases Analíticas do Acordo Ortográfico de 1945.
+Base I: fixa o alfabeto português em 23 letras, autorizando o k, o w e o y somente em vocábulos estrangeiros e seus derivados, tais como kantismo, darwinismo, byroniano etc., desautorizando o uso das letras vernáculas equivalentes nesses derivados;
+Base II: também se refere aos vocábulos derivados de nomes estrangeiros, mas neste caso são as sequências consonânticas ou letras dobradas inexistentes na língua portuguesa: comtista, jeffersónia, etc.;
+Base III: do uso do h inicial (em função da etimologia), da adopção convencional: hã?, etc., de seu não emprego quando inicia uma palavra unida a um prefixo (inábil, desumano) ou de conjugações mesoclíticas na posição inicial, assim como da sua manutenção no início de palavras a um prefixo pelo hífen;
+Base IV: manutenção dos digramas de origem hebraica ch, th e ph, quando não invariavelmente mudos;
+Base V: distinções gráficas entre ch/x, g/j, s/ss/c/ç/x, do facto de nunca se grafar com c cedilhado inicial, das distinções entre s/x/z finais e interiores;
+Base VI: da eliminação das sequências interiores cc/cç/ct/pc/pç/pt quando invariavelmente mudos e de sua manutenção quando pronunciados num país e não no outro ou quando têm valor fonético e/ou valor de tradição ortográfica e similaridade com outras línguas românicas;
+Base VII: aplicação do mesmo princípio da Base VI às sequências consonantais bd, bt, cd, etc., assim como da simplificação ortográfica de várias outras sequências consonânticas de origem grega;
+Base VIII: manutenção das consoantes finais b, c, d, g e t, quer sejam mudas ou não;
+Base IX: emprego do e ou do i e do o ou do u em função da etimologia;
+Base X: inadmissibilidade da grafia preguntar e de seus derivados e flexões, sempre substituída por perguntar;
+Base XI: padronização das grafias das flexões do verbo querer e seus derivados;
+Base XII: regula a forma de se escrever as vogais nasais ã e õ, assim como das representações nasais com vogais seguidas pelas letras m ou n;
+Base XIII: regula a ortografia dos ditongos orais e e sua acentuação;
+Base XIV: dispensa do acento agudo nas vogais tónicas i ou u seguidas de l, m, n, r, z, nh paroxítonos ou finais;
+Base XV: dispensa do acento nas vogais tónicas i ou u paroxítonas precedidas por ditongo;
+Base XVI: dispensa do acento agudo nos ditongos ei paroxítonos e em certos casos de ditongos oi paroxítonos;
+Base XVII: imposição do uso de acento agudo para flexões da primeira pessoa do plural do indicativo de verbos da primeira conjugação: "nós amamos" (presente), "nós amámos" (pretérito);
+Base XVIII: uso do acento agudo diferencial em "pára", "péla", "pélo" e "pólo";
+Base XIX: o a, o e e o o paroxítonos seguidos por m ou n levam acento circunflexo se esta pronúncia for invariável no Brasil e em Portugal. Em sendo variável a pronúncia, as palavras nessa condição levam sempre o acento agudo;
+Base XX: regula o uso de tem e vem (singular), oposto a têm e vêm (plural);
+Base XXI: regula o uso do acento circunflexo nas flexões verbais terminadas em "-êem" e dispensa o uso desse acento em flexões e palavras terminadas por "-oo";
+Base XXII: regula o uso do acento circunflexo diferencial em "dêmos", "pôde" e dispensa o uso do acento diferencial, excepto as expressamente trazidas no texto do Acordo, em substantivos e verbos homógrafos mas não homófonos;
+Base XXIII: Uso abolido pelo Decreto-Lei 32, de 6 de Fevereiro de 1973.
+Base XXIV: uso do acento grave na ocorrência da crase, isto é, as contracções da preposição a com os artigos a ou as e os pronomes aquele(s), aquela(s), aquilo e aqueloutro(s),aqueloutra(s);
+Base XXV: dispensa do uso de acento grave na palavra Guiana;
+Base XXVI: dispensa do uso de acento grave no caso de palavras homógrafas e heterófonas;
+Base XXVII: supressão completa do trema, tanto no caso de hiatos átonos, tanto no caso de marcação da pronúncia do ü nos grupos "gue", "gui", "que" e "qui", mantida apenas a excepção para os derivados de nomes próprios estrangeiros, tais como mülleriano;
+Base XXVIII: uso do hífen nas palavras compostas;
+Base XXIX: uso do hífen nas palavras compostas com prefixos de origem grega ou latina;
+Base XXX: uso do hífen nas palavras com sufixos de origem tupi-guarani;
+Base XXXI: uso do hífen nas flexões do verbo haver ligadas à preposição de;
+Base XXXII: uso do hífen em encadeamentos vocabulares, tais como: o percurso Lisboa-Coimbra-Porto, etc.;
+Base XXXIII: inadmissibilidade do uso do apóstrofo em uniões vocabulares perfeitas ou de uso corrente;
+Base XXXIV: regula o uso da preposição de quando esta não se funde com pronomes ou advérbios;
+Base XXXV: uso do apóstrofo para a cisão gráfica de uma contracção ou aglutinação vocabular, como em  d'«Os Lusíadas», pel'«Os Sertões», nada impedindo o uso separado: de «Os Lusíadas», por «Os Sertões».
+Base XXXVI: possibilidade do uso do apóstrofo para a referência a entidades sagradas: d'Ele, lh'A, etc.;
+Base XXXVII: uso do apóstrofo no caso da elisão do e em termos como: pau-d'arco, copo-d'água, etc.
+Base XXXVIII: uso do apóstrofo na elisão de palavras com Santo (Sant'Iago) ou Santa (Sant'Ana), podendo ser fundidos caso haja unidade mórfica;
+Base XXXIX: uso de maiúsculas para designar raças, povos ou populações e meses do ano;
+Base XL: uso de maiúsculas em palavras como Fulano, Sicrano ou Beltrano;
+Base XLI: os nomes de pontos cardeais (escritos com minúsculas) passam a ser grafados com maiúsculas quando designam regiões;
+Base XLII: uso de maiúsculas para palavras que designem altos conceitos políticos, nacionais ou religiosos;
+Base XLIII: uso de minúsculas em nomes de disciplinas e ciências, salvo certas excepções;
+Base XLIV: uso da maiúsculas para obras literárias, periódicos e produções artísticas;
+Base XLV: uso de maiúsculas para flexões pronominais referentes às entidades sagradas;
+Base XLVI: uso de maiúsculas para nomes de cargos e títulos;
+Base XLVII: regras para o uso de maiúsculas para compostos onomásticos;
+Base XLVIII: a divisão silábica se faz pela soletração e não pela etimologia, com o estabelecimento de regras específicas para certos casos;
+Base XLIX: o ponto de interrogação e o ponto de exclamação são utilizados apenas em suas formas normais;
+Base L: garantia da possibilidade de se manter a grafia original de nomes próprios, de marcas e de firmas sociais;
+Base LI: recomenda a substituição do uso de topónimos estrangeiros pelas equivalentes vernáculas, sempre que existam e/ou possam entrar no uso corrente.
+
+
+== Aplicação legal ==
+
+
+=== Em Portugal ===
+Este acordo tornou-se lei em Portugal pelo Decreto n.º 35 228, de 8 de dezembro de 1945. Consequentemente, passou a reger a ortografia de todas as possessões coloniais então sob seu controlo: Angola, Cabo Verde, Guiné, Moçambique, São Tomé e Príncipe, Estado da Índia e Timor. Estes países, após as suas independências, continuaram a reger-se por estas regras.
+
+
+=== No Brasil ===
+No Brasil, o Acordo Ortográfico de 1945 foi aprovado pelo decreto-lei 8.286, de 5 de dezembro de 1945. Entretanto, o texto nunca foi ratificado pelo Congresso Nacional, continuando os brasileiros a regular-se pela ortografia do Formulário Ortográfico de 1943 até 2016, quando passou a valer o Acordo Ortográfico de 1990 .
+
+
+== Referências ==
+
+
+== Ver também ==
+Ortografia da língua portuguesa
+Reforma Ortográfica de 1911
+Formulário Ortográfico de 1943
+Acordo Ortográfico de 1990
+
+
+== Ligações externas ==
+Acordo Ortográfico de 1945 - Oficial em todos os países excepto no Brasil

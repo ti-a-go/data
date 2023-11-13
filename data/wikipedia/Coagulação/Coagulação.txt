@@ -1,0 +1,18 @@
+Coagulação é um processo físico de separação na qual uma solução líquida tem seus componentes separados por meio de alguma substância reagente.
+
+
+== Uso no tratamento de água ==
+A coagulação consiste em uma operação unitária, na qual há adição do coagulante na água para desestabilizar as partículas suspensas no meio, sendo estas coloides carregados negativamente em sua superfície. A desestabilização ocorre pela reação de hidrólise, ao se adicionar o coagulante na água, e pela adsorção dessas espécies hidrolisadas à superfície das partículas coloidais. Esse processo pode ser classificado em quatro principais mecanismos, dependendo da dosagem do coagulante e das condições físico-químicas da água: a compressão da dupla camada elétrica; a adsorção e neutralização de cargas; a varredura; e a adsorção e formação de pontes; que podem atuar individualmente ou de forma conjunta. Nas ETAs, comumente, prioriza-se o mecanismo de varredura para tratar a água, no qual há a maior adição de coagulante nesse meio e a formação de precipitados. Essa preferência ocorre pelo fato de esses precipitados serem maiores do que aqueles formados por outros mecanismos, resultando em uma velocidade de sedimentação maior.
+
+
+== Ver também ==
+Separação de misturas
+Estação de tratamento de água
+Estação de tratamento de águas residuais
+Coagulação sanguínea
+
+
+== Notas ==
+
+
+== Referências ==

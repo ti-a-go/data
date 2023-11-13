@@ -1,0 +1,37 @@
+O espaço aéreo de um país é a porção da atmosfera que se sobrepõe ao território desse país, incluindo o território marítimo, indo do nível do solo, ou do mar, até 100 quilômetros de altitude, onde o país detém o controle sobre a movimentação de aeronaves.
+
+
+== Controle do espaço aéreo ==
+Praticamente todos os países têm todo seu espaço aéreo vigiado por radares. No entanto, nem todo o espaço aéreo tem suas atividades aéreas controladas pelos órgãos de controle: Existem áreas controladas e não controladas.
+Toda aeronave deve ter uma autorização antes de ingressar em áreas controladas e deve manter contato por rádio com o órgão de controle quando nesta área. Essas áreas geralmente correspondem a áreas com tráfego aéreo significante, como áreas próximas a aeroportos e aerovias.
+Em áreas não controladas não é necessário que as aeronaves tenham autorização prévia para voar e não é necessário manter contato com os órgãos de controle caso a aeronave não tenha rádio. Essas são áreas onde o tráfego aéreo é muito pequeno, sem necessidade de controle aéreo por um órgão, já que as aeronaves com rádio, geralmente,  comunicam-se entre si a fim de evitar colisões. Os Ultraleves, apesar de poderem voar em espaço aéreo controlado, utilizam principalmente o que é designado como G (não controlado), onde se aplicam as regras de voo visual.
+Existem também espaços aéreos condicionados, divididos em três grupos:
+
+Areas proibidas - onde o voo não é permitido. Ex: refinarias, fábricas de explosivos, áreas de segurança nacional.
+Áreas perigosas - onde o voo é permitido mas existem riscos potenciais para a navegação aérea. Ex: área de treinamento de aeronaves civis, voo de planadores.
+Áreas restritas - onde o voo só será permitido com prévia autorização do órgão de controle aéreo, pois essas áreas podem ser temporariamente fechadas. Ex: lançamento de paraquedistas, treinamento de acrobacias, lançamentos de foguetes.
+
+
+== Divisão do espaço aéreo ==
+O espaço aéreo é dividido em superior e inferior. O espaço aéreo inferior vai do nível do solo até o FL 245 inclusive (nível de voo 245), que em condição padrão de pressão equivale a 7450 metros de altitude. O espaço aéreo superior vai do FL 245 exclusive sem limite superior
+O espaço aéreo superior é horizontalmente dividido em áreas não controladas e áreas controladas chamadas UTA (área de controle superior), constituída por aerovias e áreas com grande densidade de tráfego aéreo.
+O espaço aéreo inferior contém também áreas não controladas, também chamadas de FIR, e quatro tipos de espaços aéreos controlados:
+ATZ ou Zona de Tráfego de Aeródromo - Espaço aéreo controlado pela torre de controle. É a área em que os controladores na torre de controle do aeródromo têm contato visual com a aeronave em procedimento visual (VFR) de pouso e decolagem.
+CTR ou Zona de controle - Espaço aéreo controlado cujo principal objetivo é proteger aeronaves em pouso ou decolagem por instrumentos (IFR). Geralmente os aeródromos que tem CTR não tem ATZ, porém os procedimentos de pouso e decolagem visuais continuam sendo controlados pela torre de controle.
+TMA ou Área de Controle Terminal - Espaço aéreo controlado situado em regiões em que existe uma grande densidade de tráfego aéreo. Geralmente situado ao redor de aeroportos importantes, destina-se ao controle dos procedimentos de aproximação por instrumentos.
+CTA ou Área de Controle Inferior - Espaço aéreo controlado no qual situam-se as aerovias. Geralmente ficam entre os níveis FL 145 (aproximadamente 4 400 m de altitude) e FL 245 (aproximadamente 7 450 m de altitude).
+
+
+=== Classes do espaço aéreo ===
+O espaço aéreo é internacionalmente dividido em sete classes, de A a G. Cada classe tem diferentes regras quanto a separação entre aeronaves, controle exercido pelo órgão de controle de tráfego aéreo, exigência de autorização, condições meteorológicas mínimas para voos visuais, limites de velocidade e exigência de contato por rádio com controladores de tráfego.
+
+A Classe A é exclusiva a voos por instrumentos (IFR). Nela as aeronaves são separadas pelos controladores de tráfego e é obrigatório manter o contato por rádio e obter autorização antes de ingressar nesse espaço. Geralmente são áreas acima da altitude limite para voo visual (FL 145) e áreas de aeroportos com intenso tráfego de voos por instrumentos.
+
+
+== Notas e referências ==
+
+
+=== Notas ===
+
+
+=== Referências ===

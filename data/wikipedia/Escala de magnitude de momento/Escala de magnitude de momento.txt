@@ -1,0 +1,261 @@
+A escala de magnitude de momento (abreviada como MMS e denotada como 
+  
+    
+      
+        
+          M
+          
+            
+              w
+            
+          
+        
+      
+    
+    {\displaystyle M_{\mathrm {w} }}
+  , onde w indica trabalho realizado) é usada pelos sismólogos para medir a magnitude dos terremotos em termos de energia liberada.A MMS foi introduzida em 1979 por Thomas C. Hanks e Hiroo Kanamori, vindo a substituir a Escala de Richter (
+  
+    
+      
+        
+          M
+          
+            
+              L
+            
+          
+        
+      
+    
+    {\displaystyle M_{\mathrm {L} }}
+  ), desenvolvida nos anos 1930. Embora as fórmulas sejam diferentes, a nova escala manteve os valores de magnitude definidos pela antiga. Menos conhecida pelo público, a MMS é, no entanto, a escala usada para estimar as magnitudes de todos os grandes terremotos modernos.Assim como a escala Richter, a MMS é uma escala logarítmica. Assim, um terremoto é cerca  de trinta vezes mais potente para cada grau de diferença (a magnitude 5 é trinta vezes superior que a magnitude 4; a magnitude 6 é 900 vezes superior a uma magnitude 4, e assim por diante).
+A magnitude é baseada no momento do terremoto, que é igual à resistência da Terra multiplicada pela quantidade média de deslocamento da falha e o tamanho da área que se deslocou.
+
+
+== Momento sísmico e magnitude de momento ==
+O momento sísmico é uma quantidade usada pelos sismólogos para medir a magnitude de um terremoto. Combina a área de ruptura e a compensação da falha geológica com uma medida da resistência das rochas e o módulo de cisalhamento μ. É definido pela equação
+
+  
+    
+      
+        
+          M
+          o
+        
+        =
+        
+          μ
+        
+        S
+        
+          D
+        
+      
+    
+    {\displaystyle \mathbf {Mo} ={\mu }S\mathbf {D} }
+  
+
+onde:μ = módulo de cisalhamento das rochas envolvidas no terremoto. Usualmente é de 30 gigapascal;
+S = área de ruptura ao longo da falha geológica onde ocorreu o terremoto;
+D = deslocamento médio de S.
+Usualmente mede-se o momento diretamente dos sismógrafos, dado que o tamanho das ondas de períodos muito grandes, geradas por um terremoto, é proporcional ao momento sísmico. As unidades físicas do momento sísmico são força x distância medidos em dyn x cm.
+Para calcular a magnitude do momento sísmico, utiliza-se a equação construída por Hiroo Kanamori no Laboratório de Sismologia do California Institute of Technology, em Pasadena.
+O símbolo da escala de magnitude do momento é 
+  
+    
+      
+        
+          M
+          
+            
+              w
+            
+          
+        
+      
+    
+    {\displaystyle M_{\mathrm {w} }}
+  ,
+onde w significa trabalho mecânico realizado. 
+  
+    
+      
+        
+          M
+          
+            
+              w
+            
+          
+        
+      
+    
+    {\displaystyle M_{\mathrm {w} }}
+   é um número adimensional definido por
+
+  
+    
+      
+        
+          M
+          
+            
+              w
+            
+          
+        
+        =
+        
+          
+            2
+            3
+          
+        
+        
+          (
+          
+            
+              log
+              
+                10
+              
+            
+            ⁡
+            
+              
+                
+                  M
+                  
+                    0
+                  
+                
+                
+                  
+                    N
+                  
+                  ⋅
+                  
+                    m
+                  
+                
+              
+            
+            −
+            9
+            ,
+            1
+          
+          )
+        
+        =
+        
+          
+            2
+            3
+          
+        
+        
+          (
+          
+            
+              log
+              
+                10
+              
+            
+            ⁡
+            
+              
+                
+                  M
+                  
+                    0
+                  
+                
+                
+                  
+                    d
+                    y
+                    n
+                  
+                  ⋅
+                  
+                    c
+                    m
+                  
+                
+              
+            
+            −
+            16
+            ,
+            1
+          
+          )
+        
+      
+    
+    {\displaystyle M_{\mathrm {w} }={2 \over 3}\left(\log _{10}{\frac {M_{0}}{\mathrm {N} \cdot \mathrm {m} }}-9,1\right)={2 \over 3}\left(\log _{10}{\frac {M_{0}}{\mathrm {dyn} \cdot \mathrm {cm} }}-16,1\right)}
+  
+
+  
+    
+      
+        
+          M
+          
+            
+              w
+            
+          
+        
+        =
+        
+          
+            2
+            3
+          
+        
+        
+          log
+          
+            10
+          
+        
+        ⁡
+        
+          (
+          
+            M
+            
+              0
+            
+          
+          )
+        
+        −
+        10
+        ,
+        7
+      
+    
+    {\displaystyle M_{\mathrm {w} }={2 \over 3}\log _{10}\left(M_{0}\right)-10,7}
+  
+onde 
+  
+    
+      
+        
+          M
+          
+            0
+          
+        
+      
+    
+    {\displaystyle M_{0}}
+   é o momento sísmico em dina·centímetro (10−7 N·m).Os valores constantes da equação são atribuídos de modo que haja consistência com os valores de magnitude produzidos pelas antigas escalas, sobretudo a escala de momento local (ou escala Richter).
+Da mesma forma que a escala Richter, um aumento de 1 ponto nesta escala logarítmica corresponde a um aumento de 101,5 = 31,6 vezes na quantidade de energia liberada e um aumento de 2 pontos corresponde a um incremento de 103 = 1 000 vezes em energia.
+
+
+== Referências ==

@@ -1,0 +1,43 @@
+Regulação econômica (português brasileiro) ou regulação económica (português europeu) é a área da Economia que estuda o funcionamento do sistema econômico através da regularidade de preços e de quantidades produzidas, ofertadas e demandadas através da interação econômica entre as respectivas partes do sistema econômico: o Estado, as empresas, os credores, os trabalhadores, os consumidores e os fornecedores.
+
+
+== Regulação, regulação estatal e regulamentação ==
+Não deve ser confundida com a regulação estatal, ou mesmo com a regulamentação, onde o Estado através de leis, portarias e intervenções pela política econômica e pelos órgãos públicos direta e indiretamente regulamenta e intervém na vida econômica.
+Contudo, a regulamentação, os órgãos e as agências reguladoras, assim como as práticas estatais de regulação, são partes do complexo de regulação econômica estatal, e não a regulação em si.
+Assim também, muito menos, podem esses serem identificadas com o próprio complexo geral de regulação da economia que exercido também como outros componentes do sistema econômico.
+
+
+== Abordagens em torno da regulação econômica ==
+Há três grandes abordagens teóricas sobre regulação econômica:
+a) que advém da tradição econômica clássica e neoclássica, onde a regulação é realizada pelo mercado, via mecanismos de preço e quantidade, a lei da oferta e da procura. Tanto a neoclássica "lei de Say" e a keynesiana e kaleckiana "Princípio da Demanda Efetiva" lhes são decorrências lógicas;
+b) que advém da tradição geral da heterodoxia, onde predomina a visão da Escola da regulação, que as instituições, normas e mercados especiais (de trabalho e de moeda) são os responsáveis pela regulação.  Os schumpeterianos, os evolucionistas e os institucionalistas também concebem de maneira semelhante, destacando o papel das instituições e organizações;
+c) que advém do Marxismo, onde a regulação é exercida pela "lei do valor". A melhor expressão desta visão encontra-se com o economista soviético Preobrajenski e seu livro A Nova Econômica, que diz "numa sociedade que não possui centros diretores de uma regulação planificada, chega-se, graças à ação direta ou indireta desta lei, a tudo que é necessário para um funcionamento relativamente normal de todo o sistema de produção".
+
+
+== Regulação e concorrência ==
+O fomento e preservação da concorrência ultrapassa o quadro típico das regras de concorrência, que ao dirigirem-se à sua salvaguarda implicam que as autoridades encarregues de as aplicar procurem corrigir distorções que entravem a concorrência, mas sempre abstendo-se de se substituírem ao próprio mecanismo de mercado.
+Ou seja, as autoridades de concorrência em geral, e a Autoridade da Concorrência (AdC) em particular, dispõem de dois instrumentos principais para prosseguir as suas atribuições:
+(i)	em primeiro lugar, o controlo comportamental das empresas através da aplicação de normas proibitivas de certas condutas lesivas da concorrência: os acordos, práticas concertadas entre empresas e as decisões de associações de empresas, por um lado, e as práticas unilaterais de empresas que disponham de um poder de mercado significativo (abuso de posição dominante). Este controlo, de índole estritamente sancionatória, é assegurado ex post e visa punir os comportamentos ilícitos, isto é, violadores dos artigos 4.º e 6.º da Lei n.º 18/2003, de 11 de Junho (Lei da Concorrência);
+(ii)	em segundo lugar, um mecanismo de natureza preventiva e relativo à estrutura dos mercados, através do controlo das concentrações de empresas. Esta é a única situação em que está prevista uma actuação da AdC ex ante, e que visa prevenir situações de criações de poder de mercado significativos que venham a criar distorções que entravem a concorrência (daí deverem ser proibidas as operações de concentração que criem ou reforcem uma posição dominante da qual possam resultar entraves significativos à concorrência – n.º 4 do artigo 12.º da Lei da Concorrência).
+Já às entidades reguladoras sectoriais, cumpre acautelar e promover, numa perspectiva ex ante, o melhor funcionamento dos mercados sob sua regulação. E a regulação surge tipicamente em mercados onde a concorrência não produz os efeitos benéficos desejados, normalmente devido a falhas de mercado.
+Do ponto de vista económico, a regulação justifica-se naqueles sectores em que, por razões económicas (p. ex., tecnologia ou procura) não há condições para a concorrência se materializar ou desenvolver como nos mercados “típicos”.
+A abordagem tradicional na Europa aos problemas de falhas de mercado consistiu, durante décadas, na intervenção directa do Estados através de empresas públicas. Mas a partir da década de 90, as empresas públicas foram sendo privatizadas e instituídos reguladores independentes, de forma a regular os mercados sectoriais em causa e, claro está, o comportamento de mercado de tais empresas que não apresentam a pressão normal adveniente das situações concorrenciais.
+Concretamente sobre a situação portuguesa, AdC e Reguladores Sectoriais divergem no sentido da respectiva intervenção no mercado: “as autoridades da concorrência procuram assegurar a manutenção da concorrência como um processo. Ao invés, as autoridades reguladoras sectoriais estão orientadas para a substituição das forças de mercado”.
+E efectivamente, se a concorrência pode ser considerada como um estado dinâmico de um mercado que estimula as empresas a investir e a inovar com vista à prossecução dos seus objectivos e ao aproveitamento óptimo dos recursos escassos disponíveis, ela representa igualmente uma situação de mercado em que os diferentes agentes económicos actuam de forma independente e determinam individualmente os seus comportamentos comerciais e de mercado, utilizando os diferentes instrumentos para as suas diferenciações (como sejam os preços, a qualidade e características dos produtos ou serviços fornecidos, a disponibilidade dos mesmos, etc.).
+Assim, e sendo pacífico que da livre concorrência, designadamente entre fornecedores de bens e serviços, resulta o estímulo da inovação e do crescimento, em prol do aumento de variedade e/ou da qualidade de bens e serviços a preços inferiores, é, então, igualmente assente que o bem público concorrência deve ser fomentado, promovido, e seguramente respeitado, pelos agentes económicos, designadamente pelos operadores.
+Por outro lado, é sabido que mercados com estruturas mais concorrenciais potenciam o jogo competitivo entre prestadores, e que o reverso tipicamente ocorrerá em mercados mais concentrados. Naquelas situações em que o próprio preço constitui um instrumento de concorrência e diferenciação entre os agentes económicos, a existência de grau considerável de concorrência tenderá a gerar preços mais baixos, ao passo que na segunda hipótese serão tendencialmente cobrados preços mais elevados pelos mesmos serviços ou bens.
+Mas a concorrência entre agentes económicos não se desenvolverá apenas e somente no estrito campo dos preços. Na realidade, sendo a concorrência indutora de inovação e desenvolvimento, a diferenciação entre os agentes económicos pode, ainda, ocorrer em características dos serviços ou produtos relevantes tão importantes quanto a qualidade, rapidez de fornecimento, inovação, disponibilidade e eficiência.
+Em todos esses aspectos, e porque como já referido, trata-se de mercados não sujeitos às pressões concorrenciais e competitivas “normais”, os reguladores sectoriais terão capacidade de intervenção de forma a suprirem a falta de tais pressões que, tipicamente, geram benefícios para os consumidores e bem estar social.
+
+
+== Ver também ==
+Lei da oferta e da procura
+Lei do valor
+Teoria do valor-trabalho
+Acumulação socialista primitiva
+Regulação
+
+
+== Referências ==
+
+Maria Manuel Leitão MARQUES, et. al., Concorrência e Regulação - A Relação entre a Autoridade da Concorrência e as Autoridades de Regulação Sectorial, Vol. 6, Direito Público e Regulação, Coimbra: Coimbra Editora, 2005.

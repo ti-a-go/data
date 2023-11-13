@@ -1,0 +1,35 @@
+Fonografia se refere ao ato de se fazer e ouvir música utilizando os meios de gravação e de reprodução de áudio. Configura-se como um dos marcos tecnológico-musicais mais notáveis na música ocidental, sendo o outro o surgimento da notação musical, inicialmente através das neumas, no séc. VIII, posteriormente, sob a forma da tecnologia da partitura. Ambos os marcos mudaram a forma como a transmissão da música passou a se dar, seja a através da visualidade da partitura, seja através da reprodutibilidade mecânica do som gravado.
+
+
+== Criação do fonógrafo ==
+O marco mais importante da fonografia encontra-se na criação do fonógrafo em 1877, por Thomas Edison, apesar de, já em 1857, ter se esboçado o surgimento da gravação, quando da invenção do fonoautógrafo por Édouard-Léon Scott de Martinville, aparelho este que diferenciava-se do de Edison por somente gravar sons, mas não os reproduzir. Apesar da tentativa pela companhia de Edison de popularizar o fonógrafo como instrumento musical, o gramofone, que tinha a finalidade meramente de reproduzir sons, tomou seu espaço desde sua criação em 1887, por Émile Berliner. Ainda assim, o termo fonógrafo se refere a ambos os aparelhos.Desde a criação dos meios de gravação através do fonógrafo, desenvolveu-se, em decorrência, tanto um mercado musical associado à venda desses aparelhos, quanto uma indústria fonográfica que se destinou a produzir obras para as mídias fonográficas de cada época, desde a criação do fonógrafo.
+Tais mídias fonográficas evoluíram com o passar do tempo, desde o cilindro inventado por Edison, até os discos de laca (tendo sido o disco de 78rpm o formato dominante entre os anos 1910 e 1950), e posteriormente o disco de vinil, tanto quanto os rolos de fita magnética dos gravadores de rolo e dos gravadores em fita cassete, culminando nos formatos digitais como o CD, o MiniDisc ou o DAT, e, atualmente, nos formatos digitais em WAV, AIFF, MP3, OGG, para citar somente alguns deste formatos digitais.
+Os aparelhos fonográficos, desde a criação do fonógrafo, incluem toda a gama de equipamentos de áudio, que vão desde reprodutores de áudio (monitores de referência, amplificadores), gravadores de áudio (fonógrafos, gravadores de fita magnética, gravadores digitais e microfones), e equipamentos de processamento de áudio em geral (desde compressores, equalizadores, reverberadores, até processamentos de efeitos de áudio, como phaser e chorus, entre outros), e que constituem os meios através do qual a fonografia ocorre.
+
+
+== Categorias de obras fonográficas ==
+
+
+=== Obras de fonografia ===
+É um conceito definido por Brown, que se refere a obras musicais feitas estritamente para produção e consumo fonográfico.
+Segundo Brown, as obras de fonografia possuem as seguintes características:
+
+Não há variações de interpretação como há numa performance de música ao vivo. Espera que no playback seja ouvido exatamente a mesma coisa, todas as vezes.
+Obras de fonografia são construções sonoras criados a partir do uso de equipamentos de gravação com um intuito intrinsecamente estético, e não por necessidades documentais extrínsecas. A palheta sonora de uma obra de fonografia pode conter trechos de performances musicais. E pode misturar o uso de trechos de performance, com a manipulação sonora através de equipamentos de estúdio.
+Obras de fonografia não estão sujeitas à performance, e sim somente ao playback. São fono-acessíveis.Práticas musicais que se enquadram, por exemplo, nesta categoria são as da música eletroacústica, a dos gêneros musicais populares eletrônicos em geral, o rock, e o pop.
+
+
+=== Gravações documentais ===
+Refere-se ao uso da fonografia para realização de gravações com fins de registro documental de performances, mas sem a utilização da tecnologia de gravação com fins estéticos. Geralmente representará performances inteiras em situação de música ao vivo. Foi um tipo de registro comum na época do surgimento do fonógrafo, com fins de demonstrar tanto as capacidades de gravação do fonógrafo, quanto de trazer a sala de concerto aos ambientes privados, através da venda de discos a serem reproduzidos em situações residenciais, como ilustra-se com o caso do cantor Enrico Caruso, artista do selo da Victor, e que realizou grande número de gravações de óperas tradicionais para escuta em ambiente doméstico.
+
+
+== Referências ==
+
+
+== Bibliografia ==
+BROWN, B. Lee. Phonography, Rock Record, and the Ontology of Recorded Music. Ohio: Journal of Aesthetics and Art Criticism. 2000, p. 372.
+DELALANDE, François. Le Son Des Musiques: Entre Technologie Et Esthétique. Paris: INA-Buchet/Chastel. 2001, p. 266.
+IAZETTA, Fernando. Música e Mediação Tecnológica. São Paulo: Perspectiva. Fapesp: 2009, p. 228.
+LEPPERT, Richard. Aesthetic Technologies of Modernity. California: University of California Press. 2015, p. 352.
+SILVEIRA, I. J., Henrique. Uma Trajetória para o Toca-Discos e Seus Discos. Juiz de Fora: Encontro Internacional de Música e Arte Sonora – EIMAS, Vol 2. 2012, p. 9.
+THÈBERGE, Paul. The 'Sound' Of Music: Technological Rationalization and The Production Of Popular Music. New Formations, Number 8, 1989.

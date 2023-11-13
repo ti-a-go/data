@@ -1,0 +1,366 @@
+O produto interno bruto (PIB) representa a soma (em valores monetários) de todos os bens e serviços finais produzidos numa determinada região (quer sejam países, estados ou cidades), durante um período determinado (mês, trimestre, ano, etc). O PIB é um dos indicadores mais utilizados na macroeconomia com o objetivo de quantificar a atividade econômica de uma região.Na contagem do PIB, considera-se apenas bens e serviços finais, excluindo da conta todos os bens de consumo de intermediário. Isso é feito com o intuito de evitar o problema da dupla contagem, quando valores gerados na cadeia de produção aparecem contados duas vezes na soma do PIB.
+
+
+== PIB nominal e PIB real ==
+Quando se procura comparar ou analisar o comportamento do PIB de um país ao longo do tempo, é preciso diferenciar o PIB nominal do PIB real. O primeiro diz respeito ao valor do PIB calculado a preços correntes, ou seja, no ano em que o produto foi produzido e comercializado. Já o segundo é calculado a preços constantes, em que é escolhido um ano-base para o cálculo do PIB, eliminando assim o efeito da inflação. Para avaliações mais consistentes, o mais indicado é o uso de seu valor real, que leva em conta apenas as variações nas quantidades produzidas dos bens, e não nas alterações de seus preços de mercado. Para isso, faz-se uso de um deflator (normalmente um índice de preços) que isola o crescimento real do produto daquele que se deu artificialmente devido ao aumento dos preços da economia.
+
+
+=== Deflator do PIB ===
+Deflator é qualquer índice de preços usado para medir a inflação ou a desvalorização da moeda. Para deflacionar, usa-se uma regra de três simples, dividindo-se o valor da época
+(valor corrente) pelo índice de preços correspondente, tendo-se como referência um determinado período de tempo (um ano-base, por exemplo).O produtor do PIB corresponderá à razão entre PIB nominal e PIB real, isto é, ao quociente da divisão do PIB nominal pelo PIB real.
+Para se obter PIB real (ou o PIB a preços constantes) é preciso deflacionar o PIB a preços correntes (PIB nominal), ou seja, é preciso padronizar todos os preços vigentes em cada ano, trazendo-os ao mesmo nível dos preços vigentes no ano-base. Assim será possível saber  o quanto o PIB evoluiu de fato (em termos reais). Observe-se que, no ano-base, o PIB nominal e o PIB real são iguais; portanto, o deflator do PIB nesse ano deve ser igual a um.
+Para deflacionar o PIB nominal, utiliza-se um deflator específico, calculado pelas instituições nacionais de estatística, que mede a variação média dos preços de um ano em relação aos preços do ano anterior. Esse índice é conhecido como o deflator implícito do PIB e é divulgado apenas nas bases trimestral e anual. Embora seja menos citado do que os demais índices de preços disponíveis na economia, o deflator implícito do PIB é provavelmente o mais abrangente, pois considera informações indisponíveis nos outros índices. Chama-se implícito, porque não é um índice pesquisado diretamente, como são, no Brasil, o Índice Geral de Preços-Disponibilidade Interna (IGP-DI), calculado pela Fundação Getulio Vargas (FGV), e o Índice de Preços ao Consumidor Amplo (IPCA), do Instituto Brasileiro de Geografia e Estatística (IBGE), que também calcula o deflator implícito do PIB. Eventualmente, o deflator implícito se distancia dos principais índices de preços. O Banco Central do Brasil utilizava o IGP-DI como proxy do deflator do PIB.
+
+
+== PIB e PIL ==
+A diferença entre o produto interno bruto (
+  
+    
+      
+        P
+        I
+        B
+      
+    
+    {\displaystyle PIB}
+  ) e o produto interno líquido (
+  
+    
+      
+        P
+        I
+        L
+      
+    
+    {\displaystyle PIL}
+  ) traduz-se no valor das depreciações. Ao contrário do PIB, o PIL tem em conta o valor da depreciação do capital.
+
+  
+    
+      
+        
+          PIL
+        
+        =
+        
+          PIB
+        
+        −
+        
+          depreciações
+        
+      
+    
+    {\displaystyle \operatorname {\text{PIL}} ={\text{PIB}}-{\text{depreciações}}}
+  
+
+
+== Cálculo do PIB ==
+Óptica da despesa
+Na óptica da despesa, o valor do PIB é calculado a partir das despesas efectuadas pelos diversos agentes económicos em bens e serviços para utilização final (isto é, aqueles bens e serviços que não vão servir de consumos intermédios na produção de outros bens e serviços). Nesta óptica, o PIB corresponderá à despesa interna (ou procura interna), que inclui a despesa das famílias em bens de consumo (consumo privado, 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+  ), a despesa do Estado em bens de consumo (consumo público, 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  ), a despesa das empresas em investimento (
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+  ), quer em bens de capital (formação bruta de capital fixo, 
+  
+    
+      
+        F
+        B
+        C
+        F
+      
+    
+    {\displaystyle FBCF}
+  ), quer em existências de matérias-primas e produtos (variação de existências, 
+  
+    
+      
+        V
+        E
+      
+    
+    {\displaystyle VE}
+  ). No entanto, a despesa interna é dirigida não só a bens que foram produzidos no país, mas também a bens que não foram produzidos no país (bens importados, 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  ), e que portanto não devem ser incluídos no PIB. Por outro lado, há bens que devem ser incluídos no PIB, mas que não vão ser utilizados no país (as exportações, 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  ), e que por isso não estão incluídos na procura interna. Assim, na óptica da despesa o PIB poderá ser calculado a partir da soma de todas estas componentes:
+
+  
+    
+      
+        P
+        I
+        B
+        =
+        C
+        +
+        G
+        +
+        I
+        +
+        X
+        −
+        M
+      
+    
+    {\displaystyle PIB=C+G+I+X-M}
+  Tendo 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+   igual à formação bruta de capital fixo (
+  
+    
+      
+        F
+        B
+        C
+        F
+      
+    
+    {\displaystyle FBCF}
+  ) mais a variação nos estoques (
+  
+    
+      
+        Δ
+        E
+        S
+        T
+      
+    
+    {\displaystyle \Delta EST}
+  ), temos:
+
+  
+    
+      
+        P
+        I
+        B
+        =
+        C
+        +
+        G
+        +
+        F
+        B
+        C
+        F
+        +
+        E
+        S
+        T
+        +
+        X
+        −
+        M
+        
+      
+    
+    {\displaystyle PIB=C+G+FBCF+EST+X-M\,}
+  Óptica da oferta
+Na óptica da oferta, o valor do PIB é calculado a partir do valor gerado em cada uma das empresas que operam na economia. Esse valor gerado é o 
+  
+    
+      
+        V
+        A
+        B
+      
+    
+    {\displaystyle VAB}
+   (valor acrescentado bruto), a diferença entre o valor da produção e os consumos intermédios de cada empresa. Conhecendo o VAB de cada empresa, podemos calcular o PIB como a soma de todos os VABs das empresas dessa economia. Para obtermos o valor do PIB a preços de mercado (PIBpm), o único ajustamento que teremos de fazer é somar impostos, líquidos de subsídios, que incidem sobre os bens e serviços entre o fim da produção e a venda, isto é, os impostos sobre o consumo, como o IVA.
+
+  
+    
+      
+        
+          PIB
+        
+        =
+        Σ
+        
+          VABi
+        
+        +
+        (
+        
+          Impostos
+        
+        −
+        
+          Subsídios
+        
+        )
+        
+          sobre o consumo
+        
+      
+    
+    {\displaystyle \operatorname {\text{PIB}} =\Sigma {\text{VABi}}+({\text{Impostos}}-{\text{Subsídios}}){\text{sobre o consumo}}}
+  (sendo 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   cada uma das empresas da economia)
+Óptica do rendimento
+Na óptica do rendimento, o valor do PIB é calculado a partir dos rendimentos de factores produtivos distribuídos pelas empresas. Nesta óptica, o PIB corresponderá à soma dos rendimentos do factor trabalho com os rendimentos dos outros factores produtivos, que nas contas nacionais portuguesas aparecem todos agrupados numa única rubrica designada Excedente Bruto de Exploração (EBE). O EBE inclui as rendas, lucros e juros.
+
+  
+    
+      
+        
+          PIB
+        
+        =
+        
+          Remunerações do trabalho
+        
+        +
+        
+          Excedente Bruto de Exploração
+        
+      
+    
+    {\displaystyle \operatorname {\text{PIB}} ={\text{Remunerações do trabalho}}+{\text{Excedente Bruto de Exploração}}}
+  
+
+
+== PIB e PNB (produto nacional bruto) ==
+
+O PIB difere do produto nacional bruto (PNB) basicamente pela renda líquida enviada ao exterior (RLEE): ela é desconsiderada no cálculo do PIB, e considerada no cálculo do PNB, inclusive porque o PNB é gerado a partir da soma do PIB mais entradas e saídas de capital. Esta renda representa a diferença entre recursos enviados ao exterior (pagamento de fatores de produção internacionais alocados no país) e os recursos recebidos do exterior a partir de fatores de produção que, sendo do país considerado, encontram-se em atividade em outros países. Assim (e simplificadamente), caso um país possua empresas atuando em outros países, mas proíba a instalação de transnacionais no seu território, terá uma renda líquida enviada ao exterior negativa. Pela fórmula:
+
+  
+    
+      
+        P
+        N
+        B
+        =
+        P
+        I
+        B
+        −
+        R
+        L
+        E
+        E
+      
+    
+    {\displaystyle PNB=PIB-RLEE}
+  O país exemplificado terá um PNB maior que o PIB. No caso brasileiro, o PNB é menor que o PIB, uma vez que a RLEE é positiva (ou seja, envia-se mais recursos ao exterior do que se recebe).
+
+
+== PIB per capita ==
+Os indicadores econômicos agregados (produto, renda, despesa) indicam os mesmos valores para a economia de forma absoluta. Dividindo-se esse valor pela população de um país, obtém-se um valor médio per capita:
+
+  
+    
+      
+        P
+        I
+        
+          B
+          
+            p
+            c
+          
+        
+        =
+        
+          
+            
+              P
+              I
+              B
+            
+            N
+          
+        
+      
+    
+    {\displaystyle PIB_{pc}={\frac {PIB}{N}}}
+  O valor per capita foi o primeiro indicador utilizado para analisar a qualidade de vida em um país. Países podem ter um PIB elevado por serem grandes e terem muitos habitantes, mas seu PIB per capita pode resultar baixo, já que a renda total é dividida por muitas pessoas, como é o caso da Índia ou da China.
+Países como a Suíça, Noruega e a Dinamarca exibem um PIB moderado, mas que é suficiente para assegurar uma excelente qualidade de vida a seus poucos milhões de habitantes.
+Atualmente usam-se outros índices - que revelam o perfil da distribuição de renda de um país (tais como o coeficiente de Gini ou mesmo índices desenvolvidos pela sociologia, como o Índice de Desenvolvimento Humano) - para se obter uma avaliação mais precisa do bem-estar econômico desfrutado por uma população.
+
+
+=== Fatores em geral ===
+Fatores que contribuíram para as recentes baixas do PIB = a desvalorização do real diante do dólar e as condições instáveis da politica atual . Com a baixa do dólar, várias empresas não exportaram, deixando, assim, as exportações de contribuir para o crescimento do PIB. Já a produção industrial baixou de nível devido às importações, em especial as referentes à China e outros países da Ásia e dos Estados Unidos.
+
+
+== Limitações do PIB e críticas ==
+O PIB, é uma medida de fluxo de produção - produção por unidade de tempo (ano). Por isso, ele não considera estoques de capital (economia), que em ultima instância são importantes componentes determinantes dos fluxos de produção, como por exemplo,capital social, capital humano, capital natural, nível de eficiência de instituições.O PIB per capita é frequentemente usado como um indicador, seguindo a ideia de que os cidadãos se beneficiariam de um aumento na produção agregada do seu país. Similarmente, o PIB per capita não é uma medida de renda pessoal. Entretanto, o PIB pode aumentar enquanto a maioria dos cidadãos de um país ficam mais pobres, ou proporcionalmente não tão ricos, pois o PIB não considera o nível de desigualdade de renda de uma sociedade.
+
+Distribuição de riqueza - O PIB não leva em consideração diferenças na distribuição de renda entre pobres e ricos. Entretanto, diversos economistas ressaltam a importância da consideração sobre desigualdade sobre o desenvolvimento econômico e social de longo prazo.
+Qualidade de bens e serviços - Caso dois bens tenham qualidades diferentes, mas sejam vendidos a um mesmo preço, o valor registrado pelo PIB será o mesmo. Isso leva a distorções da percepção de bem-estar, por exemplo, se uma cidade produzir bolos de ótima qualidade pelo mesmo preço de bolos ruins da cidade ao lado, o PIB calculado para as duas será o mesmo, porém, a qualidade de vida e de consumo será diferente entre elas.
+Transações não comerciais - O PIB exclui atividades produtivas que não ocorrem dentro do mercado, tal como serviços voluntários não pagos ou produtos e serviços de livre acesso trocados pela internet.
+Transações clandestinas - O PIB conta atividades que contribuem para a produção, mas que não passam pelo mercado oficialmente, como atividades de contrabando e venda de produtos ilegais. Porém a medição é feita por vias indiretas.
+Externalidades - O PIB ignora a presença de externalidades (efeitos não contabilizados pelo mercado), como, por exemplo, danos ao meio ambiente. Assim, um país que cortar e vender todas suas árvores terá um aumento em seu PIB, mesmo que os efeitos sociais sejam negativos devido à poluição, perda de biodiversidade, área de lazer, etc..
+Crescimento de longo prazo - O PIB anual não é um indicador de longo prazo. Ele aponta para variações que podem vir de oscilações econômicas momentâneas, como ataques especulativos, bolhas de crescimento, descoberta de jazidas de recursos naturais. Nada garante que o crescimento será mantido ou distribuído pela sociedade.
+
+
+== Ver também ==
+
+
+== Referências ==
+
+
+== Bibliografia ==
+The Conference Board and Groningen Growth and Development Centre, Total Economy Database, January 2007.
+Álvaro Almeida, Economia Aplicada para Gestores, Cadernos IESF, 2007, pág. 63 e 64
+Correio Braziliense. I) 01.09.2006, pág. 15; II) 06.09.2006, pág. 15
+
+
+== Ligações externas ==
+
+Produto Interno Bruto - O que é - IBGE (em português)
+«Banco Mundial, Indicadores do Desenvolvimento Mundial - Google Public Data Explorer» 
+«Saiba o que entra no cálculo do Produto Interno Bruto e o que ele representa». O Estado de S.Paulo 
+«Produto Interno Bruto – PIB». - SEADE 
+«Sistema de Contas Nacionais Trimestrais». - IBGE 
+«World GDP Chart (since 1960)» (em inglês) 
+«GDP scaled maps» (em inglês)

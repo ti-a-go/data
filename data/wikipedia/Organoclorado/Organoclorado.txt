@@ -1,0 +1,51 @@
+Organoclorado, ou mais raramente organocloreto, hidrocarboneto clorado, ou em caso específico quando líquido pela sua aplicação, solvente clorado, é um composto orgânico contendo ao menos um átomo de cloro ligado covalentemente. São compostos tanto compostos de carbono de cadeia acíclica, como podendo conter uma anel aromático ou ainda compostos com estruturas mistas, contendo os átomos de cloro distribuídos tanto numa parte quanto noutra.
+
+
+== Aplicações ==
+Sua grande variedade industrial e propriedades químicas variadas conduzem esta classe de compostos a um largo espectro de aplicações. Seus principais grupos são:
+
+Clorometano (como o clorofórmio)
+Cloreto de vinilo (como o PVC)
+Toxafeno
+Hexaclorocicloexano
+Dodecacloro e clordecona
+DDT e análogos
+CiclodienosNem todos organoclorados são tóxicos para humanos, alguns são medicamentos seguros.
+
+
+=== Plástico ===
+O Brasil é um importante produtor de organoclorados, em especial na indústria do plástico. O processo de produção do PVC, que é um polímero organoclorado, tem, como insumos, outros compostos organoclorados como o 1,2-dicloroetano e o cloreto de vinila.
+
+
+=== Pesticidas ===
+No século XX estes compostos foram amplamente usados como inseticidas. Isto causou um grave impacto ao ecossistema, pois eles apresentam uma grande estabilidade química e toxicidade. 
+O DDT e seus análogos, utilizados como agrotóxicos (defensivos agrícolas) como o hexaclorocicloexano, foram proibidos no Brasil e em diversos outros países do mundo. A inalação de DDT atua nos receptores GABAa causando depressão da atividade de sistema nervoso central, seguida de hiperexcitabilidade, tremores e, possivelmente, convulsões. Também causam sérias lesões hepáticas, renais, cardíacas e pode causar câncer de estômago e pulmão tanto em humanos quanto em outros animais. Como os compostos organoclorados são muito lipossolúveis e se acumulam nas gorduras dos organismos, percorrem rapidamente a cadeia alimentar causando mais dano aos carnívoros. Além disso, são secretados no leite materno e penetram a placenta.
+
+
+=== Medicamentos ===
+Em 2004, pelo menos 165 organoclorados estavam aprovados no mundo para uso como medicamentos seguros, incluindo o antibiótico natural vancomicina, o anti-alérgico loratadina, o antidepressivo sertralina (Zoloft), o anticonvulsivante lamotrigina e o anestésico inalatório isoflurano, amplamente usado em cirurgias.
+
+
+=== Armas químicas ===
+Alguns compostos organoclorados são extremamente tóxicos, como o gás mostarda, mostarda nitrogenada e Lewisite, usados como armas químicas na segunda guerra mundial. Atualmente esses compostos são proibidos na maioria do mundo.
+
+
+=== Outros ===
+Também podem ser usados como produtos de limpeza, removendo gordura e na lavagem a seco, ou como insuladores (Bifenilo policlorado ou PCB). Esses produtos também estão sendo proibidos por sua toxicidade.
+
+
+== Propriedades físicas ==
+Cloretos substituintes modificam as propriedades físicas de compostos orgânicos de diversas maneiras. Eles são tipicamente mais densos que a água devido à presença do átomo de alto peso atômico do cloro (um exemplo é o tricloroetileno, com densidade de 1,46 gramas por centímetro cúbico, comparado ao correspontende eteno, com 0,577 grama por metro cúbico). Cloretos substituintes induzem interações moleculares mais fortes que substituintes hidrogênio. O efeito é ilustrado pela tendência em pontos de ebulição: metano (-161,6 °C), cloreto de metila (-24,2 °C), diclorometano (40 °C), clorofórmio (61,2 °C), e tetracloreto de carbono (76,72 °C).
+
+
+== Ocorrência natural ==
+Embora raros comparados a compostos orgânicos não halogenados, muitos organoclorados têm sido isolados de fontes naturais variando de bactérias a humanos.  Compostos orgânicos clorados são encontrados em quase todas as classes de biomoléculas incluindo alcalóides, terpenos, aminoácidos, flavonoides, esteroides e ácidos graxos. Organoclorados, incluindo dioxinas, são produzidos em ambientes de altas temperaturas de incêndios florestais], e dioxinas têm sido encontradas nas cinzas preservadas de incêndios iniciados por raios que destroem diozinas sintéticas. Adicionalmente, uma variedade de hidrocarbonetos clorados simples incluindo diclorometano, clorofórmio, e tetracloreto de carbono tem sido isolados de algas marinhas. A maioria do clorometano no ambiente é produzido naturalmente por decomposição biológica, incêndios florestais e vulcões. O organoclorado natural epibatidina, um alcaloide isolado de pererecas (especialmente a Epipedobates tricolor), tem potente efeito analgésico e tem estimulado pesquisas em novos medicamentos para a dor.
+
+
+== Referências ==
+
+
+== Ver também ==
+Composto organofluorado
+Organobromados
+Composto organoiodado

@@ -1,0 +1,21 @@
+Listen to Wikipedia, also known as L2W or Hatnote: Listen To Wikipedia, is a multimedia visualizer developed by Mahmoud Hashemi and Stephen LaPorte which translates recent Wikipedia edits into a display of visuals and sounds. The open source software application creates a real-time statistical graphic with sound from contributions to Wikipedia from around the world. To accomplish this, L2W uses the graphics library D3.js.The concept of Listen to Wikipedia is based on BitListen, originally known as Listen to Bitcoin, an application by Maximillian Laumeister.
+
+
+== Presentation ==
+
+
+=== Audio ===
+Each edit produces a note in the pentatonic scale. The bell-like sounds of a celesta correspond to edits with a net addition of content to Wikipedia, and the strums of a clavichord correspond to net subtractions of content. The pitch is inversely proportional to the size of the edit (lower pitched notes are produced by larger edits). Newly registered Wikipedia users are welcomed by a violin chord.
+
+
+=== Visuals ===
+Each edit creates a circle of one of three colors: white for registered users, green for unregistered users, and violet for Wikipedia bots. The size of a circle is proportional to the magnitude of change executed by the edit; larger circles are produced by larger edits. The name of the article edited is displayed in the center of the circle. Clicking on the text opens a Wikipedia page in a new tab in the user's browser, showing the revision. A blue bar at the top of the screen will appear whenever a new Wikipedia user is registered, listing their username. At the bottom left corner there is a bar showing the amount of edits per minute.
+
+
+== References ==
+
+
+== External links ==
+
+Official website 
+Stephen LaPorte, Mahmoud Hashemi, Listen to Wikipedia, Wikimedia Foundation blog, July 30, 2013

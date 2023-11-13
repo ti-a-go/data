@@ -1,0 +1,5 @@
+0 de março é um dia fictício localizado entre 28 de fevereiro (ou 29 nos anos bissextos) e 1º de março. Assim como o fictício 0 de janeiro, ele é útil em cálculos de astronomia, engenharia de software e no Algoritmo Doomsday (algoritmo do dia do juízo final). 
+No Microsoft Excel, por exemplo, ele pode ser usado para se referir ao último dia de fevereiro, porque a duração deste mês varia de acordo com o ano bissexto. Da mesma forma, às vezes, é usado pelos astrônomos como sinônimo do último dia de fevereiro. No Algoritmo Doomsday, ele é usado para calcular em qual dia da semana um dia de um determinado ano cai.
+
+
+== Referências ==

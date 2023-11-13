@@ -1,0 +1,25 @@
+Print Wikipedia is an art project by Michael Mandiberg that included a printed edition of 106 volumes of the English Wikipedia as it existed on 7 April 2015. The bound paper volumes, each running 700 pages, represented a fraction of the 7,473 total volumes necessary to render the encyclopedia's extant text on that date. As first shown at the Denny Gallery in New York City, United States, during summer 2015, the project included a display of the spines of the first 1,980 volumes in the set. The 106 printed volumes included only text of the encyclopedia articles: images and references were omitted. Supplementing the printed volumes of encyclopedia articles, additional print volumes included the appendix to all 7.5 million contributors to English Wikipedia (in 36 volumes) and a table of contents (in 91 volumes).
+From 24 February to 21 May 2016 it was exhibited inside the Charles Trumbull Hayden Library on the Arizona State University Tempe campus, adjacent to the library's conventional encyclopedia section.
+
+
+== Background ==
+Mandiberg originally conceived the project in 2009 but ran into technical difficulties. They then engaged an assistant, Jonathan Kirinathan, to aid with the programming of the code to compile, format and upload the entire contents of English Wikipedia. The print files were uploaded to book self-publisher Lulu.com and made available for printout as paper volumes.
+Mandiberg's motivation was to answer the question, "How big is it?" For a big data entity, its size is on the threshold of what can be perceived as a collection of volumes, but not so large as to overwhelm one's senses, such as the data files of Facebook or the NSA. Katherine Maher, the executive director of the Wikimedia Foundation, described it as "a gesture at knowledge". Wikimedia cooperated with the project and Lulu.com helped fund it.The task took three years, and the upload process took 24 days, 3 hours and 18 minutes. It was completed on 12 July 2015. PediaPress had attempted to raise money for a full English Wikipedia printout on Indiegogo in 2014, with a goal of $50,000 (£30,000), but the project was pulled. The abandoned project had intended to print 1,000 volumes, of 1,200 pages each: a total of 1,200,000 pages, roughly equal to 80 m (260 ft) of shelf space. Mandiberg later assured people that they would not be printing out the entire collection, claiming that an entire collection is not necessary for people to comprehend the true size of Wikipedia, and, once people have seen a portion of it, it will help them realize its size. Mandiberg estimates that the printing costs of a full printout would be around $500,000. The Denny art exhibit featured only a selection of actual printed volumes with about 2,000 of the other volumes represented as spines on the wall. The show revolved around the actual upload of the print files to Lulu.com.
+
+
+== Influence ==
+Similar art projects have printed part of the German Wikipedia (Berlin, 2016) and the Dutch Wikipedia (Ghent, 2016).
+
+
+== See also ==
+2015 in art
+de:Print Wikipedia: from Aachen to Zylinderdruckpresse - German entry about their project regarding German Wikipedia
+Wikipedia:Size of Wikipedia – internal page on Wikipedia about the project's hypothetical printed size
+
+
+== References ==
+
+
+== External links ==
+
+Print Wikipedia web site

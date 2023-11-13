@@ -1,0 +1,11 @@
+Piloto automático ou giropiloto é um instrumento que automaticamente guia navios, aviões, e mais recentemente, também automóveis.Contém giroscópios que comandam o navio ou avião, controlando as posições vertical e horizontal e mantendo o navio ou avião em determinada rota. O piloto automático permite uma navegação mais precisa e econômica. Um piloto automático está fazendo exatamente o que os pilotos dizem. Ele não faz automaticamente um voo de A para B, mas os pilotos definem certos valores, certas velocidades ou um botão acima dos instrumentos que entram na altitude. E esta altitude, em seguida, liga-se automaticamente o piloto automático e detém.[carece de fontes?]Um piloto automático para aviões tem dois giroscópios. O vertical comanda os ailerons e os profundores do avião, e a bússola Gyrosyn comanda o leme de direção. Os sinais de direção para os comandos do avião indicam que este saiu de sua rota e altitude corretas. Estes sinais são deslocamentos de voltagem amplificados e enviados para as servounidades. Estas possuem pequenos motores elétricos que movem os comandos do avião.
+Em 1912, Lawrence Sperry, filho de Elmer Ambrose Sperry, inventou e testou em voo um instrumento automático de estabilização giroscópica para aviões com quatro giroscópios. Em 1932, a Sperry Gyroscope Company (atual Sperry Rand) desenvolveu seu primeiro comando de voo com piloto automático para aviões modernos. Este piloto automático foi instalado no avião de Wiley Post, o Winnie Mae, e ajudou-o a realizar o primeiro voo solo ao redor do mundo em 1933. Esse voo durou pouco mais de sete dias e 18 horas.
+O piloto automático para navios comanda o leme de direção emitindo sinais de correção de uma bússola giroscópica. O primeiro piloto automático para navios foi instalado em um navio-tanque da Standard Oil Company, no início da década de 1920. O piloto automático de navios é comummente chamado de timoneiro de ferro.
+
+
+== Ver também ==
+Assento ejetor
+Veículo autônomo
+
+
+== Referências ==

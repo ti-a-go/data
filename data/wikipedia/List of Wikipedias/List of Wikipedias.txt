@@ -1,0 +1,41 @@
+Wikipedia is a free multilingual open source wiki-based online encyclopedia edited and maintained by a community of volunteer editors, started on 15 January 2001 (2001-01-15) as an English-language encyclopedia. Non-English editions were soon created: the German and Catalan editions were created on circa 16 March, the French edition was created on 23 March, and the Swedish edition was created on 23 May. As of November 2023, Wikipedia articles have been created in 339 editions, with 326 currently active and 13 closed.The Meta-Wiki language committee manages policies on creating new Wikimedia projects. To be eligible, a language must have a valid ISO 639 code, be "sufficiently unique", and have a "sufficient number of fluent users".
+
+
+== Variations in editions ==
+Wikipedia projects vary in how they divide dialects and variants. For example, the English Wikipedia includes most modern varieties of English including American English and British English. Similarly, the Spanish Wikipedia includes both Peninsular Castilian and Latin American Spanish, and the Portuguese Wikipedia includes both European Portuguese and Brazilian Portuguese. In contrast, some languages have multiple Wikipedias. For example, the Serbo-Croatian language encompasses four Wikipedia editions, Serbo-Croatian and three different standardized varieties (Bosnian, Croatian, and Serbian).Additionally, some Wikipedia projects apply different approaches to orthography. For instance, the Chinese Wikipedia automatically transliterates between six standard forms: three using simplified Chinese characters (Mainland China, Malaysia, and Singapore) and three using traditional Chinese characters (Taiwan, Hong Kong, and Macau). And rather than relying on transliteration, Belarusian has separate Wikipedia projects for the official Narkamaŭka and Taraškievica orthographies.
+
+
+== Wikipedia edition codes ==
+Each Wikipedia project has a code, which is used as a subdomain of wikipedia.org. The codes mostly conform to ISO 639-1 two-letter codes or ISO 639-3 three-letter codes, with preference given to a two-letter code if available. For example, en stands for English in ISO 639-1, so the English Wikipedia is at en.wikipedia.org.
+
+
+== Wikipedia editions ==
+
+
+=== Active editions ===
+
+The table below lists the active language editions of Wikipedia roughly sorted by magnitude of the number of active users (registered users who have made at least one edit in the last thirty days).
+
+
+=== Inactive editions ===
+The table below lists the inactive language editions of Wikipedia. This list includes closed, deleted, test, and archived editions.The Nostalgia Wikipedia is an archive of the English Wikipedia's initial display.
+
+
+== See also ==
+History of Wikipedia
+List of online encyclopedias
+Languages used on the Internet
+Wikimedia Foundation § Wikimedia projects
+
+
+== References ==
+
+
+== External links ==
+
+Statistics of Wikipedias
+Wikipedia portal
+ Media related to Wikipedia at Wikimedia Commons
+ Wikipedia at Wikinews
+ Learning materials related to Wikipedia at Wikiversity
+ Works related to Wikipedia press releases at Wikisource

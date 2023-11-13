@@ -1,0 +1,241 @@
+O watt (símbolo: W), ou vátio, é a unidade de potência do Sistema Internacional de Unidades (SI). É equivalente a um joule por segundo.A unidade recebeu este nome em homenagem a James Watt, pelas suas contribuições para o desenvolvimento do motor a vapor, e foi adotada pelo segundo congresso da associação britânica para o avanço da ciência em 1882.
+
+
+== Exemplos ==
+Quando um objeto em velocidade constante de um metro por segundo é antagônico a uma força constante de um newton, a taxa de trabalho é de 1 watt.
+  
+    
+      
+        1
+         
+        W
+        =
+        1
+         
+        
+          
+            J
+            s
+          
+        
+        =
+        1
+         
+        
+          
+            
+              N
+              ⋅
+              m
+            
+            s
+          
+        
+        =
+        1
+         
+        
+          
+            
+              k
+              g
+              ⋅
+              
+                m
+                
+                  2
+                
+              
+            
+            
+              s
+              
+                3
+              
+            
+          
+        
+      
+    
+    {\displaystyle 1~W=1~{\frac {J}{s}}=1~{\frac {N\cdot m}{s}}=1~{\frac {kg\cdot m^{2}}{s^{3}}}}
+  No eletromagnetismo, um watt é a taxa de trabalho resultante quando um ampere (
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  ) de corrente flui através de uma diferença de potencial elétrico de um volt (
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+  ).
+1W = 1V * 1A
+
+Duas conversões de unidades adicionais podem ser obtidas a partir da Lei de Ohm.
+  
+    
+      
+        1
+         
+        W
+        =
+        1
+         
+        
+          
+            
+              V
+              
+                2
+              
+            
+            Ω
+          
+        
+        =
+        1
+         
+        
+          A
+          
+            2
+          
+        
+        ⋅
+        Ω
+      
+    
+    {\displaystyle 1~W=1~{\frac {V^{2}}{\Omega }}=1~A^{2}\cdot \Omega }
+  Onde, ohm (
+  
+    
+      
+        Ω
+      
+    
+    {\displaystyle \Omega }
+  ) é a unidade de medida no SI para resistência elétrica.
+
+
+== Múltiplos e submúltiplos ==
+
+
+== Watt elétrico e térmico ==
+O termo técnico watt elétrico (símbolo: We) corresponde à produção de potência elétrica. Seus múltiplos são  o megawatt elétrico (MWe) e o gigawatt elétrico (GWe').
+O termo técnico watt térmico (símbolo : Wt ou Wth) corresponde à produção de potência térmica. Seus múltiplos são o megawatt térmico (MWt ou MWth) e o gigawatt térmico (GWt ou GWth).
+Essa distinção é de uso corrente para separar produção elétrica e dissipação térmica de uma central. A potência de uma central é geralmente expressa sob a forma de potência elétrica (em MWe). 
+A potência térmica de uma central nuclear é, geralmente, o triplo da sua potência elétrica. A diferença corresponde ao rendimento termodinâmico (diretamente ligado à temperatura de funcionamento) e às perdas de conversão, dado que a transformação de energia térmica em energia elétrica não pode ser feita senão com perdas (o rendimento é da ordem de 30 a 40%), o que explica a magnitude das operações de resfriamento das centrais térmicas. A Central Nuclear Embalse (Argentina), por exemplo, gera 2109 MW de calor (2109 MWth) para somente 648 MW (648MWe) de eletricidade.
+Embora de uso corrente, a adoção de símbolos dotados de índices não é recomendada pelo Escritório Internacional de Pesos e Medidas (BIPM), que só considera a existência de um único watt, pois é a quantidade medida que muda, não a unidade utilizada para a medida.
+
+
+== Em mecânica ==
+Em mecânica o watt é a potência desenvolvida por uma força de um newton aplicada a um ponto que se move um metro em um segundo. Ou seja, se um ponto sobre o qual se aplica uma força de um newton se move a uma velocidade de 1 m/s, então a potência é igual a 1 watt (1 W = 1 Nm/s):
+
+  
+    
+      
+        P
+        =
+        
+          
+            
+              F
+              ⋅
+              d
+            
+            t
+          
+        
+        =
+        ∫
+        F
+        ⋅
+        
+          d
+        
+        v
+        =
+        
+          
+            
+              
+                d
+              
+              W
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+      
+    
+    {\displaystyle P={\frac {F\cdot d}{t}}=\int F\cdot \mathrm {d} v={\frac {\mathrm {d} W}{\mathrm {d} t}}}
+  onde:
+
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   é a força expressa em newtons.
+
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+   é a distância expressa em metros.
+
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   é o tempo expresso em segundos.
+
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   é a velocidade expressa em m/s.
+
+  
+    
+      
+        W
+      
+    
+    {\displaystyle W}
+   é o trabalho expresso em joules.
+
+
+== Ver também ==
+kilowatt-hora (kWh)
+volt-ampere (VA)
+Tabela de conversão de unidades
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Nelson, Robert A.,  "«The International System of Units» (em inglês)  Its History and Use in Science and Industry". Via Satellite, February 2000.

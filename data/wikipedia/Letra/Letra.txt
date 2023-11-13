@@ -1,0 +1,28 @@
+Uma letra é um grafema num sistema alfabético de escrita, como o Alfabeto grego e seus descendentes. Letras compõem fonemas e cada fonema representa um fone (som) na Língua falada.
+Sinais escritos em outros sistemas de escrita são melhor chamados silabogramas (que denotam uma sílaba) ou logogramas (que denotam uma palavra ou frase).
+
+
+== Descrição e uso ==
+Como símbolos que denotam partes da fala, as letras estão associadas com a fonética. Num alfabeto puramente fonêmico, um único fonema é representado por uma única letra, mas na história e na prática, as letras muitas vezes denotam mais de um fonema. Um par de letras que designam um único fonema é chamado de dígrafo. Exemplos de dígrafos em português incluem "ch", "nh" e "ss". Um fonema pode ser representado também por três letras, chamado de trígrafo. Um exemplo é a combinação "sch" em alemão.
+Uma letra também pode ser associada a mais de um fonema, com o fonema dependendo das letras em sua volta ou da etimologia da palavra. Como exemplo dos efeitos posicionais, a letra c em português é pronunciada [k] antes de a, o ou u (por exemplo, cantar, cortar, cuidado, Colorado), mas é pronunciado [s] antes de e ou i (por exemplo, cessar, cidade).
+Letras também têm nomes específicos a eles associados. Esses nomes podem diferir conforme a língua, dialeto e história. Z, por exemplo, é geralmente chamado de zed em todos países de fala inglesa, exceto nos Estados Unidos, onde é chamado zee.
+
+
+== História ==
+
+A invenção das letras foi precedida pela escrita semítica ocidental, que apareceu em Canaã por volta de 1000 a.C.. Há antecedentes que geram alguma suspeita na escrita proto-cananita, datada de cerca de 1800 a.C. Praticamente todos os alfabetos têm suas origens fundamentais neste sistema. O alfabeto grego, inventado por volta de 800 a.C., como o primeiro alfabeto de verdade, atribuindo letras não só para as consoantes, mas também para as vogais.
+
+
+== Ver também ==
+Alfabeto
+Caractere
+
+
+== Referências ==
+
+
+== Referências bibliográficas ==
+Millard, A. R. (1986), «The Infancy of the Alphabet», World Archaeology, 17 (3): 390–398 
+Daniels, Peter T., and William Bright, eds 1996. The World's Writing Systems. ISBN 0-19-507993-0.
+Powell, Barry B. 1991. Homer and the Origin of the Greek Alphabet. ISBN 9780521589079 | ISBN 052158907X.
+Robinson A. 2003, "The Origins of writing" in David Crowely and Paul Heyer 'Communication in History: Technology, Culture, Society' (fourth edition) Allyn and Bacon Boston pp 34-40

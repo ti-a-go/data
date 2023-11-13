@@ -1,0 +1,49 @@
+O Delta II foi um veículo de lançamento descartável fabricado pela Divisão de Sistemas Integrados de Defesa da Boeing que esteve em uso de 1989 a 2018, sendo o ICEsat-2 o último satélite a usá-lo.
+
+
+== Descrição ==
+Trata-se de um foguete membro da família de foguetes Delta bastante modular que permite assumir diversas configurações. Pode ter dois ou três estágios acompanhados de foguetes auxiliares externos, fixados ao primeiro estágio.O foguete Delta II tem 37,8 metros de altura e coloca cargas de 891 até 2 142 kg em órbitas geoestacionárias de transição (órbita de transferência geoestacionária (GTO)) ou cargas de 2,7 até 6,0 toneladas em órbitas de baixa altitude (órbita terrestre baixa (LEO)).
+
+
+== Utilização ==
+Foguetes Delta II de dois estágios são tipicamente utilizados para colocar naves espaciais em baixa altitude, como satélites de posicionamento global (Global Positioning System, GPS). Enquanto que foguetes de três estágios são utilizados para as missões à Marte ou para pesquisar cometas ou asteroides.São lançados por ano de 14 a 16 deste tipo de foguete. Geralmente são lançados da plataforma SLC17-A/B da Estação da Força Aérea de Cabo Canaveral, do estado da Flórida, e da plataforma 2 West (SLC-2W) do complexo de lançamento espacial da Base da Força Aérea de Vandenberg, do estado da Califórnia.Os foguetes Delta II e suas variações, conseguiram 115 lançamentos com sucesso (até agosto de 2004), incluindo entre outras, várias missões da NASA para a exploração do planeta Marte, como as missões:
+Mars Global Surveyor em 1996
+Mars Pathfinder em 1996
+Mars Climate Orbiter em 1998
+Mars Polar Lander em 1999
+Mars Odyssey em 2001
+Mars Exploration Rovers em 2003
+
+
+== Composição ==
+Cada veículo lançador consiste de:
+Estágio I:Tanques de querosene e oxigênio líquido que alimentam o motor principal de ascensão denominado de RS27A, fabricado em parceria pela Boeing e pela Rocketdyne.Foguetes auxiliares externos de combustível sólido usados para aumentar a aceleração nos dois minutos iniciais do lançamento. São fabricados pela Alliant Techsystems (ATK) usando um motor grafite-epóxi.O foguete de média capacidade Delta II possui nove foguetes auxiliares, sendo que seis deles são acionados no lançamento e funcionam por um minuto e três acionados pouco depois e também funcionam por um minuto. O modelo menos potente utiliza três ou quarto foguetes auxiliares e estes são todos acionados no momento do lançamento.Estágio II: Um combustível que se auto-inflama alimenta um motor da Aerojet reiniciável modelo AJ-10. Este motor liga uma ou mais vezes durante o voo para inserir a nave espacial em uma órbita baixa em torno da Terra de forma conveniente.  Este estágio contém um sistema redundante de controle de voo inercial, construído pela  L3 Communications Space & Navigation (comumente conhecida por AlliedSignal Aerospace) que combina a plataforma inercial com a navegação computadorizada, para precisamente controlar o voo da nave.Estágio III: Estágio opcional, contém um motor fabricado pela AtK Thiokol de combustível sólido denominado de Star 48, que fornece uma aceleração suficiente para que a nave espacial possa deixar a órbita.Este estágio utiliza a rotação do conjunto para navegar, pois não possui um controle de navegação e depende do segundo estágio para obter a orientação apropriada de sua trajetória antes da separação do 2° e do 3° estágio.Alguns foguetes Delta II tinham apenas dois estágios que geralmente eram utilizados para missões na órbita da Terra.Invólucro: Trata-se de um cone feito de metal ou material composto delgado térmico-mecânico, que protege a nave espacial durante o lançamento. Ele é descartado durante o funcionamento do segundo estágio, quando a nave está fora da atmosfera terrestre.
+
+
+== Numeração dos foguetes Delta II ==
+A família Delta II é mais tecnicamente conhecida pelo seu sistema de 4 dígitos que são:
+O primeiro dígito pode ser 6 ou 7, significando que o foguete seja da série 6 000 ou 7 000, que voaram até 1992. Posteriormente foram equipados com um tanque extra no primeiro estágio com um motor RS-27.O atual modelo da série 7 000 é equipado com um motor RS-27A, com um longo cone na dianteira e de foguetes auxiliares de material composto, denominados motores grafite-epóxi (GEM).
+
+O segundo dígito significa o número de foguetes auxiliares, geralmente 9. Nestes casos, seis deles são acionados durante a partida e três são acionados em pleno voo. Veículo Delta de médio porte pode ter 3 ou 4 foguetes auxiliares, todos acionados no momento do lançamento.O terceiro dígito é o 2, indicando que o segundo estágio é impulsionado pelo motor da Aeolet AJ10. Este motor é reiniciável utilizado para missões mais complexas. Missões anteriores da série 6 000 usaram um motor diferente, o TR201.O último dígito indica o terceiro estágio. 0 significa que não existe o terceiro estágio. 5 significam que é um estágio com módulo de lançamento assistido (Payload Assist Module (PAM)) e é equipado com o motor Star 48 de combustível sólido. 6 indicam que o motor Star 37 equipa o terceiro estágio.Um exemplo: O foguete Delta 7925, tem juntado ao primeiro estágio, 9 foguetes auxiliares e no terceiro estágio, um módulo de lançamento assistido. O foguete Delta II 7320 é um foguete de dois estágios do tipo médio leve, com três foguetes auxiliares no primeiro estágio.
+
+O foguete Delta II de alta capacidade, utiliza foguetes auxiliares de alta potência denominados de GEM-46 ([GEM] Graphite-Epoxy Motor). Inicialmente foram denominados de Delta III. Eram denominados de 7xxxH.Três tipos de cone protetor dianteiro são disponibilizados.O cone original de paredes finas de alumínio, com 2,89 m de diâmetro. O cone feito de material composto de 3,05 m que se distingue do outro por ser estreito na sua parte dianteira e na parte de fixação com o foguete. Por último o cone alongado de de 3,05 m de diâmetro, para acomodar naves espaciais de grande tamanho.
+
+
+== Foguetes  comparáveis ==
+Antares
+Ariane 4
+GSLV
+Longa Marcha 4B
+PSLV
+Tsyklon-3
+Vega
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+«Boeing IDS Page» (em inglês) 
+«Delta I, II und III Site from Gunter Krebs» (em inglês) 
+«History of the Delta Launch Vehicle» (em inglês)

@@ -1,0 +1,224 @@
+A língua japonesa (にほんご ou 日本語; nihongo) é um idioma do leste asiático falado por cerca de 128 milhões de pessoas, principalmente no Japão, onde é a língua nacional. É membro da família das línguas japônicas e sua relação com outras línguas, como o coreano, é debatida. O japonês foi agrupado com famílias linguísticas como a Ainu, as Austro-asiáticas e a agora desacreditada Altaica, mas nenhuma dessas propostas ganhou ampla aceitação.
+Pouco se sabe sobre a pré-história da língua japonesa. Documentos chineses do século III d.C. registraram algumas palavras japonesas, mas textos substanciais não apareceram até o século VIII. Durante o período Heian (794–1185), os chineses tiveram considerável influência no vocabulário e na fonologia do japonês antigo. Os japoneses do final do período médio (1185-1600) incluíam mudanças nas características que o aproximavam da linguagem moderna e a primeira aparição de empréstimos europeus. O dialeto padrão mudou-se da região de Kansai para a região de Edo (onde hoje fica Tóquio) no início do período japonês moderno (início do século XVII a meados do século XIX). Após o fim, em 1853, do isolamento auto-imposto do Japão, o fluxo de empréstimos das línguas europeias aumentou significativamente. Várias palavras emprestadas do inglês, em particular, tornaram-se frequentes e palavras japonesas de raízes inglesas proliferaram.O japonês é uma língua aglutinante, com uma fonotaxia simples, um sistema de vogais puras, vogais fonêmicas e comprimento de consoante e um sotaque lexicalmente significativo. A ordem das palavras é normalmente sujeito-objeto-verbo com partículas marcando a função gramatical das palavras, e a estrutura da frase é tópico-comentário. Partículas de sentenças finais são usadas para adicionar impacto emocional ou enfático, ou fazer perguntas. Os substantivos não têm número gramatical ou gênero, e não há artigos. Os verbos são conjugados, principalmente para tempo e voz, mas não para pessoa. Equivalentes japoneses de adjetivos também são conjugados. O japonês tem um complexo sistema de construções honoríficas com formas verbais e vocabulário para indicar o status relativo do falante, do ouvinte e das pessoas mencionadas.
+O japonês não tem relação genética com o chinês, mas faz uso extensivo dos caracteres chineses, chamados de kanji (漢字), em seu sistema de escrita, e uma grande parte do seu vocabulário é emprestada da língua chinesa. Junto com o kanji, o sistema de escrita japonês usa principalmente dois silabários, o hiragana (ひらがな; 平仮名) e o katakana (カタカナ; 片仮名). O alfabeto latino (ou romaji) é usada de maneira limitada, como para acrônimos importados, e o sistema numeral usa principalmente números indo-arábicos ao lado de numerais chineses tradicionais.
+
+
+== História ==
+Antes da chegada do sistema de escrita chinesa ao Japão, entre o século V e VII, a literatura japonesa baseava-se principalmente na sua tradição oral. Em várias sociedades sem sistemas de escrita, esta situação proporciona o surgimento de histórias e canções a partir de mitos, sagas, lendas, épicos e poemas. O Japão possuía três tipos de sociedades diferentes: Ainu, Ryūku e Yamato.Os Ainus habitavam as ilhas do norte do arquipélago, no caso, Hokkaido, Sacalina e Curilas, enquanto os Ryūku e Yamato ocupavam as restantes ilhas. Os Ainu eram uma sociedade recoletora e a sua língua era bastante diferente dos outros dois grupos. Os Ryūku apresentavam algumas semelhanças com os Yamato, podendo afirmar-se ser a mesma língua, apenas um dialeto diferente.“O sistema de som da língua japonesa do período Nara (na região Yamato) tinha oitos sons distintos de vogais e consonantes, que, nalguns aspetos, diferem dos sons de hoje”. A língua dos Yamato veio a tornar-se ao que se chama hoje de japonês, mas não sem a influência chinesa.
+O japonês e o chinês têm diferentes origens: “os seus sistemas de som, vocabulário e gramática são diferentes.” Desta forma, quando o sistema de escrita chinês chegou ao Japão era necessário modificá-lo. Sendo que um caracter chinês representava uma palavra monossilábica, só eram possíveis duas adaptações: a) o significado ser eliminado e o som mantido; b) o significado ser mantido e o som eliminado. Ambas as alternativas foram adotadas, como refere Shuichi Kato: “Os sons chineses foram largamente retidos, por exemplo, na história Kojiki (Record of Ancient Matters) e em Man’yōshū e para algumas palavras na história do século VIII Nihon Shoki (Chronicles of Japan).” A esta adaptação deu-se o nome de Man’yōgana.A escrita chinesa (kanbun) não foi só adotada nestas obras, mas também em documentos oficiais, assim como em gazetas locais (fudoki).
+
+
+=== Da escrita chinesa (kanbun) à escrita japonesa (kana) ===
+A escrita chinesa chegou ao Japão entre o século V e VII. No entanto, a escrita foi adaptada à já existente língua japonesa, através da adaptação do som ou significado. Mas para lerem os textos escritos em chinês, os japoneses desenvolveram um método que se aproximava gramaticalmente da sua língua, e desta forma tornava os textos mais compreensivos: 
+Esta adaptação do chinês teve grande influência no desenvolvimento da língua japonesa. Não só em termos gramaticais mas também de enriquecimento vocabular, e até de desenvolvimento de estilos literários. A utilização de kanbun a dada altura (quando o sistema de escrita japonês tomou outra direção) tornou-se mais uma escolha do que uma necessidade, pois começou a ser visto como um estilo literário, ou seja, mais uma ferramenta de criação literária:Meigetsuki, com o seu estilo mais coloquial - pelo facto de ser um diário - trouxe uma nova perspectiva à forma de escrita, onde o chinês clássico imperava, e continuou a dominar ao longo dos anos, mesmo até ao período Edo (1603-1867):No entanto, apesar deste domínio do chinês clássico na escrita, já a partir do século XII há uma evolução da língua japonesa, quando começam a aparecer os textos sōgana (sistema arcaico de escrita silábica, entre o man’yōgana e o hiragana). Um dos primeiros textos sōgana encontra-se num pergaminho do século XII (Genji monogatari emaki) contendo cenas ilustradas do romance Genji monogatari.A exploração do sistema de escrita e dos estilos literários desenvolveu-se ao longo dos anos, sendo que o debate sempre foi muito intenso, não havendo consenso de que “tipo” de japonês se queria adotar, e por essa razão existiram vários movimentos. Um deles defendia a inclusão do inglês como uma das línguas oficiais:
+Outros defendiam a romanização da escrita japonesa, enquanto outros queriam eliminar completamente o uso de kanji, adotando apenas o kana.A partir do final dos anos 1880, o governo cria uma reforma onde a utilização de kanji, hiragana e katakana é padronizada, com o nome de Kanji-Kana Majiri Bun (漢字仮名交じり文): Isto permitiu o desenvolvimento de novos estilos literários, devido ao facto de a eliminação do chinês clássico, em abundância, permitir um novo desenvolvimento do estilo coloquial, que ainda não era respeitado como estilo literário “sério”. É então que em 1887 surge um dos grandes clássicos japoneses, escrito em genbun-itchi (junção entre o estilo literário e o estilo coloquial), Ukigumo. Não se pode afirmar que existe uma grande mudança a nível de alteração do estilo de carateres, mas a maior diferença é no facto de o número de caracteres em kanji ser reduzido, introduzindo mais caracteres japoneses. Algo bastante importante como refere Scott Miller, pois o japonês clássico continuava a ser inacessível para vários grupos:Com esta simplificação da escrita, vários autores seguiram esta corrente, no entanto continuaram a existir vários grupos contra este estilo literário mais “leve”:É de ressaltar a importância dos contadores profissionais de histórias que inspiraram, em grande parte, esta massificação da literatura japonesa:
+
+
+=== Kokugo (língua nacional do Japão) ===
+Através de uma modernização da língua japonesa criou-se o que se chama de kokugo – língua nacional do Japão. Esta criação foi feita por educadores e linguistas ocidentais. B.H. Chamberlain, um filologista britânico, foi um dos responsáveis por esta evolução, ao defender uma aproximação ao estilo coloquial da linguagem, em 1883. 
+Kokugo já era utilizado desde a época Edo, mas pretendia apenas referir-se à língua japonesa como forma de se diferenciar das línguas estrangeiras, e não detinha ainda um sentido nacionalista, como veio a ter a partir desta época.
+
+
+== Classificação linguística ==
+O idioma japonês forma, em conjunto com outros dialetos minoritários do Japão, a família linguística das línguas japônicas ou grupo de línguas japônicas-ryukyuanasAs línguas japônicas e o coreano (hangul) são classificadas dentro do grupo das línguas altaicas devido a um grande número de analogias. Não se sabe, contudo, se as semelhanças são ocasionadas por origem comum desses idiomas ou por convergência. A gramática da língua japonesa assemelha-se muito à da língua coreana com partículas idênticas como ga e ka. A semelhança de pronúncia também é um indício de possível parentesco longínquo.
+Entretanto, deve-se considerar que houve influências da língua coreana no passado devido à grande imigração coreana no período Yayoi e à fuga da família real de Baekje ao Japão quando da invasão do reino por Koguryo. Descobertas recentes apontam que a língua de Koguryo guarda muitos cognatos com a língua japonesa como a partícula no, os adjetivos terminados em i, os numerais e partícula locativa; por exemplo mil koguryo, midu no antigo japonês.Como parte das influências culturais que recebeu ao longo de sua história, o japonês assimilou inúmeros vocábulos do chinês, do português e, recentemente, do inglês.
+
+
+== Distribuição geográfica ==
+Embora o japonês seja falado quase exclusivamente no Japão, a língua japonesa tem sido e ainda é falada em outros países. Antes e durante a Segunda Guerra Mundial, através da anexação japonesa de Taiwan e da península da Coreia, bem como da ocupação parcial de algumas regiões da China (como a Manchúria), das Filipinas e de várias ilhas do Pacífico, seus habitantes foram forçados a aprender a língua japonesa sob a imposição de uma política de niponização desses países. Como resultado, muitos idosos nesses países ainda falam japonês, além dos idiomas desses locais.
+As comunidades de imigrantes japonesas (a maior delas no Brasil, com 1,4 milhão a 1,5 milhão de imigrantes e descendentes japoneses, segundo dados do IBGE, e mais de 1,2 milhão nos Estados Unidos) às vezes empregam o japonês como idioma principal. Aproximadamente 12% dos residentes do Havaí falam japonês, com uma estimativa de 12,6% da população de ascendência japonesa em 2008. Os emigrantes japoneses também podem ser encontrados no Peru, Argentina, Austrália (especialmente nos estados do leste e em cidades como Sydney, Gold Coast, Brisbane e Melbourne), Canadá (especialmente em Vancouver, onde 1,4% da população tem ascendência japonesa), os Estados Unidos (notavelmente o Havaí - onde 16,7% da população tem ascendência japonesa - e a Califórnia), e as Filipinas (particularmente em Davao e Laguna). Os descendentes dos emigrantes (conhecidos como nikkei, 日系, lit. "descendentes de japoneses"), porém, raramente falam a língua japonesa fluentemente. Estima-se que cerca de 3,84 milhões de não japoneses estejam estudando a língua.
+
+
+=== Status oficial ===
+O japonês não tem status oficial, mas é a língua nacional de facto do Japão. Existe uma forma da linguagem considerada padrão: hyōjungo (標準語), que significa "japonês padrão", ou kyōtsūgo (共通語), "linguagem comum". Os significados dos dois termos são quase os mesmos. Hyōjungo ou kyōtsūgo é uma concepção que forma a contraparte do dialeto. Esta linguagem normativa nasceu após a Restauração Meiji (明治維新 meiji ishin, 1868) da língua falada nas áreas de classe mais alta de Tóquio (ver Yamanote). Hyōjungo é ensinado nas escolas e usado na televisão e até mesmo nas comunicações oficiais.
+Anteriormente, o japonês padrão escrito (文語 bungo, "língua literária") era diferente da língua oral (口語 kōgo). Os dois sistemas têm regras diferentes de gramática e algumas variações no vocabulário. O bungo foi o principal método de escrever japonês até cerca de 1900; Desde então, o kōgo gradualmente estendeu sua influência e os dois métodos foram usados por escrito até a década de 1940. O bungo ainda tem alguma relevância para historiadores, estudiosos literários e advogados (muitas leis japonesas que sobreviveram à Segunda Guerra Mundial ainda estão escritas no bungo, embora haja esforços contínuos para modernizar sua linguagem). O kōgo é o método dominante de falar e escrever em japonês hoje, embora a gramática bungo e o vocabulário sejam ocasionalmente usados no japonês moderno para efeito poético.
+
+
+=== Dialetos ===
+Vários dialetos são falados no Japão. A profusão é devida ao terreno montanhoso do arquipélago e à longa história de isolamento interno e externo do país. Os dialetos, em geral, diferem em termos de acento tonal, morfologia inflexional, vocabulário, uso das partículas e pronúncia. Alguns dialetos, mais raramente, variam até no repertório de vogais.
+Dialetos de regiões menos centrais, como os dialetos de Tōhoku ou Tsushima, podem ser ininteligíveis para pessoas de outras partes do país. O dialeto usado em Kagoshima, na ilha Kyūshū, ao sul, é famoso por ser ininteligível não só para falantes do japonês padrão mas também a pessoas que vivem em regiões de Kyūshū vizinhas à Kagoshima. Kansai-ben, um grupo de dialetos da região centro-oeste do Japão, é falado por muitos japoneses; o dialeto de Osaka, em particular, é associado ao humor e, por isso, usado com frequência por muitos comediantes para efeito humorístico.
+As línguas ryukyuanas são faladas nas Ilhas Ryukyu. Não são somente ininteligíveis a japoneses, mas também bastante incompreensíveis entre falantes de diferentes dialetos ryukyuanos. Devido à proximidade entre o ryukyuano e o japonês, são às vezes ditos serem apenas dialetos de uma única língua, embora acadêmicos modernos digam ser línguas separadas.
+Recentemente, o japonês padrão se tornou prevalente em todo o Japão, graças não somente à televisão e ao rádio, mas também à mobilidade crescente dentro do país devida ao sistemas rodoviário, ferroviário e aeroviário. Jovens japoneses geralmente falam seu dialeto local e a língua padrão, mas, na maioria das vezes, o dialeto local é influenciado pelo dialeto padrão, criando-se versões regionais do japonês padrão.
+
+
+=== No Brasil ===
+Como resultado da imigração japonesa no Brasil, o idioma japonês é ainda bastante difundido entre a comunidade de origem nipônica. Atualmente, a maioria dos nipo-brasileiros falam principalmente o português. A primeira geração fala com frequência dialetos japoneses, muitos deles somente o japonês. A segunda geração é geralmente bilíngue em japonês e português. Numa pesquisa, 53% da segunda geração declarou somente ter falado japonês na infância. Hoje, 13,3% fala apenas japonês, 18,1% apenas português e 68,8% ambas as línguas. A terceira geração é mais lusofalante, com 39,3% apenas falando português, 58,9% ambas as línguas e 1,8% apenas japonês.
+Os nipo-brasileiros geralmente falam mais frequentemente o japonês quando moram com um parente nascido no Japão. Aqueles que não moram com um parente de primeira geração falam mais frequentemente o português.O japonês falado no Brasil é uma mistura de diversos dialetos influenciados pela língua portuguesa. Com o retorno dos imigrantes brasileiros no Japão, é provável que o número de falantes da língua japonesa no país cresça.
+
+
+== Sistemas de pronúncia e escrita japonesas ==
+O japonês faz uso de cinco sistemas de escrita diferentes: rōmaji, hiragana, katakana, kanji e os algarismos indo-arábicos.
+
+漢字 Kanji são os caracteres de origem chinesa, usados em:
+substantivos;
+radicais de adjetivos e verbos;
+nomes de locais e de pessoas.
+平仮名 Hiragana, criado por princesas da família imperial japonesa, são caracteres fonéticos japoneses usados em:
+terminações flexionais de adjetivos e verbos (送り仮名 okurigana);
+partículas gramaticais (助詞 joshi);
+palavras para as quais não há kanji;
+palavras cujo autor preferiu não escrevê-las em kanji (por motivo de legibilidade, comodidade, hábito, etc.);
+forma de indicar a leitura de kanji (振り仮名 furigana);
+onomatopeias.
+片仮名 Katakana, criados pelo monge budista Kukai, são caracteres fonéticos japoneses usados em:
+palavras e nomes estrangeiros, excluindo aquelas que originaram-se no kanji;
+onomatopeias;
+palavras cujo autor quis destacar (da mesma forma que se escreve em português em tipos itálicos);
+nomes científicos de animais e plantas.
+ローマ字 Rōmaji são os caracteres latinos, de quem os japoneses tiveram contato primeiro com navegadores portugueses. São usados em:
+acrônimos, por exemplo ONU;
+palavras e nomes japoneses usados em outros países, como em cartões de visita e passaportes;
+nomes de firmas e produtos que necessitem ser lidos tanto no Japão como em outros países como, por exemplo, empresas japonesas: SONY, Panasonic, Pioneer (empresa), Aiwa (que pertence à SONY), etc.
+インドアラビア数字 (indoarabia-sūji) numerais indo-arábicos
+Números árabes (em oposição aos algarismos tradicionais de kanji) são comumente usados para escrever números em texto horizontal. Veja também os numerais japoneses.Confira:
+Veja um exemplo de uma manchete veiculada no jornal Asahi Shimbun de 19 de abril de 2004 que compreende todas as modalidades da escrita japonesa (katakana, hiragana, kanji, rōmaji (caracteres latinos) e números indo-arábicos em negrito):
+
+ラドクリフ、マラソン五輪代表に1万m出場にも含みA mesma manchete, transliterada totalmente para o alfabeto latino (rōmaji):
+
+Radokuriffu, marason gorin daihyō ni ichi man meetoru shutsujō ni mo fukumiA mesma sentença, traduzida para o português:
+
+"Radcliffe, representante olímpico na maratona, também participa na prova dos dez mil metros"Ao contrário de muitas línguas orientais, a língua japonesa não é uma língua tonal.
+Existem vários métodos de "romanização" da língua japonesa. Destes, podemos citar a romanização Hepburn, que é baseada na fonologia inglesa, dentre outras.
+As palavras do japonês são compostas por sílabas curtas (moras) formadas por consoantes seguidas de vogais, como por exemplo as palavras Hiroshima (hi-ro-shi-ma) e Nagasaki (na-ga-sa-ki). Esta regra geral acontece frequentemente, exceto:
+
+Algumas vezes, a consoante pode ser omitida, com consequente formação de uma mora composta por apenas uma vogal;
+Ex.: 青い,あおい, aoi, a-o-i, "azul"
+no lugar da consoante, pode vir uma semivogal y ou w;
+Ex: 柔らかい,やわらかい, yawarakai, ya-wa-ra-ka-i, "macio, mole"
+a consoante nasal n pode formar por si só uma mora, sem contribuição de vogais;
+Ex:漢字,かんじ, kanji, ka-n-ji, "caracteres chineses"
+a pausa, uma mora especial, tem comprimento como se houvesse uma consoante adicional;
+Ex:学校,がっこう, gakkou, ga-k-ko-o, "escola"
+consoante e vogal podem vir intercaladas por uma semivogal y;
+Ex:教室,きょうしつ, kyoushitsu, kyo-o-shi-tsu, "sala de aula"
+um alongamento vocálico forma uma mora "dobrada".
+Ex:大きい,おおきい, ookii, o-o-ki-i, "grande"
+
+
+=== Sonoridade da língua japonesa ===
+Vogais: existem cinco, muito semelhantes às das línguas italiana e espanhola, com sons "puros", exceto pelo som u, que assemelha-se um pouco com o primeiro e de pequeno do português europeu. A ordem das vogais no japonês é a, i, u, e, o. O u e o i podem aparecer após outras moras para indicar o alongamento da vogal da mora anterior (ex: がっこう ga-k-ko-o, "escola"; すいえい su-i-e-e ou, às vezes, su-i-ei, "natação")
+Consoantes: são muito próximas às da língua portuguesa; dentre elas, temos k, g, s, z, t, d, n, h, b, p, m, r. Algumas observações, porém, devem ser levadas em conta:
+
+A união de s com i forma shi, que tem som parecido com o xi português
+A união de t com i ou y forma chi ou ti, que tem som parecido com o tch em "tchau", e a de t com u forma tsu, que tem som do zu no "Zucker" alemão
+O g é sempre forte; com i e e, forma sons semelhantes ao gui e ao gue portugueses, respectivamente
+O h é aspirado, como no inglês; com u produz um som que lembra o fu (de "fumaça"), e antes de i produz um som que lembra o xi.
+O r é entre o l e o r de meio de frase em português, como em "caro"
+O n nasal pode, quando representa uma mora singular, apresentar som do ng inglês. Quando precede p, b ou m, muda para o som de m
+O j tem som parecido com o gi no "giorno" italiano, ou /dzh/ como em diamante (português brasileiro).
+As pausas, representadas por consoantes duplicadas, têm comprimento igual à de uma consoante singular
+
+
+=== Silabário japonês ===
+A tabela a seguir mostra as formas hiragana e katakana de escrita junto com o sistema Hepburn, também conhecido como o principal sistema de Roomaji.
+
+
+=== Entonação ===
+A entonação no japonês manifesta-se pela mudança na altura do som de uma ou outra mora. Ela tem um papel secundário, existindo em alguns poucos casos em que a mudança na melodia da palavra produz mudança de sentido (ex:雨.あめ.àme, "chuva"; 飴.あめ.amé, "bala, doce"). Os dialetos japoneses apresentam várias diferenças quanto ao tipo, posição e amplitude da entonação.
+
+
+== Gramática ==
+A gramática da língua japonesa, embora bastante diferente da gramática da língua portuguesa, é relativamente simples e regular (fora algumas exceções), que permite seu aprendizado de forma até bastante rápida. Por este mesmo motivo, falantes nativos do japonês precisam de um esforço suplementar para o aprendizado de línguas estrangeiras.
+Eis abaixo algumas das características da gramática da língua japonesa.
+A ordem básica das palavras em uma proposição é sujeito-objeto-verbo (SOV). Além disso, em geral, o objeto se põe na ordem tempo-modo-lugar.
+A estrutura básica de uma frase é tema-rema.
+O tema é um termo com significado amplo; pode coincidir ou não com o sujeito da frase e compreende outras informações já conhecidas, ou que já não necessitam ser explicadas. O rema é a parte da frase que traz informações novas ao diálogo.
+Tome-se por exemplo a frase こちらは田中さんです。Kochira wa Tanaka-san desu, "Este é o(a) Sr(a). Tanaka". A palavra kochira, lit. "este lado", é seguida da partícula wa, um marcador de tópico que indica o sujeito da frase; de forma que o significado de kochira wa é "Quanto a (esta pessoa d) este lado". Tanaka-san, "Sr(a). Tanaka", é a informação nova. No final aparece desu, que é equivalente ao português "é", um verbo de ligação, no caso.
+O japonês, assim como o chinês e o coreano, é uma língua na qual o tema e o sujeito não se confundem, aparecendo de forma separada.
+Um exemplo que explicita tema e sujeito separadamente é a frase 象は鼻が長い。Zō wa hana ga nagai, "Os elefantes têm tromba comprida", entretanto, literalmente, quer dizer "Quanto aos elefantes, a tromba é comprida". O tópico é 象 zō, "elefante(s)"; o sujeito, 鼻 hana, "nariz, tromba", é marcado pela partícula ga. Veja que 長い nagai, "comprido(a)", embora seja apenas um adjetivo, forma uma predicação completa, isto é, equivale a "é comprido(a)", no caso.
+Os substantivos não têm gênero, nem número e não se flexionam. A palavra 本 hon pode significar "um livro", "o livro", "alguns livros" e "os livros". Se o número é de contexto importante, ele pode ser construído de tal forma que possa ser compreendido, geralmente com o emprego de advérbios de quantidade. Excepcionalmente, substantivos que representam pessoas podem ser seguidos de sufixos indicadores de plural (-tachi, -ra ou -domo). Por exemplo, 僕 boku, "eu" usado por meninos ou homens adultos, pode ter a forma plural bokura ou bokutachi, "nós". Observe que os pronomes em japonês se comportam como substantivos.
+Nem sempre a simples adição do sufixo -tachi dará o respectivo plural do substantivo ao qual é aplicado; às vezes, pode indicar um grupo de pessoas dentre as quais o indivíduo-sujeito faz parte. Por exemplo, お母さん okāsan significa "mamãe", mas お母さん達 okāsan-tachi pode significar tanto "mamães" como "mamãe e as outras pessoas que a acompanham".Existe também uma forma vinda do japonês antigo de representar o plural, que é através da duplicação do substantivo: 人 hito, "homem", e 人々 hitobito, "homens". O caractere 々 serve para repetir e substituir o caractere chinês anterior.
+Um outro aspecto da língua japonesa está relacionado com a maneira com que se dá conta da origem das informações. Enquanto em português diz-se "Crê-se que …", "É provável que …", "Parece que …", em japonês isto é muito mais sistemático e mais sutil. Existem vários exemplos da frase "É provável que …" em japonês, cada uma com um nível de probabilidade diferente.
+
+
+=== Declinação ===
+O idioma japonês conta com um sistema de casos representados por posposições. Os sintagmas têm a função sintática indicada pela partícula que os sucedem imediatamente. A maioria dos gramáticos japoneses considera tais partículas como palavras independentes - o que seria contraditório com o conceito de declinação; entretanto, de acordo com o gramático Arkadiusz Jabłoński (2012) estas partículas devem ser entendidas como desinências, sendo portanto parte integrante do substantivo que as precede.
+Não há uma lista fixa de casos. Jabłoński considera a existência de 15 casos, enquanto Kiyose (1995) enumera 12 casos. As principais partículas existentes são:
+
+は (wa): Representa o tópico frasal.
+が (ga): Representa o sujeito.
+を (o): Representa o objeto direto.
+に (ni): Representa o objeto indireto.
+へ (he): Representa a direção ou destino de uma ação.
+の (no): Representa o caso genitivo (em geral indicativo de posse).
+
+
+=== Verbos ===
+Os verbos são conjugados em dois tempos, chamados tecnicamente de "passado" e "não passado", este último incluindo tanto o presente como o futuro. Não existem flexões de número e pessoa. Por exemplo, 行く iku, "ir", também pode significar "vou", "vais", "vai", "vamos" etc. Além do modo infinitivo, temos o modo indicativo, modo imperativo ríspido, modo imperativo coletivo, modo volitivo, modo causativo, forma -te e dois modos condicionais. Cada modo tem ambas as formas afirmativa e negativa.
+A chamada forma -te é aproximadamente o gerúndio da língua portuguesa, embora seja usada ainda para exprimir outros tempos.
+Há três categorias principais de adjetivos na língua japonesa que sintaticamente diferem entre si: adjetivos -i, adjetivos -na e adjetivos propriamente ditos (muito raros).
+Os adjetivos -i são aqueles que terminam com い i, como no exemplo anterior 長い nagai, "comprido(a)", "longo(a)". Esta categoria de adjetivos se comporta de forma similar a verbos, por exemplo, formando negativos de forma semelhante, formando o modo condicional e conjugando-se nos dois tempos: o passado de 長い é 長かった nagakatta ("era longo"). Por sua vez, os adjetivos -na comportam-se como se fossem substantivos, desconhecendo qualquer tipo de flexão.
+A diferença entre adjetivos -na e substantivos propriamente ditos está no fato de o adjetivo poder determinar um substantivo: por exemplo, em 静かな子 shizuka na ko, "um menino(a) comportado", onde 子 ko, "menino", é determinado por 静かな.Os adjetivos propriamente ditos formam uma categoria restrita; não podem vir no lugar de predicações e nem podem ser independentes de substantivos. Por exemplo, 色んな人 iron'na hito, "diversas pessoas".
+O verbo する suru, "fazer", pode acompanhar uma série de substantivos para formar inúmeros verbos, de forma similar à construção "fazer a barba", "fazer bobagem", do português.Como exemplo, de 勉強 benkyō, "lição de casa", "estudo", forma-se 勉強する benkyō suru, "estudar".
+Existe um número grande de verbos compostos, formados pelo acoplamento de verbos de significados diferentes que, juntos, dão um conceito totalmente novo. Por exemplo, 入り込む hairikomu, "introduzir", "inserir", que se compõe de hairu, "entrar", e komu, "lotar".
+Existem muitos pares de verbos com o mesmo significado, diferindo apenas por um deles ser a forma transitiva e o outro, a intransitiva. O que em português são os verbos "cair" e "derrubar", em japonês é um só verbo, com a forma intransitiva 落ちる ochiru, "cair", e a forma transitiva 落とす otosu, "derrubar".
+
+
+=== Pronomes ===
+Embora a língua japonesa tenha uma coleção grande de pronomes pessoais (existem cerca de dez variações do pronome "eu"), frequentemente eles são omitidos. Muitas vezes são substituídos pelo nome da pessoa respectiva ou simplesmente omitidos quando pode ser subentendido. A frase 忙しい。isogashii contém apenas uma palavra, mas dependendo do contexto pode ser interpretada como "(Eu) estou ocupado".
+Especialmente na língua japonesa falada, usam-se "partículas finais", que são palavras curtas (geralmente de uma mora) e que mudam o propósito da frase.Como exemplo, face à frase "Chove", obtém-se diversas variações na tradução devidas simplesmente à tal partícula (os parênteses clarificam a situação respectiva pela extensão da frase):
+
+雨が降ってるよ。 Ame ga futteru yo "Está chovendo, viste? (leva um guarda-chuva)"
+雨が降ってるね。 Ame ga futteru ne "Está chovendo, né? (como voltaremos para casa?)"
+雨が降ってるわ。 Ame ga futteru wa "Está chovendo!" (feminino)
+雨が降ってるさ。 Ame ga futteru sa "Ih, está chovendo! (desse jeito não vamos passear!)"
+
+
+=== Onomatopeias e expressões ===
+A língua japonesa é rica em palavras e expressões onomatopeicas e expressões que representam estados físicos ou psicológicos. Tais expressões são divididas em giongo, lit. "onomatopeias", e gitaigo, lit. "expressões que imitam o estado físico ou psicológico". Onomatopeias existem em qualquer língua (o japonês wan-wan seria o au-au português), mas o gitaigo japonês é muito mais numeroso comparativamente a outras línguas. Exemplos de gitaigo: nuru-nuru (ser escorregadio), pika-pika (ser piscante ou cintilante), pera-pera (ser falante ou fluente em uma língua), shiin (silêncio absoluto), sukkiri (o sentimento de estar livre de problemas), hakkiri (direto, sem ambiguidades) etc.Embora geralmente as palavras de qualquer língua possam ser consideradas símbolos que representam algo a nível auditivo, nenhuma ideia normalmente possui ligação evidente entre som e conceito; as onomatopeias, porém, apresentam uma ligação clara entre pronúncia e conceito. Gatos, por exemplo, parecem fazer miau, de forma que o miado de gatos pode ser aproximado à pronúncia da onomatopeia "miau". Neste ponto de vista, o gitaigo é uma construção intermediária, na medida em que o conceito exprimido não é nem evidente, nem ausente. Depois do aprendizado de um número apreciável desses termos, tanto uma criança japonesa como um estudante da língua japonesa poderá ser capaz de adivinhar, eventualmente auxiliado pelo contexto, o significado de um novo gitaigo. Deve-se frisar que ambos, giongo e gitaigo, são usados indiscriminadamente e com muita frequência por japoneses de todas as faixas etárias, seja na forma escrita, seja na conversação.
+
+
+== Polidez ==
+De uma forma muito diferente de outras línguas, a língua japonesa tem um sistema gramatical e léxico de exprimir diferentes graus de cortesia. Pode-se dizer que existem basicamente três níveis de polidez, embora seja impossível teorizá-lo, já que a delimitação dos níveis de cortesia é difícil por causa da interdependência entre cada um dos níveis.
+As crianças aprendem nos primeiros anos de vida uma forma simples de se exprimir, familiar. Este modo de se exprimir é usado por todo falante nativo quando pensa consigo mesmo, quando fala consigo mesmo, quando fala com pessoas de nível social e profissional igual ou inferior ao seu, ou em ambiente familiar, independente da idade. A gramática está na sua forma mais simples e abreviada, embora esteticamente seja a forma mais direta. Mesmo falando perante o imperador, se um mosquito picar um japonês, ele dirá 痛い! itai! (equivalente a "Ai!"), o que não contém nenhum elemento de cortesia. Se desejássemos ver a forma polida de 痛い, como é um adjetivo "-i", poderiamos nesse caso adicionar です resultando em 痛いです! だ é a forma impolida de です, contudo é impossível que haja uma frase : 「痛いだ!」 pois nunca adiciona-se だ a um adjetivo "-i". A forma informal então seria como visto acima: 「痛い!」.
+
+
+== Fonologia ==
+
+
+=== Vogais ===
+
+
+=== Consoantes ===
+Para informações sobre mudança na pronúncia de algumas palavras quando utilizadas para formar palavras compostas, veja artigo sobre rendaku.
+
+
+== Números ==
+
+O número quatro (四) é pronunciado preferencialmente como "yon", devido ao outro significado também concedido a sua outra pronúncia "shi", que significa "morte". Este número é bastante evitado na língua japonesa, levando a sua omissão em números de casas, hospitais, carros, códigos postais etc.
+Para mais detalhes, veja artigo sobre Numerais Japoneses.
+
+
+=== Influência na língua portuguesa ===
+A língua japonesa levou várias palavras para a língua portuguesa, como: judô, jiu-jítsu, quimono, gueixa, samisém, samurai, xogum, cabúqui, nô, catana, caratê, sumô etc.
+
+
+== Demonstração de fala ==
+Declaração Universal dos Direitos Humanos, Artigo 1º:
+
+すべての人間(にんげん)は、生(う)まれながらにして自由(じゆう)であり、かつ、尊厳(そんげん)と権利(けんり)とについて平等(びょうどう)である。人間(にんげん)は、理性(りせい)と良心(りょうしん)とを授(さず)けられており、互(たが)いに同胞(どうほう)の精神(せいしん)をもって行動(こうどう)しなければならない。
+
+subete no ningen wa, umarenagara ni shite jiyū de ari, katsu, songen to kenri to ni tsuite byōdō de aru. ningen wa, risei to ryōshin to o sazukerarete ori, tagai ni dōhō no seishin o motte kōdō shinakereba naranai.
+Todos os seres humanos nascem livres e iguais em dignidade e direitos. São dotados de razão e consciência e devem agir em relação uns aos outros com espírito de fraternidade.
+
+
+== Ver também ==
+
+Ateji
+Títulos honoríficos japoneses
+Sistema de numeração japonês
+Palavras japonesas de origem portuguesa
+Campanha de nacionalização - Proibição oficial de línguas minoritárias do país, especialmente o alemão, o italiano e o japonês, por Getúlio Vargas
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+«Editor de Katakana e Hiragana via browser» (em inglês) 
+«Pequeno programa com alguns recursos sobre o japonês» 
+«Jim Breen's Japanese Page» (em inglês). Uma vasta coleção de recursos, incluindo links para dicionários online e tradutores. 
+«Federación de Asociaciones Japonesas del Paraguay - Escuelas japonesas» (em espanhol) 
+«Japonês alfabeto exercício (PDF)» (PDF) 
+«Nippo - Dicionário online Japonês-Português»

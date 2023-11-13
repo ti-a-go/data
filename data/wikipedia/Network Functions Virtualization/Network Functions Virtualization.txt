@@ -1,0 +1,36 @@
+Virtualização das Funções da Rede (NFV do Inglês "Network Functions Virtualization") é um conceito de arquitetura de rede que propõe utilizar técnicas relacionadas com a Virtualização de IT, para virtualizar diversos tipos de funções dos nós da rede, de modo que eles possam se conectar para criar serviços de comunicação.
+Uma função virtualizada de rede (VNF por o Inglês "Virtualized Network Function") é uma ou mais máquinas virtuais que executam diferentes programas e processos, sobre servidores padrão de alta capacidade, comutadores e armazenamento, ou mesmo infraestrutura computação em nuvem, em vez de operar em dispositivos de rede especializados.
+Por exemplo, poder-se-ia implantar um firewall para proteger a rede sem a complexidade e os custos de implementação de um dispositivo físico.
+
+
+== História ==
+Em Outubro de 2012, um grupo de operadores da industria das telecomunicações, "Network Functions Virtualization",
+publicou um "white paper" em uma conferência em Darmstadt sobre Software-defined networking e OpenFlow.  O grupo, parte da European Telecommunications Standards Institute (ETSI), consistiu de operadores de Telecomunicação Europeus e de outras geografias.Após a publicação do documento inicial, o grupo produziu materiais mais profundos, incluindo uma terminologia padrão
+ e casos de uso de NFV para servir como referência para os fabricantes e os operadores de telecomunicações.
+
+
+== Arquitetura ==
+A arquitetura proposta da NFV foi desenvolvida pela ETSI - European Telecommunications Standards Institute e tem o papel de nortear as empresas no processo de criação de seu próprio NFV, ela é composta por três camadas: NFVI - Network Function Virtualization Infrastructure ou Hypervisor, VNF - Virtual Network Function e NFV MANO - Network Function Virtualization Management and Orchestration.
+
+
+== Referências ==
+
+
+== Ligaçoes externas ==
+Alcatel-Lucent
+Allot
+Arista Networks
+Avaya
+Brocade
+Cyan
+Hewlett-Packard
+Huawei
+Metaswitch
+Nakina Systems
+NEC
+Openwave Mobility
+RAD
+Sandvine
+Tail-f
+Wedge Networks Inc.
+6Wind

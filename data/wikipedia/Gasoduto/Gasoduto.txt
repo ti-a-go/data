@@ -1,0 +1,19 @@
+Gasoduto é uma tubulação utilizada para transportar gás natural de um lugar para outro. O gasoduto pode fazer filtração em pontos estratégicos para a melhor obtenção do produto que se quer ter, podendo ser também pressurizado. A Bolívia é um dos grandes produtores de gás natural mundial, transportado para o Brasil através do Gasoduto Bolívia-Brasil.
+Basicamente a construção e montagem de um gasoduto compreende as seguintes etapas: 
+1- Abertura de pista: Onde uma faixa de terra (com largura previamente determinada conforme cada projeto) ao longo da qual se pretende construir o gasoduto é tratada por maquinários, de maneira a deixar o local livre e limpo para poder receber os tubos a serem utilizados, além de permitir a passagem e movimentação de equipamentos especiais para a sua construção e também dos trabalhadores.
+Antes desta etapa, é necessário contactar os proprietários dos terrenos por onde o suposto gasoduto iria passar, para que os mesmos autorizem a entrada de máquinas e equipamentos na sua propriedade, que muitas vezes podem ser particulares como: casas, sítios, fazendas etc, ou mesmo entidades públicas como rodovias, ferrovias, redes elétricas de alta-tensão ou até mesmo outros dutos preexistentes etc.
+2- Desfile de tubos: Os tubos a serem utilizados são colocados de maneira perfilada ao longo da pista
+3- Soldagem: os tubos são soldados um a um até formar um certo comprimento que passa a receber o nome de "coluna". A soldagem pode ser feita de maneira tradicional , isto é : manualmente através de eletrodos por soldadores, ou mecanicamente através de máquinas automáticas, e após a soldagem, inspeções serão necessárias para detectar possíveis falhas através de vários métodos que podem ser: Gamagrafia (um tipo de Raio X), ultra-som e testes hidrostáticos, sendo este ultimo é feito como o próprio nome sugere, enchendo a coluna com água sob pressão e depois de algumas horas, verificar se há vazamento nas juntas soldadas para fazer os devidos reparos.
+4- Abertura de vala: uma vala é escavada para poder enterrar os tubos já soldados
+5- Abaixamento da coluna: içada pelos tratores "Side-Boom´s", a coluna é abaixada dentro das valas
+6- Cobertura: com a coluna já assentada na vala, cobre-se a vala com terra 
+7- Recomposição da pista (ou restauração da faixa): o local é recomposto de maneira a voltar ao mesmo aspecto de antes 
+Várias estações são construídas ao longo de um gasoduto, elas são necessárias para garantir a segurança e possibilitar a operação e manutenção de um gasoduto; sempre de forma subterrânea, o único local onde um gasoduto aflora na superfície terrestre é nas estações, onde unidades mecânicas, elétricas e instrumentais complementam todos os sistemas de monitoramento, e tudo isso fortemente protegido por pára-raios para não causar explosões do material transportado - o gás natural, que podem ser provocadas pelas descargas atmosféricas.
+Outra técnica usada em gasodutos é chamada de Proteção Catódica, ela evita ou diminui a corrosão dos tubos pelos agentes oxidantes com o passar do tempo, já que os tubos são feitos de metal; de um modo grosseiro, uma pequena carga elétrica controlada é enviada à tubulação para manter esse equilíbrio eletrolítico , prolongando assim a vida útil do gasoduto.
+
+
+== Ver também ==
+Gás natural liquefeito
+Oleoduto
+Transporte tubular
+Lista de gasodutos

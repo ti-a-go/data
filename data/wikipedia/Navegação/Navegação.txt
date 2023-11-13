@@ -1,0 +1,28 @@
+Navegação é a ciência, arte, prática ou tecnologia, de planejar e executar uma viagem de um ponto de partida até seu destino.
+Também um campo de estudo que se concentra no processo de monitoramento e controle do movimento de uma embarcação ou veículo de um lugar para outro. O campo da navegação inclui quatro categorias gerais: navegação terrestre, navegação marítima, navegação aeronáutica e navegação espacial.É também é o termo utilizado para o conhecimento especializado usado pelos navegadores para realizar tarefas de navegação. Todas as técnicas de navegação envolvem localizar a posição do navegador em comparação com locais ou padrões conhecidos.
+A navegação, em um sentido mais amplo, pode se referir a qualquer habilidade ou estudo que envolva a determinação de posição e direção. Nesse sentido, a navegação inclui a orientação e a navegação pedestre.
+
+
+== Conceitos Básicos ==
+
+
+=== Latitude ===
+Aproximadamente, a latitude de um lugar na Terra é sua distância angular ao norte ou ao sul do equador . A latitude é geralmente expressa em graus (marcados com °) variando de 0° no equador a 90° nos polos norte e sul. A latitude do Pólo Norte é 90° N, e a latitude do Pólo Sul é 90° S.  Os navegadores calcularam a latitude no Hemisfério Norte observando a estrela polar (Polaris) com um sextantee usando tabelas de redução de visão para corrigir a altura do olho e a refração atmosférica. A altura de Polaris em graus acima do horizonte é a latitude do observador, dentro de um grau ou mais.
+
+
+=== Longitude ===
+Semelhante à latitude, a longitude de um lugar na Terra é a distância angular a leste ou a oeste do meridiano principal ou meridiano de Greenwich.  A longitude é geralmente expressa em graus (marcados com °) variando de 0° no meridiano de Greenwich a 180° leste e oeste. Sydney, por exemplo, tem uma longitude de cerca de 151° leste. A cidade de Nova York tem uma longitude de 74° oeste . Durante a maior parte da história, os marinheiros lutaram para determinar a longitude. A longitude pode ser calculada se o tempo exato de um avistamento for conhecido. Na falta disso, pode-se usar um sextante para tirar umadistância lunar (também chamada de observação lunar, ou "lunar" para abreviar) que, com um almanaque náutico , pode ser usada para calcular o tempo na longitude zero (ver Greenwich Mean Time). Cronômetros marítimos confiáveis ​​não estavam disponíveis até o final do século 18 e não eram acessíveis até o século 19. Por cerca de cem anos, de cerca de 1767 até cerca de 1850,  marinheiros sem cronômetro usaram o método das distâncias lunares para determinar o horário de Greenwich para encontrar sua longitude. Um marinheiro com um cronômetro poderia verificar sua leitura usando uma determinação lunar do horário de Greenwich. 
+
+
+=== Loxodromia ===
+Na navegação, uma linha de rumo (ou Loxodromia) é uma linha que cruza todos os meridianos de longitude no mesmo ângulo, ou seja, um caminho derivado de um rumo inicial definido. Ou seja, ao tomar um rumo inicial, segue-se o mesmo rumo, sem alterar a direção medida em relação ao norte verdadeiro ou magnético.
+
+
+== Ver também ==
+Carta náutica
+Mapa
+Mapa Mundi
+Planisfério de Cantino
+
+
+== Referências ==

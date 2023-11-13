@@ -1,0 +1,83 @@
+Claro é uma concessionária de telefonia móvel (herdeira da infraestrutura das operadoras BCP, TESS, ATL, Telet, Americel e BSE), telefonia fixa (herdeira da infraestrutura da Embratel), banda larga (herdeira da infraestrutura da NET) e TV por assinatura (herdeira da infraestrutura de Embratel e NET, tanto na versão satélite quanto à cabo de fibra óptica).
+A partir de 2019, a NET (conhecida por serviços residenciais) concluiu seu processo de fusão, tornando-se Claro na razão social e no nome fantasia. É a operadora pioneira em 5G e em DSS (Dynamic Spectrum Sharing), tecnologia que permite o uso de frequências já usadas, para aumentar a qualidade da transmissão.Em novembro de 2021, a Claro adquiriu espectros para a implementação da nova tecnologia e foi a operadora de telefonia que mais gastou no leilão: um total de R$ 1,6 bilhão de reais. A Claro arrematou três blocos nacionais na frequência de 3,5GHz, e também, cinco blocos regionais (Norte, São Paulo (exceto áreas da Algar), Centro Oeste (exceto áreas da Algar), Sul e Áreas da Algar) na frequência de 2,3GHz.
+
+
+== História ==
+Em 19 de setembro de 2003, a Telecom Américas, grupo controlado pela mexicana América Móvil, resolveu unificar suas seis operadoras de telefonia móvel regionais no Brasil: Americel (centro-oeste, Acre e Rondônia), ATL (Rio de Janeiro e Espírito Santo), BCP Nordeste (Pernambuco, Alagoas, Ceará, Paraíba, Piauí e Rio Grande do Norte), BCP SP (área metropolitana de São Paulo), Claro Digital (Rio Grande do Sul) e Tess (interior e litoral do estado de São Paulo). Em 2006, a América Móvil passou a adotar a marca Claro em outros países da América Latina.
+Em abril de 2009, a Claro passou a ter presença nacional, quando o Triângulo Mineiro passou a receber os serviços da operadora.
+
+
+=== Formação ===
+Teve origem na união das seguintes operadoras de celular:Banda B:
+
+Área 1 - BCP S/A (que operava como BCP na Região Metropolitana de São Paulo)
+Área 2 - TESS S/A (que operava como TESS no interior e litoral de São Paulo)
+Área 3 - ATL Algar S/A (que operava como ATL no Rio de Janeiro e Espírito Santo)
+Área 6 - Telet S/A (que operava como Claro Digital no Rio Grande do Sul)
+Área 7 - Americel S/A (que operava como Americel no Acre, Distrito Federal, Goiás, Mato Grosso, Mato Grosso do Sul, Rondônia e Tocantins)
+Área 10 - BSE S/A (que também operava como BCP em Alagoas, Pernambuco, Paraíba, Rio Grande do Norte, Ceará e Piauí)Licenças adquiridas posteriormente:Banda D:
+
+Área 5 - Albra Telecomunicações Ltda (já operando como Claro no Paraná e Santa Catarina)Banda E:
+
+Área 4 - Claro S/A (já operando como Claro em Minas Gerais)
+Área 9 - Stemar Telecomunicações Ltda (já operando como Claro na Bahia e Sergipe)
+
+
+=== Claro TV ===
+No dia 1.º de março de 2012, é criada a Claro TV a partir da mudança no nome da Via Embratel. O serviço possui gravador digital, NOW integrado ao aparelho (decoder) e é líder no mercado de TV por assinatura, junto a sua irmã NET. Possui mais de 8,8 milhões de clientes.
+
+
+=== Claro Fixo ===
+A partir do dia 1.º de março de 2012, é criado o Claro Fixo a partir da mudança no nome do Livre da Embratel, fundada pioneiramente na cidade de Curitiba - Paraná. Um serviço que usa a rede CDMA e também GSM para seus clientes.
+
+
+=== Incorporações ===
+Em janeiro de 2015, a Claro incorporou as empresas Embratel e NET e passou a ser uma companhia aberta, com razão social "Claro S.A.", porém mantendo as marcas das empresas, diferente do que ocorreu na incorporação das operações da Telefónica no Brasil pela sua subsidiária Vivo.
+Em 11 de julho de 2019, a NET deixou de ser uma marca com atuação independente e passou a integrar o portfólio da marca Claro dando nome aos serviços voltados ao segmento residencial.
+
+
+=== Aquisição ===
+No mês de março, em 2019, a América Móvil que é detentora da Claro no Brasil, adquiriu as operações da Nextel - operadora que pertencia ao grupo NII Holdings (atual AMX Holdings) e AI Brasil, por 905 milhões de dólares (o equivalente a 3,5 bilhões de reais).
+Com a compra da Nextel, a Claro se consolida no 2.º lugar da telefonia móvel — com 26,05% de participação, ganha 3,3 milhões de clientes — passando a possuir quase sessenta milhões de clientes, e os espectros adquiridos pela primeira. Em 14 de dezembro de 2020, em um consórcio com a Vivo e a TIM, a Claro adquiriu 29% da Oi Móvel.
+
+
+=== Cinema Virtual ===
+A partir de 2021, clientes da Claro passam a ter acesso ao Cinema Virtual através do NOW.
+
+
+== Tecnologia ==
+No Brasil a Claro é uma das maiores operadoras do país com mais de 67 milhões de clientes devido a sua fusão com a operadora NET e Embratel. As outras operadoras são a Vivo, TIM e Oi.
+A operadora está presente atualmente em mais de 3 560 municípios com as tecnologias GSM, 3G e 4G. Líder na oferta de conteúdos e serviços inovadores, a Claro possui acordos de roaming em mais de 160 países para serviços de voz e em mais de 140 para tráfego de dados, nos cinco continentes.
+A Claro também foi a primeira a fechar acordo para trazer o iPhone 3G da Apple para o Brasil. Além disso, foi a primeira operadora a comercializar no Brasil o Motorola DEXT, LG Watch Phone (celular em forma de relógio), além do Dell Mini 3 (primeiro Smartphone da Dell) e as tecnologias 3G e 4G.
+Na área de responsabilidade corporativa, a operadora mantém o Instituto Claro, que tem como objetivo estruturar seu investimento social privado e estimular o uso de novas tecnologias na educação. A Claro adapta e moderniza os canais já existentes. Bons exemplos disso são o atendimento em Libras para surdos e por mensagem (*1052#).
+
+
+== Cobertura internacional ==
+Além do Brasil, a partir de 2006 a América Móvil passou a adotar a marca Claro em 15 países da América Latina: Argentina, Uruguai, Paraguai, Chile, Costa Rica, Equador, El Salvador, Honduras, Nicarágua, Guatemala, Panamá, Peru, Porto Rico, República Dominicana e Colômbia e Estados Unidos, oferecendo roaming com tarifas gratuitas ou reduzidas nesses países.
+
+
+== Controvérsias ==
+Em 18 de julho de 2012, a Anatel anunciou que as operadoras TIM, Claro e Oi deveriam ficar impedidas de comercializar chips em diversos estados devido as altas reclamações a partir do dia 23 de julho de 2012. A TIM superou com dezenove estados, a Oi com cinco e a Claro em três estados.A empresa foi acusada de formação de cartel, juntamente com Oi, Vivo e TIM. O grupo teria poder o suficiente para fazer a Agência Nacional de Telecomunicações impedir que novos competidores entrem na concorrência. O empresário Roberto Mello declarou ao Ministério Público: “a Anatel está sendo pressionada por um cartel formado pelas quatro grandes operadoras, impedindo a entrada no mercado de um quinto competidor”.Em dezembro de 2015, a associação Proteste entrou com ação civil pública na Justiça Federal contra a Claro/NET, Vivo, GVT, Oi e TIM devido ao serviço de má qualidade oferecido por essas empresas na internet banda larga. A associação também pedia por transparência e descontos nas faturas dos clientes lesados. Em nota, a Proteste completou dizendo que "as empresas não cumprem nem 60% das metas fixadas pela Agência Nacional de Telecomunicações (Anatel) quanto à velocidade contratada e a efetivamente oferecida (...) Milhões de consumidores vêm sendo lesados há anos, ao pagar por um serviço em desacordo com as regras e que não oferece a qualidade esperado". Também chamou o serviço de banda larga no Brasil de "ineficiente" e "incapaz de garantir o desenvolvimento dos níveis de qualidade de prestação do serviço".
+
+
+== Clientes ==
+Segundo os números da ANATEL no ano de 2021, a Vivo continua na a liderança do mercado da telefonia móvel no Brasil com 33,4% do mercado. A Claro vem em seguida com 27,95% de participação, a terceira posição fica com a TIM (21,17%) e a Oi surge na sequência com 16,63% de market share.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+Sítio oficial
+Claropar
+Claro no Facebook
+Claro no Twitter
+Claro no Instagram
+Claro Afiliado
+Claro Afiliado
+Claro Afiliado
+Claro Afiliado
+Claro Afiliado
+Claro Afiliado
+Claro Afiliado

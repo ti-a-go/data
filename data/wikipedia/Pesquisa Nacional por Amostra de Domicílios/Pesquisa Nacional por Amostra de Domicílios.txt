@@ -1,0 +1,19 @@
+A Pesquisa Nacional por Amostra de Domicílio (PNAD) é uma pesquisa feita pelo Instituto Brasileiro de Geografia e Estatística (IBGE) em uma amostra de domicílios brasileiros que, por ter propósitos múltiplos, investiga diversas características socioeconômicas da sociedade, como população, educação, trabalho, rendimento, habitação, previdência social, migração, fecundidade, nupcialidade, saúde, nutrição etc., entre outros temas que são incluídos na pesquisa de acordo com as necessidades de informação para o Brasil. A pesquisa é feita em todas as regiões do Brasil, incluindo as áreas rurais de Rondônia, Acre, Amazonas, Roraima, Pará e Amapá (excluídas até recentemente).
+Essa modalidade foi introduzida no Brasil na segunda metade da década de 60 e a primeira PNAD realizada em caráter experimental realizou-se em 1967. A justificativa para a adoção de pesquisas por amostragens de domicílios era a possibilidade de monitorar regularmente as características socioeconômicas brasileiras sem o custo e o amplo espaço de tempo existente entre um Censo e outro. Naquela época, o IBGE pretendia realizar estes inquéritos trimestralmente.Em sua coleta de dados, os pesquisadores da PNAD também demandam a autodeclaração da etnia do pesquisado. Esses dados, entretanto, devem ser analisados com cautela por dois motivos: primeiro por se tratar de uma pesquisa por amostra domiciliar, o que revela tendências, mas não tem valor absoluto sobre toda população; segundo, porque há ainda no Brasil uma tendência a se autodeclarar mais para claro do que para escuro em termos raciais, embora isso venha mudando recentemente com o advento de um maior grau de autoconhecimento por parte das pessoas, assim como o aumento da consciência e da valorização sobre a importância de cada grupo étnico para a construção da cultura nacional.
+Os indicadores apresentados são disponibilizados em publicações, bem como no site do IBGE e em CD-ROMs que acompanham tais publicações.
+
+
+== PNAD Contínua ==
+A PNAD Contínua foi implementada em 2012 e tem como objetivo medir flutuações de curto prazo e acompanhar a evolução, de curto a longo prazo, da força de trabalho no país, entre outras informações. A PNAD Contínua foi criada no âmbito do Sistema Integrado de Pesquisas Domiciliares (SIPD), que visa, entre outras coisas, padronizar as metodologias das pesquisas do IBGE.Uma das principais diferenças entre a PNAD e a PNAD Contínua está na metodologia. Enquanto a primeira se preocupa em visitar rotativamente os domicílios de determinada região, a PNAD Contínua escolhe comparecer em uma mesma casa 5 vezes a cada trimestre. Para tanto, ela pretende conseguir um apanhado de dados mais abrangente e volátil.
+
+
+== PNAD Covid ==
+Iniciada em 4 de maio de 2020, tem por objetivo "estimar o número de pessoas com sintomas referidos associados à síndrome gripal e monitorar os impactos da pandemia da COVID-19 no mercado de trabalho brasileiro."
+
+
+== Referências ==
+
+
+== Ligações externas ==
+PNAD 2007 [ligação inativa] na página do IBGE.
+Como analisar a PNAD com software livre (em Inglês)

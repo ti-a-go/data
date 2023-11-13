@@ -1,0 +1,150 @@
+A classificação climática de Köppen-Geiger, mais conhecida por classificação climática de Köppen, é o sistema de classificação global dos tipos climáticos mais utilizado em geografia, climatologia e ecologia. A classificação foi proposta em 1900 pelo climatologista russo Wladimir Köppen, tendo sido por ele aperfeiçoada em 1918, 1927 e 1936 com a publicação de novas versões, preparadas em colaboração com o alemão Rudolf Geiger (daí o nome Köppen-Geiger).
+
+A classificação é baseada no pressuposto, com origem na fitossociologia e na ecologia, de que a vegetação natural de cada grande região da Terra é essencialmente uma expressão do clima nela prevalecente. Assim, as fronteiras entre regiões climáticas foram selecionadas para corresponder, tanto quanto possível, às áreas de predominância de cada tipo de vegetação, razão pela qual a distribuição global dos tipos climáticos e a distribuição dos biomas apresenta elevada correlação.
+Na determinação dos tipos climáticos de Köppen-Geiger são considerados a sazonalidade e os valores médios anuais e mensais da temperatura do ar e da precipitação. Cada grande tipo climático é denotado por um código, constituído por letras maiúsculas e minúsculas, cuja combinação denota os tipos e subtipos considerados. Contudo, a classificação de Köppen-Geiger, em certos casos não distingue tipos climáticos entre regiões com biomas muito distintos, pelo que têm surgido classificações dela derivadas, a mais conhecida das quais é a classificação climática de Trewartha.
+
+
+== Estrutura geral da classificação ==
+No esquema da classificação climática de Köppen, a primeira letra divide os climas em cinco grupos climáticos principais: A (tropical), B (seco), C (temperado), D (continental) e E (polar). A segunda letra indica o tipo de precipitação sazonal, enquanto a terceira letra indica o nível de calor. No sistema, os verões são definidos como sendo o período de seis meses mais quente, por de ser de abril a setembro (no hemisfério norte) ou de outubro a março (no hemisfério sul), enquanto o inverno é definido como o período de seis meses mais frio durante o ano.
+
+
+=== Grupo A — Tropical ===
+Este grupo climático apresenta, em todos os meses do ano, temperatura média de 18 °C ou superior, e precipitação significativa.
+
+Af = Clima equatorial, apresenta precipitação média de pelo menos 60 mm em cada mês.
+Am = Clima de monção, apresenta um mês mais seco (que quase sempre ocorre no ou logo após o solstício de inverno) com precipitação menor que 60 mm, mas equivalente a mais de 4% da precipitação anual total.
+Aw ou As = Clima de savana, apresenta uma estação mais seca no inverno (Aw) ou no verão (As), onde o mês mais seco tem precipitação inferior a 60 mm e equivale a menos de 4% da precipitação anual total.
+
+
+=== Grupo B — Seco (áridos e semiáridos) ===
+Este grupo climático é definido por seu baixo nível de precipitação ao longo do ano.
+BWh = Clima árido quente
+BWk = Clima árido frioBSh = Clima semiárido quente
+BSk = Clima semiárido frioPara definir se um clima é árido ou semiárido utiliza-se uma limiar, onde multiplica-se a temperatura média anual em graus Celsius por 20, em seguida adiciona-se:
+
+(a) 280 se 70% ou mais da precipitação total ocorrer nos meses de primavera e verão, ou;
+(b) 140 se de 30% a 70% da precipitação anual total for recebida durante as estações da primavera e verão, ou;
+(c) 0 se menos de 30% da precipitação anual acontecer durante a primavera e o verão.Se a precipitação anual for inferior a 50% deste cálculo, o clima será classificado como BW (Clima árido ou desértico); se estiver entre 50% a 100% do cálculo, será classificado como BS (Clima semiárido ou clima de estepe).Uma terceira letra pode ser incluída na classificação para indicar a temperatura. Originalmente, o "h" indicava um clima de baixa latitude (com uma temperatura média anual acima de 18 °C) enquanto "k" indicava um clima de latitude média (com temperatura média anual abaixo de 18 °C), mas a prática mais comum hoje, é usar "h" para indicar que o mês mais frio tem uma temperatura média entre −3 e 0 °C, e usar "k" indicando que pelo menos um dos meses tem média abaixo de 0 °C. A letra "n" é usado para denotar um clima caracterizado por nevoeiro frequente.
+
+
+=== Grupo C — Temperado ===
+Este grupo climático tem o mês mais frio com média entre −3 e 18 °C e pelo menos um mês com média acima de 10 °C.
+Cfa = Clima subtropical úmido, apresenta o mês mais frio com uma média acima de 0 °C ou −3 °C, pelo menos um mês com temperatura média acima de 22 °C e pelo menos quatro meses com média acima de 10 °C. Não apresenta diferença significativa no nível de precipitação entre as estações, o que significa que não há estação seca em período algum do ano.
+Cfb = Clima oceânico temperado, seu mês mais frio tem média acima de 0 °C ou −3 °C, todos os meses possuem temperatura média abaixo de 22 °C e pelo menos quatro meses apresentam média acima de 10 °C. Não há diferença significativa no nível de precipitação entre as estações.
+Cfc = Clima oceânico subpolar, a média do mês mais frio está acima de 0 °C ou −3 °C, e de 1 a 3 meses possuem temperatura média acima de 10 °C. Não ocorre qualquer diferença significativa de precipitação entre estações.Cwa = Clima subtropical úmido influenciado pelas monções, a média do mês mais frio está acima de 0 °C ou −3 °C, pelo menos um mês tem temperatura média acima de 22 °C e ao menos quatro meses apresentam média acima de 10 °C. Neste clima, o verão é pelo menos dez vezes mais chuvoso do que o inverno, que é seco. Pode-se dizer também que 70% da chuva cai durante os meses mais quentes, e somente 30% cai nos meses mais frios.
+Cwb = Clima subtropical de altitude ou clima oceânico temperado influenciado pelas monções, seu mês mais frio tem média acima de 0 °C ou −3 °C, todos os meses possuem temperatura média abaixo de 22 °C e pelo menos quatro meses apresentam média acima dos 10 °C.
+Cwc = Clima subtropical frio de altitude ou clima oceânico subpolar influenciado pelas monções; a média de seu mês mais frio está acima de 0 °C ou −3 °C, e de 1 a 3 meses têm média acima de 10 °C. Neste clima, o verão é pelo menos dez vez mais chuvoso do que o inverno, que é seco. Pode-se dizer também que 70% da chuva cai durante os meses mais quentes, e somente 30% cai nos meses mais frios.
+Csa = Clima mediterrânico de verão quente; a média do mês mais frio é superior a 0 °C ou −3 °C, pelo menos um mês tem temperatura média acima de 22 °C e ao menos quatro meses apresentam média superior a 10 °C. Ocorre ao menos três vezes mais precipitação no mês mais chuvoso do inverno do que no mês mais seco do verão, e o mês mais seco do verão recebe menos de 30 mm.
+Csb = Clima mediterrânico verão fresco; o mês mais frio tem média acima de 0 °C ou −3 °C, todos os meses têm temperaturas médias abaixo de 22 °C e pelo menos quatro meses apresentam média acima de 10 °C. Ocorre ao menos três vezes mais precipitação no mês mais chuvoso do inverno do que no mês mais seco do verão, e o mês mais seco do verão recebe menos de 30 mm.
+Csc = Clima mediterrânico de verão frio; a média do mês mais frio é acima de 0 °C ou −3 °C, e de 1 a 3 meses apresentam média acima de 10 °C. Ocorre ao menos três vezes mais precipitação no mês mais chuvoso do inverno do que no mês mais seco do verão, e o mês mais seco do verão recebe menos de 30 mm.
+
+
+=== Grupo D — Continental e Subártico ===
+Este grupo de clima tem pelo menos um mês com média abaixo de 0 °C ou −3 °C, e pelo menos um mês com média acima de 10 °C.
+Dfa = Clima continental úmido de verão quente, a média do mês mais frio está abaixo de 0 °C ou −3 °C, a temperatura média de pelo menos um mês fica acima de 22 °C e pelo menos quatro meses apresentam média acima de 10 °C. Não apresenta diferença significativa no nível de precipitação entre as estações.
+Dfb = Clima continental úmido de verão fresco, seu mês mais frio tem média abaixo de 0 °C ou −3 °C, todos os meses possuem temperatura média abaixo de 22 °C e pelo menos quatro meses apresentam média acima de 10 °C. Não há diferença significativa no nível de precipitação entre as estações.
+Dfc = Clima subártico sem estação seca, a média do mês mais frio está abaixo de 0 °C ou −3 °C, e de 1 a 3 meses possuem temperatura média acima de 10 °C. Nenhuma diferença significativa de precipitação entre estações ocorre.Dfd = Clima subártico extremamente frio sem estação seca, o mês mais frio tem média abaixo de −38 °C, e cerca de 1 a 3 meses apresenta média acima de 10 °C. Não existe variação de precipitação entre as estações.
+Dwa = Clima continental úmido de verão quente influenciado pelas monções, a média do mês mais frio está abaixo de 0 °C ou −3 °C, pelo menos um mês tem temperatura média acima de 22 °C e ao menos quatro meses apresentam média acima de 10 °C. Neste clima, o verão é pelo menos dez vez mais chuvoso do que o inverno, que é seco. Pode-se dizer também que 70% da chuva caí durante os meses mais quentes, e somente 30% cai nos meses mais frios.
+
+Dwb = Clima continental úmido de verão fresco influenciado pelas monções, seu mês mais frio tem média abaixo de 0 °C ou −3 °C, todos os meses possuem temperatura média abaixo de 22 °C e pelo menos quatro meses apresentam média acima dos 10 °C. Pode-se dizer também que 70% da chuva caí durante os meses mais quentes, e somente 30% cai nos meses mais frios.
+Dwc = Clima subártico influenciado pelas monções, a média de seu mês mais frio está abaixo de 0 °C ou −3 °C, e de 1 a 3 meses têm média acima de 10 °C. Cerca de 70% da chuva caí durante os meses mais quentes, e somente 30% cai nos meses mais frios.
+Dwd = Clima subártico extremamente frio influenciado pela monções; o mês mais frio tem média abaixo de −38 °C, e de 1 a 3 meses há média acima de 10 °C. Por volta de 70% da chuva caí durante os meses mais quentes, e somente 30% cai nos meses mais frios.
+Dsa = Clima continental úmido de verão quente com influência mediterrânea; a média do mês mais frio é inferior a 0 °C ou −3 °C, a temperatura média do mês mais quente é acima de 22 °C e apresenta pelo menos quatro meses com média acima de 10 °C. Ocorre ao menos três vezes mais precipitação no mês mais chuvoso do inverno do que no mês mais seco do verão, e o mês de verão mais seco recebe menos de 30 mm.
+Dsb = Clima continental úmido de verão fresco com influência mediterrânea; a média do mês mais frio é inferior a 0 °C ou −3 °C, a temperatura média do mês mais quente é acima de 22 °C e apresenta pelo menos quatro meses com média abaixo de 10 °C. Ocorre ao menos três vezes mais precipitação no mês mais chuvoso do inverno do que no mês mais seco do verão, e o mês de verão mais seco recebe menos de 30 mm.
+Dsc = Clima subártico com estação seca; a média do mês mais frio está abaixo de 0 °C ou −3 °C, e de 1 a 3 meses possuem temperatura média acima de 10 °C. Ocorre ao menos três vezes mais precipitação no mês mais chuvoso do inverno do que no mês mais seco do verão, e o mês de verão mais seco recebe menos de 30 mm.
+Dsd = Clima subártico extremamente frio com estação seca, o mês mais frio tem média abaixo de −38 °C, e cerca de 1 a 3 meses apresenta média acima de 10 °C. Ocorre ao menos três vezes mais precipitação no mês mais chuvoso do inverno do que no mês mais seco do verão, e o mês de verão mais seco recebe menos de 30 mm.
+
+
+=== Grupo E — Polar e Alpino ===
+Este grupo climático tem todos os meses do ano com uma temperatura média inferior a 10 °C.
+
+ET = Clima de tundra; a temperatura média do mês mais quente fica entre 0 °C ou -3 °C e 10 °C.
+EF = Clima glacial; neste tipo de clima o inverno é praticamente eterno, onde todos os 12 meses do ano apresentam temperatura média abaixo de 0 °C ou −3 °C.
+
+
+== Exemplos do Grupo A ==
+
+
+=== Clima equatorial − Af ===
+
+
+=== Clima de monção − Am ===
+
+
+=== Clima de savana − Aw e As ===
+
+
+== Exemplos do Grupo B ==
+
+
+=== Climas áridos − BWh e BWk ===
+
+
+=== Climas semiáridos − BSk e BSh ===
+
+
+== Exemplos do Grupo C ==
+
+
+=== Climas mediterrânicos − Csa, Csb e Csc ===
+
+
+=== Climas subtropicais úmidos − Cfa e Cwa ===
+
+
+=== Climas oceânicos − Cfb, Cfc ===
+
+
+=== Climas de altitude − Cwb e Cwc ===
+
+
+== Exemplos do Grupo D ==
+
+
+=== Climas continentais de verão quente − Dfa, Dwa e Dsa ===
+
+
+=== Climas continentais de verão fresco − Dfb, Dwb e Dsb ===
+
+
+=== Climas subárticos ou boreais − Dfc, Dwc, Dsc, Dfd, Dwd e Dsd ===
+
+
+== Exemplos do Grupo E ==
+
+
+=== Clima de tundra − ET ===
+
+
+=== Clima glacial ou clima de calota de gelo − EF ===
+ Alert, Nunavut, Canadá (fronteira entre EF e ET)
+ Base Scott, Antártida (EF)
+ Estação Vostok, Antártida (EF), local do ar mais frio já registrado na Terra.
+ Estação McMurdo, Antártida (EF)
+ Estação Byrd, Antártida (EF)
+ Estação Polo Sul Amundsen-Scott, Antártida (EF)
+ Grossglockner, Caríntia, Áustria (EF)
+ Monte Everest, China/Nepal (EF)
+ Monte Ararate, Turquia (EF)
+ Summit Camp, Groenlândia (EF)
+
+
+== Significado ecológico ==
+A classificação climática de Köppen é baseada na relação empírica entre clima e vegetação. Essa classificação fornece uma maneira eficiente de descrever as condições climáticas definidas pela temperatura e precipitação e sua sazonalidade com uma única métrica. Como as condições climáticas identificadas pela classificação de Köppen são ecologicamente relevantes, ela tem sido amplamente usada para mapear a distribuição geográfica do clima de longo prazo e as condições associadas do ecossistema.Nos últimos anos, tem havido um interesse crescente em usar a classificação para identificar mudanças climáticas e mudanças potenciais na vegetação ao longo do tempo. A importância ecológica mais considerável da classificação de Köppen é que ela ajuda a prever o tipo de vegetação dominante com base nos dados climáticos e vice-versa.Em 2015, um artigo da Universidade de Nanquim publicado na Nature analisando as classificações climáticas constatou que, entre 1950 e 2010, aproximadamente 5,7% de toda a área terrestre do mundo passou de classificações úmidas e frias para classificações mais secas e quentes. Os autores também descobriram que a mudança não pode ser explicada como variações naturais, mas sim conduzida por fatores antropogênicos.
+
+
+== Ver também ==
+Zona de rusticidade
+Classificação climática de Trewartha
+Classificação climática de Strahler
+Classificação climática de Alisov
+
+
+== Referências ==
+
+
+== Ligações externas ==
+World Map of the Köppen–Geiger climate classification for the period 1951–2000
+Global climate maps, using Köppen classification (FAO, 1999)Dados climáticos e meteorológicos
+«WorldClimate» 
+«Weather Base»

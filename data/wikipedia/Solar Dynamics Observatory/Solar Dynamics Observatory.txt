@@ -1,0 +1,12 @@
+Solar Dynamics Observatory (SDO) é uma sonda não-tripulada da NASA que estuda processos do Sol que afetam diretamente a vida na Terra, e cujo lançamento ocorreu de Cabo Canaveral em 11 de fevereiro de 2010.
+
+
+== Estrutura ==
+A sonda é uma espaçonave construída com três eixos, com quatro telescópios embutidos em sua estrutura, dois painéis solares e duas antenas de longo alcance. Entre seus principais instrumentos estão o Extreme Ultraviolet Variability Experiment, que medirá a irradiação de ultravioleta do astro em alta definição, o Helioseismic and Magnetic Imager, que estudará a variação e as características do interior solar e os componentes da atividade magnética em sua superfície. Além disso, transporta o revolucionário Atmospheric Imaging Assembly, capaz de trasmitir imagens do disco solar inteiro, em faixas de ultravioleta e infra-vermelho não alcançadas antes por suas predecessoras.Após o lançamento, a sonda foi colocada pelo foguete Atlas numa órbita com o perigeu inicial de 2500 km, que será mudada aos poucos, com periódicos ajustes, que a estabilizarão na sua planejada órbita geossíncrona circular a 36 mil km de altitude.
+
+
+== Imagens inéditas ==
+Em 21 de abril de 2010, a NASA divulgou imagens inéditas da superfície do astro, enviadas pela sonda equipada com câmeras de alta definição e sistema ultravioleta de última geração. A missão da SDO durará cinco anos - com previsão de dez anos  - e os cientistas acreditam que ela mudará completamente o entendimento que se tem hoje da estrela.
+
+
+== Referências ==
